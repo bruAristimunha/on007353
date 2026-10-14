@@ -32,7 +32,7 @@
     {
       "Name": "NeuralBench video-stimulus metadata enrichment",
       "Version": "2026-10-08",
-      "Description": "Metadata only, no media files: stimulus table (stimuli/stimuli.tsv), README section 'Stimuli' and the changes listed in CHANGES under 2026-10-08. Facts and sources are in the README section. Prepared by Bruno Aristimunha (NeuralBench video work); the videos stay with their rights holders."
+      "Description": "Metadata only, no media files: stimulus table (stimuli/stimuli.tsv), README section 'Stimuli' and the changes listed in CHANGES under 1.0.1. Facts and sources are in the README section. Prepared by Bruno Aristimunha (NeuralBench video work); the videos stay with their rights holders."
     }
   ],
   "SourceDatasets": [
@@ -48,5 +48,5 @@
     "Github: https://github.com/colehank/HAD-MEEG"
   ],
   "DatasetDOI": "10.82901/nemar.on007353",
-  "Version": "1.0.0"
+  "Version": "1.0.1"
 }
