@@ -4,6 +4,9 @@
   - README: section 'Stimuli'.
   - .bidsignore: datacite.yml (not a BIDS file; bids-validator NOT_INCLUDED error).
   - dataset_description.json: Funding entry 3 had manuscript line numbers inside the text ('2030-436', 'China437'); corrected to the wording of the Acknowledgements field. GeneratedBy entry for this enrichment.
+  - Added code/check_stim_id.py: checks every stim_id against the HAD-fMRI (ds004488 2.0.1) presentation order and
+    against derivatives/detailed_events (class and YouTube id). On this version: 58/58 sessions match exactly one HAD-fMRI
+    list, 41,760/41,760 'video on' rows pass, 0 fail.
   - dataset_description.json: Version 1.0.0 -> 1.0.1.
 
 1.0.0 2026-02-03

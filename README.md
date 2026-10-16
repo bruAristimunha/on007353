@@ -24,3 +24,9 @@ position by position; e.g. EEG sub-01 = fMRI sub-22, MEG sub-01 = fMRI sub-01). 
 clip by position: 20,160/20,160 EEG and 21,600/21,600 MEG trials, all files present under `stimuli/`; the 19,495 EEG trials
 that were unambiguous before agree 19,495/19,495. Naming note: HAD-fMRI writes class folders with `_`
 (`Drum_corps/`), this dataset with spaces (`Drum corps/`).
+
+To check the mapping yourself: `python code/check_stim_id.py <ds004488>` (a clone of OpenNeuro ds004488 2.0.1; its events
+are plain git files). For every session it finds the one HAD-fMRI list with the same order, then checks each `video on`
+row against that list position by position and against the class and YouTube id in `derivatives/detailed_events`. On
+this version: 58/58 sessions match exactly one list, 41,760/41,760 rows pass (40,388 also unique from detailed_events
+alone, 1,372 resolved only by the order), 0 fail.
