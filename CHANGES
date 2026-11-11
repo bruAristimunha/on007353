@@ -7,7 +7,6 @@
   - Added code/check_stim_id.py: recomputes every stim_id from derivatives/detailed_events and stimuli/stimuli.tsv
     (files of this dataset only). On this version: 41,760 'video on' rows, 40,388 identified, 1,372 n/a (same YouTube
     video cut at several start times), 0 differences.
-  - stimuli.json: the rights description said 'not included'; the clips are in stimuli/, deposited by the authors.
   - dataset_description.json: Version 1.0.0 -> 1.0.1.
 
 1.0.0 2026-02-03
