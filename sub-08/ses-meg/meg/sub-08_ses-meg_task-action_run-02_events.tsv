@@ -69,7 +69,7 @@ onset	duration	trial_type	value	sample	stim_id
 91.57166666666669	0.0	video on	5	109886	v_Hand car wash_id_G64dkn3Ac7M_start_49.0_label_1
 93.58833333333334	0.0	video off	4	112306	n/a
 93.96583333333334	0.0	resp	3	112759	n/a
-97.57083333333334	0.0	video on	5	117085	v_Polishing forniture_id_i5a6yR2Ng6I_start_3.0_label_1
+97.57083333333334	0.0	video on	5	117085	n/a
 99.57083333333334	0.0	video off	4	119485	n/a
 99.80583333333334	0.0	resp	3	119767	n/a
 100.57083333333334	0.0	video on	5	120685	v_Bungee jumping_id_2aBfRGuyYNM_start_35.0_label_1
@@ -110,7 +110,7 @@ onset	duration	trial_type	value	sample	stim_id
 145.57	0.0	video on	5	174684	v_Playing squash_id_UkAD50FvB0g_start_47.0_label_1
 147.57	0.0	video off	4	177084	n/a
 147.99083333333334	0.0	resp	3	177589	n/a
-151.56916666666666	0.0	video on	5	181883	v_Cleaning sink_id_oXZbVBa1Ojg_start_40.5_label_1
+151.56916666666666	0.0	video on	5	181883	n/a
 153.56916666666666	0.0	video off	4	184283	n/a
 153.96666666666667	0.0	resp	3	184760	n/a
 154.56916666666666	0.0	video on	5	185483	v_Playing bagpipes_id_QqEwVgH-TK4_start_49.0_label_1
@@ -181,18 +181,18 @@ onset	duration	trial_type	value	sample	stim_id
 238.31916666666663	0.0	resp	3	285983	n/a
 241.58333333333331	0.0	video on	5	289900	v_Tug of war_id_VTvhiROgJ-M_start_13.0_label_1
 243.58333333333331	0.0	video off	4	292300	n/a
-244.58333333333331	0.0	video on	5	293500	v_Waxing skis_id_E_fHmOjCeB8_start_115.0_label_1
+244.58333333333331	0.0	video on	5	293500	n/a
 246.58333333333331	0.0	video off	4	295900	n/a
 246.9033333333333	0.0	resp	3	296284	n/a
 247.58333333333331	0.0	video on	5	297100	v_Shuffleboard_id_ijIOxeDi6xE_start_12.5_label_1
 249.58333333333331	0.0	video off	4	299500	n/a
 250.24	0.0	resp	3	300288	n/a
-250.58333333333331	0.0	video on	5	300700	v_Plataform diving_id_3pYXOYmDrJc_start_74.5_label_1
+250.58333333333331	0.0	video on	5	300700	n/a
 252.5825	0.0	video off	4	303099	n/a
 252.83166666666668	0.0	resp	3	303398	n/a
 253.5825	0.0	video on	5	304299	v_Playing flauta_id_zeNCrPxqAPY_start_45.0_label_1
 255.58333333333331	0.0	video off	4	306700	n/a
-259.5825	0.0	video on	5	311499	v_Cleaning shoes_id_MO1gm3Yxewk_start_67.0_label_1
+259.5825	0.0	video on	5	311499	n/a
 261.5825	0.0	video off	4	313899	n/a
 262.4875	0.0	resp	3	314985	n/a
 262.5825	0.0	video on	5	315099	v_Making a lemonade_id_8sdDpqF276w_start_70.5_label_1

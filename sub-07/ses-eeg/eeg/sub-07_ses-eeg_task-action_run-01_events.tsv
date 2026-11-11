@@ -3,7 +3,7 @@ onset	duration	trial_type	value	sample	stim_id
 0.5	0.0	video on	5	500	v_Snatch_id_u_RzyIJi8qc_start_49.0_label_1
 2.509	0.0	video off	4	2509	n/a
 2.9	0.0	resp	3	2900	n/a
-3.495	0.0	video on	5	3495	v_Throwing darts_id_lP5PmMwxWy4_start_5.5_label_1
+3.495	0.0	video on	5	3495	n/a
 5.508	0.0	video off	4	5508	n/a
 5.868	0.0	resp	3	5868	n/a
 6.495	0.0	video on	5	6495	v_Ballet_id_HrCEW_37mR0_start_187.0_label_1
@@ -198,7 +198,7 @@ onset	duration	trial_type	value	sample	stim_id
 234.496	0.0	video on	5	234496	v_Playing accordion_id_FRsjoFn7qkU_start_42.0_label_1
 236.504	0.0	video off	4	236504	n/a
 236.919	0.0	resp	3	236919	n/a
-237.497	0.0	video on	5	237497	v_Using the rowing machine_id_wozM9Es0st8_start_39.5_label_1
+237.497	0.0	video on	5	237497	n/a
 239.5	0.0	video off	4	239500	n/a
 239.99	0.0	resp	3	239990	n/a
 240.497	0.0	video on	5	240497	v_Arm wrestling_id_Lvul1RsNmL8_start_16.5_label_1
@@ -213,7 +213,7 @@ onset	duration	trial_type	value	sample	stim_id
 252.497	0.0	video on	5	252497	v_Painting_id_MKNMQY0kWSE_start_188.0_label_1
 254.513	0.0	video off	4	254513	n/a
 254.943	0.0	resp	3	254943	n/a
-255.499	0.0	video on	5	255499	v_Polishing shoes_id_gl1sY6sHu5g_start_46.5_label_1
+255.499	0.0	video on	5	255499	n/a
 257.512	0.0	video off	4	257512	n/a
 257.911	0.0	resp	3	257911	n/a
 258.498	0.0	video on	5	258498	v_Table soccer_id_U34YSb3OKaM_start_2.5_label_1

@@ -42,7 +42,7 @@ onset	duration	trial_type	value	sample	stim_id
 52.02333333333333	0.0	video on	5	62428	v_Camel ride_id_ABiZU02ipes_start_2.5_label_1
 54.02333333333333	0.0	video off	4	64828	n/a
 54.3025	0.0	resp	3	65163	n/a
-55.005833333333335	0.0	video on	5	66007	v_Playing kickball_id_evdVFg8IktQ_start_2.0_label_1
+55.005833333333335	0.0	video on	5	66007	n/a
 57.005833333333335	0.0	video off	4	68407	n/a
 57.2625	0.0	resp	3	68715	n/a
 61.005833333333335	0.0	video on	5	73207	v_Discus throw_id_6A9HaX7i-Dc_start_5.5_label_1
@@ -86,7 +86,7 @@ onset	duration	trial_type	value	sample	stim_id
 106.00416666666666	0.0	video on	5	127205	v_Ballet_id_Vcx69KvfpZA_start_168.0_label_1
 108.02083333333331	0.0	video off	4	129625	n/a
 108.3025	0.0	resp	3	129963	n/a
-109.00416666666666	0.0	video on	5	130805	v_Playing polo_id_wBgU5jXb_V4_start_30.5_label_1
+109.00416666666666	0.0	video on	5	130805	n/a
 111.0375	0.0	video off	4	133245	n/a
 111.3025	0.0	resp	3	133563	n/a
 115.00416666666666	0.0	video on	5	138005	v_Dodgeball_id_Uac9HZht8T4_start_16.5_label_1
@@ -178,7 +178,7 @@ onset	duration	trial_type	value	sample	stim_id
 217.0175	0.0	video on	5	260421	v_Vacuuming floor_id_xcwuy-KxjNc_start_114.5_label_1
 219.0175	0.0	video off	4	262821	n/a
 219.4	0.0	resp	3	263280	n/a
-223.0175	0.0	video on	5	267621	v_Bathing dog_id_K-GA0I8iCDE_start_31.0_label_1
+223.0175	0.0	video on	5	267621	n/a
 225.05083333333332	0.0	video off	4	270061	n/a
 225.26416666666665	0.0	resp	3	270317	n/a
 226.0175	0.0	video on	5	271221	v_Sailing_id_q0A_Zvfj6vQ_start_6.5_label_1
@@ -223,7 +223,7 @@ onset	duration	trial_type	value	sample	stim_id
 271.0158333333333	0.0	video on	5	325219	v_Doing nails_id_ZUkF3Ur07Po_start_67.0_label_1
 273.0158333333333	0.0	video off	4	327619	n/a
 273.25666666666666	0.0	resp	3	327908	n/a
-277.0158333333333	0.0	video on	5	332419	v_Polishing forniture_id_IlpDQLXPrG4_start_76.0_label_1
+277.0158333333333	0.0	video on	5	332419	n/a
 279.0158333333333	0.0	video off	4	334819	n/a
 279.305	0.0	resp	3	335166	n/a
 280.015	0.0	video on	5	336018	v_Grooming horse_id_ArC2ZoqjcNA_start_86.5_label_1
@@ -259,7 +259,7 @@ onset	duration	trial_type	value	sample	stim_id
 316.01416666666665	0.0	video on	5	379217	v_Futsal_id_JmUxtuhLKPE_start_61.5_label_1
 318.01416666666665	0.0	video off	4	381617	n/a
 318.25666666666666	0.0	resp	3	381908	n/a
-319.01416666666665	0.0	video on	5	382817	v_Putting on shoes_id_nsYE7OOJXlM_start_30.0_label_1
+319.01416666666665	0.0	video on	5	382817	n/a
 321.01416666666665	0.0	video off	4	385217	n/a
 321.265	0.0	resp	3	385518	n/a
 322.01416666666665	0.0	video on	5	386417	v_Decorating the Christmas tree_id_edP9oxdA03M_start_49.5_label_1

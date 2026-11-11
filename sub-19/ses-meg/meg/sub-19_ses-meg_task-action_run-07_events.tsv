@@ -39,7 +39,7 @@ onset	duration	trial_type	value	sample	stim_id
 51.193333333333335	0.0	video on	5	61432	v_Hopscotch_id_iCeeY9PFVyw_start_12.0_label_1
 53.193333333333335	0.0	video off	4	63832	n/a
 53.59666666666666	0.0	resp	3	64316	n/a
-54.20916666666667	0.0	video on	5	65051	v_Waxing skis_id_0hfRWlWOaYw_start_32.0_label_1
+54.20916666666667	0.0	video on	5	65051	n/a
 56.20916666666667	0.0	video off	4	67451	n/a
 57.1925	0.0	video on	5	68631	v_Sharpening knives_id_RjlnPuQSu-8_start_52.0_label_1
 59.1925	0.0	video off	4	71031	n/a
@@ -140,7 +140,7 @@ onset	duration	trial_type	value	sample	stim_id
 180.205	0.0	video on	5	216246	v_Baton twirling_id_96wSyzR6AKs_start_38.0_label_1
 182.205	0.0	video off	4	218646	n/a
 182.5825	0.0	resp	3	219099	n/a
-183.205	0.0	video on	5	219846	v_Polishing forniture_id_8HxC_gj6F_0_start_49.5_label_1
+183.205	0.0	video on	5	219846	n/a
 185.205	0.0	video off	4	222246	n/a
 185.59	0.0	resp	3	222708	n/a
 189.205	0.0	video on	5	227046	v_Tumbling_id_-CgyYq469tM_start_3.5_label_1

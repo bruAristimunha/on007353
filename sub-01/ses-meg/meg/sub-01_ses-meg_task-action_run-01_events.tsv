@@ -96,7 +96,7 @@ onset	duration	trial_type	value	sample	stim_id
 121.23333333333332	0.0	video on	5	145480	v_Playing accordion_id_Rv_P3pdwUw0_start_47.0_label_1
 123.23333333333332	0.0	video off	4	147880	n/a
 123.50666666666666	0.0	resp	3	148208	n/a
-124.23333333333332	0.0	video on	5	149080	v_Playing polo_id_QxaAMWcdZtM_start_7.5_label_1
+124.23333333333332	0.0	video on	5	149080	n/a
 126.25	0.0	video off	4	151500	n/a
 126.49916666666668	0.0	resp	3	151799	n/a
 127.24916666666668	0.0	video on	5	152699	v_Playing flauta_id__Jrn5WmTxsY_start_90.0_label_1

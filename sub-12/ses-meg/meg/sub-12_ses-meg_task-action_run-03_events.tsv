@@ -38,7 +38,7 @@ onset	duration	trial_type	value	sample	stim_id
 51.33	0.0	video on	5	61596	v_Playing racquetball_id_vrhuCLIx6Fc_start_14.0_label_1
 53.33	0.0	video off	4	63996	n/a
 53.65416666666667	0.0	resp	3	64385	n/a
-54.34666666666666	0.0	video on	5	65216	v_Fixing the roof_id_yyOf1VQ3ybQ_start_34.5_label_1
+54.34666666666666	0.0	video on	5	65216	n/a
 56.34666666666666	0.0	video off	4	67616	n/a
 56.645833333333336	0.0	resp	3	67975	n/a
 57.33	0.0	video on	5	68796	v_Using the rowing machine_id_wyQSfj39xx8_start_10.0_label_1

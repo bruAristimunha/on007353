@@ -111,7 +111,7 @@ onset	duration	trial_type	value	sample	stim_id
 134.027	0.0	video on	5	134027	v_Doing motocross_id_bVvHaMUtu_Y_start_23.0_label_1
 136.031	0.0	video off	4	136031	n/a
 136.401	0.0	resp	3	136401	n/a
-137.031	0.0	video on	5	137031	v_Cleaning sink_id_2mEIokp5iTw_start_97.0_label_1
+137.031	0.0	video on	5	137031	n/a
 139.03	0.0	video off	4	139030	n/a
 139.577	0.0	resp	3	139577	n/a
 140.027	0.0	video on	5	140027	v_Drinking coffee_id_T5Lckcr2Qqg_start_86.0_label_1
@@ -144,7 +144,7 @@ onset	duration	trial_type	value	sample	stim_id
 173.028	0.0	video on	5	173028	v_Windsurfing_id_c0fJNUMg2kY_start_6.0_label_1
 175.031	0.0	video off	4	175031	n/a
 175.545	0.0	resp	3	175545	n/a
-176.027	0.0	video on	5	176027	v_Using the rowing machine_id_9d0J08TK4BU_start_94.5_label_1
+176.027	0.0	video on	5	176027	n/a
 178.07	0.0	video off	4	178070	n/a
 178.609	0.0	resp	3	178609	n/a
 179.027	0.0	video on	5	179027	v_Playing polo_id_3Z_EqJGsUi0_start_27.0_label_1

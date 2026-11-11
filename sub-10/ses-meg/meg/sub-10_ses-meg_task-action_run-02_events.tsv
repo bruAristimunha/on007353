@@ -48,7 +48,7 @@ onset	duration	trial_type	value	sample	stim_id
 62.30833333333333	0.0	video on	5	74770	v_Tumbling_id_xGrZdfsEiSM_start_174.0_label_1
 64.30833333333334	0.0	video off	4	77170	n/a
 64.57833333333333	0.0	resp	3	77494	n/a
-65.30833333333334	0.0	video on	5	78370	v_Playing water polo_id_LDdrqLdXnnc_start_13.5_label_1
+65.30833333333334	0.0	video on	5	78370	n/a
 67.30833333333334	0.0	video off	4	80770	n/a
 67.58666666666667	0.0	resp	3	81104	n/a
 68.30833333333334	0.0	video on	5	81970	v_Putting on shoes_id_77BGNsW0V7M_start_26.0_label_1
@@ -132,7 +132,7 @@ onset	duration	trial_type	value	sample	stim_id
 161.32166666666666	0.0	video on	5	193586	v_Croquet_id_nSutzm7U6lE_start_11.5_label_1
 163.32166666666666	0.0	video off	4	195986	n/a
 163.69916666666666	0.0	resp	3	196439	n/a
-164.32166666666666	0.0	video on	5	197186	v_Using the rowing machine_id_aNs0cbrsgUQ_start_16.0_label_1
+164.32166666666666	0.0	video on	5	197186	n/a
 166.33833333333334	0.0	video off	4	199606	n/a
 166.64333333333337	0.0	resp	3	199972	n/a
 170.32166666666666	0.0	video on	5	204386	v_Pole vault_id_im9KHui8PCM_start_5.5_label_1
@@ -250,7 +250,7 @@ onset	duration	trial_type	value	sample	stim_id
 305.31666666666666	0.0	video on	5	366380	v_Welding_id_3R_BreVIyRA_start_46.0_label_1
 307.31666666666666	0.0	video off	4	368780	n/a
 307.5966666666667	0.0	resp	3	369116	n/a
-308.31666666666666	0.0	video on	5	369980	v_Polishing forniture_id_xEu0iBOaBFY_start_145.5_label_1
+308.31666666666666	0.0	video on	5	369980	n/a
 310.31666666666666	0.0	video off	4	372380	n/a
 310.66083333333336	0.0	resp	3	372793	n/a
 314.31666666666666	0.0	video on	5	377180	v_Making an omelette_id_8Ituhn_nqjk_start_176.0_label_1

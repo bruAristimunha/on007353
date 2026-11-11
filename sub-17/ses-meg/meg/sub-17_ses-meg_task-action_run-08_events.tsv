@@ -9,7 +9,7 @@ onset	duration	trial_type	value	sample	stim_id
 16.195833333333333	0.0	video off	4	19435	n/a
 17.195833333333333	0.0	video on	5	20635	v_Making a sandwich_id_wLsPLxM_QW4_start_2.0_label_1
 19.195833333333333	0.0	video off	4	23035	n/a
-20.195833333333333	0.0	video on	5	24235	v_Painting fence_id_WSQyvFtm2kE_start_7.5_label_1
+20.195833333333333	0.0	video on	5	24235	n/a
 22.195833333333333	0.0	video off	4	26635	n/a
 26.195	0.0	video on	5	31434	v_Hammer throw_id_WMyIlvlUUro_start_5.0_label_1
 28.195	0.0	video off	4	33834	n/a
@@ -79,7 +79,7 @@ onset	duration	trial_type	value	sample	stim_id
 142.20833333333334	0.0	video off	4	170650	n/a
 143.19166666666666	0.0	video on	5	171830	v_Shaving_id_GcpYiCeUj4M_start_68.0_label_1
 145.19166666666666	0.0	video off	4	174230	n/a
-146.19166666666666	0.0	video on	5	175430	v_Fixing the roof_id_iCH53grX4o4_start_23.5_label_1
+146.19166666666666	0.0	video on	5	175430	n/a
 148.24166666666667	0.0	video off	4	177890	n/a
 152.2075	0.0	video on	5	182649	v_Table soccer_id_SpMBclu1b-c_start_16.5_label_1
 154.2075	0.0	video off	4	185049	n/a

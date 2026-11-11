@@ -1,6 +1,6 @@
 onset	duration	trial_type	value	sample	stim_id
 0.0	0.0	begin	1	0	n/a
-5.028	0.0	video on	5	5028	v_Fixing the roof_id_YgF4tgg7pT0_start_167.0_label_1
+5.028	0.0	video on	5	5028	n/a
 7.025	0.0	video off	4	7025	n/a
 7.616	0.0	resp	3	7616	n/a
 8.026	0.0	video on	5	8026	v_Waterskiing_id_G9WSyMU8MCo_start_71.0_label_1
@@ -45,7 +45,7 @@ onset	duration	trial_type	value	sample	stim_id
 53.027	0.0	video on	5	53027	v_Getting a piercing_id_0WSD1gixH1A_start_64.5_label_1
 55.067	0.0	video off	4	55067	n/a
 55.584	0.0	resp	3	55584	n/a
-59.027	0.0	video on	5	59027	v_Throwing darts_id_adetk0QtmKY_start_21.0_label_1
+59.027	0.0	video on	5	59027	n/a
 61.025	0.0	video off	4	61025	n/a
 61.08	0.0	resp	3	61080	n/a
 62.028	0.0	video on	5	62028	v_Bungee jumping_id_pueN-bjLdbI_start_100.5_label_1
@@ -65,7 +65,7 @@ onset	duration	trial_type	value	sample	stim_id
 80.027	0.0	video on	5	80027	v_Grooming horse_id_R8Tb24LxU-c_start_104.0_label_1
 82.036	0.0	video off	4	82036	n/a
 82.496	0.0	resp	3	82496	n/a
-83.027	0.0	video on	5	83027	v_Playing polo_id_VQhqrWglDuY_start_26.5_label_1
+83.027	0.0	video on	5	83027	n/a
 85.068	0.0	video off	4	85068	n/a
 85.825	0.0	resp	3	85825	n/a
 86.027	0.0	video on	5	86027	v_Playing water polo_id_xHh_XsqLWNA_start_99.0_label_1
@@ -176,10 +176,10 @@ onset	duration	trial_type	value	sample	stim_id
 221.028	0.0	video on	5	221028	v_Shaving_id_1jboCMBB6tM_start_125.5_label_1
 223.07	0.0	video off	4	223070	n/a
 223.65	0.0	resp	3	223650	n/a
-224.028	0.0	video on	5	224028	v_Sumo_id_CxNfe_viz9Y_start_8.5_label_1
+224.028	0.0	video on	5	224028	n/a
 226.078	0.0	video off	4	226078	n/a
 226.522	0.0	resp	3	226522	n/a
-227.03	0.0	video on	5	227030	v_Fun sliding down_id_7zY0l9kZjtw_start_4.0_label_1
+227.03	0.0	video on	5	227030	n/a
 229.031	0.0	video off	4	229031	n/a
 229.61	0.0	resp	3	229610	n/a
 230.029	0.0	video on	5	230029	v_Camel ride_id_4O8kswqcwAM_start_6.5_label_1
@@ -216,7 +216,7 @@ onset	duration	trial_type	value	sample	stim_id
 275.028	0.0	video on	5	275028	v_Getting a haircut_id_17xQGmzGEFA_start_19.5_label_1
 277.034	0.0	video off	4	277034	n/a
 277.602	0.0	resp	3	277602	n/a
-278.03	0.0	video on	5	278030	v_Building sandcastles_id_FdDXu-93w1Q_start_23.0_label_1
+278.03	0.0	video on	5	278030	n/a
 280.03	0.0	video off	4	280030	n/a
 281.029	0.0	video on	5	281029	v_Chopping wood_id_FhakU3OgHCs_start_96.5_label_1
 283.038	0.0	video off	4	283038	n/a

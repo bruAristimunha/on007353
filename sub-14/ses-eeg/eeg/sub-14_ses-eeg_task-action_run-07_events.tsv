@@ -53,7 +53,7 @@ onset	duration	trial_type	value	sample	stim_id
 65.026	0.0	video on	5	65026	v_Spinning_id_FVw-8bRwGfQ_start_25.5_label_1
 67.028	0.0	video off	4	67028	n/a
 67.441	0.0	resp	3	67441	n/a
-68.025	0.0	video on	5	68025	v_Painting fence_id_w_RjdRkdrz8_start_4.0_label_1
+68.025	0.0	video on	5	68025	n/a
 70.037	0.0	video off	4	70037	n/a
 70.377	0.0	resp	3	70377	n/a
 71.025	0.0	video on	5	71025	v_Ironing clothes_id_35oarkcCQ-0_start_82.5_label_1
@@ -141,7 +141,7 @@ onset	duration	trial_type	value	sample	stim_id
 173.026	0.0	video on	5	173026	v_Doing step aerobics_id_OEO4-744-QU_start_77.5_label_1
 175.039	0.0	video off	4	175039	n/a
 175.466	0.0	resp	3	175466	n/a
-176.027	0.0	video on	5	176027	v_Bathing dog_id_dCxr0SCMO_M_start_82.0_label_1
+176.027	0.0	video on	5	176027	n/a
 178.026	0.0	video off	4	178026	n/a
 178.41	0.0	resp	3	178410	n/a
 179.032	0.0	video on	5	179032	v_Hand washing clothes_id_BUZi52Lk3Xc_start_123.0_label_1
@@ -219,7 +219,7 @@ onset	duration	trial_type	value	sample	stim_id
 266.027	0.0	video on	5	266027	v_Running a marathon_id_kJ5Hube7zSU_start_68.5_label_1
 268.037	0.0	video off	4	268037	n/a
 268.386	0.0	resp	3	268386	n/a
-269.027	0.0	video on	5	269027	v_Using the monkey bar_id_td4tRul_u5w_start_52.0_label_1
+269.027	0.0	video on	5	269027	n/a
 271.037	0.0	video off	4	271037	n/a
 271.394	0.0	resp	3	271394	n/a
 275.027	0.0	video on	5	275027	v_Vacuuming floor_id_51Zf2lYCl7E_start_21.0_label_1

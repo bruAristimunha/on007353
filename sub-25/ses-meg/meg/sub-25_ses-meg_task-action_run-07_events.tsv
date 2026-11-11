@@ -76,7 +76,7 @@ onset	duration	trial_type	value	sample	stim_id
 98.3075	0.0	video on	5	117969	v_Playing lacrosse_id_l0F7Ej06OlQ_start_11.0_label_1
 100.32416666666668	0.0	video off	4	120389	n/a
 101.23666666666666	0.0	resp	3	121484	n/a
-101.3075	0.0	video on	5	121569	v_Hanging wallpaper_id_vzGJnf2JT9k_start_54.5_label_1
+101.3075	0.0	video on	5	121569	n/a
 103.34083333333334	0.0	video off	4	124009	n/a
 104.3075	0.0	video on	5	125169	v_Getting a tattoo_id_Ne6GgyRBmJE_start_15.5_label_1
 106.325	0.0	video off	4	127590	n/a
@@ -219,7 +219,7 @@ onset	duration	trial_type	value	sample	stim_id
 281.3183333333333	0.0	video on	5	337582	v_Laying tile_id_tcR-ksqBMNU_start_167.5_label_1
 283.3183333333333	0.0	video off	4	339982	n/a
 283.9266666666667	0.0	resp	3	340712	n/a
-284.3183333333333	0.0	video on	5	341182	v_Playing polo_id_m0K3Nsjluxc_start_56.5_label_1
+284.3183333333333	0.0	video on	5	341182	n/a
 286.3516666666667	0.0	video off	4	343622	n/a
 286.8466666666667	0.0	resp	3	344216	n/a
 287.3183333333333	0.0	video on	5	344782	v_Calf roping_id_eWRd0v3X7HQ_start_38.0_label_1

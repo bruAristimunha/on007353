@@ -55,7 +55,7 @@ onset	duration	trial_type	value	sample	stim_id
 67.025	0.0	video off	4	67025	n/a
 68.026	0.0	video on	5	68026	v_Rafting_id_GnAaTdX-L3c_start_79.0_label_1
 70.035	0.0	video off	4	70035	n/a
-71.026	0.0	video on	5	71026	v_Playing polo_id_dyShRv0kh_w_start_109.0_label_1
+71.026	0.0	video on	5	71026	n/a
 73.031	0.0	video off	4	73031	n/a
 73.456	0.0	resp	3	73456	n/a
 77.027	0.0	video on	5	77027	v_Longboarding_id_Yq5WwO4KQYM_start_80.0_label_1
@@ -205,7 +205,7 @@ onset	duration	trial_type	value	sample	stim_id
 250.442	0.0	resp	3	250442	n/a
 251.027	0.0	video on	5	251027	v_Bathing dog_id_ISBB1-iRVQE_start_62.0_label_1
 253.035	0.0	video off	4	253035	n/a
-257.027	0.0	video on	5	257027	v_Spread mulch_id_jEzya8zXkmk_start_47.0_label_1
+257.027	0.0	video on	5	257027	n/a
 259.034	0.0	video off	4	259034	n/a
 259.45	0.0	resp	3	259450	n/a
 260.027	0.0	video on	5	260027	v_Shaving_id_8-Nm32X5Kb0_start_58.5_label_1

@@ -15,7 +15,7 @@ onset	duration	trial_type	value	sample	stim_id
 17.027	0.0	video on	5	17027	v_Playing badminton_id_Vf8dNgx70Pw_start_3.5_label_1
 19.035	0.0	video off	4	19035	n/a
 19.376	0.0	resp	3	19376	n/a
-23.026	0.0	video on	5	23026	v_Cleaning windows_id_9kNSlxENI2k_start_76.0_label_1
+23.026	0.0	video on	5	23026	n/a
 25.033	0.0	video off	4	25033	n/a
 25.448	0.0	resp	3	25448	n/a
 26.024	0.0	video on	5	26024	v_Playing ice hockey_id_I8wSPaiFgII_start_17.0_label_1
@@ -60,7 +60,7 @@ onset	duration	trial_type	value	sample	stim_id
 71.026	0.0	video on	5	71026	v_Riding bumper cars_id_lm1R156bMJs_start_31.0_label_1
 73.026	0.0	video off	4	73026	n/a
 73.489	0.0	resp	3	73489	n/a
-77.026	0.0	video on	5	77026	v_Using the rowing machine_id_0c3sivWZg9Y_start_19.0_label_1
+77.026	0.0	video on	5	77026	n/a
 79.069	0.0	video off	4	79069	n/a
 79.497	0.0	resp	3	79497	n/a
 80.027	0.0	video on	5	80027	v_Snow tubing_id_eRV2vqUP7sI_start_25.5_label_1
@@ -123,7 +123,7 @@ onset	duration	trial_type	value	sample	stim_id
 152.028	0.0	video on	5	152028	v_Doing kickboxing_id_bx_fYQ294DU_start_7.0_label_1
 154.038	0.0	video off	4	154038	n/a
 154.449	0.0	resp	3	154449	n/a
-155.028	0.0	video on	5	155028	v_Sumo_id_LIi6pQ4WQgQ_start_34.0_label_1
+155.028	0.0	video on	5	155028	n/a
 157.035	0.0	video off	4	157035	n/a
 157.377	0.0	resp	3	157377	n/a
 158.027	0.0	video on	5	158027	v_Futsal_id_RZ9M2ts7PY4_start_6.0_label_1
@@ -152,7 +152,7 @@ onset	duration	trial_type	value	sample	stim_id
 188.028	0.0	video on	5	188028	v_Triple jump_id_P2MtyFoJyxM_start_13.0_label_1
 190.039	0.0	video off	4	190039	n/a
 190.489	0.0	resp	3	190489	n/a
-191.027	0.0	video on	5	191027	v_Fixing the roof_id_YgF4tgg7pT0_start_128.0_label_1
+191.027	0.0	video on	5	191027	n/a
 193.032	0.0	video off	4	193032	n/a
 193.69	0.0	resp	3	193690	n/a
 194.027	0.0	video on	5	194027	v_Swimming_id_Gg5jm1JEuxQ_start_102.5_label_1
@@ -262,6 +262,6 @@ onset	duration	trial_type	value	sample	stim_id
 320.027	0.0	video on	5	320027	v_Doing karate_id_v4uT3tkhQKs_start_15.0_label_1
 322.027	0.0	video off	4	322027	n/a
 322.435	0.0	resp	3	322435	n/a
-323.028	0.0	video on	5	323028	v_Preparing pasta_id_kVUEB1_3cak_start_87.0_label_1
+323.028	0.0	video on	5	323028	n/a
 325.071	0.0	video off	4	325071	n/a
 330.146	0.0	end	2	330146	n/a

@@ -39,7 +39,7 @@ onset	duration	trial_type	value	sample	stim_id
 50.025	0.0	video on	5	50025	v_Breakdancing_id_rTDujhCf03o_start_58.0_label_1
 52.039	0.0	video off	4	52039	n/a
 52.433	0.0	resp	3	52433	n/a
-53.025	0.0	video on	5	53025	v_Using uneven bars_id_spAlIMm8jSg_start_74.0_label_1
+53.025	0.0	video on	5	53025	n/a
 55.038	0.0	video off	4	55038	n/a
 55.577	0.0	resp	3	55577	n/a
 59.026	0.0	video on	5	59026	v_Powerbocking_id_U2S5aL6a8z4_start_67.0_label_1
@@ -108,10 +108,10 @@ onset	duration	trial_type	value	sample	stim_id
 137.034	0.0	video on	5	137034	v_Cleaning windows_id_SBYUUdn7hgw_start_10.0_label_1
 139.027	0.0	video off	4	139027	n/a
 139.689	0.0	resp	3	139689	n/a
-140.027	0.0	video on	5	140027	v_Using the rowing machine_id_VONrGSxGhSo_start_65.5_label_1
+140.027	0.0	video on	5	140027	n/a
 142.07	0.0	video off	4	142070	n/a
 142.337	0.0	resp	3	142337	n/a
-143.026	0.0	video on	5	143026	v_Polishing shoes_id_xYJTw7emzKU_start_74.0_label_1
+143.026	0.0	video on	5	143026	n/a
 145.034	0.0	video off	4	145034	n/a
 145.481	0.0	resp	3	145481	n/a
 149.026	0.0	video on	5	149026	v_Grooming dog_id_PV3IAlJyuR4_start_3.0_label_1
@@ -223,7 +223,7 @@ onset	duration	trial_type	value	sample	stim_id
 283.076	0.0	video off	4	283076	n/a
 284.028	0.0	video on	5	284028	v_Playing guitarra_id_YalBHMOo7gU_start_29.0_label_1
 286.04	0.0	video off	4	286040	n/a
-287.028	0.0	video on	5	287028	v_Playing water polo_id_bv0XSLgf79Q_start_11.5_label_1
+287.028	0.0	video on	5	287028	n/a
 289.037	0.0	video off	4	289037	n/a
 289.387	0.0	resp	3	289387	n/a
 293.028	0.0	video on	5	293028	v_Windsurfing_id_2M_v3CENSBA_start_88.0_label_1
@@ -238,10 +238,10 @@ onset	duration	trial_type	value	sample	stim_id
 302.028	0.0	video on	5	302028	v_Cheerleading_id_WuWk-xiW9Nw_start_174.5_label_1
 304.029	0.0	video off	4	304029	n/a
 304.659	0.0	resp	3	304659	n/a
-305.028	0.0	video on	5	305028	v_Playing kickball_id_7YLD7zsu9pk_start_4.0_label_1
+305.028	0.0	video on	5	305028	n/a
 307.038	0.0	video off	4	307038	n/a
 307.651	0.0	resp	3	307651	n/a
-311.029	0.0	video on	5	311029	v_Hanging wallpaper_id_vzGJnf2JT9k_start_44.5_label_1
+311.029	0.0	video on	5	311029	n/a
 313.037	0.0	video off	4	313037	n/a
 313.123	0.0	resp	3	313123	n/a
 314.029	0.0	video on	5	314029	v_Hand car wash_id_KoNM-Uj3Rko_start_116.0_label_1

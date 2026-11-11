@@ -250,7 +250,7 @@ onset	duration	trial_type	value	sample	stim_id
 308.83916666666664	0.0	video on	5	370607	v_Drinking coffee_id_a5BL9JG-_vE_start_1.5_label_1
 310.83916666666664	0.0	video off	4	373007	n/a
 311.1533333333333	0.0	resp	3	373384	n/a
-314.83916666666664	0.0	video on	5	377807	v_Putting on shoes_id_groAnepbJBA_start_27.5_label_1
+314.83916666666664	0.0	video on	5	377807	n/a
 316.83916666666664	0.0	video off	4	380207	n/a
 317.20166666666665	0.0	resp	3	380642	n/a
 317.83916666666664	0.0	video on	5	381407	v_Fixing the roof_id_lymXN0e0xAY_start_32.5_label_1

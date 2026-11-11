@@ -41,7 +41,7 @@ onset	duration	trial_type	value	sample	stim_id
 50.028	0.0	video on	5	50028	v_Camel ride_id_ABiZU02ipes_start_2.5_label_1
 52.035	0.0	video off	4	52035	n/a
 52.425	0.0	resp	3	52425	n/a
-53.028	0.0	video on	5	53028	v_Playing kickball_id_evdVFg8IktQ_start_2.0_label_1
+53.028	0.0	video on	5	53028	n/a
 55.028	0.0	video off	4	55028	n/a
 55.577	0.0	resp	3	55577	n/a
 59.028	0.0	video on	5	59028	v_Discus throw_id_6A9HaX7i-Dc_start_5.5_label_1
@@ -85,7 +85,7 @@ onset	duration	trial_type	value	sample	stim_id
 104.029	0.0	video on	5	104029	v_Ballet_id_Vcx69KvfpZA_start_168.0_label_1
 106.035	0.0	video off	4	106035	n/a
 106.617	0.0	resp	3	106617	n/a
-107.029	0.0	video on	5	107029	v_Playing polo_id_wBgU5jXb_V4_start_30.5_label_1
+107.029	0.0	video on	5	107029	n/a
 109.07	0.0	video off	4	109070	n/a
 109.433	0.0	resp	3	109433	n/a
 113.029	0.0	video on	5	113029	v_Dodgeball_id_Uac9HZht8T4_start_16.5_label_1
@@ -176,7 +176,7 @@ onset	duration	trial_type	value	sample	stim_id
 214.506	0.0	resp	3	214506	n/a
 215.032	0.0	video on	5	215032	v_Vacuuming floor_id_xcwuy-KxjNc_start_114.5_label_1
 217.038	0.0	video off	4	217038	n/a
-221.029	0.0	video on	5	221029	v_Bathing dog_id_K-GA0I8iCDE_start_31.0_label_1
+221.029	0.0	video on	5	221029	n/a
 223.073	0.0	video off	4	223073	n/a
 223.53	0.0	resp	3	223530	n/a
 224.03	0.0	video on	5	224030	v_Sailing_id_q0A_Zvfj6vQ_start_6.5_label_1
@@ -220,7 +220,7 @@ onset	duration	trial_type	value	sample	stim_id
 269.03	0.0	video on	5	269030	v_Doing nails_id_ZUkF3Ur07Po_start_67.0_label_1
 271.041	0.0	video off	4	271041	n/a
 271.611	0.0	resp	3	271611	n/a
-275.03	0.0	video on	5	275030	v_Polishing forniture_id_IlpDQLXPrG4_start_76.0_label_1
+275.03	0.0	video on	5	275030	n/a
 277.028	0.0	video off	4	277028	n/a
 277.403	0.0	resp	3	277403	n/a
 278.03	0.0	video on	5	278030	v_Grooming horse_id_ArC2ZoqjcNA_start_86.5_label_1
@@ -253,7 +253,7 @@ onset	duration	trial_type	value	sample	stim_id
 314.032	0.0	video on	5	314032	v_Futsal_id_JmUxtuhLKPE_start_61.5_label_1
 316.034	0.0	video off	4	316034	n/a
 316.659	0.0	resp	3	316659	n/a
-317.031	0.0	video on	5	317031	v_Putting on shoes_id_nsYE7OOJXlM_start_30.0_label_1
+317.031	0.0	video on	5	317031	n/a
 319.027	0.0	video off	4	319027	n/a
 319.467	0.0	resp	3	319467	n/a
 320.03	0.0	video on	5	320030	v_Decorating the Christmas tree_id_edP9oxdA03M_start_49.5_label_1

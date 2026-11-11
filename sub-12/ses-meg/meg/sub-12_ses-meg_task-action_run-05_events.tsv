@@ -1,6 +1,6 @@
 onset	duration	trial_type	value	sample	stim_id
 3.9475	0.0	begin	1	4737	n/a
-9.000833333333333	0.0	video on	5	10801	v_Fun sliding down_id_YhDnuOqLftM_start_19.0_label_1
+9.000833333333333	0.0	video on	5	10801	n/a
 10.984166666666669	0.0	video off	4	13181	n/a
 11.371666666666666	0.0	resp	3	13646	n/a
 11.984166666666669	0.0	video on	5	14381	v_Trimming branches or hedges_id_PfFhGFXt0J0_start_89.5_label_1
@@ -66,7 +66,7 @@ onset	duration	trial_type	value	sample	stim_id
 86.98166666666667	0.0	video on	5	104378	v_Playing saxophone_id_OoSa3AGPviI_start_147.0_label_1
 88.98166666666667	0.0	video off	4	106778	n/a
 89.30083333333333	0.0	resp	3	107161	n/a
-89.98166666666667	0.0	video on	5	107978	v_Shaving_id_O4JSYTnb7dQ_start_60.5_label_1
+89.98166666666667	0.0	video on	5	107978	n/a
 91.98166666666668	0.0	video off	4	110378	n/a
 92.3325	0.0	resp	3	110799	n/a
 92.99833333333332	0.0	video on	5	111598	v_Tumbling_id_Lo6GuugcLWE_start_30.0_label_1
@@ -225,10 +225,10 @@ onset	duration	trial_type	value	sample	stim_id
 281.9916666666667	0.0	video on	5	338390	v_Hopscotch_id_okfEUbzx23w_start_26.0_label_1
 283.975	0.0	video off	4	340770	n/a
 284.2783333333333	0.0	resp	3	341134	n/a
-284.9916666666667	0.0	video on	5	341990	v_Fixing the roof_id_gYILMdYrOMA_start_117.5_label_1
+284.9916666666667	0.0	video on	5	341990	n/a
 286.9916666666667	0.0	video off	4	344390	n/a
 287.3025	0.0	resp	3	344763	n/a
-287.9916666666667	0.0	video on	5	345590	v_Polishing shoes_id_HSmYvybv0Xk_start_22.5_label_1
+287.9916666666667	0.0	video on	5	345590	n/a
 290.025	0.0	video off	4	348030	n/a
 290.3583333333333	0.0	resp	3	348430	n/a
 290.9916666666667	0.0	video on	5	349190	v_Long jump_id_trnqfWvitFQ_start_5.0_label_1

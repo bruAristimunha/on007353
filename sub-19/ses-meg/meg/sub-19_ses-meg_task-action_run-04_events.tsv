@@ -48,7 +48,7 @@ onset	duration	trial_type	value	sample	stim_id
 62.76	0.0	video on	5	75312	v_Painting_id_2w16j4CL4jI_start_36.0_label_1
 64.76	0.0	video off	4	77712	n/a
 65.2875	0.0	resp	3	78345	n/a
-65.76	0.0	video on	5	78912	v_Painting fence_id_OGBWX_egub0_start_37.5_label_1
+65.76	0.0	video on	5	78912	n/a
 67.76	0.0	video off	4	81312	n/a
 68.2075	0.0	resp	3	81849	n/a
 68.76	0.0	video on	5	82512	v_Drinking coffee_id_ckGeul6eS1Y_start_12.0_label_1

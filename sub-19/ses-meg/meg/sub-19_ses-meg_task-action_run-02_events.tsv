@@ -54,7 +54,7 @@ onset	duration	trial_type	value	sample	stim_id
 67.88916666666667	0.0	video on	5	81467	v_High jump_id_0k5spo188xA_start_12.0_label_1
 69.905	0.0	video off	4	83886	n/a
 70.29583333333333	0.0	resp	3	84355	n/a
-70.88833333333334	0.0	video on	5	85066	v_Using the rowing machine_id_W4CGORYiU4Q_start_19.0_label_1
+70.88833333333334	0.0	video on	5	85066	n/a
 72.93833333333333	0.0	video off	4	87526	n/a
 73.44833333333334	0.0	resp	3	88138	n/a
 73.88833333333334	0.0	video on	5	88666	v_Horseback riding_id_FfjqGzoJW_Q_start_51.0_label_1
@@ -159,7 +159,7 @@ onset	duration	trial_type	value	sample	stim_id
 193.90166666666667	0.0	video on	5	232682	v_Playing bagpipes_id_pib22rSsKyA_start_8.5_label_1
 195.9008333333333	0.0	video off	4	235081	n/a
 196.48916666666668	0.0	resp	3	235787	n/a
-196.9008333333333	0.0	video on	5	236281	v_Shaving_id_O4JSYTnb7dQ_start_45.5_label_1
+196.9008333333333	0.0	video on	5	236281	n/a
 198.90166666666667	0.0	video off	4	238682	n/a
 199.50583333333333	0.0	resp	3	239407	n/a
 199.9008333333333	0.0	video on	5	239881	v_Getting a haircut_id_MpWRmtpLM6Q_start_24.5_label_1
@@ -210,7 +210,7 @@ onset	duration	trial_type	value	sample	stim_id
 253.89916666666667	0.0	video on	5	304679	v_Disc dog_id_P3EUEuoyacE_start_45.5_label_1
 255.89916666666667	0.0	video off	4	307079	n/a
 256.2658333333333	0.0	resp	3	307519	n/a
-259.89916666666664	0.0	video on	5	311879	v_Brushing hair_id_XTLqttlu03g_start_5.0_label_1
+259.89916666666664	0.0	video on	5	311879	n/a
 261.89916666666664	0.0	video off	4	314279	n/a
 262.3466666666667	0.0	resp	3	314816	n/a
 262.89916666666664	0.0	video on	5	315479	v_Playing field hockey_id_O_IrzZbXiCc_start_28.0_label_1

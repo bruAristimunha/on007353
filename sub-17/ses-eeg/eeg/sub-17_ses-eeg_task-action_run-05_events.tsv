@@ -6,7 +6,7 @@ onset	duration	trial_type	value	sample	stim_id
 8.028	0.0	video on	5	8028	v_Hopscotch_id_mQH_xuYTwYE_start_55.0_label_1
 10.029	0.0	video off	4	10029	n/a
 10.456	0.0	resp	3	10456	n/a
-11.028	0.0	video on	5	11028	v_Playing pool_id_fi9Z6RVTXSs_start_96.5_label_1
+11.028	0.0	video on	5	11028	n/a
 13.03	0.0	video off	4	13030	n/a
 13.488	0.0	resp	3	13488	n/a
 14.028	0.0	video on	5	14028	v_Vacuuming floor_id_Gt2l76buW_8_start_17.0_label_1
@@ -71,7 +71,7 @@ onset	duration	trial_type	value	sample	stim_id
 89.028	0.0	video on	5	89028	v_Welding_id_Y4Z6IwlcPxI_start_109.5_label_1
 91.036	0.0	video off	4	91036	n/a
 91.529	0.0	resp	3	91529	n/a
-95.028	0.0	video on	5	95028	v_Waxing skis_id_H6ZSCvu4_Hk_start_105.5_label_1
+95.028	0.0	video on	5	95028	n/a
 97.029	0.0	video off	4	97029	n/a
 97.417	0.0	resp	3	97417	n/a
 98.027	0.0	video on	5	98027	v_Using uneven bars_id_mIxJejHYK_U_start_17.5_label_1
@@ -192,7 +192,7 @@ onset	duration	trial_type	value	sample	stim_id
 244.029	0.0	video off	4	244029	n/a
 245.029	0.0	video on	5	245029	v_Hurling_id_KRc35UkdTLc_start_9.0_label_1
 247.029	0.0	video off	4	247029	n/a
-248.029	0.0	video on	5	248029	v_Bathing dog_id_GpB2N7OI2as_start_19.0_label_1
+248.029	0.0	video on	5	248029	n/a
 250.032	0.0	video off	4	250032	n/a
 250.402	0.0	resp	3	250402	n/a
 251.031	0.0	video on	5	251031	v_Putting on makeup_id_tuhckn4YokA_start_133.5_label_1

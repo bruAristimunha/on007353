@@ -12,7 +12,7 @@ onset	duration	trial_type	value	sample	stim_id
 18.17083333333333	0.0	video on	5	21805	v_Welding_id_pSElVKyEqHo_start_64.0_label_1
 20.204166666666666	0.0	video off	4	24245	n/a
 20.376666666666665	0.0	resp	3	24452	n/a
-21.17083333333333	0.0	video on	5	25405	v_Using the rowing machine_id_W4CGORYiU4Q_start_16.0_label_1
+21.17083333333333	0.0	video on	5	25405	n/a
 23.17083333333333	0.0	video off	4	27805	n/a
 23.52083333333333	0.0	resp	3	28225	n/a
 27.17083333333333	0.0	video on	5	32605	v_Cricket_id_aFzAtrduSck_start_66.0_label_1
@@ -117,7 +117,7 @@ onset	duration	trial_type	value	sample	stim_id
 144.16666666666666	0.0	video on	5	173000	v_Brushing teeth_id_yRQ6-ZFsvG8_start_60.0_label_1
 146.16666666666666	0.0	video off	4	175400	n/a
 146.4825	0.0	resp	3	175779	n/a
-147.16666666666666	0.0	video on	5	176600	v_Fun sliding down_id_q73zVo3Jk0w_start_102.0_label_1
+147.16666666666666	0.0	video on	5	176600	n/a
 149.18333333333334	0.0	video off	4	179020	n/a
 149.4825	0.0	resp	3	179379	n/a
 153.16583333333332	0.0	video on	5	183799	v_Washing hands_id_1JLGi6OSJHU_start_77.5_label_1
@@ -251,7 +251,7 @@ onset	duration	trial_type	value	sample	stim_id
 306.1775	0.0	video on	5	367413	v_Hitting a pinata_id_fsurHpTEoEk_start_6.5_label_1
 308.1775	0.0	video off	4	369813	n/a
 308.5875	0.0	resp	3	370305	n/a
-309.1775	0.0	video on	5	371013	v_Using the monkey bar_id_fquWaioPbQs_start_59.5_label_1
+309.1775	0.0	video on	5	371013	n/a
 311.1775	0.0	video off	4	373413	n/a
 311.6675	0.0	resp	3	374001	n/a
 315.1775	0.0	video on	5	378213	v_Putting on makeup_id_AFmKVL5ClQM_start_67.0_label_1

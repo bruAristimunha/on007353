@@ -82,13 +82,13 @@ onset	duration	trial_type	value	sample	stim_id
 104.4525	0.0	video on	5	125343	v_Hanging wallpaper_id_HrPozvZuCfo_start_30.0_label_1
 106.48583333333332	0.0	video off	4	127783	n/a
 107.02333333333333	0.0	resp	3	128428	n/a
-107.46916666666668	0.0	video on	5	128963	v_Spread mulch_id__9uSnARV-So_start_92.0_label_1
+107.46916666666668	0.0	video on	5	128963	n/a
 109.4525	0.0	video off	4	131343	n/a
 109.87916666666666	0.0	resp	3	131855	n/a
 110.4525	0.0	video on	5	132543	v_Shoveling snow_id_J6-rLsT975U_start_116.5_label_1
 112.4525	0.0	video off	4	134943	n/a
 113.02333333333333	0.0	resp	3	135628	n/a
-116.4525	0.0	video on	5	139743	v_Shaving_id_3HZWvvaCBm4_start_57.0_label_1
+116.4525	0.0	video on	5	139743	n/a
 118.4525	0.0	video off	4	142143	n/a
 118.83166666666666	0.0	resp	3	142598	n/a
 119.4525	0.0	video on	5	143343	v_Cheerleading_id_Va3TIB5b_XQ_start_181.0_label_1
@@ -219,7 +219,7 @@ onset	duration	trial_type	value	sample	stim_id
 272.4475	0.0	video on	5	326937	v_Grooming dog_id_dh2SUC5l_iA_start_9.5_label_1
 274.46416666666664	0.0	video off	4	329357	n/a
 275.2891666666667	0.0	resp	3	330347	n/a
-278.44666666666666	0.0	video on	5	334136	v_Bathing dog_id_5wamcAMByD8_start_29.0_label_1
+278.44666666666666	0.0	video on	5	334136	n/a
 280.44666666666666	0.0	video off	4	336536	n/a
 280.87333333333333	0.0	resp	3	337048	n/a
 281.44666666666666	0.0	video on	5	337736	v_Painting fence_id_Q1zz9W4GnEc_start_82.5_label_1

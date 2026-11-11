@@ -63,7 +63,7 @@ onset	duration	trial_type	value	sample	stim_id
 81.6875	0.0	video on	5	98025	v_Snow tubing_id_V_T89phjgfo_start_1.0_label_1
 83.6875	0.0	video off	4	100425	n/a
 83.965	0.0	resp	3	100758	n/a
-84.6875	0.0	video on	5	101625	v_Playing blackjack_id_Yyc_4qHVoEI_start_7.5_label_1
+84.6875	0.0	video on	5	101625	n/a
 86.6875	0.0	video off	4	104025	n/a
 87.10083333333333	0.0	resp	3	104521	n/a
 87.6875	0.0	video on	5	105225	v_Cricket_id_hNtTfip14SI_start_86.5_label_1

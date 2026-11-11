@@ -48,7 +48,7 @@ onset	duration	trial_type	value	sample	stim_id
 62.365833333333335	0.0	video on	5	74839	v_Grooming dog_id_0cpyVpMfMT0_start_41.5_label_1
 64.36583333333333	0.0	video off	4	77239	n/a
 65.14666666666666	0.0	resp	3	78176	n/a
-65.36583333333333	0.0	video on	5	78439	v_Croquet_id_N0ZBcPoCEUQ_start_58.0_label_1
+65.36583333333333	0.0	video on	5	78439	n/a
 67.41583333333334	0.0	video off	4	80899	n/a
 68.365	0.0	video on	5	82038	v_Polishing shoes_id_iXETh4Ld3ss_start_4.5_label_1
 70.365	0.0	video off	4	84438	n/a

@@ -229,7 +229,7 @@ onset	duration	trial_type	value	sample	stim_id
 318.005	0.0	video off	4	318005	n/a
 322.01	0.0	video on	5	322010	v_Rock-paper-scissors_id_khX7g-GyV8Y_start_34.0_label_1
 324.018	0.0	video off	4	324018	n/a
-325.01	0.0	video on	5	325010	v_Smoking hookah_id_fiRaTxWdZOQ_start_1.5_label_1
+325.01	0.0	video on	5	325010	n/a
 327.014	0.0	video off	4	327014	n/a
 328.012	0.0	video on	5	328012	v_Ping-pong_id_c-Kd1ZXsV9E_start_11.0_label_1
 330.009	0.0	video off	4	330009	n/a

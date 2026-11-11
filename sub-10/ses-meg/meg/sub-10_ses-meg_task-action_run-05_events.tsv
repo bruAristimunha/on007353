@@ -9,7 +9,7 @@ onset	duration	trial_type	value	sample	stim_id
 15.054166666666667	0.0	video on	5	18065	v_Doing crunches_id__sfq6ptdJqk_start_91.5_label_1
 17.054166666666667	0.0	video off	4	20465	n/a
 17.3575	0.0	resp	3	20829	n/a
-18.054166666666667	0.0	video on	5	21665	v_Bathing dog_id_fdqEc7SwUh0_start_159.0_label_1
+18.054166666666667	0.0	video on	5	21665	n/a
 20.054166666666667	0.0	video off	4	24065	n/a
 20.0875	0.0	resp	3	24105	n/a
 21.054166666666667	0.0	video on	5	25265	v_Beer pong_id_PhCZViAcY5o_start_135.5_label_1
@@ -18,7 +18,7 @@ onset	duration	trial_type	value	sample	stim_id
 27.05333333333333	0.0	video on	5	32464	v_Swinging at the playground_id_LAJDGv_ZNvs_start_1.5_label_1
 29.05333333333333	0.0	video off	4	34864	n/a
 29.31	0.0	resp	3	35172	n/a
-30.05333333333333	0.0	video on	5	36064	v_Spread mulch_id_gqIAorY_hFk_start_30.5_label_1
+30.05333333333333	0.0	video on	5	36064	n/a
 32.07	0.0	video off	4	38484	n/a
 33.053333333333335	0.0	video on	5	39664	v_Walking the dog_id_teRdd8D9F0A_start_9.0_label_1
 35.053333333333335	0.0	video off	4	42064	n/a
@@ -148,7 +148,7 @@ onset	duration	trial_type	value	sample	stim_id
 183.065	0.0	video on	5	219678	v_Painting fence_id_EZsumzBA68I_start_35.5_label_1
 185.065	0.0	video off	4	222078	n/a
 185.35916666666665	0.0	resp	3	222431	n/a
-189.065	0.0	video on	5	226878	v_Putting in contact lenses_id_RVhjgt4HcIM_start_17.5_label_1
+189.065	0.0	video on	5	226878	n/a
 191.09833333333333	0.0	video off	4	229318	n/a
 191.39916666666667	0.0	resp	3	229679	n/a
 192.065	0.0	video on	5	230478	v_Using the pommel horse_id_Wlp_NSS4GsQ_start_6.5_label_1
@@ -258,7 +258,7 @@ onset	duration	trial_type	value	sample	stim_id
 318.06	0.0	video on	5	381672	v_Rope skipping_id_pLo8dI3zW9U_start_56.5_label_1
 320.06	0.0	video off	4	384072	n/a
 320.40833333333336	0.0	resp	3	384490	n/a
-321.06	0.0	video on	5	385272	v_Polishing shoes_id_ICBzTH0OQtM_start_76.5_label_1
+321.06	0.0	video on	5	385272	n/a
 323.06083333333333	0.0	video off	4	387673	n/a
 323.37666666666667	0.0	resp	3	388052	n/a
 324.06	0.0	video on	5	388872	v_Snowboarding_id_HBZu7CPa5WQ_start_57.0_label_1

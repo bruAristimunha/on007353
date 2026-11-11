@@ -141,7 +141,7 @@ onset	duration	trial_type	value	sample	stim_id
 194.10166666666663	0.0	video on	5	232922	v_Waterskiing_id_LGGiEzw4lh8_start_83.5_label_1
 196.10166666666663	0.0	video off	4	235322	n/a
 196.64333333333332	0.0	resp	3	235972	n/a
-197.10166666666663	0.0	video on	5	236522	v_Waxing skis_id_yT0ZYOfShrg_start_155.5_label_1
+197.10166666666663	0.0	video on	5	236522	n/a
 199.10166666666663	0.0	video off	4	238922	n/a
 199.675	0.0	resp	3	239610	n/a
 200.10166666666663	0.0	video on	5	240122	v_Arm wrestling_id_vz9IDB6ttPI_start_20.0_label_1
@@ -151,7 +151,7 @@ onset	duration	trial_type	value	sample	stim_id
 208.10083333333333	0.0	video off	4	249721	n/a
 209.10083333333333	0.0	video on	5	250921	v_Tumbling_id_Gd8vgKn_3zk_start_9.0_label_1
 211.10166666666663	0.0	video off	4	253322	n/a
-212.10083333333333	0.0	video on	5	254521	v_Croquet_id_zQfGOTT3g64_start_5.5_label_1
+212.10083333333333	0.0	video on	5	254521	n/a
 214.10083333333333	0.0	video off	4	256921	n/a
 214.53166666666667	0.0	resp	3	257438	n/a
 215.10083333333333	0.0	video on	5	258121	v_Making a lemonade_id_Cfh05RSduEk_start_48.5_label_1
@@ -207,7 +207,7 @@ onset	duration	trial_type	value	sample	stim_id
 292.09833333333336	0.0	video off	4	350518	n/a
 296.09833333333336	0.0	video on	5	355318	v_Playing flauta_id_EJ4GaNuV5Jc_start_37.0_label_1
 298.09833333333336	0.0	video off	4	357718	n/a
-299.09833333333336	0.0	video on	5	358918	v_Using the balance beam_id_6eHWZVkxP8U_start_7.5_label_1
+299.09833333333336	0.0	video on	5	358918	n/a
 301.09833333333336	0.0	video off	4	361318	n/a
 302.09833333333336	0.0	video on	5	362518	v_Snatch_id_UY8nlAbPumE_start_6.5_label_1
 304.09833333333336	0.0	video off	4	364918	n/a

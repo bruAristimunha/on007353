@@ -114,7 +114,7 @@ onset	duration	trial_type	value	sample	stim_id
 141.72166666666666	0.0	video off	4	170066	n/a
 142.72166666666666	0.0	video on	5	171266	v_Ping-pong_id_xR57jwV5gnE_start_74.0_label_1
 144.72166666666666	0.0	video off	4	173666	n/a
-145.72166666666666	0.0	video on	5	174866	v_Drinking coffee_id_2IfW2leGdzQ_start_151.5_label_1
+145.72166666666666	0.0	video on	5	174866	n/a
 147.77166666666668	0.0	video off	4	177326	n/a
 148.10666666666663	0.0	resp	3	177728	n/a
 151.73833333333334	0.0	video on	5	182086	v_Playing polo_id_PYGQnPmzFx8_start_87.5_label_1
@@ -167,7 +167,7 @@ onset	duration	trial_type	value	sample	stim_id
 208.73583333333332	0.0	video on	5	250483	v_Making a lemonade_id_7AiP2dJTpho_start_21.5_label_1
 210.76916666666668	0.0	video off	4	252923	n/a
 211.315	0.0	resp	3	253578	n/a
-211.73583333333332	0.0	video on	5	254083	v_Putting on shoes_id_AjPvnLyxfX4_start_11.0_label_1
+211.73583333333332	0.0	video on	5	254083	n/a
 213.73583333333332	0.0	video off	4	256483	n/a
 214.10666666666663	0.0	resp	3	256928	n/a
 214.73583333333332	0.0	video on	5	257683	v_Building sandcastles_id_jqYUP_AXzmQ_start_12.0_label_1
@@ -251,7 +251,7 @@ onset	duration	trial_type	value	sample	stim_id
 307.7325	0.0	video on	5	369279	v_Playing congas_id_4JQZ1wAz_EU_start_119.0_label_1
 309.7325	0.0	video off	4	371679	n/a
 310.0441666666667	0.0	resp	3	372053	n/a
-313.7325	0.0	video on	5	376479	v_Fun sliding down_id_RUCGVCjoBQw_start_41.5_label_1
+313.7325	0.0	video on	5	376479	n/a
 315.7325	0.0	video off	4	378879	n/a
 316.09166666666664	0.0	resp	3	379310	n/a
 316.7325	0.0	video on	5	380079	v_Running a marathon_id_CG8g_qhsEfU_start_32.0_label_1

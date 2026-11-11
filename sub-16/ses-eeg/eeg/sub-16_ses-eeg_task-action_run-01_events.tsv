@@ -18,7 +18,7 @@ onset	duration	trial_type	value	sample	stim_id
 18.498	0.0	video on	5	18498	v_Hand car wash_id_8dXAZhphvU8_start_7.5_label_1
 20.505	0.0	video off	4	20505	n/a
 20.898	0.0	resp	3	20898	n/a
-21.498	0.0	video on	5	21498	v_Cleaning shoes_id_mRlBVxeEA0k_start_119.0_label_1
+21.498	0.0	video on	5	21498	n/a
 23.499	0.0	video off	4	23499	n/a
 23.898	0.0	resp	3	23898	n/a
 24.498	0.0	video on	5	24498	v_Snatch_id_xPHeG6STEi4_start_76.5_label_1
@@ -86,7 +86,7 @@ onset	duration	trial_type	value	sample	stim_id
 102.499	0.0	video on	5	102499	v_Scuba diving_id_Zh3UB3ni5lg_start_46.0_label_1
 104.505	0.0	video off	4	104505	n/a
 104.866	0.0	resp	3	104866	n/a
-108.499	0.0	video on	5	108499	v_Bathing dog_id_dYQpPQFnheE_start_208.0_label_1
+108.499	0.0	video on	5	108499	n/a
 110.504	0.0	video off	4	110504	n/a
 110.51	0.0	resp	3	110510	n/a
 111.499	0.0	video on	5	111499	v_Belly dance_id_AJJbqoTehws_start_1.5_label_1
@@ -122,7 +122,7 @@ onset	duration	trial_type	value	sample	stim_id
 147.5	0.0	video on	5	147500	v_Fixing bicycle_id__CI78nblMQ0_start_103.5_label_1
 149.499	0.0	video off	4	149499	n/a
 149.939	0.0	resp	3	149939	n/a
-150.499	0.0	video on	5	150499	v_Preparing pasta_id_V7OBpCQ0vRc_start_23.5_label_1
+150.499	0.0	video on	5	150499	n/a
 152.5	0.0	video off	4	152500	n/a
 153.203	0.0	resp	3	153203	n/a
 153.499	0.0	video on	5	153499	v_Carving jack-o-lanterns_id_-ADCa23iYPg_start_4.0_label_1
@@ -234,7 +234,7 @@ onset	duration	trial_type	value	sample	stim_id
 282.501	0.0	video on	5	282501	v_Hitting a pinata_id_XDlnDpggckY_start_3.0_label_1
 284.505	0.0	video off	4	284505	n/a
 285.028	0.0	resp	3	285028	n/a
-288.501	0.0	video on	5	288501	v_Playing polo_id_m0K3Nsjluxc_start_28.5_label_1
+288.501	0.0	video on	5	288501	n/a
 290.539	0.0	video off	4	290539	n/a
 291.068	0.0	resp	3	291068	n/a
 291.5	0.0	video on	5	291500	v_Getting a piercing_id_z96ASFyRxnM_start_50.0_label_1
@@ -252,7 +252,7 @@ onset	duration	trial_type	value	sample	stim_id
 306.501	0.0	video on	5	306501	v_Rollerblading_id_Um6ZZmrCZ-A_start_76.5_label_1
 308.506	0.0	video off	4	308506	n/a
 309.332	0.0	resp	3	309332	n/a
-309.501	0.0	video on	5	309501	v_Hanging wallpaper_id_N48Z7Xn7stY_start_128.0_label_1
+309.501	0.0	video on	5	309501	n/a
 311.539	0.0	video off	4	311539	n/a
 312.364	0.0	resp	3	312364	n/a
 312.5	0.0	video on	5	312500	v_Vacuuming floor_id_4mRmg5CHv8I_start_43.0_label_1

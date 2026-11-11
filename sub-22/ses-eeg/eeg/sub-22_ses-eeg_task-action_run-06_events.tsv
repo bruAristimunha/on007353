@@ -1,6 +1,6 @@
 onset	duration	trial_type	value	sample	stim_id
 0.0	0.0	begin	1	0	n/a
-5.029	0.0	video on	5	5029	v_Using uneven bars_id_1ptx3ekHeCk_start_42.5_label_1
+5.029	0.0	video on	5	5029	n/a
 7.037	0.0	video off	4	7037	n/a
 7.496	0.0	resp	3	7496	n/a
 8.025	0.0	video on	5	8025	v_BMX_id_eRuzzRIZixc_start_102.5_label_1
@@ -127,7 +127,7 @@ onset	duration	trial_type	value	sample	stim_id
 158.027	0.0	video on	5	158027	v_Preparing salad_id_ha68lXQC0F0_start_40.5_label_1
 160.031	0.0	video off	4	160031	n/a
 160.329	0.0	resp	3	160329	n/a
-161.028	0.0	video on	5	161028	v_Using the rowing machine_id_Q0tHHJYdRIY_start_17.5_label_1
+161.028	0.0	video on	5	161028	n/a
 163.065	0.0	video off	4	163065	n/a
 163.441	0.0	resp	3	163441	n/a
 167.027	0.0	video on	5	167027	v_Ballet_id_48YbFcQp_wI_start_46.5_label_1

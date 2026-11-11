@@ -102,7 +102,7 @@ onset	duration	trial_type	value	sample	stim_id
 117.498	0.0	video on	5	117498	v_Hopscotch_id_xKpJ0dRmC4I_start_2.5_label_1
 119.506	0.0	video off	4	119506	n/a
 119.877	0.0	resp	3	119877	n/a
-120.499	0.0	video on	5	120499	v_Croquet_id_aZlDaYi70p4_start_123.5_label_1
+120.499	0.0	video on	5	120499	n/a
 122.502	0.0	video off	4	122502	n/a
 123.085	0.0	resp	3	123085	n/a
 126.498	0.0	video on	5	126498	v_Kite flying_id_eVyPxPi95Pg_start_2.0_label_1
@@ -198,7 +198,7 @@ onset	duration	trial_type	value	sample	stim_id
 234.498	0.0	video on	5	234498	v_Waxing skis_id_oe2ANpDBs08_start_36.5_label_1
 236.5	0.0	video off	4	236500	n/a
 237.134	0.0	resp	3	237134	n/a
-237.498	0.0	video on	5	237498	v_Fixing the roof_id_qOxJgvWocSY_start_59.5_label_1
+237.498	0.0	video on	5	237498	n/a
 239.503	0.0	video off	4	239503	n/a
 240.022	0.0	resp	3	240022	n/a
 240.499	0.0	video on	5	240499	v_Playing kickball_id_IRRTibpBYdM_start_24.0_label_1
@@ -258,7 +258,7 @@ onset	duration	trial_type	value	sample	stim_id
 306.498	0.0	video on	5	306498	v_Rafting_id_UjrLaJBB1lo_start_35.5_label_1
 308.505	0.0	video off	4	308505	n/a
 308.903	0.0	resp	3	308903	n/a
-309.498	0.0	video on	5	309498	v_Polishing forniture_id_p6yv-F_HRIA_start_81.0_label_1
+309.498	0.0	video on	5	309498	n/a
 311.499	0.0	video off	4	311499	n/a
 311.982	0.0	resp	3	311982	n/a
 312.502	0.0	video on	5	312502	v_Throwing darts_id_5ADQwfCPxYc_start_29.5_label_1

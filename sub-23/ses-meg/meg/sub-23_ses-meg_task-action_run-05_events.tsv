@@ -194,7 +194,7 @@ onset	duration	trial_type	value	sample	stim_id
 246.39	0.0	video on	5	295668	v_Shot put_id_C2VaWT8GDGo_start_6.5_label_1
 248.39	0.0	video off	4	298068	n/a
 248.70666666666668	0.0	resp	3	298448	n/a
-249.39	0.0	video on	5	299268	v_Polishing forniture_id_IlpDQLXPrG4_start_53.5_label_1
+249.39	0.0	video on	5	299268	n/a
 251.39	0.0	video off	4	301668	n/a
 251.7308333333333	0.0	resp	3	302077	n/a
 252.39	0.0	video on	5	302868	v_Decorating the Christmas tree_id_85guE3Qt_f0_start_7.0_label_1
@@ -212,12 +212,12 @@ onset	duration	trial_type	value	sample	stim_id
 267.38916666666665	0.0	video on	5	320867	v_Brushing teeth_id_fQepPhz73V0_start_13.5_label_1
 269.4058333333333	0.0	video off	4	323287	n/a
 269.9066666666667	0.0	resp	3	323888	n/a
-270.38916666666665	0.0	video on	5	324467	v_Fixing the roof_id_qOxJgvWocSY_start_71.5_label_1
+270.38916666666665	0.0	video on	5	324467	n/a
 272.38916666666665	0.0	video off	4	326867	n/a
 273.38916666666665	0.0	video on	5	328067	v_Playing accordion_id_QoS5iOOuNhI_start_106.5_label_1
 275.38916666666665	0.0	video off	4	330467	n/a
 275.7625	0.0	resp	3	330915	n/a
-279.38916666666665	0.0	video on	5	335267	v_Hanging wallpaper_id_9YoUdqrWt64_start_51.0_label_1
+279.38916666666665	0.0	video on	5	335267	n/a
 281.38916666666665	0.0	video off	4	337667	n/a
 281.6825	0.0	resp	3	338019	n/a
 282.38916666666665	0.0	video on	5	338867	v_Preparing salad_id_Wr_IgHbqnTc_start_14.5_label_1

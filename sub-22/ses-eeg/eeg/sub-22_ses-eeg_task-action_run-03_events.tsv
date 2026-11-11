@@ -86,7 +86,7 @@ onset	duration	trial_type	value	sample	stim_id
 104.027	0.0	video on	5	104027	v_Walking the dog_id_ygQh7t6Ssh0_start_7.5_label_1
 106.032	0.0	video off	4	106032	n/a
 106.369	0.0	resp	3	106369	n/a
-107.026	0.0	video on	5	107026	v_Using the rowing machine_id_7F2VX6N23IM_start_15.5_label_1
+107.026	0.0	video on	5	107026	n/a
 109.03	0.0	video off	4	109030	n/a
 109.561	0.0	resp	3	109561	n/a
 113.026	0.0	video on	5	113026	v_Playing field hockey_id_1JUwPzr0C4A_start_91.5_label_1
@@ -205,7 +205,7 @@ onset	duration	trial_type	value	sample	stim_id
 248.028	0.0	video on	5	248028	v_Assembling bicycle_id_iBu-yY6BWUc_start_175.5_label_1
 250.042	0.0	video off	4	250042	n/a
 250.522	0.0	resp	3	250522	n/a
-251.028	0.0	video on	5	251028	v_Fixing the roof_id_C0BxGqbaQVE_start_41.5_label_1
+251.028	0.0	video on	5	251028	n/a
 253.053	0.0	video off	4	253053	n/a
 253.394	0.0	resp	3	253394	n/a
 257.028	0.0	video on	5	257028	v_Fun sliding down_id_WMPMzhglGoo_start_110.0_label_1
@@ -223,7 +223,7 @@ onset	duration	trial_type	value	sample	stim_id
 269.028	0.0	video on	5	269028	v_Plataform diving_id_V0dIowFzrAk_start_157.0_label_1
 271.038	0.0	video off	4	271038	n/a
 271.362	0.0	resp	3	271362	n/a
-275.029	0.0	video on	5	275029	v_Painting fence_id_We9RTOY5BTI_start_57.0_label_1
+275.029	0.0	video on	5	275029	n/a
 277.074	0.0	video off	4	277074	n/a
 277.402	0.0	resp	3	277402	n/a
 278.027	0.0	video on	5	278027	v_Playing bagpipes_id_Vql-UaPXAxM_start_49.0_label_1
@@ -244,7 +244,7 @@ onset	duration	trial_type	value	sample	stim_id
 296.028	0.0	video on	5	296028	v_Raking leaves_id_-7VW04w9baY_start_6.0_label_1
 298.038	0.0	video off	4	298038	n/a
 298.387	0.0	resp	3	298387	n/a
-299.029	0.0	video on	5	299029	v_Playing blackjack_id_OxD4UlfVEI0_start_6.5_label_1
+299.029	0.0	video on	5	299029	n/a
 301.041	0.0	video off	4	301041	n/a
 301.69	0.0	resp	3	301690	n/a
 302.028	0.0	video on	5	302028	v_Knitting_id_UUwyhg73P2U_start_83.0_label_1

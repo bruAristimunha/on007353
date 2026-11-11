@@ -1,6 +1,6 @@
 onset	duration	trial_type	value	sample	stim_id
 3.3716666666666666	0.0	begin	1	4046	n/a
-8.4025	0.0	video on	5	10083	v_Playing polo_id_o2K9hmeqxAA_start_1.5_label_1
+8.4025	0.0	video on	5	10083	n/a
 10.4025	0.0	video off	4	12483	n/a
 10.883333333333333	0.0	resp	3	13060	n/a
 11.4025	0.0	video on	5	13683	v_Polishing forniture_id_Ke29p3rcs1k_start_80.5_label_1
@@ -44,7 +44,7 @@ onset	duration	trial_type	value	sample	stim_id
 56.40083333333333	0.0	video on	5	67681	v_Doing nails_id_v_H-LniZ7PI_start_0.5_label_1
 58.40083333333333	0.0	video off	4	70081	n/a
 58.635	0.0	resp	3	70362	n/a
-62.40083333333333	0.0	video on	5	74881	v_Hand car wash_id_tLkMQOiRDcI_start_68.0_label_1
+62.40083333333333	0.0	video on	5	74881	n/a
 64.40083333333334	0.0	video off	4	77281	n/a
 64.7475	0.0	resp	3	77697	n/a
 65.40083333333334	0.0	video on	5	78481	v_Throwing darts_id_DdKVN9JcA2s_start_4.5_label_1
@@ -137,7 +137,7 @@ onset	duration	trial_type	value	sample	stim_id
 170.3975	0.0	video on	5	204477	v_Spinning_id_kV3cvPkToNA_start_15.5_label_1
 172.41416666666666	0.0	video off	4	206897	n/a
 172.7725	0.0	resp	3	207327	n/a
-173.3975	0.0	video on	5	208077	v_Hanging wallpaper_id_NH7BPL5loEI_start_45.0_label_1
+173.3975	0.0	video on	5	208077	n/a
 175.41333333333333	0.0	video off	4	210496	n/a
 175.86083333333335	0.0	resp	3	211033	n/a
 176.39666666666668	0.0	video on	5	211676	v_Playing accordion_id_gzqBmZKPit8_start_3.0_label_1
@@ -146,7 +146,7 @@ onset	duration	trial_type	value	sample	stim_id
 179.41333333333333	0.0	video on	5	215296	v_Chopping wood_id_f1mU_ivlFQA_start_50.5_label_1
 181.39666666666668	0.0	video off	4	217676	n/a
 181.79666666666665	0.0	resp	3	218156	n/a
-182.39666666666668	0.0	video on	5	218876	v_Playing kickball_id_vWWzgNkxffc_start_16.5_label_1
+182.39666666666668	0.0	video on	5	218876	n/a
 184.39666666666668	0.0	video off	4	221276	n/a
 184.7325	0.0	resp	3	221679	n/a
 188.41333333333333	0.0	video on	5	226096	v_Running a marathon_id_3b5_bAQvdT4_start_19.0_label_1
@@ -173,7 +173,7 @@ onset	duration	trial_type	value	sample	stim_id
 212.4125	0.0	video on	5	254895	v_Preparing pasta_id_IiOagPSsUrI_start_24.5_label_1
 214.39583333333331	0.0	video off	4	257275	n/a
 214.9975	0.0	resp	3	257997	n/a
-215.4125	0.0	video on	5	258495	v_Painting fence_id_w_RjdRkdrz8_start_11.5_label_1
+215.4125	0.0	video on	5	258495	n/a
 217.4125	0.0	video off	4	260895	n/a
 217.725	0.0	resp	3	261270	n/a
 218.4125	0.0	video on	5	262095	v_Clean and jerk_id_Zb9EQoVV4UE_start_9.0_label_1

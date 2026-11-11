@@ -63,10 +63,10 @@ onset	duration	trial_type	value	sample	stim_id
 77.026	0.0	video on	5	77026	v_Triple jump_id_oyglkJOmH0o_start_2.5_label_1
 79.037	0.0	video off	4	79037	n/a
 79.488	0.0	resp	3	79488	n/a
-80.028	0.0	video on	5	80028	v_Playing polo_id_wBgU5jXb_V4_start_13.5_label_1
+80.028	0.0	video on	5	80028	n/a
 82.037	0.0	video off	4	82037	n/a
 82.864	0.0	resp	3	82864	n/a
-83.05	0.0	video on	5	83050	v_Using the monkey bar_id_2Ft7Q5NNXhY_start_13.5_label_1
+83.05	0.0	video on	5	83050	n/a
 85.052	0.0	video off	4	85052	n/a
 85.56	0.0	resp	3	85560	n/a
 86.027	0.0	video on	5	86027	v_Mixing drinks_id_TYSfGwh4PZ8_start_155.5_label_1
@@ -96,13 +96,13 @@ onset	duration	trial_type	value	sample	stim_id
 116.026	0.0	video on	5	116026	v_Horseback riding_id_CBnjzj3AKJ8_start_135.0_label_1
 118.036	0.0	video off	4	118036	n/a
 118.457	0.0	resp	3	118457	n/a
-119.026	0.0	video on	5	119026	v_Waxing skis_id_pMsPyAyPMMs_start_73.5_label_1
+119.026	0.0	video on	5	119026	n/a
 121.039	0.0	video off	4	121039	n/a
 121.921	0.0	resp	3	121921	n/a
 122.138	0.0	video on	5	122138	v_Vacuuming floor_id_wWGbAL2jvcs_start_1.0_label_1
 124.147	0.0	video off	4	124147	n/a
 124.641	0.0	resp	3	124641	n/a
-125.027	0.0	video on	5	125027	v_Sharpening knives_id_suPqich636U_start_22.0_label_1
+125.027	0.0	video on	5	125027	n/a
 127.028	0.0	video off	4	127028	n/a
 127.481	0.0	resp	3	127481	n/a
 131.028	0.0	video on	5	131028	v_Baton twirling_id_nz0XQWePVIY_start_15.0_label_1

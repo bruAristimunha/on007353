@@ -12,7 +12,7 @@ onset	duration	trial_type	value	sample	stim_id
 17.424166666666668	0.0	video on	5	20909	v_Mooping floor_id_nj8n6DGlccY_start_39.5_label_1
 19.424166666666668	0.0	video off	4	23309	n/a
 19.746666666666663	0.0	resp	3	23696	n/a
-20.42333333333333	0.0	video on	5	24508	v_Polishing shoes_id_4PiDlYoHrhs_start_95.0_label_1
+20.42333333333333	0.0	video on	5	24508	n/a
 22.42333333333333	0.0	video off	4	26908	n/a
 22.738333333333333	0.0	resp	3	27286	n/a
 26.42333333333333	0.0	video on	5	31708	v_Breakdancing_id_WpWHiMzYBGA_start_32.0_label_1
@@ -128,7 +128,7 @@ onset	duration	trial_type	value	sample	stim_id
 158.4358333333333	0.0	video on	5	190123	v_Playing saxophone_id_-cb2lrAy3_U_start_60.0_label_1
 160.41916666666663	0.0	video off	4	192503	n/a
 160.76416666666665	0.0	resp	3	192917	n/a
-161.4358333333333	0.0	video on	5	193723	v_Playing water polo_id_4ZpnfwnxXxo_start_97.0_label_1
+161.4358333333333	0.0	video on	5	193723	n/a
 163.4358333333333	0.0	video off	4	196123	n/a
 163.59583333333333	0.0	resp	3	196315	n/a
 164.4358333333333	0.0	video on	5	197323	v_Walking the dog_id_V4AxmvtHvvA_start_71.5_label_1
@@ -157,7 +157,7 @@ onset	duration	trial_type	value	sample	stim_id
 194.43416666666667	0.0	video on	5	233321	v_Chopping wood_id_Juwr8ZnGfv8_start_84.5_label_1
 196.4175	0.0	video off	4	235701	n/a
 196.70833333333331	0.0	resp	3	236050	n/a
-197.43416666666667	0.0	video on	5	236921	v_Painting furniture_id_2dgIV27AuIg_start_30.5_label_1
+197.43416666666667	0.0	video on	5	236921	n/a
 199.4675	0.0	video off	4	239361	n/a
 199.78833333333333	0.0	resp	3	239746	n/a
 200.43416666666667	0.0	video on	5	240521	v_Skateboarding_id_npPP-ACxenY_start_111.5_label_1

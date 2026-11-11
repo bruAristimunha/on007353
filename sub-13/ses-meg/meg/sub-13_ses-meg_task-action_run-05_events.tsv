@@ -52,7 +52,7 @@ onset	duration	trial_type	value	sample	stim_id
 70.58666666666667	0.0	video on	5	84704	v_Playing beach volleyball_id_sm1RNUILd-Q_start_2.0_label_1
 72.58666666666667	0.0	video off	4	87104	n/a
 73.03333333333333	0.0	resp	3	87640	n/a
-73.58583333333333	0.0	video on	5	88303	v_Playing polo_id_JpNgIWh_c1c_start_34.0_label_1
+73.58583333333333	0.0	video on	5	88303	n/a
 75.58583333333333	0.0	video off	4	90703	n/a
 76.4175	0.0	resp	3	91701	n/a
 79.58583333333333	0.0	video on	5	95503	v_Triple jump_id_GcEs67jChBk_start_19.0_label_1
@@ -185,7 +185,7 @@ onset	duration	trial_type	value	sample	stim_id
 244.355	0.0	resp	3	293226	n/a
 244.5975	0.0	video on	5	293517	v_Snowboarding_id_s0PoeDTxBlw_start_58.0_label_1
 246.5975	0.0	video off	4	295917	n/a
-247.59666666666664	0.0	video on	5	297116	v_Hand washing clothes_id_pmbO7CYIY5Y_start_11.5_label_1
+247.59666666666664	0.0	video on	5	297116	n/a
 249.59666666666664	0.0	video off	4	299516	n/a
 250.59666666666664	0.0	video on	5	300716	v_Tug of war_id_JzkUPdf45G4_start_18.0_label_1
 252.59666666666664	0.0	video off	4	303116	n/a

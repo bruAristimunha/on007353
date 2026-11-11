@@ -144,7 +144,7 @@ onset	duration	trial_type	value	sample	stim_id
 253.8558333333333	0.0	resp	3	304627	n/a
 254.59916666666663	0.0	video on	5	305519	v_Waxing skis_id_H7mm8J5QpbU_start_118.0_label_1
 256.5991666666667	0.0	video off	4	307919	n/a
-260.5991666666667	0.0	video on	5	312719	v_Painting fence_id_WSQyvFtm2kE_start_27.0_label_1
+260.5991666666667	0.0	video on	5	312719	n/a
 262.6325	0.0	video off	4	315159	n/a
 263.6	0.0	video on	5	316320	v_Spread mulch_id_CA4cPlVIzXo_start_96.0_label_1
 265.64916666666664	0.0	video off	4	318779	n/a

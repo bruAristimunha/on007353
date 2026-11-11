@@ -36,7 +36,7 @@ onset	duration	trial_type	value	sample	stim_id
 64.033	0.0	video off	4	64033	n/a
 65.028	0.0	video on	5	65028	v_Ironing clothes_id_sQlwKa8W0cg_start_61.5_label_1
 67.035	0.0	video off	4	67035	n/a
-68.027	0.0	video on	5	68027	v_Croquet_id_x09nVNm-XEo_start_106.5_label_1
+68.027	0.0	video on	5	68027	n/a
 70.029	0.0	video off	4	70029	n/a
 71.027	0.0	video on	5	71027	v_Dodgeball_id_Msa_ONTPCS4_start_14.5_label_1
 73.037	0.0	video off	4	73037	n/a
@@ -48,7 +48,7 @@ onset	duration	trial_type	value	sample	stim_id
 85.038	0.0	video off	4	85038	n/a
 86.028	0.0	video on	5	86028	v_Using parallel bars_id_kpMkxgRBQYk_start_21.5_label_1
 88.032	0.0	video off	4	88032	n/a
-89.026	0.0	video on	5	89026	v_Putting on shoes_id_7wrw19K_g_M_start_3.0_label_1
+89.026	0.0	video on	5	89026	n/a
 91.03	0.0	video off	4	91030	n/a
 95.027	0.0	video on	5	95027	v_Playing badminton_id_sXfF9Ln6L6M_start_102.0_label_1
 97.028	0.0	video off	4	97028	n/a

@@ -167,7 +167,7 @@ onset	duration	trial_type	value	sample	stim_id
 202.86083333333332	0.0	resp	3	243433	n/a
 206.50833333333333	0.0	video on	5	247810	v_Walking the dog_id_kR8auDBdVeo_start_9.0_label_1
 208.50833333333333	0.0	video off	4	250210	n/a
-209.50833333333333	0.0	video on	5	251410	v_Playing kickball_id_DrPEsy2nMuI_start_17.5_label_1
+209.50833333333333	0.0	video on	5	251410	n/a
 211.50833333333333	0.0	video off	4	253810	n/a
 211.94916666666663	0.0	resp	3	254339	n/a
 212.50833333333333	0.0	video on	5	255010	v_Welding_id_DQe9HkMpOrs_start_78.5_label_1
@@ -254,7 +254,7 @@ onset	duration	trial_type	value	sample	stim_id
 308.505	0.0	video on	5	370206	v_Spread mulch_id_CnYbF9ROZT8_start_13.5_label_1
 310.505	0.0	video off	4	372606	n/a
 311.01416666666665	0.0	resp	3	373217	n/a
-314.50416666666666	0.0	video on	5	377405	v_Polishing forniture_id_AA6nXQMyfhU_start_97.0_label_1
+314.50416666666666	0.0	video on	5	377405	n/a
 316.5541666666667	0.0	video off	4	379865	n/a
 316.8858333333333	0.0	resp	3	380263	n/a
 317.50416666666666	0.0	video on	5	381005	v_Playing saxophone_id_5iyGuaX-7fY_start_227.0_label_1

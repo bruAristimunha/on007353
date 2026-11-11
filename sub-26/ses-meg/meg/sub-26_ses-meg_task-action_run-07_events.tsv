@@ -6,7 +6,7 @@ onset	duration	trial_type	value	sample	stim_id
 11.205833333333333	0.0	video on	5	13447	v_Cheerleading_id__rEFDyzpfIU_start_48.0_label_1
 13.205	0.0	video off	4	15846	n/a
 13.485833333333334	0.0	resp	3	16183	n/a
-14.205	0.0	video on	5	17046	v_Using the monkey bar_id_4M0qz51BIT0_start_51.5_label_1
+14.205	0.0	video on	5	17046	n/a
 16.205	0.0	video off	4	19446	n/a
 16.654166666666665	0.0	resp	3	19985	n/a
 17.205	0.0	video on	5	20646	v_Doing karate_id_C_NaKfb0XuI_start_117.0_label_1
@@ -181,7 +181,7 @@ onset	duration	trial_type	value	sample	stim_id
 230.215	0.0	video on	5	276258	v_Getting a tattoo_id_ym-ahgUhHqc_start_4.5_label_1
 232.215	0.0	video off	4	278658	n/a
 232.6	0.0	resp	3	279120	n/a
-233.215	0.0	video on	5	279858	v_Playing polo_id_S-2AHPehOJk_start_5.0_label_1
+233.215	0.0	video on	5	279858	n/a
 235.215	0.0	video off	4	282258	n/a
 235.48	0.0	resp	3	282576	n/a
 236.215	0.0	video on	5	283458	v_Table soccer_id_jJq-N1UaOxo_start_71.5_label_1
@@ -193,7 +193,7 @@ onset	duration	trial_type	value	sample	stim_id
 245.21416666666667	0.0	video on	5	294257	v_Putting on makeup_id_lT24Z7Kjb4M_start_92.0_label_1
 247.2475	0.0	video off	4	296697	n/a
 247.98416666666665	0.0	resp	3	297581	n/a
-248.2308333333333	0.0	video on	5	297877	v_Doing fencing_id_A_srIUlUH-w_start_18.0_label_1
+248.2308333333333	0.0	video on	5	297877	n/a
 250.21416666666667	0.0	video off	4	300257	n/a
 250.54416666666663	0.0	resp	3	300653	n/a
 251.21416666666667	0.0	video on	5	301457	v_Hopscotch_id_JEr6z_0Z9KI_start_75.0_label_1
@@ -229,7 +229,7 @@ onset	duration	trial_type	value	sample	stim_id
 287.2125	0.0	video on	5	344655	v_Ping-pong_id_KJarbX_-cP8_start_19.5_label_1
 289.24666666666667	0.0	video off	4	347096	n/a
 289.60083333333336	0.0	resp	3	347521	n/a
-290.2125	0.0	video on	5	348255	v_Playing kickball_id_nF8EY7DZuUc_start_4.5_label_1
+290.2125	0.0	video on	5	348255	n/a
 292.2133333333333	0.0	video off	4	350656	n/a
 292.5366666666667	0.0	resp	3	351044	n/a
 296.2125	0.0	video on	5	355455	v_Hand car wash_id_tUEdJKZhvco_start_22.0_label_1
@@ -253,7 +253,7 @@ onset	duration	trial_type	value	sample	stim_id
 319.5933333333333	0.0	resp	3	383512	n/a
 320.21166666666664	0.0	video on	5	384254	v_Playing lacrosse_id_jbGrd6eHeu8_start_39.0_label_1
 322.21166666666664	0.0	video off	4	386654	n/a
-323.21166666666664	0.0	video on	5	387854	v_Croquet_id_N0ZBcPoCEUQ_start_19.5_label_1
+323.21166666666664	0.0	video on	5	387854	n/a
 325.245	0.0	video off	4	390294	n/a
 325.585	0.0	resp	3	390702	n/a
 326.21166666666664	0.0	video on	5	391454	v_Scuba diving_id_fH4UUqjAJGw_start_56.5_label_1

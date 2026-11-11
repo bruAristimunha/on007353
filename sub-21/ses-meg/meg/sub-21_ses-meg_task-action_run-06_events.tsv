@@ -135,7 +135,7 @@ onset	duration	trial_type	value	sample	stim_id
 162.78416666666666	0.0	video on	5	195341	v_Windsurfing_id_BQbB4xhF5-E_start_12.0_label_1
 164.80083333333334	0.0	video off	4	197761	n/a
 165.04166666666666	0.0	resp	3	198050	n/a
-168.80083333333334	0.0	video on	5	202561	v_Playing kickball_id_vkLlIPydOK0_start_74.5_label_1
+168.80083333333334	0.0	video on	5	202561	n/a
 170.80083333333334	0.0	video off	4	204961	n/a
 171.16166666666666	0.0	resp	3	205394	n/a
 171.80083333333334	0.0	video on	5	206161	v_Cricket_id_T6KIttiosV8_start_3.0_label_1
@@ -162,7 +162,7 @@ onset	duration	trial_type	value	sample	stim_id
 195.8	0.0	video on	5	234960	v_Camel ride_id_RPuc_WwvPhA_start_2.5_label_1
 197.8	0.0	video off	4	237360	n/a
 198.07416666666663	0.0	resp	3	237689	n/a
-198.8	0.0	video on	5	238560	v_Painting fence_id_OGBWX_egub0_start_26.5_label_1
+198.8	0.0	video on	5	238560	n/a
 200.8325	0.0	video off	4	240999	n/a
 201.09833333333333	0.0	resp	3	241318	n/a
 204.79916666666668	0.0	video on	5	245759	v_Hand car wash_id_UqBy2OIgOHM_start_50.0_label_1

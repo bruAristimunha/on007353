@@ -24,7 +24,7 @@ onset	duration	trial_type	value	sample	stim_id
 32.64666666666667	0.0	video on	5	39176	v_Playing rubik cube_id_7yS_o5hIfQI_start_84.5_label_1
 34.663333333333334	0.0	video off	4	41596	n/a
 35.07333333333333	0.0	resp	3	42088	n/a
-35.64666666666667	0.0	video on	5	42776	v_Spread mulch_id_hEqkWbAmFR8_start_15.0_label_1
+35.64666666666667	0.0	video on	5	42776	n/a
 37.66333333333333	0.0	video off	4	45196	n/a
 38.0575	0.0	resp	3	45669	n/a
 38.65	0.0	video on	5	46380	v_Zumba_id_F2aTte2CozI_start_16.0_label_1
@@ -42,7 +42,7 @@ onset	duration	trial_type	value	sample	stim_id
 53.6625	0.0	video on	5	64395	v_Fixing bicycle_id_Mlz94AtNJz8_start_97.5_label_1
 55.69583333333333	0.0	video off	4	66835	n/a
 56.08166666666666	0.0	resp	3	67298	n/a
-56.645833333333336	0.0	video on	5	67975	v_Hanging wallpaper_id_k5rmwxit5X0_start_26.5_label_1
+56.645833333333336	0.0	video on	5	67975	n/a
 58.6625	0.0	video off	4	70395	n/a
 59.04166666666666	0.0	resp	3	70850	n/a
 62.645833333333336	0.0	video on	5	75175	v_BMX_id_iEC04_j-Ua4_start_13.5_label_1
@@ -206,7 +206,7 @@ onset	duration	trial_type	value	sample	stim_id
 251.65583333333333	0.0	video on	5	301987	v_Table soccer_id_mlvkFePjQ_w_start_95.0_label_1
 253.65583333333333	0.0	video off	4	304387	n/a
 254.13166666666663	0.0	resp	3	304958	n/a
-254.65583333333333	0.0	video on	5	305587	v_Putting in contact lenses_id_1XmRy05YFuU_start_46.5_label_1
+254.65583333333333	0.0	video on	5	305587	n/a
 256.6558333333333	0.0	video off	4	307987	n/a
 257.1641666666667	0.0	resp	3	308597	n/a
 260.6558333333333	0.0	video on	5	312787	v_Starting a campfire_id_1TAcBNTHQBM_start_138.5_label_1
@@ -242,7 +242,7 @@ onset	duration	trial_type	value	sample	stim_id
 296.65416666666664	0.0	video on	5	355985	v_Canoeing_id_36Yy3z7Y6u4_start_65.0_label_1
 298.65416666666664	0.0	video off	4	358385	n/a
 299.2125	0.0	resp	3	359055	n/a
-299.65416666666664	0.0	video on	5	359585	v_Sumo_id_y-1B9QS7Om8_start_15.5_label_1
+299.65416666666664	0.0	video on	5	359585	n/a
 301.65416666666664	0.0	video off	4	361985	n/a
 302.1641666666667	0.0	resp	3	362597	n/a
 302.65416666666664	0.0	video on	5	363185	v_Rope skipping_id_krk5yFteA_Y_start_7.0_label_1

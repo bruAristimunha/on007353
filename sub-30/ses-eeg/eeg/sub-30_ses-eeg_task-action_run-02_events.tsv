@@ -40,7 +40,7 @@ onset	duration	trial_type	value	sample	stim_id
 50.026	0.0	video on	5	50026	v_Paintball_id_jbYCudf_U9o_start_50.0_label_1
 52.039	0.0	video off	4	52039	n/a
 52.576	0.0	resp	3	52576	n/a
-53.027	0.0	video on	5	53027	v_Polishing forniture_id_NKF1vHA6DaY_start_54.0_label_1
+53.027	0.0	video on	5	53027	n/a
 55.076	0.0	video off	4	55076	n/a
 55.521	0.0	resp	3	55521	n/a
 59.027	0.0	video on	5	59027	v_Shot put_id_qbFjmzKA9Pc_start_64.0_label_1
@@ -76,7 +76,7 @@ onset	duration	trial_type	value	sample	stim_id
 95.027	0.0	video on	5	95027	v_Welding_id_tKdo_cEePLo_start_33.0_label_1
 97.075	0.0	video off	4	97075	n/a
 97.601	0.0	resp	3	97601	n/a
-98.029	0.0	video on	5	98029	v_Cleaning shoes_id_PfWlNm7eyww_start_28.0_label_1
+98.029	0.0	video on	5	98029	n/a
 100.041	0.0	video off	4	100041	n/a
 100.489	0.0	resp	3	100489	n/a
 101.028	0.0	video on	5	101028	v_Throwing darts_id_gKqmP1l58SU_start_6.0_label_1
@@ -85,7 +85,7 @@ onset	duration	trial_type	value	sample	stim_id
 104.027	0.0	video on	5	104027	v_Rope skipping_id_I2gzrevMSfk_start_42.5_label_1
 106.032	0.0	video off	4	106032	n/a
 106.577	0.0	resp	3	106577	n/a
-107.026	0.0	video on	5	107026	v_Croquet_id_zQfGOTT3g64_start_20.0_label_1
+107.026	0.0	video on	5	107026	n/a
 109.036	0.0	video off	4	109036	n/a
 109.569	0.0	resp	3	109569	n/a
 113.027	0.0	video on	5	113027	v_Wrapping presents_id_1TfsN9wZqZU_start_115.5_label_1
@@ -115,7 +115,7 @@ onset	duration	trial_type	value	sample	stim_id
 140.028	0.0	video on	5	140028	v_Windsurfing_id_kSM6k2n0vRk_start_10.5_label_1
 142.04	0.0	video off	4	142040	n/a
 142.545	0.0	resp	3	142545	n/a
-143.028	0.0	video on	5	143028	v_Bathing dog_id_fdqEc7SwUh0_start_161.0_label_1
+143.028	0.0	video on	5	143028	n/a
 145.032	0.0	video off	4	145032	n/a
 145.729	0.0	resp	3	145729	n/a
 149.028	0.0	video on	5	149028	v_Scuba diving_id_mPls1yKo44Y_start_159.0_label_1

@@ -105,7 +105,7 @@ onset	duration	trial_type	value	sample	stim_id
 132.9925	0.0	video on	5	159591	v_Wrapping presents_id_wpt6FhjD8Ao_start_25.0_label_1
 135.00916666666666	0.0	video off	4	162011	n/a
 135.34666666666666	0.0	resp	3	162416	n/a
-135.9925	0.0	video on	5	163191	v_Painting furniture_id_BHAhMfAsUuI_start_105.5_label_1
+135.9925	0.0	video on	5	163191	n/a
 138.00916666666666	0.0	video off	4	165611	n/a
 138.275	0.0	resp	3	165930	n/a
 138.9925	0.0	video on	5	166791	v_Bullfighting_id_kqgtx6PcwiM_start_5.5_label_1
@@ -166,7 +166,7 @@ onset	duration	trial_type	value	sample	stim_id
 208.00666666666663	0.0	video on	5	249608	v_Knitting_id_2ajVExM5Wqc_start_34.0_label_1
 210.00666666666663	0.0	video off	4	252008	n/a
 210.0675	0.0	resp	3	252081	n/a
-211.00666666666663	0.0	video on	5	253208	v_Bathing dog_id_ZrtUHx_ghJY_start_11.5_label_1
+211.00666666666663	0.0	video on	5	253208	n/a
 213.00666666666663	0.0	video off	4	255608	n/a
 213.2275	0.0	resp	3	255873	n/a
 214.00666666666663	0.0	video on	5	256808	v_Rollerblading_id_PdQ8g5jv9Eg_start_43.0_label_1
@@ -175,7 +175,7 @@ onset	duration	trial_type	value	sample	stim_id
 217.00666666666663	0.0	video on	5	260408	v_Playing squash_id_-zT3f4QkiAU_start_34.5_label_1
 219.00666666666663	0.0	video off	4	262808	n/a
 219.34	0.0	resp	3	263208	n/a
-223.00666666666663	0.0	video on	5	267608	v_Playing polo_id_m0K3Nsjluxc_start_12.0_label_1
+223.00666666666663	0.0	video on	5	267608	n/a
 225.00583333333333	0.0	video off	4	270007	n/a
 225.2275	0.0	resp	3	270273	n/a
 226.00583333333333	0.0	video on	5	271207	v_Spread mulch_id_r7EpQxIaedY_start_65.5_label_1
@@ -237,7 +237,7 @@ onset	duration	trial_type	value	sample	stim_id
 295.00416666666666	0.0	video on	5	354005	v_Snatch_id_vfFANxMwMh8_start_6.0_label_1
 297.00416666666666	0.0	video off	4	356405	n/a
 297.3566666666667	0.0	resp	3	356828	n/a
-298.00333333333333	0.0	video on	5	357604	v_Using the balance beam_id_gZclL45Ww-Y_start_7.0_label_1
+298.00333333333333	0.0	video on	5	357604	n/a
 300.00416666666666	0.0	video off	4	360005	n/a
 300.3808333333333	0.0	resp	3	360457	n/a
 301.00333333333333	0.0	video on	5	361204	v_Cleaning windows_id_Vu_a5om1yVw_start_21.0_label_1

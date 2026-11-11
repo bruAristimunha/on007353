@@ -1,6 +1,6 @@
 onset	duration	trial_type	value	sample	stim_id
 0.0	0.0	begin	1	0	n/a
-0.5	0.0	video on	5	500	v_Putting on shoes_id_kDZnUjXMr4A_start_42.5_label_1
+0.5	0.0	video on	5	500	n/a
 2.502	0.0	video off	4	2502	n/a
 2.822	0.0	resp	3	2822	n/a
 3.494	0.0	video on	5	3494	v_Playing accordion_id_GiuQqZUvDRs_start_0.5_label_1
@@ -104,7 +104,7 @@ onset	duration	trial_type	value	sample	stim_id
 126.495	0.0	video on	5	126495	v_Cleaning windows_id_dk6mEZuYd_0_start_28.5_label_1
 128.49	0.0	video off	4	128490	n/a
 128.863	0.0	resp	3	128863	n/a
-129.495	0.0	video on	5	129495	v_Preparing pasta_id_VGXNuaYloPw_start_70.0_label_1
+129.495	0.0	video on	5	129495	n/a
 131.502	0.0	video off	4	131502	n/a
 132.023	0.0	resp	3	132023	n/a
 132.497	0.0	video on	5	132497	v_Walking the dog_id_-p288FKdSlg_start_85.0_label_1
@@ -161,7 +161,7 @@ onset	duration	trial_type	value	sample	stim_id
 198.496	0.0	video on	5	198496	v_Shot put_id_Cy2lgwuOHNo_start_68.5_label_1
 200.5	0.0	video off	4	200500	n/a
 201.21	0.0	resp	3	201210	n/a
-201.496	0.0	video on	5	201496	v_Using the monkey bar_id_aAGlEZYWm8M_start_24.5_label_1
+201.496	0.0	video on	5	201496	n/a
 203.497	0.0	video off	4	203497	n/a
 203.831	0.0	resp	3	203831	n/a
 204.497	0.0	video on	5	204497	v_Bathing dog_id_FVXeoNIJyRI_start_44.5_label_1
@@ -179,7 +179,7 @@ onset	duration	trial_type	value	sample	stim_id
 219.495	0.0	video on	5	219495	v_Making a lemonade_id_KfQBtytzQws_start_136.0_label_1
 221.499	0.0	video off	4	221499	n/a
 222.296	0.0	resp	3	222296	n/a
-222.497	0.0	video on	5	222497	v_Playing kickball_id_Po5Vchcx7BQ_start_61.5_label_1
+222.497	0.0	video on	5	222497	n/a
 224.491	0.0	video off	4	224491	n/a
 224.968	0.0	resp	3	224968	n/a
 225.495	0.0	video on	5	225495	v_Kneeling_id_lXTIgmTUXio_start_14.5_label_1
@@ -203,10 +203,10 @@ onset	duration	trial_type	value	sample	stim_id
 246.496	0.0	video on	5	246496	v_Painting_id_xMEI6wR7_UQ_start_109.5_label_1
 248.499	0.0	video off	4	248499	n/a
 249.144	0.0	resp	3	249144	n/a
-252.501	0.0	video on	5	252501	v_Cleaning shoes_id_mRlBVxeEA0k_start_35.5_label_1
+252.501	0.0	video on	5	252501	n/a
 254.5	0.0	video off	4	254500	n/a
 254.936	0.0	resp	3	254936	n/a
-255.496	0.0	video on	5	255496	v_Spread mulch_id__w9ThbrQCb4_start_138.0_label_1
+255.496	0.0	video on	5	255496	n/a
 257.495	0.0	video off	4	257495	n/a
 257.944	0.0	resp	3	257944	n/a
 258.496	0.0	video on	5	258496	v_Using the pommel horse_id_oNRacs6vv-w_start_17.0_label_1

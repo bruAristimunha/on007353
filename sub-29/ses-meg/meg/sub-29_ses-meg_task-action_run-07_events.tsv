@@ -221,7 +221,7 @@ onset	duration	trial_type	value	sample	stim_id
 269.4208333333333	0.0	video on	5	323305	v_Using the pommel horse_id_SxtGhRpbETM_start_26.5_label_1
 271.40416666666664	0.0	video off	4	325685	n/a
 271.8041666666667	0.0	resp	3	326165	n/a
-272.4208333333333	0.0	video on	5	326905	v_Putting on shoes_id_6GStLF21lfY_start_179.0_label_1
+272.4208333333333	0.0	video on	5	326905	n/a
 274.40416666666664	0.0	video off	4	329285	n/a
 274.7725	0.0	resp	3	329727	n/a
 278.4208333333333	0.0	video on	5	334105	v_Playing congas_id_S27g-PHVZCY_start_99.5_label_1
@@ -248,7 +248,7 @@ onset	duration	trial_type	value	sample	stim_id
 302.42	0.0	video on	5	362904	v_Ping-pong_id_E3EL5Ixx4to_start_81.5_label_1
 304.42	0.0	video off	4	365304	n/a
 304.8283333333333	0.0	resp	3	365794	n/a
-305.42	0.0	video on	5	366504	v_Cleaning shoes_id_Jl7V1LWZo3A_start_15.0_label_1
+305.42	0.0	video on	5	366504	n/a
 307.43666666666667	0.0	video off	4	368924	n/a
 307.885	0.0	resp	3	369462	n/a
 308.42	0.0	video on	5	370104	v_Calf roping_id_hCFia7A9rE4_start_9.0_label_1

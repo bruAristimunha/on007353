@@ -227,7 +227,7 @@ onset	duration	trial_type	value	sample	stim_id
 356.561	0.0	video on	5	356561	v_Archery_id_DlE9_FLGtyQ_start_12.5_label_1
 358.57	0.0	video off	4	358570	n/a
 359.52	0.0	resp	3	359520	n/a
-359.657	0.0	video on	5	359657	v_Using the balance beam_id_orKT0cWtKUs_start_0.5_label_1
+359.657	0.0	video on	5	359657	n/a
 361.667	0.0	video off	4	361667	n/a
 362.565	0.0	video on	5	362565	v_Breakdancing_id_XwNFt0Av3j4_start_12.5_label_1
 364.578	0.0	video off	4	364578	n/a
@@ -250,7 +250,7 @@ onset	duration	trial_type	value	sample	stim_id
 389.563	0.0	video on	5	389563	v_Cleaning sink_id_fo2q9q1DlbU_start_157.0_label_1
 391.583	0.0	video off	4	391583	n/a
 392.392	0.0	resp	3	392392	n/a
-392.563	0.0	video on	5	392563	v_Waxing skis_id_JuQi-uMVas4_start_36.5_label_1
+392.563	0.0	video on	5	392563	n/a
 394.565	0.0	video off	4	394565	n/a
 395.024	0.0	resp	3	395024	n/a
 395.564	0.0	video on	5	395564	v_Beach soccer_id_gbw9oP8bx_Q_start_40.0_label_1

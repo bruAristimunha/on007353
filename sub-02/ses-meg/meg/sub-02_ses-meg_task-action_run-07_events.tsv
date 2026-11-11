@@ -42,7 +42,7 @@ onset	duration	trial_type	value	sample	stim_id
 56.08916666666666	0.0	video on	5	67307	v_Long jump_id_bWx1d0JVd_M_start_8.0_label_1
 58.08916666666666	0.0	video off	4	69707	n/a
 58.395	0.0	resp	3	70074	n/a
-62.08916666666666	0.0	video on	5	74507	v_Putting on shoes_id_00vlI_I7r5o_start_42.0_label_1
+62.08916666666666	0.0	video on	5	74507	n/a
 64.08916666666667	0.0	video off	4	76907	n/a
 64.5875	0.0	resp	3	77505	n/a
 65.08833333333334	0.0	video on	5	78106	v_Playing badminton_id_Zq2FIEcazBQ_start_12.0_label_1
@@ -143,7 +143,7 @@ onset	duration	trial_type	value	sample	stim_id
 179.10166666666666	0.0	video on	5	214922	v_Blow-drying hair_id_xiz-62gu6Js_start_55.5_label_1
 181.10166666666663	0.0	video off	4	217322	n/a
 181.54083333333327	0.0	resp	3	217849	n/a
-182.10166666666663	0.0	video on	5	218522	v_Using the rowing machine_id_0c3sivWZg9Y_start_8.5_label_1
+182.10166666666663	0.0	video on	5	218522	n/a
 184.10166666666663	0.0	video off	4	220922	n/a
 184.67666666666668	0.0	resp	3	221612	n/a
 188.10166666666663	0.0	video on	5	225722	v_Doing fencing_id_bTprJoEPFTU_start_85.5_label_1
@@ -237,7 +237,7 @@ onset	duration	trial_type	value	sample	stim_id
 292.5258333333333	0.0	resp	3	351031	n/a
 296.0975	0.0	video on	5	355317	v_Plataform diving_id_8PJi5j2CRNY_start_14.0_label_1
 298.0975	0.0	video off	4	357717	n/a
-299.0975	0.0	video on	5	358917	v_Painting fence_id_lB8n7BzfCzI_start_13.0_label_1
+299.0975	0.0	video on	5	358917	n/a
 301.1141666666667	0.0	video off	4	361337	n/a
 301.5575	0.0	resp	3	361869	n/a
 302.0975	0.0	video on	5	362517	v_Playing lacrosse_id_pryybrj4f7g_start_128.0_label_1
@@ -260,6 +260,6 @@ onset	duration	trial_type	value	sample	stim_id
 323.0966666666667	0.0	video on	5	387716	v_Riding bumper cars_id_2aNUppxvajc_start_106.0_label_1
 325.0966666666667	0.0	video off	4	390116	n/a
 325.63	0.0	resp	3	390756	n/a
-326.0966666666667	0.0	video on	5	391316	v_Sumo_id_8b762RnaK_U_start_47.5_label_1
+326.0966666666667	0.0	video on	5	391316	n/a
 328.14666666666665	0.0	video off	4	393776	n/a
 333.1816666666667	0.0	end	2	399818	n/a

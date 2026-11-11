@@ -55,7 +55,7 @@ onset	duration	trial_type	value	sample	stim_id
 67.124	0.0	video off	4	67124	n/a
 68.027	0.0	video on	5	68027	v_Cheerleading_id_RNgH965E9w8_start_14.0_label_1
 70.036	0.0	video off	4	70036	n/a
-71.027	0.0	video on	5	71027	v_Fixing the roof_id_C0BxGqbaQVE_start_1.0_label_1
+71.027	0.0	video on	5	71027	n/a
 73.055	0.0	video off	4	73055	n/a
 73.624	0.0	resp	3	73624	n/a
 77.027	0.0	video on	5	77027	v_Knitting_id_8ByKeqjuTrA_start_107.0_label_1
@@ -162,7 +162,7 @@ onset	duration	trial_type	value	sample	stim_id
 197.028	0.0	video on	5	197028	v_Camel ride_id_hghT6yVhQJc_start_90.0_label_1
 199.029	0.0	video off	4	199029	n/a
 199.634	0.0	resp	3	199634	n/a
-203.028	0.0	video on	5	203028	v_Putting on shoes_id_7wrw19K_g_M_start_6.5_label_1
+203.028	0.0	video on	5	203028	n/a
 205.028	0.0	video off	4	205028	n/a
 205.906	0.0	resp	3	205906	n/a
 206.099	0.0	video on	5	206099	v_Plastering_id_B_aOSaNWHm0_start_113.5_label_1
@@ -208,7 +208,7 @@ onset	duration	trial_type	value	sample	stim_id
 257.028	0.0	video on	5	257028	v_Ping-pong_id_anvzwb0t8zo_start_43.0_label_1
 259.035	0.0	video off	4	259035	n/a
 259.898	0.0	resp	3	259898	n/a
-260.114	0.0	video on	5	260114	v_Polishing forniture_id_8HxC_gj6F_0_start_92.0_label_1
+260.114	0.0	video on	5	260114	n/a
 262.16	0.0	video off	4	262160	n/a
 262.674	0.0	resp	3	262674	n/a
 263.028	0.0	video on	5	263028	v_Raking leaves_id_39JUV_juIWM_start_8.5_label_1

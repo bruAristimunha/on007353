@@ -45,7 +45,7 @@ onset	duration	trial_type	value	sample	stim_id
 55.91666666666666	0.0	video on	5	67100	v_Bullfighting_id_wXlbmVZWzPE_start_36.0_label_1
 57.91666666666666	0.0	video off	4	69500	n/a
 58.3425	0.0	resp	3	70011	n/a
-61.91666666666666	0.0	video on	5	74300	v_Polishing forniture_id_2dxxCHuwiN8_start_22.0_label_1
+61.91666666666666	0.0	video on	5	74300	n/a
 63.95	0.0	video off	4	76740	n/a
 64.23083333333334	0.0	resp	3	77077	n/a
 64.91666666666667	0.0	video on	5	77900	v_Beer pong_id_QvRP8BToES4_start_33.0_label_1
@@ -86,7 +86,7 @@ onset	duration	trial_type	value	sample	stim_id
 106.915	0.0	video on	5	128298	v_Discus throw_id_e6ldOwQ3kZc_start_3.0_label_1
 108.915	0.0	video off	4	130698	n/a
 109.2075	0.0	resp	3	131049	n/a
-109.915	0.0	video on	5	131898	v_Putting on shoes_id_mvT4j4KLv6g_start_26.5_label_1
+109.915	0.0	video on	5	131898	n/a
 111.94833333333334	0.0	video off	4	134338	n/a
 112.23916666666666	0.0	resp	3	134687	n/a
 115.915	0.0	video on	5	139098	v_Playing blackjack_id_AOrk7xf6HM8_start_168.5_label_1
@@ -146,7 +146,7 @@ onset	duration	trial_type	value	sample	stim_id
 178.92916666666667	0.0	video on	5	214715	v_Horseback riding_id_DVRf3ECLYtg_start_16.0_label_1
 180.92916666666667	0.0	video off	4	217115	n/a
 181.24	0.0	resp	3	217488	n/a
-181.92916666666667	0.0	video on	5	218315	v_Fun sliding down_id_oV27az9VKbk_start_8.5_label_1
+181.92916666666667	0.0	video on	5	218315	n/a
 183.9125	0.0	video off	4	220695	n/a
 184.20833333333331	0.0	resp	3	221050	n/a
 187.92916666666667	0.0	video on	5	225515	v_Trimming branches or hedges_id_Rq4dvtrTZ0A_start_22.5_label_1
@@ -231,7 +231,7 @@ onset	duration	trial_type	value	sample	stim_id
 283.92583333333334	0.0	video on	5	340711	v_Drum corps_id_napxAANOqZ8_start_18.0_label_1
 285.9425	0.0	video off	4	343131	n/a
 286.2808333333333	0.0	resp	3	343537	n/a
-286.92583333333334	0.0	video on	5	344311	v_Fixing the roof_id__qTeGISQuzY_start_8.0_label_1
+286.92583333333334	0.0	video on	5	344311	n/a
 288.9425	0.0	video off	4	346731	n/a
 289.2575	0.0	resp	3	347109	n/a
 289.92583333333334	0.0	video on	5	347911	v_Dodgeball_id_L3X9FYu-MEQ_start_46.0_label_1

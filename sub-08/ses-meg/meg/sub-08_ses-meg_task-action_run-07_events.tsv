@@ -47,7 +47,7 @@ onset	duration	trial_type	value	sample	stim_id
 61.4	0.0	video on	5	73680	v_Playing violin_id_9dGJDFrFscE_start_6.5_label_1
 63.4	0.0	video off	4	76080	n/a
 63.72916666666666	0.0	resp	3	76475	n/a
-64.4	0.0	video on	5	77280	v_Hanging wallpaper_id_NWJHd684s64_start_15.5_label_1
+64.4	0.0	video on	5	77280	n/a
 66.4	0.0	video off	4	79680	n/a
 66.705	0.0	resp	3	80046	n/a
 67.4	0.0	video on	5	80880	v_Elliptical trainer_id_MOzWjrig_Do_start_52.5_label_1
@@ -80,7 +80,7 @@ onset	duration	trial_type	value	sample	stim_id
 100.39833333333333	0.0	video on	5	120478	v_Making a cake_id_GjYHatiHlyg_start_35.5_label_1
 102.415	0.0	video off	4	122898	n/a
 102.7775	0.0	resp	3	123333	n/a
-103.39833333333333	0.0	video on	5	124078	v_Preparing pasta_id_jMDnDsCssv8_start_96.5_label_1
+103.39833333333333	0.0	video on	5	124078	n/a
 105.44833333333334	0.0	video off	4	126538	n/a
 105.83333333333331	0.0	resp	3	127000	n/a
 106.39833333333333	0.0	video on	5	127678	v_Doing fencing_id_l2AgWuqXVqE_start_48.5_label_1

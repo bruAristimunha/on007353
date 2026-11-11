@@ -30,7 +30,7 @@ onset	duration	trial_type	value	sample	stim_id
 74.168	0.0	video on	5	74168	v_Camel ride_id_vuYS3yvznj0_start_4.0_label_1
 76.176	0.0	video off	4	76176	n/a
 76.589	0.0	resp	3	76589	n/a
-80.167	0.0	video on	5	80167	v_Putting on shoes_id_mvT4j4KLv6g_start_43.5_label_1
+80.167	0.0	video on	5	80167	n/a
 82.213	0.0	video off	4	82213	n/a
 82.693	0.0	resp	3	82693	n/a
 83.168	0.0	video on	5	83168	v_Making an omelette_id_n6i8Ru-a8i4_start_110.5_label_1
@@ -54,7 +54,7 @@ onset	duration	trial_type	value	sample	stim_id
 104.167	0.0	video on	5	104167	v_Mixing drinks_id_5caIC8yC_i8_start_53.5_label_1
 106.167	0.0	video off	4	106167	n/a
 107.006	0.0	resp	3	107006	n/a
-107.167	0.0	video on	5	107167	v_Starting a campfire_id_QDuJeTFTQfU_start_77.5_label_1
+107.167	0.0	video on	5	107167	n/a
 109.167	0.0	video off	4	109167	n/a
 109.87	0.0	resp	3	109870	n/a
 110.167	0.0	video on	5	110167	v_Using the rowing machine_id_o5j6N8O6HS4_start_15.5_label_1
@@ -228,7 +228,7 @@ onset	duration	trial_type	value	sample	stim_id
 320.168	0.0	video on	5	320168	v_Playing rubik cube_id_M4cxhVV8eBo_start_29.0_label_1
 322.188	0.0	video off	4	322188	n/a
 322.879	0.0	resp	3	322879	n/a
-323.17	0.0	video on	5	323170	v_Painting furniture_id_BHAhMfAsUuI_start_104.0_label_1
+323.17	0.0	video on	5	323170	n/a
 325.176	0.0	video off	4	325176	n/a
 326.168	0.0	video on	5	326168	v_Smoking hookah_id_1D7iddqIIhM_start_11.5_label_1
 328.171	0.0	video off	4	328171	n/a

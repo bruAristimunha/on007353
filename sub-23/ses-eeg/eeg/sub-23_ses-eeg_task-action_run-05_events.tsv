@@ -1,6 +1,6 @@
 onset	duration	trial_type	value	sample	stim_id
 0.0	0.0	begin	1	0	n/a
-5.029	0.0	video on	5	5029	v_Using the monkey bar_id_aAGlEZYWm8M_start_61.5_label_1
+5.029	0.0	video on	5	5029	n/a
 7.032	0.0	video off	4	7032	n/a
 7.48	0.0	resp	3	7480	n/a
 8.027	0.0	video on	5	8027	v_Sharpening knives_id_J-WTLfiD-9A_start_72.0_label_1
@@ -15,7 +15,7 @@ onset	duration	trial_type	value	sample	stim_id
 17.027	0.0	video on	5	17027	v_Longboarding_id_d5p4BxCB8d8_start_15.5_label_1
 19.017	0.0	video off	4	19017	n/a
 19.44	0.0	resp	3	19440	n/a
-23.028	0.0	video on	5	23028	v_Preparing pasta_id_hXzO6O5a3O8_start_201.0_label_1
+23.028	0.0	video on	5	23028	n/a
 25.033	0.0	video off	4	25033	n/a
 25.353	0.0	resp	3	25353	n/a
 26.028	0.0	video on	5	26028	v_Shuffleboard_id_glPMT-2IZuw_start_40.5_label_1
@@ -108,7 +108,7 @@ onset	duration	trial_type	value	sample	stim_id
 131.029	0.0	video on	5	131029	v_Playing field hockey_id_IBAlWgQhOCY_start_58.5_label_1
 133.037	0.0	video off	4	133037	n/a
 133.146	0.0	resp	3	133146	n/a
-134.029	0.0	video on	5	134029	v_Putting on shoes_id_7ew1SjrDx-s_start_37.5_label_1
+134.029	0.0	video on	5	134029	n/a
 136.04	0.0	video off	4	136040	n/a
 136.538	0.0	resp	3	136538	n/a
 137.03	0.0	video on	5	137030	v_Waterskiing_id__kxFkfhVSiE_start_98.5_label_1

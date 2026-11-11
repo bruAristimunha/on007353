@@ -166,7 +166,7 @@ onset	duration	trial_type	value	sample	stim_id
 206.028	0.0	video on	5	206028	v_Rock climbing_id_W9Hyot_Plmw_start_61.0_label_1
 208.04	0.0	video off	4	208040	n/a
 208.874	0.0	resp	3	208874	n/a
-209.09	0.0	video on	5	209090	v_Cleaning sink_id_oXZbVBa1Ojg_start_56.0_label_1
+209.09	0.0	video on	5	209090	n/a
 211.094	0.0	video off	4	211094	n/a
 212.027	0.0	video on	5	212027	v_Fixing bicycle_id_E0U3v4WLuEA_start_11.5_label_1
 214.041	0.0	video off	4	214041	n/a
@@ -182,7 +182,7 @@ onset	duration	trial_type	value	sample	stim_id
 227.027	0.0	video on	5	227027	v_Sharpening knives_id_j4LAw2zUGoI_start_39.5_label_1
 229.04	0.0	video off	4	229040	n/a
 229.634	0.0	resp	3	229634	n/a
-230.029	0.0	video on	5	230029	v_Putting on shoes_id_7ew1SjrDx-s_start_33.0_label_1
+230.029	0.0	video on	5	230029	n/a
 232.07	0.0	video off	4	232070	n/a
 232.578	0.0	resp	3	232578	n/a
 233.029	0.0	video on	5	233029	v_Paintball_id_kFI9WHdKhmY_start_12.0_label_1

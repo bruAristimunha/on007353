@@ -21,7 +21,7 @@ onset	duration	trial_type	value	sample	stim_id
 29.865	0.0	video on	5	35838	v_Waterskiing_id_aniB25GLeIg_start_16.5_label_1
 31.881666666666668	0.0	video off	4	38258	n/a
 32.65	0.0	resp	3	39180	n/a
-32.865	0.0	video on	5	39438	v_Preparing pasta_id_jMDnDsCssv8_start_190.0_label_1
+32.865	0.0	video on	5	39438	n/a
 34.915	0.0	video off	4	41898	n/a
 35.37833333333333	0.0	resp	3	42454	n/a
 35.865	0.0	video on	5	43038	v_Using the monkey bar_id_NiQB6BJe7j4_start_162.0_label_1
@@ -176,7 +176,7 @@ onset	duration	trial_type	value	sample	stim_id
 218.87583333333333	0.0	video on	5	262651	v_Rock climbing_id_hnDLLpN0aac_start_150.0_label_1
 220.87583333333333	0.0	video off	4	265051	n/a
 221.2758333333333	0.0	resp	3	265531	n/a
-224.87583333333333	0.0	video on	5	269851	v_Bathing dog_id_dCxr0SCMO_M_start_67.5_label_1
+224.87583333333333	0.0	video on	5	269851	n/a
 226.85916666666665	0.0	video off	4	272231	n/a
 227.18833333333333	0.0	resp	3	272626	n/a
 227.87583333333333	0.0	video on	5	273451	v_Making a sandwich_id_zehwRi1Egc4_start_118.0_label_1

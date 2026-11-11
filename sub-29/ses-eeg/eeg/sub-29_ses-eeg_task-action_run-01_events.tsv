@@ -39,13 +39,13 @@ onset	duration	trial_type	value	sample	stim_id
 42.499	0.0	video on	5	42499	v_Shoveling snow_id_fwinT8xRHfI_start_105.5_label_1
 44.509	0.0	video off	4	44509	n/a
 45.384	0.0	resp	3	45384	n/a
-45.52	0.0	video on	5	45520	v_Using uneven bars_id_8iUUI_jtL1o_start_18.5_label_1
+45.52	0.0	video on	5	45520	n/a
 47.561	0.0	video off	4	47561	n/a
 48.024	0.0	resp	3	48024	n/a
 48.5	0.0	video on	5	48500	v_Doing crunches_id_p9XmtGoHPAg_start_71.5_label_1
 50.509	0.0	video off	4	50509	n/a
 50.928	0.0	resp	3	50928	n/a
-54.499	0.0	video on	5	54499	v_Croquet_id__G1CBu7eaZg_start_23.0_label_1
+54.499	0.0	video on	5	54499	n/a
 56.498	0.0	video off	4	56498	n/a
 56.978	0.0	resp	3	56978	n/a
 57.499	0.0	video on	5	57499	v_Rope skipping_id_eYenApQlzjU_start_44.0_label_1
@@ -87,7 +87,7 @@ onset	duration	trial_type	value	sample	stim_id
 99.5	0.0	video on	5	99500	v_Rock-paper-scissors_id_5WMPCXuVLwc_start_13.0_label_1
 101.508	0.0	video off	4	101508	n/a
 101.984	0.0	resp	3	101984	n/a
-102.5	0.0	video on	5	102500	v_Painting fence_id_MJ13GfIH0JY_start_36.0_label_1
+102.5	0.0	video on	5	102500	n/a
 104.508	0.0	video off	4	104508	n/a
 105.112	0.0	resp	3	105112	n/a
 108.5	0.0	video on	5	108500	v_Smoking a cigarette_id_7ABqMQWaxqE_start_40.5_label_1
@@ -112,10 +112,10 @@ onset	duration	trial_type	value	sample	stim_id
 132.501	0.0	video on	5	132501	v_Horseback riding_id_p_PLzKaoNj8_start_73.5_label_1
 134.508	0.0	video off	4	134508	n/a
 135.233	0.0	resp	3	135233	n/a
-135.5	0.0	video on	5	135500	v_Spread mulch_id_bXBCK3dRDs8_start_134.5_label_1
+135.5	0.0	video on	5	135500	n/a
 137.508	0.0	video off	4	137508	n/a
 138.201	0.0	resp	3	138201	n/a
-138.501	0.0	video on	5	138501	v_Using the balance beam_id_DScOSAwwqX0_start_8.0_label_1
+138.501	0.0	video on	5	138501	n/a
 140.508	0.0	video off	4	140508	n/a
 141.057	0.0	resp	3	141057	n/a
 144.5	0.0	video on	5	144500	v_Preparing salad_id_AJjoABeS34Q_start_104.5_label_1
@@ -184,7 +184,7 @@ onset	duration	trial_type	value	sample	stim_id
 219.502	0.0	video on	5	219502	v_Ping-pong_id_CyJym8ky4H0_start_17.5_label_1
 221.504	0.0	video off	4	221504	n/a
 221.937	0.0	resp	3	221937	n/a
-222.501	0.0	video on	5	222501	v_Using the monkey bar_id_Fnz1P56mAI0_start_21.0_label_1
+222.501	0.0	video on	5	222501	n/a
 224.505	0.0	video off	4	224505	n/a
 225.049	0.0	resp	3	225049	n/a
 225.5	0.0	video on	5	225500	v_Waterskiing_id_VekBDyWT1GY_start_15.5_label_1

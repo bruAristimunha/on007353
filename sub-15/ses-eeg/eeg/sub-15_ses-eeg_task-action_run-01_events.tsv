@@ -1,6 +1,6 @@
 onset	duration	trial_type	value	sample	stim_id
 0.0	0.0	begin	1	0	n/a
-0.5	0.0	video on	5	500	v_Playing polo_id_o2K9hmeqxAA_start_1.5_label_1
+0.5	0.0	video on	5	500	n/a
 2.511	0.0	video off	4	2511	n/a
 3.465	0.0	resp	3	3465	n/a
 3.577	0.0	video on	5	3577	v_Polishing forniture_id_Ke29p3rcs1k_start_80.5_label_1
@@ -44,7 +44,7 @@ onset	duration	trial_type	value	sample	stim_id
 48.498	0.0	video on	5	48498	v_Doing nails_id_v_H-LniZ7PI_start_0.5_label_1
 50.502	0.0	video off	4	50502	n/a
 50.897	0.0	resp	3	50897	n/a
-54.498	0.0	video on	5	54498	v_Hand car wash_id_tLkMQOiRDcI_start_68.0_label_1
+54.498	0.0	video on	5	54498	n/a
 56.503	0.0	video off	4	56503	n/a
 57.001	0.0	resp	3	57001	n/a
 57.498	0.0	video on	5	57498	v_Throwing darts_id_DdKVN9JcA2s_start_4.5_label_1
@@ -137,7 +137,7 @@ onset	duration	trial_type	value	sample	stim_id
 162.501	0.0	video on	5	162501	v_Spinning_id_kV3cvPkToNA_start_15.5_label_1
 164.512	0.0	video off	4	164512	n/a
 165.146	0.0	resp	3	165146	n/a
-165.5	0.0	video on	5	165500	v_Hanging wallpaper_id_NH7BPL5loEI_start_45.0_label_1
+165.5	0.0	video on	5	165500	n/a
 167.513	0.0	video off	4	167513	n/a
 168.066	0.0	resp	3	168066	n/a
 168.499	0.0	video on	5	168499	v_Playing accordion_id_gzqBmZKPit8_start_3.0_label_1
@@ -146,7 +146,7 @@ onset	duration	trial_type	value	sample	stim_id
 171.502	0.0	video on	5	171502	v_Chopping wood_id_f1mU_ivlFQA_start_50.5_label_1
 173.507	0.0	video off	4	173507	n/a
 173.922	0.0	resp	3	173922	n/a
-174.501	0.0	video on	5	174501	v_Playing kickball_id_vWWzgNkxffc_start_16.5_label_1
+174.501	0.0	video on	5	174501	n/a
 176.509	0.0	video off	4	176509	n/a
 176.906	0.0	resp	3	176906	n/a
 180.5	0.0	video on	5	180500	v_Running a marathon_id_3b5_bAQvdT4_start_19.0_label_1
@@ -173,7 +173,7 @@ onset	duration	trial_type	value	sample	stim_id
 204.501	0.0	video on	5	204501	v_Preparing pasta_id_IiOagPSsUrI_start_24.5_label_1
 206.501	0.0	video off	4	206501	n/a
 207.018	0.0	resp	3	207018	n/a
-207.501	0.0	video on	5	207501	v_Painting fence_id_w_RjdRkdrz8_start_11.5_label_1
+207.501	0.0	video on	5	207501	n/a
 209.515	0.0	video off	4	209515	n/a
 209.882	0.0	resp	3	209882	n/a
 210.501	0.0	video on	5	210501	v_Clean and jerk_id_Zb9EQoVV4UE_start_9.0_label_1

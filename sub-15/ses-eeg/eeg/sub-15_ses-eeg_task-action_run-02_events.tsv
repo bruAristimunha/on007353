@@ -27,7 +27,7 @@ onset	duration	trial_type	value	sample	stim_id
 32.028	0.0	video on	5	32028	v_Grooming horse_id_ubLA5maDVgA_start_137.0_label_1
 34.038	0.0	video off	4	34038	n/a
 34.656	0.0	resp	3	34656	n/a
-35.029	0.0	video on	5	35029	v_Putting on shoes_id_75qwD6Am5V8_start_17.5_label_1
+35.029	0.0	video on	5	35029	n/a
 37.034	0.0	video off	4	37034	n/a
 37.512	0.0	resp	3	37512	n/a
 41.029	0.0	video on	5	41029	v_Dodgeball_id_jbwe_tkjeHM_start_71.5_label_1
@@ -63,7 +63,7 @@ onset	duration	trial_type	value	sample	stim_id
 77.028	0.0	video on	5	77028	v_Getting a tattoo_id_KKNcIkXDD5o_start_173.0_label_1
 79.03	0.0	video off	4	79030	n/a
 79.801	0.0	resp	3	79801	n/a
-80.028	0.0	video on	5	80028	v_Using the rowing machine_id_ItYhyEMt0qg_start_194.5_label_1
+80.028	0.0	video on	5	80028	n/a
 82.033	0.0	video off	4	82033	n/a
 82.721	0.0	resp	3	82721	n/a
 83.029	0.0	video on	5	83029	v_Painting_id_SUphd7ZOCyY_start_60.0_label_1
@@ -126,7 +126,7 @@ onset	duration	trial_type	value	sample	stim_id
 152.029	0.0	video on	5	152029	v_Doing crunches_id_l9tP0Gar6eM_start_32.0_label_1
 154.071	0.0	video off	4	154071	n/a
 154.601	0.0	resp	3	154601	n/a
-155.059	0.0	video on	5	155059	v_Bathing dog_id_VeJ8TxgbQ0A_start_65.0_label_1
+155.059	0.0	video on	5	155059	n/a
 157.101	0.0	video off	4	157101	n/a
 157.641	0.0	resp	3	157641	n/a
 158.029	0.0	video on	5	158029	v_Playing flauta_id_Sxx8o8Qf8tk_start_31.0_label_1
@@ -199,7 +199,7 @@ onset	duration	trial_type	value	sample	stim_id
 242.029	0.0	video on	5	242029	v_Playing squash_id_cXQ6n_eziJE_start_6.5_label_1
 244.037	0.0	video off	4	244037	n/a
 244.482	0.0	resp	3	244482	n/a
-245.029	0.0	video on	5	245029	v_Shaving_id_FQRW5a9Au40_start_24.0_label_1
+245.029	0.0	video on	5	245029	n/a
 247.031	0.0	video off	4	247031	n/a
 247.466	0.0	resp	3	247466	n/a
 248.03	0.0	video on	5	248030	v_Starting a campfire_id_ooUAXYgk3i4_start_13.5_label_1
@@ -261,7 +261,7 @@ onset	duration	trial_type	value	sample	stim_id
 317.031	0.0	video on	5	317031	v_Using the pommel horse_id_TJh7NqhhQYo_start_14.0_label_1
 319.026	0.0	video off	4	319026	n/a
 319.715	0.0	resp	3	319715	n/a
-320.03	0.0	video on	5	320030	v_Using uneven bars_id_1ptx3ekHeCk_start_7.0_label_1
+320.03	0.0	video on	5	320030	n/a
 322.037	0.0	video off	4	322037	n/a
 322.699	0.0	resp	3	322699	n/a
 323.03	0.0	video on	5	323030	v_Smoking a cigarette_id_5pHcAreuPxE_start_34.0_label_1

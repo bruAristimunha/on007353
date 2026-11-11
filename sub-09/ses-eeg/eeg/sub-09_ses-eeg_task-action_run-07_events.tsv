@@ -3,7 +3,7 @@ onset	duration	trial_type	value	sample	stim_id
 5.03	0.0	video on	5	5030	v_Playing congas_id_-H44pbRIg7s_start_4.0_label_1
 7.032	0.0	video off	4	7032	n/a
 7.488	0.0	resp	3	7488	n/a
-8.027	0.0	video on	5	8027	v_Playing kickball_id_1kMSBLLHhUc_start_74.5_label_1
+8.027	0.0	video on	5	8027	n/a
 10.04	0.0	video off	4	10040	n/a
 10.496	0.0	resp	3	10496	n/a
 11.028	0.0	video on	5	11028	v_Rafting_id_BGaz2KCg_gc_start_8.0_label_1
@@ -66,7 +66,7 @@ onset	duration	trial_type	value	sample	stim_id
 80.029	0.0	video on	5	80029	v_Playing badminton_id_KfA5iH0PXpA_start_12.0_label_1
 82.041	0.0	video off	4	82041	n/a
 82.417	0.0	resp	3	82417	n/a
-83.028	0.0	video on	5	83028	v_Putting in contact lenses_id_5FAGhHa6w2w_start_43.0_label_1
+83.028	0.0	video on	5	83028	n/a
 84.996	0.0	video off	4	84996	n/a
 85.473	0.0	resp	3	85473	n/a
 86.028	0.0	video on	5	86028	v_Tumbling_id_yBLcDvfydoU_start_28.0_label_1
@@ -173,7 +173,7 @@ onset	duration	trial_type	value	sample	stim_id
 212.03	0.0	video on	5	212030	v_Putting on makeup_id_k9lfCugez0Q_start_117.5_label_1
 214.075	0.0	video off	4	214075	n/a
 214.65	0.0	resp	3	214650	n/a
-215.03	0.0	video on	5	215030	v_Using the monkey bar_id_Fnz1P56mAI0_start_10.0_label_1
+215.03	0.0	video on	5	215030	n/a
 217.038	0.0	video off	4	217038	n/a
 217.506	0.0	resp	3	217506	n/a
 221.03	0.0	video on	5	221030	v_Baton twirling_id_VIxzrwNliww_start_128.5_label_1
@@ -237,7 +237,7 @@ onset	duration	trial_type	value	sample	stim_id
 293.031	0.0	video on	5	293031	v_Cleaning windows_id_jNmO9vbrIlY_start_72.0_label_1
 295.036	0.0	video off	4	295036	n/a
 295.467	0.0	resp	3	295467	n/a
-296.031	0.0	video on	5	296031	v_Painting fence_id_9-xf_gylOR0_start_6.5_label_1
+296.031	0.0	video on	5	296031	n/a
 298.036	0.0	video off	4	298036	n/a
 298.371	0.0	resp	3	298371	n/a
 299.031	0.0	video on	5	299031	v_Playing blackjack_id_c6Vc5deXzLE_start_87.0_label_1

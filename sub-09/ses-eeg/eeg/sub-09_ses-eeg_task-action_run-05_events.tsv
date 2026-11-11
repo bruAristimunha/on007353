@@ -21,7 +21,7 @@ onset	duration	trial_type	value	sample	stim_id
 26.026	0.0	video on	5	26026	v_Table soccer_id_rgcF5R7xfDk_start_39.0_label_1
 28.039	0.0	video off	4	28039	n/a
 28.472	0.0	resp	3	28472	n/a
-29.026	0.0	video on	5	29026	v_Fun sliding down_id_77tr27PIsEI_start_96.0_label_1
+29.026	0.0	video on	5	29026	n/a
 31.075	0.0	video off	4	31075	n/a
 31.512	0.0	resp	3	31512	n/a
 32.027	0.0	video on	5	32027	v_Raking leaves_id_PgE70QBohP8_start_108.5_label_1
@@ -178,7 +178,7 @@ onset	duration	trial_type	value	sample	stim_id
 215.028	0.0	video on	5	215028	v_Playing guitarra_id_-jQSOuzLPH4_start_64.5_label_1
 217.033	0.0	video off	4	217033	n/a
 217.85	0.0	resp	3	217850	n/a
-221.029	0.0	video on	5	221029	v_Using the rowing machine_id_6YuFCX-AQQ4_start_25.5_label_1
+221.029	0.0	video on	5	221029	n/a
 223.029	0.0	video off	4	223029	n/a
 223.586	0.0	resp	3	223586	n/a
 224.028	0.0	video on	5	224028	v_Fixing bicycle_id_DnCEA7VEuEc_start_43.5_label_1
@@ -226,7 +226,7 @@ onset	duration	trial_type	value	sample	stim_id
 275.031	0.0	video on	5	275031	v_Doing fencing_id_USmMRLo7U48_start_6.5_label_1
 277.073	0.0	video off	4	277073	n/a
 277.483	0.0	resp	3	277483	n/a
-278.029	0.0	video on	5	278029	v_Using parallel bars_id_ukcH6ugAQoE_start_10.0_label_1
+278.029	0.0	video on	5	278029	n/a
 280.036	0.0	video off	4	280036	n/a
 280.531	0.0	resp	3	280531	n/a
 281.029	0.0	video on	5	281029	v_Smoking a cigarette_id_If8xQDM-YS4_start_3.0_label_1
@@ -253,7 +253,7 @@ onset	duration	trial_type	value	sample	stim_id
 305.031	0.0	video on	5	305031	v_Kneeling_id_ZpfgRLkGiHM_start_7.5_label_1
 307.039	0.0	video off	4	307039	n/a
 307.459	0.0	resp	3	307459	n/a
-311.03	0.0	video on	5	311030	v_Using the balance beam_id_gZclL45Ww-Y_start_11.0_label_1
+311.03	0.0	video on	5	311030	n/a
 313.034	0.0	video off	4	313034	n/a
 313.427	0.0	resp	3	313427	n/a
 314.029	0.0	video on	5	314029	v_Belly dance_id_pviZoaYJS1Y_start_75.5_label_1

@@ -21,7 +21,7 @@ onset	duration	trial_type	value	sample	stim_id
 29.6625	0.0	video on	5	35595	v_Playing piano_id_mgE9GDBk8Xg_start_17.0_label_1
 31.64583333333333	0.0	video off	4	37975	n/a
 32.0175	0.0	resp	3	38421	n/a
-32.6625	0.0	video on	5	39195	v_Hand washing clothes_id_YjX-X0kGFeQ_start_43.0_label_1
+32.6625	0.0	video on	5	39195	n/a
 34.6625	0.0	video off	4	41595	n/a
 35.0175	0.0	resp	3	42021	n/a
 35.6625	0.0	video on	5	42795	v_Putting on shoes_id_9XcM1PSJtak_start_3.5_label_1
@@ -91,7 +91,7 @@ onset	duration	trial_type	value	sample	stim_id
 116.65916666666666	0.0	video on	5	139991	v_Raking leaves_id_fh6Vv4f-75E_start_19.0_label_1
 118.70916666666666	0.0	video off	4	142451	n/a
 119.155	0.0	resp	3	142986	n/a
-119.65916666666666	0.0	video on	5	143591	v_Swimming_id_VfamutjiSwA_start_59.0_label_1
+119.65916666666666	0.0	video on	5	143591	n/a
 121.65916666666666	0.0	video off	4	145991	n/a
 122.2825	0.0	resp	3	146739	n/a
 122.65916666666666	0.0	video on	5	147191	v_Using the balance beam_id_bAqeXM07rWs_start_40.0_label_1
@@ -130,19 +130,19 @@ onset	duration	trial_type	value	sample	stim_id
 161.65833333333333	0.0	video on	5	193990	v_Drinking coffee_id_MUOXkWL43Ro_start_10.0_label_1
 163.675	0.0	video off	4	196410	n/a
 164.17083333333332	0.0	resp	3	197005	n/a
-164.6575	0.0	video on	5	197589	v_Using the monkey bar_id_td4tRul_u5w_start_61.5_label_1
+164.6575	0.0	video on	5	197589	n/a
 166.6575	0.0	video off	4	199989	n/a
 167.05916666666667	0.0	resp	3	200471	n/a
 170.6575	0.0	video on	5	204789	v_Making a sandwich_id_I4D1rmYCrsE_start_43.0_label_1
 172.6575	0.0	video off	4	207189	n/a
 173.035	0.0	resp	3	207642	n/a
-173.6575	0.0	video on	5	208389	v_Polishing shoes_id_4PiDlYoHrhs_start_9.0_label_1
+173.6575	0.0	video on	5	208389	n/a
 175.6575	0.0	video off	4	210789	n/a
 176.0275	0.0	resp	3	211233	n/a
 176.6575	0.0	video on	5	211989	v_Springboard diving_id_Gc5bTBMZflQ_start_110.0_label_1
 178.67416666666668	0.0	video off	4	214409	n/a
 179.13166666666666	0.0	resp	3	214958	n/a
-179.6575	0.0	video on	5	215589	v_Polishing forniture_id_NOrZMyIwcno_start_30.5_label_1
+179.6575	0.0	video on	5	215589	n/a
 181.67416666666668	0.0	video off	4	218009	n/a
 182.49916666666667	0.0	resp	3	218999	n/a
 182.67416666666668	0.0	video on	5	219209	v_Paintball_id_20M20DsFCNs_start_39.5_label_1
@@ -181,7 +181,7 @@ onset	duration	trial_type	value	sample	stim_id
 224.6725	0.0	video on	5	269607	v_Cleaning sink_id_fhTOI4hB7so_start_7.5_label_1
 226.6725	0.0	video off	4	272007	n/a
 227.0275	0.0	resp	3	272433	n/a
-227.6725	0.0	video on	5	273207	v_Preparing pasta_id_FRn8B0Y3kMA_start_123.5_label_1
+227.6725	0.0	video on	5	273207	n/a
 229.6725	0.0	video off	4	275607	n/a
 230.06	0.0	resp	3	276072	n/a
 230.6725	0.0	video on	5	276807	v_Pole vault_id_E-SZquXIBOo_start_58.0_label_1
@@ -196,7 +196,7 @@ onset	duration	trial_type	value	sample	stim_id
 242.67166666666665	0.0	video on	5	291206	v_Cleaning shoes_id_K_0HA8h2oWw_start_5.5_label_1
 244.67166666666665	0.0	video off	4	293606	n/a
 245.1	0.0	resp	3	294120	n/a
-245.67166666666665	0.0	video on	5	294806	v_Waxing skis_id_pMsPyAyPMMs_start_76.5_label_1
+245.67166666666665	0.0	video on	5	294806	n/a
 247.67166666666665	0.0	video off	4	297206	n/a
 248.05166666666668	0.0	resp	3	297662	n/a
 248.67166666666665	0.0	video on	5	298406	v_Decorating the Christmas tree_id_VjnmDdxTUJI_start_100.5_label_1

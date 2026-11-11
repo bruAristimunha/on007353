@@ -1,6 +1,6 @@
 onset	duration	trial_type	value	sample	stim_id
 3.243333333333333	0.0	begin	1	3892	n/a
-8.294166666666667	0.0	video on	5	9953	v_Preparing pasta_id_kBW0PZ01mBQ_start_112.5_label_1
+8.294166666666667	0.0	video on	5	9953	n/a
 10.294166666666667	0.0	video off	4	12353	n/a
 10.738333333333332	0.0	resp	3	12886	n/a
 11.2775	0.0	video on	5	13533	v_Hammer throw_id_SgN0y7uJYeE_start_9.0_label_1
@@ -28,7 +28,7 @@ onset	duration	trial_type	value	sample	stim_id
 49.30916666666667	0.0	video off	4	59171	n/a
 50.27583333333333	0.0	video on	5	60331	v_Ice fishing_id_tWfuWfuV_8s_start_105.0_label_1
 52.27583333333333	0.0	video off	4	62731	n/a
-53.2925	0.0	video on	5	63951	v_Croquet_id_1PeY7u3pB6Y_start_19.0_label_1
+53.2925	0.0	video on	5	63951	n/a
 55.2925	0.0	video off	4	66351	n/a
 55.81916666666667	0.0	resp	3	66983	n/a
 56.27583333333333	0.0	video on	5	67531	v_Using the pommel horse_id_6EZkrGzrP6A_start_7.0_label_1

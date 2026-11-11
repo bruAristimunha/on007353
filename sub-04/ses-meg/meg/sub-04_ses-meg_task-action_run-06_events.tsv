@@ -150,7 +150,7 @@ onset	duration	trial_type	value	sample	stim_id
 191.08	0.0	video on	5	229296	v_Doing karate_id_W93w6aw26Ls_start_111.5_label_1
 193.06333333333333	0.0	video off	4	231676	n/a
 193.46666666666667	0.0	resp	3	232160	n/a
-194.08	0.0	video on	5	232896	v_Putting in contact lenses_id_RVhjgt4HcIM_start_37.5_label_1
+194.08	0.0	video on	5	232896	n/a
 196.08	0.0	video off	4	235296	n/a
 196.54666666666665	0.0	resp	3	235856	n/a
 197.08	0.0	video on	5	236496	v_Playing rubik cube_id_vGHVt6jeSMU_start_11.0_label_1
@@ -197,7 +197,7 @@ onset	duration	trial_type	value	sample	stim_id
 251.07833333333332	0.0	video on	5	301294	v_Disc dog_id_PqK5x7sq8oQ_start_143.5_label_1
 253.07833333333332	0.0	video off	4	303694	n/a
 253.49916666666667	0.0	resp	3	304199	n/a
-254.07833333333332	0.0	video on	5	304894	v_Using parallel bars_id_Zmv4mToIs7Y_start_38.0_label_1
+254.07833333333332	0.0	video on	5	304894	n/a
 256.06166666666667	0.0	video off	4	307274	n/a
 256.4266666666667	0.0	resp	3	307712	n/a
 260.0775	0.0	video on	5	312093	v_Sumo_id_1iQtYSS8fP0_start_10.5_label_1
@@ -226,7 +226,7 @@ onset	duration	trial_type	value	sample	stim_id
 287.07666666666665	0.0	video on	5	344492	v_Ping-pong_id_g6HNL5kYTzg_start_169.5_label_1
 289.06083333333333	0.0	video off	4	346873	n/a
 289.37166666666667	0.0	resp	3	347246	n/a
-290.07666666666665	0.0	video on	5	348092	v_Using the monkey bar_id_Fnz1P56mAI0_start_35.5_label_1
+290.07666666666665	0.0	video on	5	348092	n/a
 292.07666666666665	0.0	video off	4	350492	n/a
 292.395	0.0	resp	3	350874	n/a
 296.07666666666665	0.0	video on	5	355292	v_Polishing shoes_id_UeSwTJXWOQI_start_20.5_label_1
@@ -247,7 +247,7 @@ onset	duration	trial_type	value	sample	stim_id
 314.0758333333333	0.0	video on	5	376891	v_Kneeling_id_DCYz8p4zH6o_start_12.0_label_1
 316.0925	0.0	video off	4	379311	n/a
 316.4275	0.0	resp	3	379713	n/a
-317.0758333333333	0.0	video on	5	380491	v_Polishing forniture_id_NOrZMyIwcno_start_25.0_label_1
+317.0758333333333	0.0	video on	5	380491	n/a
 319.0758333333333	0.0	video off	4	382891	n/a
 319.5233333333333	0.0	resp	3	383428	n/a
 320.0758333333333	0.0	video on	5	384091	v_Smoking a cigarette_id_k9r3eRTh3C4_start_81.0_label_1

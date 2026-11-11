@@ -74,7 +74,7 @@ onset	duration	trial_type	value	sample	stim_id
 92.63416666666669	0.0	video on	5	111161	v_Paintball_id_R0vfWlv9UWQ_start_19.0_label_1
 94.63416666666669	0.0	video off	4	113561	n/a
 94.93916666666668	0.0	resp	3	113927	n/a
-98.63333333333334	0.0	video on	5	118360	v_Croquet_id_aZlDaYi70p4_start_12.0_label_1
+98.63333333333334	0.0	video on	5	118360	n/a
 100.61666666666666	0.0	video off	4	120740	n/a
 100.88333333333334	0.0	resp	3	121060	n/a
 101.63333333333334	0.0	video on	5	121960	v_Making a sandwich_id_iYrj7gzFRik_start_126.0_label_1
@@ -216,7 +216,7 @@ onset	duration	trial_type	value	sample	stim_id
 266.62833333333333	0.0	video on	5	319954	v_Doing karate_id_3pU_tGdkGZY_start_52.5_label_1
 268.67833333333334	0.0	video off	4	322414	n/a
 269.02916666666664	0.0	resp	3	322835	n/a
-269.62833333333333	0.0	video on	5	323554	v_Playing blackjack_id_jb6XOqWb7EA_start_23.5_label_1
+269.62833333333333	0.0	video on	5	323554	n/a
 271.67833333333334	0.0	video off	4	326014	n/a
 272.0125	0.0	resp	3	326415	n/a
 272.62833333333333	0.0	video on	5	327154	v_Playing kickball_id_6c7S8o6cK8E_start_120.5_label_1

@@ -6,7 +6,7 @@ onset	duration	trial_type	value	sample	stim_id
 8.028	0.0	video on	5	8028	v_Belly dance_id_yYxbM0WRaRM_start_126.0_label_1
 10.031	0.0	video off	4	10031	n/a
 10.64	0.0	resp	3	10640	n/a
-11.026	0.0	video on	5	11026	v_Hanging wallpaper_id_Zo9-gbOTZX4_start_142.5_label_1
+11.026	0.0	video on	5	11026	n/a
 13.036	0.0	video off	4	13036	n/a
 13.488	0.0	resp	3	13488	n/a
 14.027	0.0	video on	5	14027	v_Shot put_id_cDAeOGPPN-M_start_4.5_label_1
@@ -62,7 +62,7 @@ onset	duration	trial_type	value	sample	stim_id
 73.68	0.0	resp	3	73680	n/a
 77.027	0.0	video on	5	77027	v_Surfing_id_Rvi9s5vFACI_start_137.0_label_1
 79.035	0.0	video off	4	79035	n/a
-80.027	0.0	video on	5	80027	v_Baking cookies_id_Kqcq3hq3uGc_start_167.5_label_1
+80.027	0.0	video on	5	80027	n/a
 82.031	0.0	video off	4	82031	n/a
 83.027	0.0	video on	5	83027	v_Playing lacrosse_id_LULWfPfYpW0_start_78.5_label_1
 85.035	0.0	video off	4	85035	n/a
@@ -79,7 +79,7 @@ onset	duration	trial_type	value	sample	stim_id
 98.027	0.0	video on	5	98027	v_Ice fishing_id_Pka_LA6JR1w_start_75.0_label_1
 100.036	0.0	video off	4	100036	n/a
 100.977	0.0	resp	3	100977	n/a
-101.154	0.0	video on	5	101154	v_Playing kickball_id_nF8EY7DZuUc_start_12.0_label_1
+101.154	0.0	video on	5	101154	n/a
 103.165	0.0	video off	4	103165	n/a
 103.657	0.0	resp	3	103657	n/a
 104.027	0.0	video on	5	104027	v_Longboarding_id_fWId3eAFtIk_start_56.0_label_1
@@ -115,7 +115,7 @@ onset	duration	trial_type	value	sample	stim_id
 143.027	0.0	video on	5	143027	v_Playing flauta_id_YCR8rnwcgh0_start_41.0_label_1
 145.038	0.0	video off	4	145038	n/a
 145.513	0.0	resp	3	145513	n/a
-149.028	0.0	video on	5	149028	v_Hand car wash_id_tLkMQOiRDcI_start_52.0_label_1
+149.028	0.0	video on	5	149028	n/a
 151.031	0.0	video off	4	151031	n/a
 151.841	0.0	resp	3	151841	n/a
 152.041	0.0	video on	5	152041	v_Playing saxophone_id_vNXzedQQgao_start_165.5_label_1
@@ -190,7 +190,7 @@ onset	duration	trial_type	value	sample	stim_id
 242.03	0.0	video on	5	242030	v_Ping-pong_id__rDxaim_w88_start_70.0_label_1
 244.038	0.0	video off	4	244038	n/a
 244.498	0.0	resp	3	244498	n/a
-245.029	0.0	video on	5	245029	v_Playing water polo_id_kco4G-QD258_start_120.0_label_1
+245.029	0.0	video on	5	245029	n/a
 247.025	0.0	video off	4	247025	n/a
 247.482	0.0	resp	3	247482	n/a
 248.029	0.0	video on	5	248029	v_Hitting a pinata_id_7BeCr0e5skU_start_15.5_label_1
@@ -240,7 +240,7 @@ onset	duration	trial_type	value	sample	stim_id
 311.029	0.0	video on	5	311029	v_Hula hoop_id_TI80a2tr3b4_start_73.0_label_1
 313.028	0.0	video off	4	313028	n/a
 313.539	0.0	resp	3	313539	n/a
-314.031	0.0	video on	5	314031	v_Playing blackjack_id_tgR7V-UpdxA_start_33.0_label_1
+314.031	0.0	video on	5	314031	n/a
 316.031	0.0	video off	4	316031	n/a
 316.459	0.0	resp	3	316459	n/a
 317.03	0.0	video on	5	317030	v_Hammer throw_id_TPaot6AM9r4_start_7.0_label_1

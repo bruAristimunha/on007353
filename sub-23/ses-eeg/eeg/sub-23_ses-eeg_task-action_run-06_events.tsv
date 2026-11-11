@@ -124,7 +124,7 @@ onset	duration	trial_type	value	sample	stim_id
 161.03	0.0	video on	5	161030	v_Windsurfing_id_BQbB4xhF5-E_start_12.0_label_1
 163.032	0.0	video off	4	163032	n/a
 163.513	0.0	resp	3	163513	n/a
-167.03	0.0	video on	5	167030	v_Playing kickball_id_vkLlIPydOK0_start_74.5_label_1
+167.03	0.0	video on	5	167030	n/a
 169.033	0.0	video off	4	169033	n/a
 169.882	0.0	resp	3	169882	n/a
 170.058	0.0	video on	5	170058	v_Cricket_id_T6KIttiosV8_start_3.0_label_1
@@ -146,7 +146,7 @@ onset	duration	trial_type	value	sample	stim_id
 193.031	0.0	video off	4	193031	n/a
 194.029	0.0	video on	5	194029	v_Camel ride_id_RPuc_WwvPhA_start_2.5_label_1
 196.038	0.0	video off	4	196038	n/a
-197.03	0.0	video on	5	197030	v_Painting fence_id_OGBWX_egub0_start_26.5_label_1
+197.03	0.0	video on	5	197030	n/a
 199.072	0.0	video off	4	199072	n/a
 199.426	0.0	resp	3	199426	n/a
 203.029	0.0	video on	5	203029	v_Hand car wash_id_UqBy2OIgOHM_start_50.0_label_1

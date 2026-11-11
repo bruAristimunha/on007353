@@ -3,7 +3,7 @@ onset	duration	trial_type	value	sample	stim_id
 5.028	0.0	video on	5	5028	v_Ice fishing_id_N27RSCBzZ_0_start_76.0_label_1
 7.037	0.0	video off	4	7037	n/a
 7.4	0.0	resp	3	7400	n/a
-8.027	0.0	video on	5	8027	v_Spread mulch_id_KLoTfEHWr2E_start_21.5_label_1
+8.027	0.0	video on	5	8027	n/a
 10.029	0.0	video off	4	10029	n/a
 10.385	0.0	resp	3	10385	n/a
 11.027	0.0	video on	5	11027	v_Snow tubing_id_qEjI38XMTzE_start_19.5_label_1
@@ -30,7 +30,7 @@ onset	duration	trial_type	value	sample	stim_id
 35.027	0.0	video on	5	35027	v_Spinning_id_6i9jwX9NNkA_start_32.5_label_1
 37.034	0.0	video off	4	37034	n/a
 37.441	0.0	resp	3	37441	n/a
-41.028	0.0	video on	5	41028	v_Drinking coffee_id_NGkJhX-To44_start_12.5_label_1
+41.028	0.0	video on	5	41028	n/a
 43.039	0.0	video off	4	43039	n/a
 43.045	0.0	resp	3	43045	n/a
 44.027	0.0	video on	5	44027	v_Smoking a cigarette_id_PdegJRlGT-E_start_82.0_label_1
@@ -42,10 +42,10 @@ onset	duration	trial_type	value	sample	stim_id
 50.027	0.0	video on	5	50027	v_Chopping wood_id_cf8TfHtgLLc_start_17.5_label_1
 52.072	0.0	video off	4	52072	n/a
 52.617	0.0	resp	3	52617	n/a
-53.028	0.0	video on	5	53028	v_Hanging wallpaper_id_XGr79kwFhQc_start_93.5_label_1
+53.028	0.0	video on	5	53028	n/a
 55.033	0.0	video off	4	55033	n/a
 55.721	0.0	resp	3	55721	n/a
-59.027	0.0	video on	5	59027	v_Playing water polo_id_vajtNYawgc4_start_10.0_label_1
+59.027	0.0	video on	5	59027	n/a
 61.038	0.0	video off	4	61038	n/a
 61.369	0.0	resp	3	61369	n/a
 62.028	0.0	video on	5	62028	v_Washing hands_id_cZmD0YUgJhs_start_15.0_label_1
@@ -113,7 +113,7 @@ onset	duration	trial_type	value	sample	stim_id
 137.029	0.0	video on	5	137029	v_Table soccer_id_5-Gq7LURNvg_start_144.0_label_1
 139.038	0.0	video off	4	139038	n/a
 139.522	0.0	resp	3	139522	n/a
-140.029	0.0	video on	5	140029	v_Bathing dog_id_nLKKbdiWC_w_start_64.0_label_1
+140.029	0.0	video on	5	140029	n/a
 142.034	0.0	video off	4	142034	n/a
 142.458	0.0	resp	3	142458	n/a
 143.028	0.0	video on	5	143028	v_Starting a campfire_id_Qlv6iDZxPS4_start_141.5_label_1

@@ -42,7 +42,7 @@ onset	duration	trial_type	value	sample	stim_id
 53.22666666666667	0.0	video on	5	63872	v_Paintball_id_jbYCudf_U9o_start_50.0_label_1
 55.22666666666667	0.0	video off	4	66272	n/a
 55.58	0.0	resp	3	66696	n/a
-56.21	0.0	video on	5	67452	v_Polishing forniture_id_NKF1vHA6DaY_start_54.0_label_1
+56.21	0.0	video on	5	67452	n/a
 58.24333333333333	0.0	video off	4	69892	n/a
 58.66	0.0	resp	3	70392	n/a
 62.20916666666667	0.0	video on	5	74651	v_Shot put_id_qbFjmzKA9Pc_start_64.0_label_1
@@ -78,7 +78,7 @@ onset	duration	trial_type	value	sample	stim_id
 98.20833333333331	0.0	video on	5	117850	v_Welding_id_tKdo_cEePLo_start_33.0_label_1
 100.25833333333334	0.0	video off	4	120310	n/a
 100.68416666666668	0.0	resp	3	120821	n/a
-101.20833333333331	0.0	video on	5	121450	v_Cleaning shoes_id_PfWlNm7eyww_start_28.0_label_1
+101.20833333333331	0.0	video on	5	121450	n/a
 103.20833333333331	0.0	video off	4	123850	n/a
 103.52416666666667	0.0	resp	3	124229	n/a
 104.20833333333331	0.0	video on	5	125050	v_Throwing darts_id_gKqmP1l58SU_start_6.0_label_1
@@ -87,7 +87,7 @@ onset	duration	trial_type	value	sample	stim_id
 107.20833333333331	0.0	video on	5	128650	v_Rope skipping_id_I2gzrevMSfk_start_42.5_label_1
 109.20833333333331	0.0	video off	4	131050	n/a
 109.66833333333334	0.0	resp	3	131602	n/a
-110.2075	0.0	video on	5	132249	v_Croquet_id_zQfGOTT3g64_start_20.0_label_1
+110.2075	0.0	video on	5	132249	n/a
 112.2075	0.0	video off	4	134649	n/a
 112.6125	0.0	resp	3	135135	n/a
 116.2075	0.0	video on	5	139449	v_Wrapping presents_id_1TfsN9wZqZU_start_115.5_label_1
@@ -117,7 +117,7 @@ onset	duration	trial_type	value	sample	stim_id
 143.20666666666668	0.0	video on	5	171848	v_Windsurfing_id_kSM6k2n0vRk_start_10.5_label_1
 145.22333333333333	0.0	video off	4	174268	n/a
 145.70833333333334	0.0	resp	3	174850	n/a
-146.20666666666668	0.0	video on	5	175448	v_Bathing dog_id_fdqEc7SwUh0_start_161.0_label_1
+146.20666666666668	0.0	video on	5	175448	n/a
 148.20666666666668	0.0	video off	4	177848	n/a
 148.725	0.0	resp	3	178470	n/a
 152.22333333333333	0.0	video on	5	182668	v_Scuba diving_id_mPls1yKo44Y_start_159.0_label_1

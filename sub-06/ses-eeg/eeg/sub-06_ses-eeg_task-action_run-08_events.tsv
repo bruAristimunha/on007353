@@ -28,7 +28,7 @@ onset	duration	trial_type	value	sample	stim_id
 41.958	0.0	video off	4	41958	n/a
 42.946	0.0	video on	5	42946	v_Snowboarding_id_kE6FjyaYY1M_start_42.5_label_1
 44.955	0.0	video off	4	44955	n/a
-48.949	0.0	video on	5	48949	v_Using the monkey bar_id_0a7TwMdzXFI_start_9.0_label_1
+48.949	0.0	video on	5	48949	n/a
 50.953	0.0	video off	4	50953	n/a
 51.553	0.0	resp	3	51553	n/a
 51.949	0.0	video on	5	51949	v_Disc dog_id_h2Y2m0O5Rt8_start_59.0_label_1
@@ -222,7 +222,7 @@ onset	duration	trial_type	value	sample	stim_id
 296.958	0.0	video off	4	296958	n/a
 300.951	0.0	video on	5	300951	v_Trimming branches or hedges_id_iNlKHmitiTw_start_35.0_label_1
 302.955	0.0	video off	4	302955	n/a
-303.951	0.0	video on	5	303951	v_Fun sliding down_id_7zY0l9kZjtw_start_17.0_label_1
+303.951	0.0	video on	5	303951	n/a
 305.954	0.0	video off	4	305954	n/a
 306.403	0.0	resp	3	306403	n/a
 306.95	0.0	video on	5	306950	v_Wrapping presents_id_BjJFh0SCMFg_start_112.0_label_1

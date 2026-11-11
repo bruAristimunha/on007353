@@ -235,7 +235,7 @@ onset	duration	trial_type	value	sample	stim_id
 287.955	0.0	video on	5	345546	v_Elliptical trainer_id_zrdiWuAyQE0_start_98.5_label_1
 289.955	0.0	video off	4	347946	n/a
 290.7183333333333	0.0	resp	3	348862	n/a
-290.955	0.0	video on	5	349146	v_Preparing pasta_id_LwhUi21kb1Q_start_99.0_label_1
+290.955	0.0	video on	5	349146	n/a
 292.955	0.0	video off	4	351546	n/a
 293.415	0.0	resp	3	352098	n/a
 296.955	0.0	video on	5	356346	v_Hurling_id_rMArA9LETrU_start_14.0_label_1

@@ -1,6 +1,6 @@
 onset	duration	trial_type	value	sample	stim_id
 0.0	0.0	begin	1	0	n/a
-5.028	0.0	video on	5	5028	v_Plataform diving_id_3pYXOYmDrJc_start_81.0_label_1
+5.028	0.0	video on	5	5028	n/a
 7.035	0.0	video off	4	7035	n/a
 7.256	0.0	resp	3	7256	n/a
 8.024	0.0	video on	5	8024	v_Croquet_id_lSWbBzw3aNk_start_5.5_label_1
@@ -73,7 +73,7 @@ onset	duration	trial_type	value	sample	stim_id
 89.026	0.0	video on	5	89026	v_Playing pool_id_bnYN4VSZYNE_start_31.5_label_1
 91.034	0.0	video off	4	91034	n/a
 91.577	0.0	resp	3	91577	n/a
-95.026	0.0	video on	5	95026	v_Bathing dog_id_A4tBWMfgQcM_start_19.0_label_1
+95.026	0.0	video on	5	95026	n/a
 97.039	0.0	video off	4	97039	n/a
 97.913	0.0	resp	3	97913	n/a
 98.033	0.0	video on	5	98033	v_Tai chi_id_4nx4QY5g-aU_start_37.5_label_1
@@ -131,7 +131,7 @@ onset	duration	trial_type	value	sample	stim_id
 161.027	0.0	video on	5	161027	v_Assembling bicycle_id_KvHPGzeazOc_start_178.0_label_1
 163.034	0.0	video off	4	163034	n/a
 163.658	0.0	resp	3	163658	n/a
-167.028	0.0	video on	5	167028	v_Polishing forniture_id_Naw6emhHaSM_start_11.5_label_1
+167.028	0.0	video on	5	167028	n/a
 169.033	0.0	video off	4	169033	n/a
 169.522	0.0	resp	3	169522	n/a
 170.029	0.0	video on	5	170029	v_Carving jack-o-lanterns_id_9ZXsbPVlxK4_start_98.0_label_1
@@ -164,7 +164,7 @@ onset	duration	trial_type	value	sample	stim_id
 203.03	0.0	video on	5	203030	v_Playing violin_id_nKSz-bOr8w4_start_180.0_label_1
 205.03	0.0	video off	4	205030	n/a
 205.578	0.0	resp	3	205578	n/a
-206.029	0.0	video on	5	206029	v_Polishing shoes_id_uepeMZQ7fe4_start_4.5_label_1
+206.029	0.0	video on	5	206029	n/a
 208.034	0.0	video off	4	208034	n/a
 208.514	0.0	resp	3	208514	n/a
 209.028	0.0	video on	5	209028	v_Tug of war_id_ex-E855oWu0_start_3.0_label_1
@@ -197,7 +197,7 @@ onset	duration	trial_type	value	sample	stim_id
 242.029	0.0	video on	5	242029	v_Pole vault_id_R0c2pHFGk5s_start_0.5_label_1
 244.038	0.0	video off	4	244038	n/a
 244.642	0.0	resp	3	244642	n/a
-245.029	0.0	video on	5	245029	v_Putting on shoes_id_hf3DDs4-ZSw_start_23.5_label_1
+245.029	0.0	video on	5	245029	n/a
 247.033	0.0	video off	4	247033	n/a
 247.658	0.0	resp	3	247658	n/a
 248.029	0.0	video on	5	248029	v_Ice fishing_id_zFy3DT1A8Js_start_101.0_label_1

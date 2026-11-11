@@ -154,7 +154,7 @@ onset	duration	trial_type	value	sample	stim_id
 208.2325	0.0	video on	5	249879	v_Canoeing_id_r5WGXO-cXyw_start_82.0_label_1
 210.2333333333333	0.0	video off	4	252280	n/a
 210.72083333333333	0.0	resp	3	252865	n/a
-211.2325	0.0	video on	5	253479	v_Croquet_id_l-YtPYZ_534_start_53.0_label_1
+211.2325	0.0	video on	5	253479	n/a
 213.2158333333333	0.0	video off	4	255859	n/a
 213.6175	0.0	resp	3	256341	n/a
 214.2325	0.0	video on	5	257079	v_Building sandcastles_id_6C-CaREGNB8_start_12.5_label_1
@@ -175,7 +175,7 @@ onset	duration	trial_type	value	sample	stim_id
 234.64166666666668	0.0	resp	3	281570	n/a
 235.23166666666663	0.0	video on	5	282278	v_Mooping floor_id_wTqcWrUVMtA_start_172.0_label_1
 237.23166666666663	0.0	video off	4	284678	n/a
-241.23166666666663	0.0	video on	5	289478	v_Using uneven bars_id_KhiX3ttPFR8_start_11.0_label_1
+241.23166666666663	0.0	video on	5	289478	n/a
 243.23166666666663	0.0	video off	4	291878	n/a
 243.8733333333333	0.0	resp	3	292648	n/a
 244.23166666666663	0.0	video on	5	293078	v_Scuba diving_id_aJO1WbKCImo_start_76.5_label_1

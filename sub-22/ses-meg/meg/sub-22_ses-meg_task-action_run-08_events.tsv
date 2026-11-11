@@ -135,7 +135,7 @@ onset	duration	trial_type	value	sample	stim_id
 230.36166666666668	0.0	resp	3	276434	n/a
 230.69083333333333	0.0	video on	5	276829	v_Smoking a cigarette_id_S_G79Is5GQA_start_18.0_label_1
 232.7408333333333	0.0	video off	4	279289	n/a
-233.69083333333333	0.0	video on	5	280429	v_Painting fence_id_7ePH4GWsVv4_start_8.0_label_1
+233.69083333333333	0.0	video on	5	280429	n/a
 235.69083333333333	0.0	video off	4	282829	n/a
 236.69083333333333	0.0	video on	5	284029	v_Washing hands_id_oFpiS2_8L28_start_4.5_label_1
 238.69083333333333	0.0	video off	4	286429	n/a

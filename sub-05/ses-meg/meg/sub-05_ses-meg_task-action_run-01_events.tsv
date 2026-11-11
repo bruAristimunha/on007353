@@ -181,7 +181,7 @@ onset	duration	trial_type	value	sample	stim_id
 224.47083333333333	0.0	video on	5	269365	v_Putting on makeup_id_Cx0HfzhEgD0_start_182.5_label_1
 226.45416666666668	0.0	video off	4	271745	n/a
 226.76916666666668	0.0	resp	3	272123	n/a
-227.47083333333333	0.0	video on	5	272965	v_Drinking coffee_id_9lsaMAwKdCw_start_40.5_label_1
+227.47083333333333	0.0	video on	5	272965	n/a
 229.47083333333333	0.0	video off	4	275365	n/a
 229.8975	0.0	resp	3	275877	n/a
 230.47083333333333	0.0	video on	5	276565	v_Skateboarding_id_taTo-ccxcFU_start_43.5_label_1
@@ -229,10 +229,10 @@ onset	duration	trial_type	value	sample	stim_id
 281.4691666666667	0.0	video on	5	337763	v_Smoking a cigarette_id_CBmf3OTkcms_start_28.0_label_1
 283.4691666666667	0.0	video off	4	340163	n/a
 283.9458333333333	0.0	resp	3	340735	n/a
-284.4691666666667	0.0	video on	5	341363	v_Preparing pasta_id_eK8jR_KcqDo_start_180.5_label_1
+284.4691666666667	0.0	video on	5	341363	n/a
 286.4525	0.0	video off	4	343743	n/a
 286.9941666666667	0.0	resp	3	344393	n/a
-287.4683333333333	0.0	video on	5	344962	v_Painting furniture_id_Jt-_P4dwJZE_start_29.5_label_1
+287.4683333333333	0.0	video on	5	344962	n/a
 289.50166666666667	0.0	video off	4	347402	n/a
 289.9783333333333	0.0	resp	3	347974	n/a
 290.4683333333333	0.0	video on	5	348562	v_Playing congas_id_4YVevzexmQU_start_2.5_label_1

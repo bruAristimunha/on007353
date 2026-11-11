@@ -21,7 +21,7 @@ onset	duration	trial_type	value	sample	stim_id
 29.16333333333333	0.0	video on	5	34996	v_Tumbling_id_2azUO2ZGqf0_start_111.0_label_1
 31.16333333333333	0.0	video off	4	37396	n/a
 31.83833333333333	0.0	resp	3	38206	n/a
-32.163333333333334	0.0	video on	5	38596	v_Using the monkey bar_id_4M0qz51BIT0_start_122.5_label_1
+32.163333333333334	0.0	video on	5	38596	n/a
 34.163333333333334	0.0	video off	4	40996	n/a
 35.1425	0.0	resp	3	42171	n/a
 35.196666666666665	0.0	video on	5	42236	v_Grooming dog_id_5rN1fvl7IwA_start_59.0_label_1
@@ -130,7 +130,7 @@ onset	duration	trial_type	value	sample	stim_id
 161.17583333333334	0.0	video on	5	193411	v_Polishing shoes_id_1cT5VJmmgVM_start_91.5_label_1
 163.1925	0.0	video off	4	195831	n/a
 163.94333333333333	0.0	resp	3	196732	n/a
-164.175	0.0	video on	5	197010	v_Rock-paper-scissors_id_rxKxvQITFHI_start_1.5_label_1
+164.175	0.0	video on	5	197010	n/a
 166.175	0.0	video off	4	199410	n/a
 166.7516666666667	0.0	resp	3	200102	n/a
 170.175	0.0	video on	5	204210	v_Javelin throw_id_DP3OBzkCzwg_start_7.5_label_1
@@ -156,7 +156,7 @@ onset	duration	trial_type	value	sample	stim_id
 194.17416666666668	0.0	video on	5	233009	v_Decorating the Christmas tree_id_UBXBHf_F04E_start_89.0_label_1
 196.2075	0.0	video off	4	235449	n/a
 196.94416666666663	0.0	resp	3	236333	n/a
-197.17416666666668	0.0	video on	5	236609	v_Using the rowing machine_id_dsqdy3IsrAw_start_114.0_label_1
+197.17416666666668	0.0	video on	5	236609	n/a
 199.17416666666668	0.0	video off	4	239009	n/a
 199.76833333333332	0.0	resp	3	239722	n/a
 200.17416666666668	0.0	video on	5	240209	v_Rollerblading_id_BXIOgzh6V5Y_start_105.0_label_1
@@ -227,7 +227,7 @@ onset	duration	trial_type	value	sample	stim_id
 281.1716666666667	0.0	video on	5	337406	v_Doing step aerobics_id_i2uNc6lYPW0_start_7.0_label_1
 283.1716666666667	0.0	video off	4	339806	n/a
 284.00083333333333	0.0	resp	3	340801	n/a
-284.1716666666667	0.0	video on	5	341006	v_Croquet_id_J0PaSAcml90_start_8.0_label_1
+284.1716666666667	0.0	video on	5	341006	n/a
 286.1716666666667	0.0	video off	4	343406	n/a
 286.465	0.0	resp	3	343758	n/a
 287.1716666666667	0.0	video on	5	344606	v_Scuba diving_id_H4l7Tjp7ATA_start_6.0_label_1

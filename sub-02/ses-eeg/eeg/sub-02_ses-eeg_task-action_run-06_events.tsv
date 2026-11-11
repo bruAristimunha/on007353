@@ -54,7 +54,7 @@ onset	duration	trial_type	value	sample	stim_id
 140.379	0.0	video on	5	140379	v_Sailing_id_BnIbHawqiZU_start_34.0_label_1
 142.386	0.0	video off	4	142386	n/a
 143.122	0.0	resp	3	143122	n/a
-143.38	0.0	video on	5	143380	v_Rock-paper-scissors_id_rxKxvQITFHI_start_21.5_label_1
+143.38	0.0	video on	5	143380	n/a
 145.384	0.0	video off	4	145384	n/a
 145.817	0.0	resp	3	145817	n/a
 146.379	0.0	video on	5	146379	v_Kneeling_id_RYJnl6ezEcc_start_5.5_label_1
@@ -132,7 +132,7 @@ onset	duration	trial_type	value	sample	stim_id
 233.38	0.0	video on	5	233380	v_Baton twirling_id_eA_AqAIFW8I_start_10.0_label_1
 235.381	0.0	video off	4	235381	n/a
 236.105	0.0	resp	3	236105	n/a
-236.38	0.0	video on	5	236380	v_Spread mulch_id_c90yU3uzG4w_start_85.0_label_1
+236.38	0.0	video on	5	236380	n/a
 238.381	0.0	video off	4	238381	n/a
 238.826	0.0	resp	3	238826	n/a
 242.38	0.0	video on	5	242380	v_Getting a haircut_id_abMIxqzg37I_start_14.5_label_1
@@ -220,7 +220,7 @@ onset	duration	trial_type	value	sample	stim_id
 344.382	0.0	video on	5	344382	v_Playing saxophone_id_qRmtxP9-A54_start_60.0_label_1
 346.381	0.0	video off	4	346381	n/a
 346.794	0.0	resp	3	346794	n/a
-350.38	0.0	video on	5	350380	v_Fixing the roof_id_lKLvAJ0iTT0_start_50.5_label_1
+350.38	0.0	video on	5	350380	n/a
 352.387	0.0	video off	4	352387	n/a
 352.835	0.0	resp	3	352835	n/a
 353.38	0.0	video on	5	353380	v_Wakeboarding_id_LJOlY2QL1ik_start_40.5_label_1
@@ -229,7 +229,7 @@ onset	duration	trial_type	value	sample	stim_id
 356.381	0.0	video on	5	356381	v_Brushing teeth_id_Ds-LrRrLj9c_start_43.5_label_1
 358.384	0.0	video off	4	358384	n/a
 358.851	0.0	resp	3	358851	n/a
-359.382	0.0	video on	5	359382	v_Polishing forniture_id_DkcbpQJ5CcA_start_144.5_label_1
+359.382	0.0	video on	5	359382	n/a
 361.392	0.0	video off	4	361392	n/a
 361.771	0.0	resp	3	361771	n/a
 362.38	0.0	video on	5	362380	v_Pole vault_id_MnuH4frZAq0_start_13.0_label_1

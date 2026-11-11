@@ -217,7 +217,7 @@ onset	duration	trial_type	value	sample	stim_id
 263.028	0.0	video on	5	263028	v_Triple jump_id_kYDmikopZ7c_start_7.5_label_1
 265.041	0.0	video off	4	265041	n/a
 265.482	0.0	resp	3	265482	n/a
-266.028	0.0	video on	5	266028	v_Drinking coffee_id_f7SctdFUQxs_start_54.5_label_1
+266.028	0.0	video on	5	266028	n/a
 268.088	0.0	video off	4	268088	n/a
 268.61	0.0	resp	3	268610	n/a
 269.03	0.0	video on	5	269030	v_Hand washing clothes_id_y92Ee6AfIRA_start_55.0_label_1
@@ -265,6 +265,6 @@ onset	duration	trial_type	value	sample	stim_id
 320.122	0.0	video on	5	320122	v_Disc dog_id_Tm5eM9s_5Kw_start_164.0_label_1
 322.164	0.0	video off	4	322164	n/a
 322.57	0.0	resp	3	322570	n/a
-323.031	0.0	video on	5	323031	v_Putting on shoes_id_F2Igw6lvqwk_start_7.0_label_1
+323.031	0.0	video on	5	323031	n/a
 325.041	0.0	video off	4	325041	n/a
 327.042	0.0	end	2	327042	n/a

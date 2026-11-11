@@ -33,7 +33,7 @@ onset	duration	trial_type	value	sample	stim_id
 45.348333333333336	0.0	video on	5	54418	v_Braiding hair_id_v7JlF6Ls2W8_start_37.0_label_1
 47.365	0.0	video off	4	56838	n/a
 47.63333333333333	0.0	resp	3	57160	n/a
-48.348333333333336	0.0	video on	5	58018	v_Using the monkey bar_id_5ht4nJiSvcE_start_63.0_label_1
+48.348333333333336	0.0	video on	5	58018	n/a
 50.38166666666667	0.0	video off	4	60458	n/a
 50.75333333333333	0.0	resp	3	60904	n/a
 51.348333333333336	0.0	video on	5	61618	v_Cleaning sink_id_5cM--SL-8xU_start_152.5_label_1
@@ -141,7 +141,7 @@ onset	duration	trial_type	value	sample	stim_id
 174.36083333333335	0.0	video on	5	209233	v_Springboard diving_id_rsAVL4BTePg_start_126.5_label_1
 176.34416666666667	0.0	video off	4	211613	n/a
 176.4983333333333	0.0	resp	3	211798	n/a
-177.36	0.0	video on	5	212832	v_Polishing forniture_id_NKF1vHA6DaY_start_108.0_label_1
+177.36	0.0	video on	5	212832	n/a
 179.36	0.0	video off	4	215232	n/a
 180.36	0.0	video on	5	216432	v_Making a sandwich_id_Y6GmcF_uNuM_start_9.5_label_1
 182.36	0.0	video off	4	218832	n/a
@@ -164,7 +164,7 @@ onset	duration	trial_type	value	sample	stim_id
 201.36	0.0	video on	5	241632	v_Plataform diving_id_M92zOuW_b2c_start_86.5_label_1
 203.36	0.0	video off	4	244032	n/a
 203.755	0.0	resp	3	244506	n/a
-207.35916666666665	0.0	video on	5	248831	v_Fixing the roof_id_HyanDWD1H-k_start_87.5_label_1
+207.35916666666665	0.0	video on	5	248831	n/a
 209.3425	0.0	video off	4	251211	n/a
 209.58666666666667	0.0	resp	3	251504	n/a
 210.35916666666665	0.0	video on	5	252431	v_Throwing darts_id_QyNy7wMOEOA_start_5.5_label_1
@@ -242,7 +242,7 @@ onset	duration	trial_type	value	sample	stim_id
 297.3566666666667	0.0	video on	5	356828	v_Playing piano_id_P6LUTbPafOs_start_9.0_label_1
 299.3566666666667	0.0	video off	4	359228	n/a
 299.6116666666667	0.0	resp	3	359534	n/a
-300.3566666666667	0.0	video on	5	360428	v_Playing water polo_id_vajtNYawgc4_start_7.0_label_1
+300.3566666666667	0.0	video on	5	360428	n/a
 302.3725	0.0	video off	4	362847	n/a
 302.7158333333333	0.0	resp	3	363259	n/a
 303.3558333333333	0.0	video on	5	364027	v_Triple jump_id_fr8VTa0OyGI_start_6.5_label_1

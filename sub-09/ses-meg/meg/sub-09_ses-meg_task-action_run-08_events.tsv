@@ -129,7 +129,7 @@ onset	duration	trial_type	value	sample	stim_id
 160.265	0.0	video on	5	192318	v_Swimming_id_LLC_xA07taM_start_27.0_label_1
 162.265	0.0	video off	4	194718	n/a
 162.80333333333334	0.0	resp	3	195364	n/a
-163.265	0.0	video on	5	195918	v_Playing water polo_id_fVGn4luNLow_start_90.5_label_1
+163.265	0.0	video on	5	195918	n/a
 165.29833333333335	0.0	video off	4	198358	n/a
 165.72333333333333	0.0	resp	3	198868	n/a
 166.265	0.0	video on	5	199518	v_Having an ice cream_id_QIi0YTnxFtU_start_181.0_label_1
@@ -265,6 +265,6 @@ onset	duration	trial_type	value	sample	stim_id
 324.5408333333333	0.0	resp	3	389449	n/a
 325.2758333333333	0.0	video on	5	390331	v_Waxing skis_id_uj3u8SF8BOI_start_75.0_label_1
 327.2758333333333	0.0	video off	4	392731	n/a
-328.2758333333333	0.0	video on	5	393931	v_Using the rowing machine_id_eifY17JjZIU_start_3.5_label_1
+328.2758333333333	0.0	video on	5	393931	n/a
 330.2758333333333	0.0	video off	4	396331	n/a
 335.31083333333333	0.0	end	2	402373	n/a

@@ -29,7 +29,7 @@ onset	duration	trial_type	value	sample	stim_id
 38.06166666666667	0.0	video on	5	45674	v_Waterskiing_id_aP9V10YduiU_start_219.0_label_1
 40.06166666666667	0.0	video off	4	48074	n/a
 40.27583333333333	0.0	resp	3	48331	n/a
-44.06166666666667	0.0	video on	5	52874	v_Using the rowing machine_id_j-RHrkcUsyA_start_95.5_label_1
+44.06166666666667	0.0	video on	5	52874	n/a
 46.07833333333333	0.0	video off	4	55294	n/a
 46.32416666666666	0.0	resp	3	55589	n/a
 47.060833333333335	0.0	video on	5	56473	v_Beach soccer_id_oh_WwfKc6OI_start_117.5_label_1
@@ -58,7 +58,7 @@ onset	duration	trial_type	value	sample	stim_id
 74.06	0.0	video on	5	88872	v_Dodgeball_id_aci4obT1wrU_start_60.0_label_1
 76.06083333333333	0.0	video off	4	91273	n/a
 76.54083333333334	0.0	resp	3	91849	n/a
-80.06	0.0	video on	5	96072	v_Putting on shoes_id_AjPvnLyxfX4_start_24.5_label_1
+80.06	0.0	video on	5	96072	n/a
 82.09333333333333	0.0	video off	4	98512	n/a
 82.35666666666667	0.0	resp	3	98828	n/a
 83.06	0.0	video on	5	99672	v_Clean and jerk_id_65vuEi3tb-w_start_10.5_label_1
@@ -76,7 +76,7 @@ onset	duration	trial_type	value	sample	stim_id
 98.05916666666668	0.0	video on	5	117671	v_Getting a piercing_id_1xtFNHKakBY_start_3.0_label_1
 100.04333333333334	0.0	video off	4	120052	n/a
 100.50916666666669	0.0	resp	3	120611	n/a
-101.05916666666668	0.0	video on	5	121271	v_Playing polo_id_QxaAMWcdZtM_start_14.5_label_1
+101.05916666666668	0.0	video on	5	121271	n/a
 103.07583333333334	0.0	video off	4	123691	n/a
 103.57333333333334	0.0	resp	3	124288	n/a
 104.05916666666668	0.0	video on	5	124871	v_Camel ride_id_sP_jOwplZ7Q_start_46.5_label_1
@@ -210,7 +210,7 @@ onset	duration	trial_type	value	sample	stim_id
 263.0708333333333	0.0	video on	5	315685	v_Playing beach volleyball_id_Ii6Tka2rLXc_start_63.5_label_1
 265.1041666666667	0.0	video off	4	318125	n/a
 265.3825	0.0	resp	3	318459	n/a
-266.0708333333333	0.0	video on	5	319285	v_Rock-paper-scissors_id_tRYA0-EC6tk_start_137.0_label_1
+266.0708333333333	0.0	video on	5	319285	n/a
 268.0708333333333	0.0	video off	4	321685	n/a
 268.3425	0.0	resp	3	322011	n/a
 269.0708333333333	0.0	video on	5	322885	v_Playing guitarra_id_dsRatZykj8M_start_112.5_label_1
@@ -225,7 +225,7 @@ onset	duration	trial_type	value	sample	stim_id
 281.07	0.0	video on	5	337284	v_Raking leaves_id_oG5UBumN3J8_start_43.5_label_1
 283.07	0.0	video off	4	339684	n/a
 283.655	0.0	resp	3	340386	n/a
-284.07	0.0	video on	5	340884	v_Using the monkey bar_id_l5uaH-Qydxk_start_19.5_label_1
+284.07	0.0	video on	5	340884	n/a
 286.1033333333333	0.0	video off	4	343324	n/a
 286.64666666666665	0.0	resp	3	343976	n/a
 287.07	0.0	video on	5	344484	v_Rock climbing_id_Ug8yHJe2zlc_start_38.0_label_1

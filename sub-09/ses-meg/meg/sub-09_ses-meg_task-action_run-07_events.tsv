@@ -3,7 +3,7 @@ onset	duration	trial_type	value	sample	stim_id
 9.331666666666669	0.0	video on	5	11198	v_Playing congas_id_-H44pbRIg7s_start_4.0_label_1
 11.331666666666669	0.0	video off	4	13598	n/a
 11.759166666666667	0.0	resp	3	14111	n/a
-12.315	0.0	video on	5	14778	v_Playing kickball_id_1kMSBLLHhUc_start_74.5_label_1
+12.315	0.0	video on	5	14778	n/a
 14.315	0.0	video off	4	17178	n/a
 14.919166666666667	0.0	resp	3	17903	n/a
 15.315	0.0	video on	5	18378	v_Rafting_id_BGaz2KCg_gc_start_8.0_label_1
@@ -66,7 +66,7 @@ onset	duration	trial_type	value	sample	stim_id
 84.3125	0.0	video on	5	101175	v_Playing badminton_id_KfA5iH0PXpA_start_12.0_label_1
 86.32916666666667	0.0	video off	4	103595	n/a
 86.78416666666666	0.0	resp	3	104141	n/a
-87.3125	0.0	video on	5	104775	v_Putting in contact lenses_id_5FAGhHa6w2w_start_43.0_label_1
+87.3125	0.0	video on	5	104775	n/a
 89.27916666666667	0.0	video off	4	107135	n/a
 89.53666666666666	0.0	resp	3	107444	n/a
 90.3125	0.0	video on	5	108375	v_Tumbling_id_yBLcDvfydoU_start_28.0_label_1
@@ -177,7 +177,7 @@ onset	duration	trial_type	value	sample	stim_id
 216.325	0.0	video on	5	259590	v_Putting on makeup_id_k9lfCugez0Q_start_117.5_label_1
 218.3583333333333	0.0	video off	4	262030	n/a
 218.7133333333333	0.0	resp	3	262456	n/a
-219.325	0.0	video on	5	263190	v_Using the monkey bar_id_Fnz1P56mAI0_start_10.0_label_1
+219.325	0.0	video on	5	263190	n/a
 221.325	0.0	video off	4	265590	n/a
 221.67333333333332	0.0	resp	3	266008	n/a
 225.325	0.0	video on	5	270390	v_Baton twirling_id_VIxzrwNliww_start_128.5_label_1
@@ -240,7 +240,7 @@ onset	duration	trial_type	value	sample	stim_id
 297.3225	0.0	video on	5	356787	v_Cleaning windows_id_jNmO9vbrIlY_start_72.0_label_1
 299.3225	0.0	video off	4	359187	n/a
 299.63416666666666	0.0	resp	3	359561	n/a
-300.3225	0.0	video on	5	360387	v_Painting fence_id_9-xf_gylOR0_start_6.5_label_1
+300.3225	0.0	video on	5	360387	n/a
 302.32166666666666	0.0	video off	4	362786	n/a
 302.73833333333334	0.0	resp	3	363286	n/a
 303.32166666666666	0.0	video on	5	363986	v_Playing blackjack_id_c6Vc5deXzLE_start_87.0_label_1

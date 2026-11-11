@@ -21,7 +21,7 @@ onset	duration	trial_type	value	sample	stim_id
 29.855833333333333	0.0	video on	5	35827	v_Table soccer_id_rgcF5R7xfDk_start_39.0_label_1
 31.855833333333333	0.0	video off	4	38227	n/a
 32.288333333333334	0.0	resp	3	38746	n/a
-32.85583333333334	0.0	video on	5	39427	v_Fun sliding down_id_77tr27PIsEI_start_96.0_label_1
+32.85583333333334	0.0	video on	5	39427	n/a
 34.888333333333335	0.0	video off	4	41866	n/a
 35.04	0.0	resp	3	42048	n/a
 35.855	0.0	video on	5	43026	v_Raking leaves_id_PgE70QBohP8_start_108.5_label_1
@@ -166,7 +166,7 @@ onset	duration	trial_type	value	sample	stim_id
 218.8658333333333	0.0	video on	5	262639	v_Playing guitarra_id_-jQSOuzLPH4_start_64.5_label_1
 220.8658333333333	0.0	video off	4	265039	n/a
 221.4983333333333	0.0	resp	3	265798	n/a
-224.8658333333333	0.0	video on	5	269839	v_Using the rowing machine_id_6YuFCX-AQQ4_start_25.5_label_1
+224.8658333333333	0.0	video on	5	269839	n/a
 226.8658333333333	0.0	video off	4	272239	n/a
 227.8658333333333	0.0	video on	5	273439	v_Fixing bicycle_id_DnCEA7VEuEc_start_43.5_label_1
 229.865	0.0	video off	4	275838	n/a
@@ -206,7 +206,7 @@ onset	duration	trial_type	value	sample	stim_id
 278.86333333333334	0.0	video on	5	334636	v_Doing fencing_id_USmMRLo7U48_start_6.5_label_1
 280.8975	0.0	video off	4	337077	n/a
 281.25083333333333	0.0	resp	3	337501	n/a
-281.86333333333334	0.0	video on	5	338236	v_Using parallel bars_id_ukcH6ugAQoE_start_10.0_label_1
+281.86333333333334	0.0	video on	5	338236	n/a
 283.8641666666667	0.0	video off	4	340637	n/a
 284.17833333333334	0.0	resp	3	341014	n/a
 284.86333333333334	0.0	video on	5	341836	v_Smoking a cigarette_id_If8xQDM-YS4_start_3.0_label_1
@@ -231,7 +231,7 @@ onset	duration	trial_type	value	sample	stim_id
 308.8625	0.0	video on	5	370635	v_Kneeling_id_ZpfgRLkGiHM_start_7.5_label_1
 310.8625	0.0	video off	4	373035	n/a
 311.2033333333333	0.0	resp	3	373444	n/a
-314.8625	0.0	video on	5	377835	v_Using the balance beam_id_gZclL45Ww-Y_start_11.0_label_1
+314.8625	0.0	video on	5	377835	n/a
 316.8625	0.0	video off	4	380235	n/a
 317.8625	0.0	video on	5	381435	v_Belly dance_id_pviZoaYJS1Y_start_75.5_label_1
 319.8625	0.0	video off	4	383835	n/a

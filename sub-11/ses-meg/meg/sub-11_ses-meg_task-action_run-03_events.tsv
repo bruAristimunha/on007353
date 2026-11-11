@@ -60,7 +60,7 @@ onset	duration	trial_type	value	sample	stim_id
 73.52166666666666	0.0	video on	5	88226	v_Canoeing_id_bgEfBviBdlM_start_22.0_label_1
 75.52166666666666	0.0	video off	4	90626	n/a
 76.11166666666666	0.0	resp	3	91334	n/a
-79.52166666666666	0.0	video on	5	95426	v_Playing polo_id_Gt6yhrJE5UY_start_4.0_label_1
+79.52166666666666	0.0	video on	5	95426	n/a
 81.5375	0.0	video off	4	97845	n/a
 81.83166666666666	0.0	resp	3	98198	n/a
 82.52083333333333	0.0	video on	5	99025	v_Hanging wallpaper_id_3v5qKhZHtsY_start_41.0_label_1
@@ -169,7 +169,7 @@ onset	duration	trial_type	value	sample	stim_id
 211.53333333333333	0.0	video on	5	253840	v_Smoking a cigarette_id_wKajmN62PPY_start_47.5_label_1
 213.53333333333333	0.0	video off	4	256240	n/a
 214.2975	0.0	resp	3	257157	n/a
-214.53333333333333	0.0	video on	5	257440	v_Fixing the roof_id_yyOf1VQ3ybQ_start_73.0_label_1
+214.53333333333333	0.0	video on	5	257440	n/a
 216.53333333333333	0.0	video off	4	259840	n/a
 217.53333333333333	0.0	video on	5	261040	v_Playing bagpipes_id_1r9Xki73-FM_start_32.0_label_1
 219.53333333333333	0.0	video off	4	263440	n/a
@@ -182,7 +182,7 @@ onset	duration	trial_type	value	sample	stim_id
 229.53333333333333	0.0	video on	5	275440	v_Swimming_id_Y5MMcMjCUg0_start_21.5_label_1
 231.53333333333333	0.0	video off	4	277840	n/a
 231.96166666666667	0.0	resp	3	278354	n/a
-232.5325	0.0	video on	5	279039	v_Polishing shoes_id_LFCVMnDwmcI_start_118.0_label_1
+232.5325	0.0	video on	5	279039	n/a
 234.5325	0.0	video off	4	281439	n/a
 234.96166666666667	0.0	resp	3	281954	n/a
 235.5325	0.0	video on	5	282639	v_Sailing_id_Ous71Idhr3Q_start_73.0_label_1
@@ -244,7 +244,7 @@ onset	duration	trial_type	value	sample	stim_id
 318.53	0.0	video off	4	382236	n/a
 319.53	0.0	video on	5	383436	v_Playing flauta_id_JiMjIoADRos_start_37.0_label_1
 321.53	0.0	video off	4	385836	n/a
-322.53	0.0	video on	5	387036	v_Croquet_id_f7IJmeIq-Ng_start_50.0_label_1
+322.53	0.0	video on	5	387036	n/a
 324.53	0.0	video off	4	389436	n/a
 325.53	0.0	video on	5	390636	v_Raking leaves_id_xZW8fZ4wG84_start_145.0_label_1
 327.53	0.0	video off	4	393036	n/a

@@ -51,7 +51,7 @@ onset	duration	trial_type	value	sample	stim_id
 75.495	0.0	video off	4	90594	n/a
 79.49416666666667	0.0	video on	5	95393	v_Cheerleading_id_WDWtqlgPCFs_start_11.0_label_1
 81.51083333333334	0.0	video off	4	97813	n/a
-82.49416666666667	0.0	video on	5	98993	v_Painting fence_id_7ePH4GWsVv4_start_23.0_label_1
+82.49416666666667	0.0	video on	5	98993	n/a
 84.49416666666667	0.0	video off	4	101393	n/a
 85.49416666666667	0.0	video on	5	102593	v_Making a sandwich_id_wqxvUylggbE_start_79.0_label_1
 87.51083333333334	0.0	video off	4	105013	n/a

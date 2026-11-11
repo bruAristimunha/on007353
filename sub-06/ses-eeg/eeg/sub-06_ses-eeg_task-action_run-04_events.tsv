@@ -74,12 +74,12 @@ onset	duration	trial_type	value	sample	stim_id
 109.0	0.0	video off	4	109000	n/a
 113.0	0.0	video on	5	113000	v_Playing water polo_id_pxmQW-FSAeg_start_94.0_label_1
 115.0	0.0	video off	4	115000	n/a
-116.0	0.0	video on	5	116000	v_Fun sliding down_id_RUCGVCjoBQw_start_59.5_label_1
+116.0	0.0	video on	5	116000	n/a
 118.0	0.0	video off	4	118000	n/a
 118.589	0.0	resp	3	118589	n/a
 119.0	0.0	video on	5	119000	v_Baking cookies_id_aYcPnazlbB0_start_93.5_label_1
 121.0	0.0	video off	4	121000	n/a
-122.0	0.0	video on	5	122000	v_Preparing pasta_id_9gCLVQaxvzU_start_52.0_label_1
+122.0	0.0	video on	5	122000	n/a
 124.0	0.0	video off	4	124000	n/a
 124.002	0.0	resp	3	124002	n/a
 125.0	0.0	video on	5	125000	v_Kayaking_id_BPAFdKu_Scs_start_36.0_label_1
@@ -132,11 +132,11 @@ onset	duration	trial_type	value	sample	stim_id
 199.0	0.0	video off	4	199000	n/a
 203.0	0.0	video on	5	203000	v_Clean and jerk_id_KcPlBeRmx6Y_start_14.0_label_1
 205.0	0.0	video off	4	205000	n/a
-206.0	0.0	video on	5	206000	v_Playing kickball_id_Po5Vchcx7BQ_start_57.5_label_1
+206.0	0.0	video on	5	206000	n/a
 208.0	0.0	video off	4	208000	n/a
 209.0	0.0	video on	5	209000	v_Playing ice hockey_id_5F9Bu4-eYxA_start_68.5_label_1
 211.0	0.0	video off	4	211000	n/a
-212.0	0.0	video on	5	212000	v_Putting in contact lenses_id_1w6q_aQmWd4_start_54.5_label_1
+212.0	0.0	video on	5	212000	n/a
 214.0	0.0	video off	4	214000	n/a
 214.142	0.0	resp	3	214142	n/a
 215.0	0.0	video on	5	215000	v_Using the balance beam_id_ic6kT-RxVz8_start_5.5_label_1
@@ -153,7 +153,7 @@ onset	duration	trial_type	value	sample	stim_id
 233.0	0.0	video on	5	233000	v_Painting furniture_id_zgXya-aa5xM_start_27.0_label_1
 235.0	0.0	video off	4	235000	n/a
 235.362	0.0	resp	3	235362	n/a
-239.0	0.0	video on	5	239000	v_Throwing darts_id_gu5uWRaQx1Q_start_37.0_label_1
+239.0	0.0	video on	5	239000	n/a
 241.0	0.0	video off	4	241000	n/a
 241.477	0.0	resp	3	241477	n/a
 242.0	0.0	video on	5	242000	v_Shaving_id_Eam5SmSg6eg_start_62.0_label_1

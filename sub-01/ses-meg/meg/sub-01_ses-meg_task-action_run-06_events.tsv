@@ -92,7 +92,7 @@ onset	duration	trial_type	value	sample	stim_id
 116.53833333333333	0.0	video on	5	139846	v_Belly dance_id_gvPczN3ywt8_start_52.5_label_1
 118.5375	0.0	video off	4	142245	n/a
 118.80416666666666	0.0	resp	3	142565	n/a
-119.5375	0.0	video on	5	143445	v_Using the rowing machine_id_VONrGSxGhSo_start_35.5_label_1
+119.5375	0.0	video on	5	143445	n/a
 121.53833333333333	0.0	video off	4	145846	n/a
 121.81166666666668	0.0	resp	3	146174	n/a
 122.5375	0.0	video on	5	147045	v_Baking cookies_id_BFAAkc-g5RE_start_103.5_label_1
@@ -227,7 +227,7 @@ onset	duration	trial_type	value	sample	stim_id
 281.5491666666667	0.0	video on	5	337859	v_Laying tile_id_44eySQiNUCs_start_168.0_label_1
 283.5491666666667	0.0	video off	4	340259	n/a
 283.9575	0.0	resp	3	340749	n/a
-284.5491666666667	0.0	video on	5	341459	v_Fixing the roof_id_62VWugDz1MY_start_10.0_label_1
+284.5491666666667	0.0	video on	5	341459	n/a
 286.5491666666667	0.0	video off	4	343859	n/a
 286.80583333333334	0.0	resp	3	344167	n/a
 287.5491666666667	0.0	video on	5	345059	v_Playing guitarra_id_t_06O8XnJQo_start_118.0_label_1

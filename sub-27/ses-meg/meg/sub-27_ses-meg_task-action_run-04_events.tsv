@@ -68,7 +68,7 @@ onset	duration	trial_type	value	sample	stim_id
 85.02666666666667	0.0	video on	5	102032	v_Playing piano_id_Q3G8--nae3U_start_48.0_label_1
 87.04333333333334	0.0	video off	4	104452	n/a
 87.65333333333334	0.0	resp	3	105184	n/a
-88.02666666666667	0.0	video on	5	105632	v_Preparing pasta_id_oF6FipH9NWg_start_103.0_label_1
+88.02666666666667	0.0	video on	5	105632	n/a
 90.04333333333334	0.0	video off	4	108052	n/a
 90.66083333333331	0.0	resp	3	108793	n/a
 91.02666666666669	0.0	video on	5	109232	v_Throwing darts_id_cIoLP6hgzA8_start_3.0_label_1
@@ -144,7 +144,7 @@ onset	duration	trial_type	value	sample	stim_id
 193.04	0.0	video on	5	231648	v_Skiing_id_TM2oX2quLHk_start_7.5_label_1
 195.04	0.0	video off	4	234048	n/a
 195.47	0.0	resp	3	234564	n/a
-196.04	0.0	video on	5	235248	v_Polishing shoes_id_3HgMb8C1Sik_start_6.5_label_1
+196.04	0.0	video on	5	235248	n/a
 198.04	0.0	video off	4	237648	n/a
 198.48583333333332	0.0	resp	3	238183	n/a
 199.04	0.0	video on	5	238848	v_Croquet_id_toshvYDwJ4E_start_40.0_label_1

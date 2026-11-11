@@ -11,7 +11,7 @@ onset	duration	trial_type	value	sample	stim_id
 9.498	0.0	video on	5	9498	v_Walking the dog_id_Vls75LqWib4_start_50.5_label_1
 11.539	0.0	video off	4	11539	n/a
 11.911	0.0	resp	3	11911	n/a
-12.497	0.0	video on	5	12497	v_Putting in contact lenses_id_typjqwjZsoo_start_35.5_label_1
+12.497	0.0	video on	5	12497	n/a
 14.545	0.0	video off	4	14545	n/a
 14.975	0.0	resp	3	14975	n/a
 18.498	0.0	video on	5	18498	v_Hopscotch_id_GGZZqijBgeI_start_49.0_label_1
@@ -68,7 +68,7 @@ onset	duration	trial_type	value	sample	stim_id
 78.498	0.0	video on	5	78498	v_Calf roping_id_jp_AXXik6zM_start_78.0_label_1
 80.506	0.0	video off	4	80506	n/a
 81.481	0.0	resp	3	81481	n/a
-81.665	0.0	video on	5	81665	v_Using uneven bars_id_P_e4BlO947E_start_37.0_label_1
+81.665	0.0	video on	5	81665	n/a
 83.675	0.0	video off	4	83675	n/a
 84.352	0.0	resp	3	84352	n/a
 84.52	0.0	video on	5	84520	v_Plataform diving_id_lTP0-Oo1Pcc_start_48.5_label_1
@@ -95,7 +95,7 @@ onset	duration	trial_type	value	sample	stim_id
 111.499	0.0	video on	5	111499	v_Having an ice cream_id_crpyykf_zgI_start_21.5_label_1
 113.536	0.0	video off	4	113536	n/a
 114.0	0.0	resp	3	114000	n/a
-114.499	0.0	video on	5	114499	v_Playing water polo_id_fVGn4luNLow_start_74.0_label_1
+114.499	0.0	video on	5	114499	n/a
 116.506	0.0	video off	4	116506	n/a
 116.848	0.0	resp	3	116848	n/a
 117.499	0.0	video on	5	117499	v_Running a marathon_id_jSINaq0rGgw_start_7.5_label_1

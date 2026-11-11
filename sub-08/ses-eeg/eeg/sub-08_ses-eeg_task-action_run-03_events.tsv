@@ -36,7 +36,7 @@ onset	duration	trial_type	value	sample	stim_id
 44.027	0.0	video on	5	44027	v_Waterskiing_id_K8DimjS6n8o_start_46.0_label_1
 46.026	0.0	video off	4	46026	n/a
 46.36	0.0	resp	3	46360	n/a
-47.027	0.0	video on	5	47027	v_Fixing the roof_id_sUoUkKRsA9c_start_6.0_label_1
+47.027	0.0	video on	5	47027	n/a
 49.037	0.0	video off	4	49037	n/a
 49.52	0.0	resp	3	49520	n/a
 50.027	0.0	video on	5	50027	v_Scuba diving_id_x77iJY3IgbI_start_41.0_label_1
@@ -99,7 +99,7 @@ onset	duration	trial_type	value	sample	stim_id
 119.027	0.0	video on	5	119027	v_Baton twirling_id_OQS8KPLNLeY_start_24.0_label_1
 121.027	0.0	video off	4	121027	n/a
 121.441	0.0	resp	3	121441	n/a
-122.028	0.0	video on	5	122028	v_Bathing dog_id_Vpb89P9VgV0_start_58.0_label_1
+122.028	0.0	video on	5	122028	n/a
 124.069	0.0	video off	4	124069	n/a
 124.489	0.0	resp	3	124489	n/a
 125.028	0.0	video on	5	125028	v_Laying tile_id_BTj5zGLJDT4_start_43.5_label_1

@@ -3,7 +3,7 @@ onset	duration	trial_type	value	sample	stim_id
 5.0	0.0	video on	5	5000	v_Doing fencing_id_jf5yo-rzLqA_start_9.0_label_1
 7.0	0.0	video off	4	7000	n/a
 7.56	0.0	resp	3	7560	n/a
-8.0	0.0	video on	5	8000	v_Playing water polo_id_ulIW5kMy5NQ_start_14.5_label_1
+8.0	0.0	video on	5	8000	n/a
 10.0	0.0	video off	4	10000	n/a
 10.834	0.0	resp	3	10834	n/a
 11.0	0.0	video on	5	11000	v_Doing motocross_id_x0qQt6yPlTc_start_7.5_label_1
@@ -101,7 +101,7 @@ onset	duration	trial_type	value	sample	stim_id
 131.0	0.0	video on	5	131000	v_Carving jack-o-lanterns_id_sX6OIhqFZ8o_start_63.0_label_1
 133.0	0.0	video off	4	133000	n/a
 133.569	0.0	resp	3	133569	n/a
-134.0	0.0	video on	5	134000	v_Fun sliding down_id_oV27az9VKbk_start_32.0_label_1
+134.0	0.0	video on	5	134000	n/a
 136.0	0.0	video off	4	136000	n/a
 136.841	0.0	resp	3	136841	n/a
 137.0	0.0	video on	5	137000	v_Laying tile_id_Fhiq2VIzbmI_start_102.0_label_1
@@ -122,7 +122,7 @@ onset	duration	trial_type	value	sample	stim_id
 155.0	0.0	video on	5	155000	v_Playing polo_id_nyVkn_8Cm5E_start_131.0_label_1
 157.0	0.0	video off	4	157000	n/a
 157.986	0.0	resp	3	157986	n/a
-158.0	0.0	video on	5	158000	v_Polishing forniture_id_p6yv-F_HRIA_start_86.5_label_1
+158.0	0.0	video on	5	158000	n/a
 160.0	0.0	video off	4	160000	n/a
 160.681	0.0	resp	3	160681	n/a
 161.0	0.0	video on	5	161000	v_Capoeira_id_FzOMMRm7MEI_start_46.5_label_1
@@ -177,7 +177,7 @@ onset	duration	trial_type	value	sample	stim_id
 226.762	0.0	resp	3	226762	n/a
 227.0	0.0	video on	5	227000	v_Breakdancing_id_j_Sd7Y6QCHA_start_179.5_label_1
 229.0	0.0	video off	4	229000	n/a
-230.0	0.0	video on	5	230000	v_Fixing the roof_id_Nw0XD-bdOYM_start_12.0_label_1
+230.0	0.0	video on	5	230000	n/a
 232.0	0.0	video off	4	232000	n/a
 233.0	0.0	video on	5	233000	v_Baton twirling_id_zkQjhDsDMv4_start_5.0_label_1
 235.0	0.0	video off	4	235000	n/a
@@ -187,7 +187,7 @@ onset	duration	trial_type	value	sample	stim_id
 242.0	0.0	video on	5	242000	v_Blow-drying hair_id_HNS_1GimPE4_start_113.0_label_1
 244.0	0.0	video off	4	244000	n/a
 244.61	0.0	resp	3	244610	n/a
-245.0	0.0	video on	5	245000	v_Waxing skis_id_0hfRWlWOaYw_start_36.5_label_1
+245.0	0.0	video on	5	245000	n/a
 247.0	0.0	video off	4	247000	n/a
 247.866	0.0	resp	3	247866	n/a
 248.0	0.0	video on	5	248000	v_Hopscotch_id_OTuO0rOnkb4_start_123.0_label_1

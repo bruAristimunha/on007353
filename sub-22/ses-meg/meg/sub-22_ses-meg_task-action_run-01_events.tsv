@@ -198,13 +198,13 @@ onset	duration	trial_type	value	sample	stim_id
 251.05083333333332	0.0	video on	5	301261	v_Scuba diving_id_wXCDeqjWuDg_start_28.0_label_1
 253.05083333333332	0.0	video off	4	303661	n/a
 253.53083333333333	0.0	resp	3	304237	n/a
-254.05083333333332	0.0	video on	5	304861	v_Spread mulch_id_gv4yUAjPLSM_start_132.0_label_1
+254.05083333333332	0.0	video on	5	304861	n/a
 256.08416666666665	0.0	video off	4	307301	n/a
 256.4183333333333	0.0	resp	3	307702	n/a
 260.05	0.0	video on	5	312060	v_Hitting a pinata_id_SmgsyScQBso_start_2.0_label_1
 262.05083333333334	0.0	video off	4	314461	n/a
 262.4025	0.0	resp	3	314883	n/a
-263.05	0.0	video on	5	315660	v_Preparing pasta_id_VGXNuaYloPw_start_94.0_label_1
+263.05	0.0	video on	5	315660	n/a
 265.0833333333333	0.0	video off	4	318100	n/a
 265.46666666666664	0.0	resp	3	318560	n/a
 266.05	0.0	video on	5	319260	v_Javelin throw_id_cnk0V_GndqQ_start_39.0_label_1
@@ -222,7 +222,7 @@ onset	duration	trial_type	value	sample	stim_id
 281.05	0.0	video on	5	337260	v_Fixing bicycle_id_D0uSTtDWbI8_start_46.0_label_1
 283.05	0.0	video off	4	339660	n/a
 283.97083333333336	0.0	resp	3	340765	n/a
-284.0491666666667	0.0	video on	5	340859	v_Playing pool_id_JHOJVGLRStQ_start_142.5_label_1
+284.0491666666667	0.0	video on	5	340859	n/a
 286.0491666666667	0.0	video off	4	343259	n/a
 286.435	0.0	resp	3	343722	n/a
 287.0491666666667	0.0	video on	5	344459	v_Triple jump_id_5ZvUwGbfBIg_start_122.0_label_1

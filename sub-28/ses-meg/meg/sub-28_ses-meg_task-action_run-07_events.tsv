@@ -16,7 +16,7 @@ onset	duration	trial_type	value	sample	stim_id
 32.1525	0.0	video off	3	38583	n/a
 33.11833333333333	0.0	video on	4	39742	v_Plataform diving_id_gmVqX-hbSwo_start_55.0_label_1
 35.11833333333333	0.0	video off	3	42142	n/a
-36.11833333333333	0.0	video on	4	43342	v_Playing kickball_id_xrzz2qD8hv0_start_9.5_label_1
+36.11833333333333	0.0	video on	4	43342	n/a
 38.119166666666665	0.0	video off	3	45743	n/a
 39.11833333333333	0.0	video on	4	46942	v_Using parallel bars_id_u_QQ4K_fx_k_start_3.5_label_1
 41.11833333333333	0.0	video off	3	49342	n/a
@@ -74,7 +74,7 @@ onset	duration	trial_type	value	sample	stim_id
 137.11583333333334	0.0	video off	3	164539	n/a
 138.115	0.0	video on	4	165738	v_Braiding hair_id_cPDdqow4558_start_70.0_label_1
 140.13166666666666	0.0	video off	3	168158	n/a
-141.115	0.0	video on	4	169338	v_Sumo_id_XKUZ-wYrLxM_start_46.5_label_1
+141.115	0.0	video on	4	169338	n/a
 143.13166666666666	0.0	video off	3	171758	n/a
 144.115	0.0	video on	4	172938	v_Vacuuming floor_id_ZuM_kdFmosw_start_5.5_label_1
 146.115	0.0	video off	3	175338	n/a
@@ -104,7 +104,7 @@ onset	duration	trial_type	value	sample	stim_id
 191.13	0.0	video off	3	229356	n/a
 192.13	0.0	video on	4	230556	v_Bullfighting_id_YVdQfSWvFqs_start_142.0_label_1
 194.13	0.0	video off	3	232956	n/a
-195.13	0.0	video on	4	234156	v_Bathing dog_id_i7CdocUo3EI_start_87.5_label_1
+195.13	0.0	video on	4	234156	n/a
 197.13	0.0	video off	3	236556	n/a
 198.13	0.0	video on	4	237756	v_Hopscotch_id_ECDEOXrsPxs_start_64.0_label_1
 200.11333333333332	0.0	video off	3	240136	n/a
@@ -144,7 +144,7 @@ onset	duration	trial_type	value	sample	stim_id
 263.1275	0.0	video off	3	315753	n/a
 264.1275	0.0	video on	4	316953	v_Shuffleboard_id_H65l8dbKbUo_start_13.5_label_1
 266.1275	0.0	video off	3	319353	n/a
-267.1275	0.0	video on	4	320553	v_Running a marathon_id_lMUKK9C-h_0_start_16.5_label_1
+267.1275	0.0	video on	4	320553	n/a
 269.1275	0.0	video off	3	322953	n/a
 270.1275	0.0	video on	4	324153	v_Swimming_id_jd_QfhTSFAU_start_65.0_label_1
 272.1275	0.0	video off	3	326553	n/a
@@ -156,7 +156,7 @@ onset	duration	trial_type	value	sample	stim_id
 284.1275	0.0	video off	3	340953	n/a
 285.12666666666667	0.0	video on	4	342152	v_Doing motocross_id_X30qy7iTJC0_start_36.0_label_1
 287.12666666666667	0.0	video off	3	344552	n/a
-288.12666666666667	0.0	video on	4	345752	v_Spread mulch_id_9-LNTYSlLmw_start_45.0_label_1
+288.12666666666667	0.0	video on	4	345752	n/a
 290.12666666666667	0.0	video off	3	348152	n/a
 291.12666666666667	0.0	video on	4	349352	v_Getting a piercing_id_W78jcaYspig_start_90.0_label_1
 293.1433333333333	0.0	video off	3	351772	n/a

@@ -1,6 +1,6 @@
 onset	duration	trial_type	value	sample	stim_id
 0.0	0.0	begin	1	0	n/a
-5.029	0.0	video on	5	5029	v_Drinking coffee_id_-RhHIfIjo-k_start_65.0_label_1
+5.029	0.0	video on	5	5029	n/a
 7.077	0.0	video off	4	7077	n/a
 7.2	0.0	resp	3	7200	n/a
 8.027	0.0	video on	5	8027	v_Long jump_id_TaQ4pEbosw4_start_2.0_label_1
@@ -35,7 +35,7 @@ onset	duration	trial_type	value	sample	stim_id
 44.027	0.0	video on	5	44027	v_Tai chi_id_IJgbbLhuKEM_start_70.5_label_1
 46.033	0.0	video off	4	46033	n/a
 46.577	0.0	resp	3	46577	n/a
-47.027	0.0	video on	5	47027	v_Painting fence_id_w5ibAWsfEkE_start_22.0_label_1
+47.027	0.0	video on	5	47027	n/a
 49.028	0.0	video off	4	49028	n/a
 49.473	0.0	resp	3	49473	n/a
 50.027	0.0	video on	5	50027	v_BMX_id_l52lSabDI9c_start_79.5_label_1
@@ -85,7 +85,7 @@ onset	duration	trial_type	value	sample	stim_id
 107.028	0.0	video on	5	107028	v_Putting on shoes_id_iwlaoO6_daQ_start_30.0_label_1
 109.038	0.0	video off	4	109038	n/a
 109.665	0.0	resp	3	109665	n/a
-113.028	0.0	video on	5	113028	v_Croquet_id_g9ZnILprR_I_start_57.5_label_1
+113.028	0.0	video on	5	113028	n/a
 115.03	0.0	video off	4	115030	n/a
 115.809	0.0	resp	3	115809	n/a
 116.028	0.0	video on	5	116028	v_Playing flauta_id_MTgXfQiwnfw_start_26.0_label_1
@@ -100,7 +100,7 @@ onset	duration	trial_type	value	sample	stim_id
 125.171	0.0	video on	5	125171	v_Ping-pong_id_9edzw7L68kQ_start_69.5_label_1
 127.17	0.0	video off	4	127170	n/a
 127.945	0.0	resp	3	127945	n/a
-131.03	0.0	video on	5	131030	v_Using the balance beam_id_DScOSAwwqX0_start_1.5_label_1
+131.03	0.0	video on	5	131030	n/a
 133.044	0.0	video off	4	133044	n/a
 133.609	0.0	resp	3	133609	n/a
 134.028	0.0	video on	5	134028	v_Doing step aerobics_id_F4yul8wHjCU_start_67.5_label_1

@@ -93,7 +93,7 @@ onset	duration	trial_type	value	sample	stim_id
 118.565	0.0	video on	5	142278	v_Croquet_id_e8cYtBV3BQ8_start_2.5_label_1
 120.58166666666666	0.0	video off	4	144698	n/a
 121.07833333333332	0.0	resp	3	145294	n/a
-121.565	0.0	video on	5	145878	v_Preparing pasta_id_xH8l5rCWrMU_start_61.0_label_1
+121.565	0.0	video on	5	145878	n/a
 123.56583333333332	0.0	video off	4	148279	n/a
 124.1825	0.0	resp	3	149019	n/a
 124.58166666666666	0.0	video on	5	149498	v_Baking cookies_id_y9DXqDQr1Xc_start_30.5_label_1

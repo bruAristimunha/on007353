@@ -37,7 +37,7 @@ onset	duration	trial_type	value	sample	stim_id
 53.025	0.0	video on	5	53025	v_Cricket_id_igi79RLIxHA_start_12.5_label_1
 55.038	0.0	video off	4	55038	n/a
 55.464	0.0	resp	3	55464	n/a
-59.025	0.0	video on	5	59025	v_Polishing shoes_id_S7QpPbYFvJw_start_2.0_label_1
+59.025	0.0	video on	5	59025	n/a
 61.037	0.0	video off	4	61037	n/a
 62.027	0.0	video on	5	62027	v_Assembling bicycle_id_y3JIQnT5Ddc_start_26.5_label_1
 64.034	0.0	video off	4	64034	n/a
@@ -152,7 +152,7 @@ onset	duration	trial_type	value	sample	stim_id
 206.028	0.0	video on	5	206028	v_Cleaning sink_id_hKn92s9R6xY_start_33.0_label_1
 208.073	0.0	video off	4	208073	n/a
 208.201	0.0	resp	3	208201	n/a
-209.028	0.0	video on	5	209028	v_Putting on shoes_id_groAnepbJBA_start_7.5_label_1
+209.028	0.0	video on	5	209028	n/a
 211.041	0.0	video off	4	211041	n/a
 211.537	0.0	resp	3	211537	n/a
 212.028	0.0	video on	5	212028	v_Doing nails_id_14BWW-6OwrI_start_71.5_label_1

@@ -52,7 +52,7 @@ onset	duration	trial_type	value	sample	stim_id
 68.23083333333334	0.0	video on	5	81877	v_Sailing_id_BnIbHawqiZU_start_34.0_label_1
 70.23083333333334	0.0	video off	4	84277	n/a
 70.59833333333333	0.0	resp	3	84718	n/a
-71.23083333333334	0.0	video on	5	85477	v_Rock-paper-scissors_id_rxKxvQITFHI_start_21.5_label_1
+71.23083333333334	0.0	video on	5	85477	n/a
 73.23083333333334	0.0	video off	4	87877	n/a
 73.63083333333333	0.0	resp	3	88357	n/a
 74.23083333333334	0.0	video on	5	89077	v_Kneeling_id_RYJnl6ezEcc_start_5.5_label_1
@@ -130,7 +130,7 @@ onset	duration	trial_type	value	sample	stim_id
 161.2275	0.0	video on	5	193473	v_Baton twirling_id_eA_AqAIFW8I_start_10.0_label_1
 163.245	0.0	video off	4	195894	n/a
 163.63166666666666	0.0	resp	3	196358	n/a
-164.2275	0.0	video on	5	197073	v_Spread mulch_id_c90yU3uzG4w_start_85.0_label_1
+164.2275	0.0	video on	5	197073	n/a
 166.22833333333332	0.0	video off	4	199474	n/a
 166.6233333333333	0.0	resp	3	199948	n/a
 170.2275	0.0	video on	5	204273	v_Getting a haircut_id_abMIxqzg37I_start_14.5_label_1
@@ -221,7 +221,7 @@ onset	duration	trial_type	value	sample	stim_id
 272.24083333333334	0.0	video on	5	326689	v_Playing saxophone_id_qRmtxP9-A54_start_60.0_label_1
 274.24083333333334	0.0	video off	4	329089	n/a
 274.505	0.0	resp	3	329406	n/a
-278.24083333333334	0.0	video on	5	333889	v_Fixing the roof_id_lKLvAJ0iTT0_start_50.5_label_1
+278.24083333333334	0.0	video on	5	333889	n/a
 280.24083333333334	0.0	video off	4	336289	n/a
 280.545	0.0	resp	3	336654	n/a
 281.24	0.0	video on	5	337488	v_Wakeboarding_id_LJOlY2QL1ik_start_40.5_label_1
@@ -230,7 +230,7 @@ onset	duration	trial_type	value	sample	stim_id
 284.24	0.0	video on	5	341088	v_Brushing teeth_id_Ds-LrRrLj9c_start_43.5_label_1
 286.24	0.0	video off	4	343488	n/a
 287.0491666666667	0.0	resp	3	344459	n/a
-287.24	0.0	video on	5	344688	v_Polishing forniture_id_DkcbpQJ5CcA_start_144.5_label_1
+287.24	0.0	video on	5	344688	n/a
 289.25666666666666	0.0	video off	4	347108	n/a
 290.105	0.0	resp	3	348126	n/a
 290.24	0.0	video on	5	348288	v_Pole vault_id_MnuH4frZAq0_start_13.0_label_1

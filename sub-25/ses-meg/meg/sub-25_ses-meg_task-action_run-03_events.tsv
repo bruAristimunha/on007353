@@ -3,7 +3,7 @@ onset	duration	trial_type	value	sample	stim_id
 8.284166666666666	0.0	video on	5	9941	v_Brushing hair_id_cIqhU0CL3zY_start_15.0_label_1
 10.284166666666666	0.0	video off	4	12341	n/a
 10.645833333333334	0.0	resp	3	12775	n/a
-11.2675	0.0	video on	5	13521	v_Using the balance beam_id_6eHWZVkxP8U_start_2.0_label_1
+11.2675	0.0	video on	5	13521	n/a
 13.2675	0.0	video off	4	15921	n/a
 13.63	0.0	resp	3	16356	n/a
 14.266666666666667	0.0	video on	5	17120	v_Playing congas_id_9SHUK2Xo86s_start_22.0_label_1
@@ -27,7 +27,7 @@ onset	duration	trial_type	value	sample	stim_id
 35.266666666666666	0.0	video on	5	42320	v_Starting a campfire_id_5jVGqRTfmVE_start_149.0_label_1
 37.28333333333333	0.0	video off	4	44740	n/a
 37.774166666666666	0.0	resp	3	45329	n/a
-38.266666666666666	0.0	video on	5	45920	v_Cleaning shoes_id_Jl7V1LWZo3A_start_53.0_label_1
+38.266666666666666	0.0	video on	5	45920	n/a
 40.26583333333333	0.0	video off	4	48319	n/a
 40.83	0.0	resp	3	48996	n/a
 44.26583333333333	0.0	video on	5	53119	v_Swinging at the playground_id__4lNYxD7BsU_start_65.0_label_1
@@ -157,7 +157,7 @@ onset	duration	trial_type	value	sample	stim_id
 215.0	0.0	resp	3	258000	n/a
 215.27666666666667	0.0	video on	5	258332	v_Blow-drying hair_id_UWI7liW2s8Q_start_34.5_label_1
 217.2775	0.0	video off	4	260733	n/a
-218.27666666666667	0.0	video on	5	261932	v_Putting on shoes_id_AwBR8xu5yXk_start_60.0_label_1
+218.27666666666667	0.0	video on	5	261932	n/a
 220.31	0.0	video off	4	264372	n/a
 224.27666666666667	0.0	video on	5	269132	v_Playing pool_id_u_LZZ3LjBCw_start_40.5_label_1
 226.26	0.0	video off	4	271512	n/a

@@ -42,7 +42,7 @@ onset	duration	trial_type	value	sample	stim_id
 50.027	0.0	video on	5	50027	v_Disc dog_id_YquNbNoejvY_start_14.5_label_1
 52.033	0.0	video off	4	52033	n/a
 52.559	0.0	resp	3	52559	n/a
-53.027	0.0	video on	5	53027	v_Using the rowing machine_id_j-RHrkcUsyA_start_105.0_label_1
+53.027	0.0	video on	5	53027	n/a
 55.034	0.0	video off	4	55034	n/a
 55.551	0.0	resp	3	55551	n/a
 59.027	0.0	video on	5	59027	v_Laying tile_id_mEDak4pT5jA_start_65.0_label_1
@@ -107,7 +107,7 @@ onset	duration	trial_type	value	sample	stim_id
 139.068	0.0	video off	4	139068	n/a
 140.028	0.0	video on	5	140028	v_Playing racquetball_id__cwdxDY_-HM_start_196.5_label_1
 142.068	0.0	video off	4	142068	n/a
-143.028	0.0	video on	5	143028	v_Preparing pasta_id_kVUEB1_3cak_start_91.5_label_1
+143.028	0.0	video on	5	143028	n/a
 145.069	0.0	video off	4	145069	n/a
 149.028	0.0	video on	5	149028	v_Spinning_id_UcH1PVafHgQ_start_172.5_label_1
 151.033	0.0	video off	4	151033	n/a
@@ -214,7 +214,7 @@ onset	duration	trial_type	value	sample	stim_id
 284.029	0.0	video on	5	284029	v_Smoking hookah_id_wiCtxYM-Mms_start_83.0_label_1
 286.03	0.0	video off	4	286030	n/a
 286.394	0.0	resp	3	286394	n/a
-287.031	0.0	video on	5	287031	v_Throwing darts_id_lP5PmMwxWy4_start_11.0_label_1
+287.031	0.0	video on	5	287031	n/a
 289.035	0.0	video off	4	289035	n/a
 289.49	0.0	resp	3	289490	n/a
 293.03	0.0	video on	5	293030	v_Swimming_id_YJ_ICdMv4So_start_55.5_label_1
@@ -222,7 +222,7 @@ onset	duration	trial_type	value	sample	stim_id
 296.03	0.0	video on	5	296030	v_Playing badminton_id_LLZSy6vK3Cc_start_125.5_label_1
 298.06	0.0	video off	4	298060	n/a
 298.53	0.0	resp	3	298530	n/a
-299.03	0.0	video on	5	299030	v_Croquet_id_l-YtPYZ_534_start_67.5_label_1
+299.03	0.0	video on	5	299030	n/a
 301.031	0.0	video off	4	301031	n/a
 301.482	0.0	resp	3	301482	n/a
 302.029	0.0	video on	5	302029	v_Playing piano_id_o-6j0eDDqCE_start_142.5_label_1

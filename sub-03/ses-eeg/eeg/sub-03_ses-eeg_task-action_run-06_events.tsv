@@ -162,7 +162,7 @@ onset	duration	trial_type	value	sample	stim_id
 212.082	0.0	video on	5	212082	v_Washing hands_id_3PVC4s2MgWY_start_49.0_label_1
 214.091	0.0	video off	4	214091	n/a
 214.842	0.0	resp	3	214842	n/a
-215.074	0.0	video on	5	215074	v_Painting fence_id_jCyrQzXK4eI_start_2.5_label_1
+215.074	0.0	video on	5	215074	n/a
 217.085	0.0	video off	4	217085	n/a
 217.89	0.0	resp	3	217890	n/a
 221.028	0.0	video on	5	221028	v_Playing blackjack_id_pWCZwkrMZeo_start_45.5_label_1

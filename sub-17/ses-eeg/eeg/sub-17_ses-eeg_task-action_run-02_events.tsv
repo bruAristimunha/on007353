@@ -77,7 +77,7 @@ onset	duration	trial_type	value	sample	stim_id
 95.027	0.0	video on	5	95027	v_Snatch_id_zHi5zdYZ7UE_start_68.5_label_1
 97.034	0.0	video off	4	97034	n/a
 97.409	0.0	resp	3	97409	n/a
-98.027	0.0	video on	5	98027	v_Using the rowing machine_id_VONrGSxGhSo_start_55.5_label_1
+98.027	0.0	video on	5	98027	n/a
 100.067	0.0	video off	4	100067	n/a
 100.585	0.0	resp	3	100585	n/a
 101.028	0.0	video on	5	101028	v_High jump_id_38jA-InoF74_start_8.5_label_1
@@ -185,7 +185,7 @@ onset	duration	trial_type	value	sample	stim_id
 224.028	0.0	video on	5	224028	v_Kayaking_id_mouMMOraPyw_start_141.5_label_1
 226.033	0.0	video off	4	226033	n/a
 226.738	0.0	resp	3	226738	n/a
-227.028	0.0	video on	5	227028	v_Fixing the roof_id_HyanDWD1H-k_start_82.0_label_1
+227.028	0.0	video on	5	227028	n/a
 229.026	0.0	video off	4	229026	n/a
 229.826	0.0	resp	3	229826	n/a
 230.028	0.0	video on	5	230028	v_Arm wrestling_id_JN3WLrxQQrs_start_54.0_label_1

@@ -17,7 +17,7 @@ onset	duration	trial_type	value	sample	stim_id
 26.754166666666663	0.0	video on	5	32105	v_Playing field hockey_id_y63rd0QamsY_start_50.5_label_1
 28.754166666666663	0.0	video off	4	34505	n/a
 29.046666666666667	0.0	resp	3	34856	n/a
-29.754166666666663	0.0	video on	5	35705	v_Spread mulch_id_hEqkWbAmFR8_start_5.5_label_1
+29.754166666666663	0.0	video on	5	35705	n/a
 31.754166666666663	0.0	video off	4	38105	n/a
 32.05416666666667	0.0	resp	3	38465	n/a
 32.75416666666667	0.0	video on	5	39305	v_Drum corps_id_Huuk58HftA8_start_57.5_label_1
@@ -39,7 +39,7 @@ onset	duration	trial_type	value	sample	stim_id
 53.77	0.0	video on	5	64524	v_Waxing skis_id_aUzOkOprynM_start_59.5_label_1
 55.77	0.0	video off	4	66924	n/a
 56.175	0.0	resp	3	67410	n/a
-56.75333333333333	0.0	video on	5	68104	v_Using the rowing machine_id_lRS6NRppuds_start_84.5_label_1
+56.75333333333333	0.0	video on	5	68104	n/a
 58.75333333333333	0.0	video off	4	70504	n/a
 59.28666666666667	0.0	resp	3	71144	n/a
 62.7525	0.0	video on	5	75303	v_Hopscotch_id_mCaDSGYvVtY_start_5.0_label_1
@@ -99,7 +99,7 @@ onset	duration	trial_type	value	sample	stim_id
 125.75083333333332	0.0	video on	5	150901	v_Baking cookies_id_h130-oNir8c_start_81.0_label_1
 127.7675	0.0	video off	4	153321	n/a
 128.06333333333333	0.0	resp	3	153676	n/a
-128.75083333333333	0.0	video on	5	154501	v_Playing blackjack_id_OxD4UlfVEI0_start_18.0_label_1
+128.75083333333333	0.0	video on	5	154501	n/a
 130.7675	0.0	video off	4	156921	n/a
 131.19166666666666	0.0	resp	3	157430	n/a
 134.75083333333333	0.0	video on	5	161701	v_Playing piano_id_kIZqBxPZJW8_start_60.0_label_1
@@ -245,7 +245,7 @@ onset	duration	trial_type	value	sample	stim_id
 305.76166666666666	0.0	video on	5	366914	v_Calf roping_id_ztgRJsS48pY_start_21.0_label_1
 307.7783333333333	0.0	video off	4	369334	n/a
 308.20166666666665	0.0	resp	3	369842	n/a
-308.76166666666666	0.0	video on	5	370514	v_Painting fence_id_We9RTOY5BTI_start_44.5_label_1
+308.76166666666666	0.0	video on	5	370514	n/a
 310.76166666666666	0.0	video off	4	372914	n/a
 311.08916666666664	0.0	resp	3	373307	n/a
 314.7608333333333	0.0	video on	5	377713	v_Table soccer_id_qfcFKCaKxh4_start_118.0_label_1

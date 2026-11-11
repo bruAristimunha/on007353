@@ -84,7 +84,7 @@ onset	duration	trial_type	value	sample	stim_id
 101.027	0.0	video on	5	101027	v_Hopscotch_id_mfY7DcoIy6g_start_8.0_label_1
 103.029	0.0	video off	4	103029	n/a
 103.641	0.0	resp	3	103641	n/a
-104.028	0.0	video on	5	104028	v_Croquet_id_rMX2KeJa8qI_start_30.5_label_1
+104.028	0.0	video on	5	104028	n/a
 106.027	0.0	video off	4	106027	n/a
 107.027	0.0	video on	5	107027	v_Plataform diving_id_0MHdC8594AA_start_29.0_label_1
 109.027	0.0	video off	4	109027	n/a
@@ -192,7 +192,7 @@ onset	duration	trial_type	value	sample	stim_id
 239.028	0.0	video on	5	239028	v_Rock-paper-scissors_id_56LYrZGDqjw_start_77.5_label_1
 241.028	0.0	video off	4	241028	n/a
 241.578	0.0	resp	3	241578	n/a
-242.028	0.0	video on	5	242028	v_Playing blackjack_id_tgR7V-UpdxA_start_105.5_label_1
+242.028	0.0	video on	5	242028	n/a
 244.038	0.0	video off	4	244038	n/a
 244.93	0.0	resp	3	244930	n/a
 245.106	0.0	video on	5	245106	v_Getting a tattoo_id_XBIBZ9y8NQE_start_77.0_label_1

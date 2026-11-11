@@ -78,7 +78,7 @@ onset	duration	trial_type	value	sample	stim_id
 95.028	0.0	video on	5	95028	v_Zumba_id_3uJt1OFi_w8_start_116.0_label_1
 97.041	0.0	video off	4	97041	n/a
 97.473	0.0	resp	3	97473	n/a
-98.029	0.0	video on	5	98029	v_Shaving_id_FQRW5a9Au40_start_14.0_label_1
+98.029	0.0	video on	5	98029	n/a
 100.035	0.0	video off	4	100035	n/a
 100.561	0.0	resp	3	100561	n/a
 101.027	0.0	video on	5	101027	v_Bullfighting_id_TQLPSTRVFn8_start_7.0_label_1
@@ -256,7 +256,7 @@ onset	duration	trial_type	value	sample	stim_id
 311.031	0.0	video on	5	311031	v_Camel ride_id_YZs4D64dJTQ_start_24.5_label_1
 313.039	0.0	video off	4	313039	n/a
 313.499	0.0	resp	3	313499	n/a
-314.031	0.0	video on	5	314031	v_Polishing forniture_id_v-htpxiPlwU_start_26.5_label_1
+314.031	0.0	video on	5	314031	n/a
 316.075	0.0	video off	4	316075	n/a
 316.651	0.0	resp	3	316651	n/a
 317.032	0.0	video on	5	317032	v_Arm wrestling_id_tYDR6sD4bjI_start_14.0_label_1

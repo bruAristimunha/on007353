@@ -103,7 +103,7 @@ onset	duration	trial_type	value	sample	stim_id
 142.53416666666666	0.0	video on	5	171041	v_Hitting a pinata_id_dWdcDqg-QvM_start_69.5_label_1
 144.53416666666666	0.0	video off	4	173441	n/a
 145.24166666666667	0.0	resp	3	174290	n/a
-145.53416666666666	0.0	video on	5	174641	v_Playing kickball_id_xrzz2qD8hv0_start_32.5_label_1
+145.53416666666666	0.0	video on	5	174641	n/a
 147.58416666666668	0.0	video off	4	177101	n/a
 148.29	0.0	resp	3	177948	n/a
 151.53416666666666	0.0	video on	5	181841	v_Playing bagpipes_id_aisdKIQJPf4_start_15.0_label_1
@@ -137,7 +137,7 @@ onset	duration	trial_type	value	sample	stim_id
 187.54916666666668	0.0	video on	5	225059	v_Arm wrestling_id__oNEwulkK2w_start_68.5_label_1
 189.54916666666668	0.0	video off	4	227459	n/a
 190.24166666666667	0.0	resp	3	228290	n/a
-190.54916666666668	0.0	video on	5	228659	v_Waxing skis_id_HTWi3kiCLwM_start_47.0_label_1
+190.54916666666668	0.0	video on	5	228659	n/a
 192.54916666666668	0.0	video off	4	231059	n/a
 193.11416666666668	0.0	resp	3	231737	n/a
 193.54916666666668	0.0	video on	5	232259	v_Doing kickboxing_id_4xKIei4mzvU_start_10.5_label_1
@@ -164,7 +164,7 @@ onset	duration	trial_type	value	sample	stim_id
 223.54833333333332	0.0	video on	5	268258	v_Playing ice hockey_id_Ewvd0_H_NCg_start_6.5_label_1
 225.54833333333332	0.0	video off	4	270658	n/a
 226.03416666666664	0.0	resp	3	271241	n/a
-226.54833333333332	0.0	video on	5	271858	v_Playing water polo_id_kco4G-QD258_start_55.0_label_1
+226.54833333333332	0.0	video on	5	271858	n/a
 228.54833333333332	0.0	video off	4	274258	n/a
 229.0825	0.0	resp	3	274899	n/a
 229.54833333333332	0.0	video on	5	275458	v_Mooping floor_id_L5zyE9z4WuI_start_13.0_label_1

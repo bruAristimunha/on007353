@@ -92,7 +92,7 @@ onset	duration	trial_type	value	sample	stim_id
 116.595	0.0	video on	5	139914	v_Dodgeball_id_NDtnQ2FQ0-4_start_88.5_label_1
 118.595	0.0	video off	4	142314	n/a
 119.00833333333334	0.0	resp	3	142810	n/a
-119.595	0.0	video on	5	143514	v_Hanging wallpaper_id_k5rmwxit5X0_start_23.5_label_1
+119.595	0.0	video on	5	143514	n/a
 121.61166666666666	0.0	video off	4	145934	n/a
 122.32	0.0	resp	3	146784	n/a
 122.595	0.0	video on	5	147114	v_Cheerleading_id_CX0lCDrp7h0_start_156.0_label_1
@@ -117,7 +117,7 @@ onset	duration	trial_type	value	sample	stim_id
 146.59416666666667	0.0	video on	5	175913	v_Shaving_id_WCriB5RxhMI_start_83.0_label_1
 148.59416666666667	0.0	video off	4	178313	n/a
 148.98416666666665	0.0	resp	3	178781	n/a
-152.61	0.0	video on	5	183132	v_Using the monkey bar_id_-zizrGh7p-o_start_58.5_label_1
+152.61	0.0	video on	5	183132	n/a
 154.59333333333333	0.0	video off	4	185512	n/a
 155.61	0.0	video on	5	186732	v_Beach soccer_id_fkQGGE-LO_M_start_76.0_label_1
 157.61	0.0	video off	4	189132	n/a
@@ -209,7 +209,7 @@ onset	duration	trial_type	value	sample	stim_id
 266.6066666666667	0.0	video on	5	319928	v_Spinning_id_T8DumX27pc8_start_22.5_label_1
 268.6066666666667	0.0	video off	4	322328	n/a
 269.43333333333334	0.0	resp	3	323320	n/a
-269.6066666666667	0.0	video on	5	323528	v_Preparing pasta_id_eK8jR_KcqDo_start_157.0_label_1
+269.6066666666667	0.0	video on	5	323528	n/a
 271.64	0.0	video off	4	325968	n/a
 272.0416666666667	0.0	resp	3	326450	n/a
 272.6066666666667	0.0	video on	5	327128	v_Wakeboarding_id_3PGaRx7OAqU_start_50.0_label_1

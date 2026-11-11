@@ -144,7 +144,7 @@ onset	duration	trial_type	value	sample	stim_id
 175.04	0.0	video on	5	210048	v_Cheerleading_id_7qghNHhUi2Y_start_7.0_label_1
 177.04	0.0	video off	4	212448	n/a
 177.30916666666667	0.0	resp	3	212771	n/a
-178.04	0.0	video on	5	213648	v_Putting on shoes_id_21JNfqA9jI8_start_23.5_label_1
+178.04	0.0	video on	5	213648	n/a
 180.04	0.0	video off	4	216048	n/a
 180.34916666666663	0.0	resp	3	216419	n/a
 181.04	0.0	video on	5	217248	v_Cleaning shoes_id_m7gFyN6HxWc_start_72.0_label_1
@@ -218,7 +218,7 @@ onset	duration	trial_type	value	sample	stim_id
 265.0366666666667	0.0	video on	5	318044	v_Preparing salad_id_U3SVAQKxbhY_start_50.0_label_1
 267.0366666666667	0.0	video off	4	320444	n/a
 267.35	0.0	resp	3	320820	n/a
-268.0366666666667	0.0	video on	5	321644	v_Bathing dog_id_VeJ8TxgbQ0A_start_72.0_label_1
+268.0366666666667	0.0	video on	5	321644	n/a
 270.0375	0.0	video off	4	324045	n/a
 270.34166666666664	0.0	resp	3	324410	n/a
 271.0366666666667	0.0	video on	5	325244	v_Hopscotch_id_U-j-jDTyVWM_start_1.0_label_1

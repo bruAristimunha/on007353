@@ -139,7 +139,7 @@ onset	duration	trial_type	value	sample	stim_id
 170.027	0.0	video on	5	170027	v_Painting_id_XEcKXPIR8bE_start_9.5_label_1
 172.04	0.0	video off	4	172040	n/a
 172.433	0.0	resp	3	172433	n/a
-173.029	0.0	video on	5	173029	v_Preparing pasta_id_oF6FipH9NWg_start_108.0_label_1
+173.029	0.0	video on	5	173029	n/a
 175.038	0.0	video off	4	175038	n/a
 175.537	0.0	resp	3	175537	n/a
 176.027	0.0	video on	5	176027	v_Rock-paper-scissors_id_fIkj0Dfy64Y_start_61.5_label_1

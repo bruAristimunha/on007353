@@ -23,7 +23,7 @@ onset	duration	trial_type	value	sample	stim_id
 24.497	0.0	video on	5	24497	v_Playing rubik cube_id_7yS_o5hIfQI_start_84.5_label_1
 26.502	0.0	video off	4	26502	n/a
 27.054	0.0	resp	3	27054	n/a
-27.497	0.0	video on	5	27497	v_Spread mulch_id_hEqkWbAmFR8_start_15.0_label_1
+27.497	0.0	video on	5	27497	n/a
 29.507	0.0	video off	4	29507	n/a
 30.23	0.0	resp	3	30230	n/a
 30.497	0.0	video on	5	30497	v_Zumba_id_F2aTte2CozI_start_16.0_label_1
@@ -41,7 +41,7 @@ onset	duration	trial_type	value	sample	stim_id
 45.498	0.0	video on	5	45498	v_Fixing bicycle_id_Mlz94AtNJz8_start_97.5_label_1
 47.541	0.0	video off	4	47541	n/a
 47.99	0.0	resp	3	47990	n/a
-48.498	0.0	video on	5	48498	v_Hanging wallpaper_id_k5rmwxit5X0_start_26.5_label_1
+48.498	0.0	video on	5	48498	n/a
 50.509	0.0	video off	4	50509	n/a
 51.031	0.0	resp	3	51031	n/a
 54.497	0.0	video on	5	54497	v_BMX_id_iEC04_j-Ua4_start_13.5_label_1
@@ -206,7 +206,7 @@ onset	duration	trial_type	value	sample	stim_id
 243.498	0.0	video on	5	243498	v_Table soccer_id_mlvkFePjQ_w_start_95.0_label_1
 245.504	0.0	video off	4	245504	n/a
 246.168	0.0	resp	3	246168	n/a
-246.499	0.0	video on	5	246499	v_Putting in contact lenses_id_1XmRy05YFuU_start_46.5_label_1
+246.499	0.0	video on	5	246499	n/a
 248.509	0.0	video off	4	248509	n/a
 249.384	0.0	resp	3	249384	n/a
 252.499	0.0	video on	5	252499	v_Starting a campfire_id_1TAcBNTHQBM_start_138.5_label_1
@@ -242,7 +242,7 @@ onset	duration	trial_type	value	sample	stim_id
 288.501	0.0	video on	5	288501	v_Canoeing_id_36Yy3z7Y6u4_start_65.0_label_1
 290.501	0.0	video off	4	290501	n/a
 291.184	0.0	resp	3	291184	n/a
-291.5	0.0	video on	5	291500	v_Sumo_id_y-1B9QS7Om8_start_15.5_label_1
+291.5	0.0	video on	5	291500	n/a
 293.502	0.0	video off	4	293502	n/a
 294.136	0.0	resp	3	294136	n/a
 294.499	0.0	video on	5	294499	v_Rope skipping_id_krk5yFteA_Y_start_7.0_label_1

@@ -12,7 +12,7 @@ onset	duration	trial_type	value	sample	stim_id
 24.111666666666668	0.0	video on	5	28934	v_Canoeing_id_hN09JcB2xOs_start_187.0_label_1
 26.145	0.0	video off	4	31374	n/a
 26.59583333333333	0.0	resp	3	31915	n/a
-27.111666666666668	0.0	video on	5	32534	v_Waxing skis_id_lO4ng8bV3b4_start_48.0_label_1
+27.111666666666668	0.0	video on	5	32534	n/a
 29.12833333333333	0.0	video off	4	34954	n/a
 29.444166666666668	0.0	resp	3	35333	n/a
 33.11083333333333	0.0	video on	5	39733	v_Cricket_id_yNkG0glzbJE_start_24.0_label_1
@@ -192,7 +192,7 @@ onset	duration	trial_type	value	sample	stim_id
 240.1208333333333	0.0	video on	5	288145	v_Rock climbing_id_i8poMwDHMiQ_start_4.0_label_1
 242.02166666666668	0.0	video off	4	290426	n/a
 242.56666666666663	0.0	resp	3	291080	n/a
-243.1208333333333	0.0	video on	5	291745	v_Polishing shoes_id_gl1sY6sHu5g_start_101.5_label_1
+243.1208333333333	0.0	video on	5	291745	n/a
 245.1208333333333	0.0	video off	4	294145	n/a
 245.41416666666663	0.0	resp	3	294497	n/a
 249.1208333333333	0.0	video on	5	298945	v_Surfing_id_35FV6YER-TM_start_70.5_label_1

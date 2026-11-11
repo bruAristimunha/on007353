@@ -90,7 +90,7 @@ onset	duration	trial_type	value	sample	stim_id
 107.028	0.0	video on	5	107028	v_Playing congas_id_-ATGh1Enljg_start_17.0_label_1
 109.037	0.0	video off	4	109037	n/a
 109.313	0.0	resp	3	109313	n/a
-113.028	0.0	video on	5	113028	v_Playing polo_id_vR1xwnQXvpc_start_34.0_label_1
+113.028	0.0	video on	5	113028	n/a
 115.031	0.0	video off	4	115031	n/a
 115.401	0.0	resp	3	115401	n/a
 116.027	0.0	video on	5	116027	v_Tug of war_id_Z-tfEjUtsP0_start_25.0_label_1
@@ -132,7 +132,7 @@ onset	duration	trial_type	value	sample	stim_id
 158.026	0.0	video on	5	158026	v_Shoveling snow_id_XvmuA2oNfOE_start_27.5_label_1
 160.032	0.0	video off	4	160032	n/a
 160.41	0.0	resp	3	160410	n/a
-161.026	0.0	video on	5	161026	v_Using the balance beam_id_Ok-eOfF66-g_start_4.5_label_1
+161.026	0.0	video on	5	161026	n/a
 163.034	0.0	video off	4	163034	n/a
 163.378	0.0	resp	3	163378	n/a
 167.028	0.0	video on	5	167028	v_Having an ice cream_id_Ci044Lgo7gM_start_12.0_label_1
@@ -210,7 +210,7 @@ onset	duration	trial_type	value	sample	stim_id
 251.077	0.0	video on	5	251077	v_Baton twirling_id_q_uvVO6Fb-w_start_130.0_label_1
 253.087	0.0	video off	4	253087	n/a
 253.475	0.0	resp	3	253475	n/a
-257.028	0.0	video on	5	257028	v_Playing kickball_id_Ic-zqwW8ncY_start_69.5_label_1
+257.028	0.0	video on	5	257028	n/a
 259.038	0.0	video off	4	259038	n/a
 259.163	0.0	resp	3	259163	n/a
 260.028	0.0	video on	5	260028	v_Decorating the Christmas tree_id_bp0ZMb0ooKs_start_141.0_label_1
@@ -249,7 +249,7 @@ onset	duration	trial_type	value	sample	stim_id
 299.029	0.0	video on	5	299029	v_Doing kickboxing_id_jS7WTcykc0c_start_46.5_label_1
 301.031	0.0	video off	4	301031	n/a
 301.372	0.0	resp	3	301372	n/a
-302.028	0.0	video on	5	302028	v_Preparing pasta_id_O76A1jnX37A_start_76.5_label_1
+302.028	0.0	video on	5	302028	n/a
 304.041	0.0	video off	4	304041	n/a
 304.395	0.0	resp	3	304395	n/a
 305.027	0.0	video on	5	305027	v_Playing squash_id_6omSQrof5vc_start_11.5_label_1

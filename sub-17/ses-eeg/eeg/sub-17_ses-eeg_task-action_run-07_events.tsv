@@ -256,7 +256,7 @@ onset	duration	trial_type	value	sample	stim_id
 317.029	0.0	video on	5	317029	v_Bungee jumping_id_n__ZJptoq6E_start_91.0_label_1
 319.034	0.0	video off	4	319034	n/a
 319.491	0.0	resp	3	319491	n/a
-320.03	0.0	video on	5	320030	v_Painting furniture_id__JU69WdbSpE_start_18.5_label_1
+320.03	0.0	video on	5	320030	n/a
 322.03	0.0	video off	4	322030	n/a
 322.587	0.0	resp	3	322587	n/a
 323.031	0.0	video on	5	323031	v_Clean and jerk_id_We2A2qZ4omE_start_17.0_label_1

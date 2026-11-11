@@ -36,7 +36,7 @@ onset	duration	trial_type	value	sample	stim_id
 48.30583333333333	0.0	video on	5	57967	v_Ping-pong_id__Pg5v2yCacA_start_124.0_label_1
 50.3225	0.0	video off	4	60387	n/a
 50.68666666666667	0.0	resp	3	60824	n/a
-51.30583333333333	0.0	video on	5	61567	v_Sumo_id_RRJ0xD8naWQ_start_19.0_label_1
+51.30583333333333	0.0	video on	5	61567	n/a
 53.30583333333333	0.0	video off	4	63967	n/a
 53.67083333333333	0.0	resp	3	64405	n/a
 54.3225	0.0	video on	5	65187	v_Zumba_id__VHDrvJ7wkI_start_133.5_label_1
@@ -66,7 +66,7 @@ onset	duration	trial_type	value	sample	stim_id
 84.305	0.0	video on	5	101166	v_Playing rubik cube_id_zm-8wkbMf58_start_135.0_label_1
 86.32166666666667	0.0	video off	4	103586	n/a
 86.6625	0.0	resp	3	103995	n/a
-87.305	0.0	video on	5	104766	v_Using uneven bars_id_oDyKqL-bnVw_start_7.5_label_1
+87.305	0.0	video on	5	104766	n/a
 89.32166666666667	0.0	video off	4	107186	n/a
 89.59083333333334	0.0	resp	3	107509	n/a
 90.305	0.0	video on	5	108366	v_Smoking hookah_id_R1BMgm4Gskk_start_14.0_label_1
@@ -152,7 +152,7 @@ onset	duration	trial_type	value	sample	stim_id
 189.31833333333333	0.0	video on	5	227182	v_Polishing forniture_id_Svi7wYxN_DI_start_42.0_label_1
 191.31833333333333	0.0	video off	4	229582	n/a
 191.63166666666663	0.0	resp	3	229958	n/a
-192.31833333333333	0.0	video on	5	230782	v_Drinking coffee_id_NGkJhX-To44_start_5.0_label_1
+192.31833333333333	0.0	video on	5	230782	n/a
 194.3175	0.0	video off	4	233181	n/a
 194.63166666666663	0.0	resp	3	233558	n/a
 195.3175	0.0	video on	5	234381	v_Windsurfing_id_VeHOTAjX2nU_start_62.0_label_1

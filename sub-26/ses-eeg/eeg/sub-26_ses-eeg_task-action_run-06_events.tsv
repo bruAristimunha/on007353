@@ -42,7 +42,7 @@ onset	duration	trial_type	value	sample	stim_id
 50.026	0.0	video on	5	50026	v_Putting in contact lenses_id_N-I90y2Q4UI_start_26.5_label_1
 52.032	0.0	video off	4	52032	n/a
 52.401	0.0	resp	3	52401	n/a
-53.025	0.0	video on	5	53025	v_Preparing pasta_id_O76A1jnX37A_start_96.0_label_1
+53.025	0.0	video on	5	53025	n/a
 55.074	0.0	video off	4	55074	n/a
 59.026	0.0	video on	5	59026	v_Spinning_id_4Ocnrc03Fhk_start_100.5_label_1
 61.039	0.0	video off	4	61039	n/a
@@ -209,7 +209,7 @@ onset	duration	trial_type	value	sample	stim_id
 268.53	0.0	resp	3	268530	n/a
 269.029	0.0	video on	5	269029	v_Plastering_id_B8qjtn_Ah5s_start_31.0_label_1
 271.033	0.0	video off	4	271033	n/a
-275.033	0.0	video on	5	275033	v_Fixing the roof_id_xwNFCwLt3pQ_start_111.5_label_1
+275.033	0.0	video on	5	275033	n/a
 277.038	0.0	video off	4	277038	n/a
 277.426	0.0	resp	3	277426	n/a
 278.028	0.0	video on	5	278028	v_Painting_id_2ETOEKIokNU_start_43.5_label_1

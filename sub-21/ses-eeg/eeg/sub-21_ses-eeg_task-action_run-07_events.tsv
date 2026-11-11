@@ -33,7 +33,7 @@ onset	duration	trial_type	value	sample	stim_id
 41.027	0.0	video on	5	41027	v_Arm wrestling_id_aWgNznhDCC4_start_148.0_label_1
 43.028	0.0	video off	4	43028	n/a
 43.394	0.0	resp	3	43394	n/a
-44.028	0.0	video on	5	44028	v_Preparing pasta_id_xH8l5rCWrMU_start_11.0_label_1
+44.028	0.0	video on	5	44028	n/a
 46.035	0.0	video off	4	46035	n/a
 46.393	0.0	resp	3	46393	n/a
 47.027	0.0	video on	5	47027	v_Chopping wood_id_K_Wd72a1sbU_start_8.0_label_1
@@ -63,7 +63,7 @@ onset	duration	trial_type	value	sample	stim_id
 77.027	0.0	video on	5	77027	v_Slacklining_id_M6h2nvkJPPE_start_3.5_label_1
 79.028	0.0	video off	4	79028	n/a
 79.377	0.0	resp	3	79377	n/a
-80.027	0.0	video on	5	80027	v_Rock-paper-scissors_id_tRYA0-EC6tk_start_148.0_label_1
+80.027	0.0	video on	5	80027	n/a
 82.037	0.0	video off	4	82037	n/a
 82.785	0.0	resp	3	82785	n/a
 83.027	0.0	video on	5	83027	v_Starting a campfire_id_koEvwguN0yM_start_48.0_label_1
@@ -114,7 +114,7 @@ onset	duration	trial_type	value	sample	stim_id
 137.027	0.0	video on	5	137027	v_Trimming branches or hedges_id__xPuZ_yTFvM_start_13.5_label_1
 139.039	0.0	video off	4	139039	n/a
 139.522	0.0	resp	3	139522	n/a
-140.027	0.0	video on	5	140027	v_Painting furniture_id_2dgIV27AuIg_start_35.0_label_1
+140.027	0.0	video on	5	140027	n/a
 142.036	0.0	video off	4	142036	n/a
 142.37	0.0	resp	3	142370	n/a
 143.029	0.0	video on	5	143029	v_Calf roping_id_8rTZQEb41_c_start_37.0_label_1
@@ -195,7 +195,7 @@ onset	duration	trial_type	value	sample	stim_id
 235.402	0.0	resp	3	235402	n/a
 239.03	0.0	video on	5	239030	v_Kayaking_id_j0JEEUtS-Sk_start_49.5_label_1
 241.037	0.0	video off	4	241037	n/a
-242.03	0.0	video on	5	242030	v_Using the rowing machine_id_Q0tHHJYdRIY_start_7.5_label_1
+242.03	0.0	video on	5	242030	n/a
 244.039	0.0	video off	4	244039	n/a
 244.044	0.0	resp	3	244044	n/a
 245.03	0.0	video on	5	245030	v_Brushing teeth_id_pXnRCHcSs8c_start_34.5_label_1
@@ -215,7 +215,7 @@ onset	duration	trial_type	value	sample	stim_id
 263.029	0.0	video on	5	263029	v_Doing nails_id_dqK0af51QYI_start_16.5_label_1
 265.038	0.0	video off	4	265038	n/a
 265.499	0.0	resp	3	265499	n/a
-266.029	0.0	video on	5	266029	v_Hanging wallpaper_id_Zo9-gbOTZX4_start_96.5_label_1
+266.029	0.0	video on	5	266029	n/a
 268.071	0.0	video off	4	268071	n/a
 268.499	0.0	resp	3	268499	n/a
 269.029	0.0	video on	5	269029	v_Drum corps_id_-YbXEeEapks_start_48.5_label_1
@@ -224,7 +224,7 @@ onset	duration	trial_type	value	sample	stim_id
 275.029	0.0	video on	5	275029	v_Table soccer_id_Ws1j88hAgas_start_83.0_label_1
 277.029	0.0	video off	4	277029	n/a
 277.531	0.0	resp	3	277531	n/a
-278.03	0.0	video on	5	278030	v_Fixing the roof_id_iCH53grX4o4_start_89.0_label_1
+278.03	0.0	video on	5	278030	n/a
 280.072	0.0	video off	4	280072	n/a
 280.523	0.0	resp	3	280523	n/a
 281.029	0.0	video on	5	281029	v_Snow tubing_id_CXkMAzaxo1A_start_15.5_label_1
@@ -249,7 +249,7 @@ onset	duration	trial_type	value	sample	stim_id
 305.029	0.0	video on	5	305029	v_Playing rubik cube_id_9yzig2kuDJo_start_35.0_label_1
 307.037	0.0	video off	4	307037	n/a
 307.475	0.0	resp	3	307475	n/a
-311.029	0.0	video on	5	311029	v_Playing blackjack_id_iYsDsxX1gfk_start_58.5_label_1
+311.029	0.0	video on	5	311029	n/a
 313.074	0.0	video off	4	313074	n/a
 313.451	0.0	resp	3	313451	n/a
 314.029	0.0	video on	5	314029	v_Kite flying_id_PSq44eE6BEg_start_176.5_label_1

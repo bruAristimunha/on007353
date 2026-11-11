@@ -65,7 +65,7 @@ onset	duration	trial_type	value	sample	stim_id
 80.027	0.0	video on	5	80027	v_Doing fencing_id_gNaW5ASw5Ss_start_1.0_label_1
 82.029	0.0	video off	4	82029	n/a
 82.345	0.0	resp	3	82345	n/a
-83.027	0.0	video on	5	83027	v_Disc dog_id_b5I4owqphMU_start_33.0_label_1
+83.027	0.0	video on	5	83027	n/a
 85.027	0.0	video off	4	85027	n/a
 85.329	0.0	resp	3	85329	n/a
 86.026	0.0	video on	5	86026	v_Brushing hair_id_aRYXUdlvycE_start_27.5_label_1
@@ -107,7 +107,7 @@ onset	duration	trial_type	value	sample	stim_id
 131.028	0.0	video on	5	131028	v_Snatch_id_ZlHSDO8C21M_start_23.5_label_1
 133.036	0.0	video off	4	133036	n/a
 133.521	0.0	resp	3	133521	n/a
-134.026	0.0	video on	5	134026	v_Fun sliding down_id_GTpqf69lZq4_start_15.5_label_1
+134.026	0.0	video on	5	134026	n/a
 136.027	0.0	video off	4	136027	n/a
 136.537	0.0	resp	3	136537	n/a
 137.027	0.0	video on	5	137027	v_Longboarding_id_LUgw7QzqeyM_start_2.5_label_1
@@ -230,7 +230,7 @@ onset	duration	trial_type	value	sample	stim_id
 278.028	0.0	video on	5	278028	v_Using the balance beam_id_5kBQ2a2fspQ_start_13.0_label_1
 280.028	0.0	video off	4	280028	n/a
 280.754	0.0	resp	3	280754	n/a
-281.029	0.0	video on	5	281029	v_Hanging wallpaper_id_k5rmwxit5X0_start_24.5_label_1
+281.029	0.0	video on	5	281029	n/a
 283.038	0.0	video off	4	283038	n/a
 283.435	0.0	resp	3	283435	n/a
 284.029	0.0	video on	5	284029	v_Cricket_id_AZCjCiWMkEY_start_10.0_label_1

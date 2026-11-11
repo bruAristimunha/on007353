@@ -89,7 +89,7 @@ onset	duration	trial_type	value	sample	stim_id
 106.488	0.0	resp	3	106488	n/a
 107.025	0.0	video on	5	107025	v_Playing kickball_id_xh2Wf4eYcmo_start_18.5_label_1
 109.073	0.0	video off	4	109073	n/a
-113.025	0.0	video on	5	113025	v_Rock-paper-scissors_id_7Mej1OuwxQY_start_89.0_label_1
+113.025	0.0	video on	5	113025	n/a
 115.031	0.0	video off	4	115031	n/a
 115.32	0.0	resp	3	115320	n/a
 116.025	0.0	video on	5	116025	v_Using the pommel horse_id_i0tckRo5-H8_start_3.5_label_1

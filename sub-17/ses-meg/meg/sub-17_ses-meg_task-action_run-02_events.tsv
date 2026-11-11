@@ -18,7 +18,7 @@ onset	duration	trial_type	value	sample	stim_id
 34.873333333333335	0.0	video off	4	41848	n/a
 35.873333333333335	0.0	video on	5	43048	v_Using the pommel horse_id_gnjxGPx8H2o_start_9.0_label_1
 37.873333333333335	0.0	video off	4	45448	n/a
-38.873333333333335	0.0	video on	5	46648	v_Spread mulch_id_JOUW7CUuohM_start_65.5_label_1
+38.873333333333335	0.0	video on	5	46648	n/a
 40.873333333333335	0.0	video off	4	49048	n/a
 44.8725	0.0	video on	5	53847	v_Beach soccer_id_sX1nvBsJWoI_start_74.5_label_1
 46.8725	0.0	video off	4	56247	n/a
@@ -37,7 +37,7 @@ onset	duration	trial_type	value	sample	stim_id
 67.8725	0.0	video off	4	81447	n/a
 68.87166666666667	0.0	video on	5	82646	v_Having an ice cream_id_OjUHS0EPF7U_start_13.5_label_1
 70.88916666666667	0.0	video off	4	85067	n/a
-71.87166666666667	0.0	video on	5	86246	v_Painting fence_id_jCyrQzXK4eI_start_12.5_label_1
+71.87166666666667	0.0	video on	5	86246	n/a
 73.88833333333334	0.0	video off	4	88666	n/a
 74.87166666666667	0.0	video on	5	89846	v_Plataform diving_id_CSiCX623Md4_start_2.0_label_1
 76.87166666666667	0.0	video off	4	92246	n/a
@@ -143,7 +143,7 @@ onset	duration	trial_type	value	sample	stim_id
 253.8658333333333	0.0	video off	4	304639	n/a
 254.8825	0.0	video on	5	305859	v_Cricket_id_X35JFHJw12k_start_0.5_label_1
 256.8825	0.0	video off	4	308259	n/a
-260.8825	0.0	video on	5	313059	v_Playing blackjack_id_Hf-hGGFnp18_start_51.5_label_1
+260.8825	0.0	video on	5	313059	n/a
 262.8825	0.0	video off	4	315459	n/a
 263.8825	0.0	video on	5	316659	v_Cleaning sink_id_jCv7u9TagmI_start_15.5_label_1
 265.89916666666664	0.0	video off	4	319079	n/a

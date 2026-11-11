@@ -30,7 +30,7 @@ onset	duration	trial_type	value	sample	stim_id
 35.026	0.0	video on	5	35026	v_Sumo_id_wKCKyLB6YyA_start_50.5_label_1
 37.074	0.0	video off	4	37074	n/a
 37.665	0.0	resp	3	37665	n/a
-41.025	0.0	video on	5	41025	v_Playing polo_id_Gt6yhrJE5UY_start_87.5_label_1
+41.025	0.0	video on	5	41025	n/a
 43.073	0.0	video off	4	43073	n/a
 43.433	0.0	resp	3	43433	n/a
 44.025	0.0	video on	5	44025	v_Mooping floor_id_7G7wL7_JY8A_start_5.5_label_1
@@ -150,7 +150,7 @@ onset	duration	trial_type	value	sample	stim_id
 181.706	0.0	resp	3	181706	n/a
 185.027	0.0	video on	5	185027	v_Making an omelette_id_aHSw1_MLkTc_start_144.0_label_1
 187.04	0.0	video off	4	187040	n/a
-188.027	0.0	video on	5	188027	v_Using the balance beam_id_Vkdz8O2pnF8_start_11.0_label_1
+188.027	0.0	video on	5	188027	n/a
 190.034	0.0	video off	4	190034	n/a
 191.01	0.0	resp	3	191010	n/a
 191.562	0.0	video on	5	191562	v_Hitting a pinata_id_Furp6LoktOs_start_7.0_label_1
@@ -242,7 +242,7 @@ onset	duration	trial_type	value	sample	stim_id
 301.771	0.0	resp	3	301771	n/a
 302.083	0.0	video on	5	302083	v_Doing motocross_id_WFUScmWJ8RI_start_7.5_label_1
 304.08	0.0	video off	4	304080	n/a
-305.028	0.0	video on	5	305028	v_Putting on shoes_id_AjPvnLyxfX4_start_28.5_label_1
+305.028	0.0	video on	5	305028	n/a
 307.072	0.0	video off	4	307072	n/a
 311.028	0.0	video on	5	311028	v_Drinking coffee_id_4nf_GwW9kRg_start_3.5_label_1
 313.036	0.0	video off	4	313036	n/a

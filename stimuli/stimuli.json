@@ -19,7 +19,7 @@
     "Units": "s"
   },
   "rights": {
-    "Description": "Rights note. 'third-party; not included': the video belongs to its rights holder and is not part of this dataset."
+    "Description": "Rights note. The clips are third-party content (YouTube videos, cut by HACS); their files were deposited in this dataset by its authors under stimuli/, and this enrichment did not add them. The rights stay with the rights holders."
   },
   "duration_s": {
     "Description": "Duration of the presented version.",

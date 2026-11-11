@@ -128,7 +128,7 @@ onset	duration	trial_type	value	sample	stim_id
 158.01833333333337	0.0	video on	5	189622	v_Fixing the roof_id_rIybq-gRI6g_start_74.0_label_1
 160.0016666666667	0.0	video off	4	192002	n/a
 160.28	0.0	resp	3	192336	n/a
-161.0175	0.0	video on	5	193221	v_Playing polo_id_clJ5YzMi8IA_start_16.5_label_1
+161.0175	0.0	video on	5	193221	n/a
 163.0016666666667	0.0	video off	4	195602	n/a
 163.2475	0.0	resp	3	195897	n/a
 164.0175	0.0	video on	5	196821	v_Playing flauta_id_H2ELTeOVhhU_start_19.0_label_1
@@ -167,7 +167,7 @@ onset	duration	trial_type	value	sample	stim_id
 206.01666666666668	0.0	video on	5	247220	v_Riding bumper cars_id_t1549Vt-2rU_start_50.5_label_1
 208.01666666666668	0.0	video off	4	249620	n/a
 208.2958333333333	0.0	resp	3	249955	n/a
-209.01666666666668	0.0	video on	5	250820	v_Bathing dog_id_5wamcAMByD8_start_74.0_label_1
+209.01666666666668	0.0	video on	5	250820	n/a
 211.01583333333332	0.0	video off	4	253219	n/a
 211.36	0.0	resp	3	253632	n/a
 212.01583333333332	0.0	video on	5	254419	v_Table soccer_id_ZurH4kIaOlg_start_40.5_label_1

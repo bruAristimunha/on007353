@@ -38,7 +38,7 @@ onset	duration	trial_type	value	sample	stim_id
 42.495	0.0	video on	5	42495	v_Running a marathon_id_NvpNHyOphkc_start_51.0_label_1
 44.499	0.0	video off	4	44499	n/a
 44.903	0.0	resp	3	44903	n/a
-45.495	0.0	video on	5	45495	v_Baking cookies_id_Kqcq3hq3uGc_start_137.5_label_1
+45.495	0.0	video on	5	45495	n/a
 47.495	0.0	video off	4	47495	n/a
 48.143	0.0	resp	3	48143	n/a
 48.494	0.0	video on	5	48494	v_Smoking hookah_id_4r7QICXx3ac_start_9.0_label_1

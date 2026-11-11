@@ -254,7 +254,7 @@ onset	duration	trial_type	value	sample	stim_id
 312.3691666666667	0.0	resp	3	374843	n/a
 315.9	0.0	video on	5	379080	v_Skateboarding_id_cCgZAo5JECs_start_84.0_label_1
 317.9	0.0	video off	4	381480	n/a
-318.9	0.0	video on	5	382680	v_Sumo_id_LIi6pQ4WQgQ_start_45.0_label_1
+318.9	0.0	video on	5	382680	n/a
 320.9	0.0	video off	4	385080	n/a
 321.2416666666667	0.0	resp	3	385490	n/a
 321.89916666666664	0.0	video on	5	386279	v_Volleyball_id_70WTZHYgfzo_start_5.0_label_1

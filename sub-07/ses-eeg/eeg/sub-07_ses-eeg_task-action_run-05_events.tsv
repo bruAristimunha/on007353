@@ -50,7 +50,7 @@ onset	duration	trial_type	value	sample	stim_id
 62.027	0.0	video on	5	62027	v_Smoking a cigarette_id_IDHiJV9jRCU_start_210.5_label_1
 64.039	0.0	video off	4	64039	n/a
 64.345	0.0	resp	3	64345	n/a
-65.027	0.0	video on	5	65027	v_Spread mulch_id_9b-3OQ4SEts_start_45.5_label_1
+65.027	0.0	video on	5	65027	n/a
 67.032	0.0	video off	4	67032	n/a
 67.449	0.0	resp	3	67449	n/a
 68.027	0.0	video on	5	68027	v_Skateboarding_id_qINuAz1puD0_start_56.0_label_1
@@ -119,7 +119,7 @@ onset	duration	trial_type	value	sample	stim_id
 143.029	0.0	video on	5	143029	v_Waterskiing_id_yFS0uQmZ1Ik_start_62.5_label_1
 145.029	0.0	video off	4	145029	n/a
 145.329	0.0	resp	3	145329	n/a
-149.028	0.0	video on	5	149028	v_Polishing forniture_id_2dxxCHuwiN8_start_17.0_label_1
+149.028	0.0	video on	5	149028	n/a
 151.066	0.0	video off	4	151066	n/a
 151.785	0.0	resp	3	151785	n/a
 152.028	0.0	video on	5	152028	v_Trimming branches or hedges_id_BH6nDeaA8zk_start_38.0_label_1
@@ -160,7 +160,7 @@ onset	duration	trial_type	value	sample	stim_id
 194.029	0.0	video on	5	194029	v_Mowing the lawn_id_VF53ULYpVJQ_start_18.0_label_1
 196.028	0.0	video off	4	196028	n/a
 196.498	0.0	resp	3	196498	n/a
-197.03	0.0	video on	5	197030	v_Playing blackjack_id_iYsDsxX1gfk_start_150.5_label_1
+197.03	0.0	video on	5	197030	n/a
 199.067	0.0	video off	4	199067	n/a
 199.402	0.0	resp	3	199402	n/a
 203.029	0.0	video on	5	203029	v_Blow-drying hair_id_7jZgpT5ZKes_start_12.0_label_1
@@ -255,7 +255,7 @@ onset	duration	trial_type	value	sample	stim_id
 314.03	0.0	video on	5	314030	v_Skiing_id_oUR1MXquAMk_start_110.5_label_1
 316.032	0.0	video off	4	316032	n/a
 316.411	0.0	resp	3	316411	n/a
-317.031	0.0	video on	5	317031	v_Croquet_id_x09nVNm-XEo_start_145.0_label_1
+317.031	0.0	video on	5	317031	n/a
 319.031	0.0	video off	4	319031	n/a
 319.443	0.0	resp	3	319443	n/a
 320.029	0.0	video on	5	320029	v_Brushing hair_id_wuUdTxP9iFA_start_9.0_label_1

@@ -42,7 +42,7 @@ onset	duration	trial_type	value	sample	stim_id
 50.98583333333333	0.0	video on	5	61183	v_Disc dog_id_YquNbNoejvY_start_14.5_label_1
 52.98583333333333	0.0	video off	4	63583	n/a
 53.348333333333336	0.0	resp	3	64018	n/a
-53.969166666666666	0.0	video on	5	64763	v_Using the rowing machine_id_j-RHrkcUsyA_start_105.0_label_1
+53.969166666666666	0.0	video on	5	64763	n/a
 55.98583333333333	0.0	video off	4	67183	n/a
 56.30833333333333	0.0	resp	3	67570	n/a
 59.96833333333333	0.0	video on	5	71962	v_Laying tile_id_mEDak4pT5jA_start_65.0_label_1
@@ -117,7 +117,7 @@ onset	duration	trial_type	value	sample	stim_id
 140.96583333333334	0.0	video on	5	169159	v_Playing racquetball_id__cwdxDY_-HM_start_196.5_label_1
 143.01583333333335	0.0	video off	4	171619	n/a
 143.5016666666667	0.0	resp	3	172202	n/a
-143.96583333333334	0.0	video on	5	172759	v_Preparing pasta_id_kVUEB1_3cak_start_91.5_label_1
+143.96583333333334	0.0	video on	5	172759	n/a
 146.01583333333335	0.0	video off	4	175219	n/a
 146.8775	0.0	resp	3	176253	n/a
 149.96583333333334	0.0	video on	5	179959	v_Spinning_id_UcH1PVafHgQ_start_172.5_label_1
@@ -237,7 +237,7 @@ onset	duration	trial_type	value	sample	stim_id
 284.9775	0.0	video on	5	341973	v_Smoking hookah_id_wiCtxYM-Mms_start_83.0_label_1
 286.9775	0.0	video off	4	344373	n/a
 287.2708333333333	0.0	resp	3	344725	n/a
-287.9775	0.0	video on	5	345573	v_Throwing darts_id_lP5PmMwxWy4_start_11.0_label_1
+287.9775	0.0	video on	5	345573	n/a
 289.9775	0.0	video off	4	347973	n/a
 290.2391666666667	0.0	resp	3	348287	n/a
 293.9775	0.0	video on	5	352773	v_Swimming_id_YJ_ICdMv4So_start_55.5_label_1
@@ -246,7 +246,7 @@ onset	duration	trial_type	value	sample	stim_id
 296.9775	0.0	video on	5	356373	v_Playing badminton_id_LLZSy6vK3Cc_start_125.5_label_1
 299.0108333333333	0.0	video off	4	358813	n/a
 299.2391666666667	0.0	resp	3	359087	n/a
-299.9775	0.0	video on	5	359973	v_Croquet_id_l-YtPYZ_534_start_67.5_label_1
+299.9775	0.0	video on	5	359973	n/a
 301.9775	0.0	video off	4	362373	n/a
 302.375	0.0	resp	3	362850	n/a
 302.9775	0.0	video on	5	363573	v_Playing piano_id_o-6j0eDDqCE_start_142.5_label_1

@@ -18,7 +18,7 @@ onset	duration	trial_type	value	sample	stim_id
 23.026	0.0	video on	5	23026	v_Shoveling snow_id_AEDd5jcW62U_start_48.5_label_1
 25.043	0.0	video off	4	25043	n/a
 25.832	0.0	resp	3	25832	n/a
-26.026	0.0	video on	5	26026	v_Playing kickball_id_HfBrshUjmyY_start_28.0_label_1
+26.026	0.0	video on	5	26026	n/a
 28.03	0.0	video off	4	28030	n/a
 28.648	0.0	resp	3	28648	n/a
 29.026	0.0	video on	5	29026	v_Playing polo_id_j_o-HkqFpAg_start_3.0_label_1
@@ -48,7 +48,7 @@ onset	duration	trial_type	value	sample	stim_id
 59.026	0.0	video on	5	59026	v_Doing fencing_id_Q7glSQR0fxk_start_82.0_label_1
 61.04	0.0	video off	4	61040	n/a
 61.545	0.0	resp	3	61545	n/a
-62.026	0.0	video on	5	62026	v_Hanging wallpaper_id_hsD-5OnFv0g_start_125.0_label_1
+62.026	0.0	video on	5	62026	n/a
 64.036	0.0	video off	4	64036	n/a
 64.769	0.0	resp	3	64769	n/a
 65.026	0.0	video on	5	65026	v_Horseback riding_id_mv85gJSp4hs_start_13.0_label_1
@@ -255,7 +255,7 @@ onset	duration	trial_type	value	sample	stim_id
 305.03	0.0	video on	5	305030	v_Cutting the grass_id_IqL7ZN2_g4s_start_9.0_label_1
 307.042	0.0	video off	4	307042	n/a
 307.851	0.0	resp	3	307851	n/a
-311.03	0.0	video on	5	311030	v_Using the balance beam_id_bOt8SABR43w_start_10.0_label_1
+311.03	0.0	video on	5	311030	n/a
 313.04	0.0	video off	4	313040	n/a
 313.427	0.0	resp	3	313427	n/a
 314.03	0.0	video on	5	314030	v_Using uneven bars_id_DxKAkzO4DnU_start_26.5_label_1

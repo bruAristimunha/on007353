@@ -190,7 +190,7 @@ onset	duration	trial_type	value	sample	stim_id
 252.481	0.0	video on	5	252481	v_Calf roping_id_RJH0hFYszxs_start_2.5_label_1
 254.49	0.0	video off	4	254490	n/a
 255.055	0.0	resp	3	255055	n/a
-255.481	0.0	video on	5	255481	v_Using the rowing machine_id_zJKedNWsZKY_start_11.5_label_1
+255.481	0.0	video on	5	255481	n/a
 257.493	0.0	video off	4	257493	n/a
 258.481	0.0	video on	5	258481	v_Kite flying_id_WdgHguFs8IY_start_0.5_label_1
 260.489	0.0	video off	4	260489	n/a
@@ -226,7 +226,7 @@ onset	duration	trial_type	value	sample	stim_id
 297.481	0.0	video on	5	297481	v_Tai chi_id_LletUvLAD88_start_71.0_label_1
 299.481	0.0	video off	4	299481	n/a
 300.047	0.0	resp	3	300047	n/a
-300.482	0.0	video on	5	300482	v_Painting furniture_id_P2ZPJHi2NzQ_start_140.5_label_1
+300.482	0.0	video on	5	300482	n/a
 302.479	0.0	video off	4	302479	n/a
 303.295	0.0	resp	3	303295	n/a
 306.481	0.0	video on	5	306481	v_Snow tubing_id_kIZMKYu_xmU_start_31.5_label_1

@@ -144,7 +144,7 @@ onset	duration	trial_type	value	sample	stim_id
 168.495	0.0	video on	5	168495	v_Tug of war_id_-DRZoGafP_c_start_18.5_label_1
 170.497	0.0	video off	4	170497	n/a
 171.038	0.0	resp	3	171038	n/a
-171.495	0.0	video on	5	171495	v_Fixing the roof_id_Nw0XD-bdOYM_start_65.5_label_1
+171.495	0.0	video on	5	171495	n/a
 173.497	0.0	video off	4	173497	n/a
 174.11	0.0	resp	3	174110	n/a
 174.495	0.0	video on	5	174495	v_Brushing hair_id_snvnaH6ZcnA_start_3.0_label_1

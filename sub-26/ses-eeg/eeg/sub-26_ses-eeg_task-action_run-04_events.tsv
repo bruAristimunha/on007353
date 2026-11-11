@@ -1,6 +1,6 @@
 onset	duration	trial_type	value	sample	stim_id
 0.0	0.0	begin	1	0	n/a
-5.027	0.0	video on	5	5027	v_Playing polo_id_JpNgIWh_c1c_start_66.0_label_1
+5.027	0.0	video on	5	5027	n/a
 7.07	0.0	video off	4	7070	n/a
 7.4	0.0	resp	3	7400	n/a
 8.024	0.0	video on	5	8024	v_Triple jump_id_FVXhk--rlk8_start_10.0_label_1
@@ -9,7 +9,7 @@ onset	duration	trial_type	value	sample	stim_id
 11.025	0.0	video on	5	11025	v_Doing crunches_id_wKELecR_vFM_start_13.0_label_1
 13.036	0.0	video off	4	13036	n/a
 13.296	0.0	resp	3	13296	n/a
-14.025	0.0	video on	5	14025	v_Painting fence_id_0_3hR3YjQT8_start_7.0_label_1
+14.025	0.0	video on	5	14025	n/a
 16.036	0.0	video off	4	16036	n/a
 17.025	0.0	video on	5	17025	v_Playing ice hockey_id_J3DS3VBpxz8_start_106.0_label_1
 19.036	0.0	video off	4	19036	n/a
@@ -20,7 +20,7 @@ onset	duration	trial_type	value	sample	stim_id
 26.026	0.0	video on	5	26026	v_Using parallel bars_id_xLXh-PvrtmY_start_19.0_label_1
 28.026	0.0	video off	4	28026	n/a
 28.376	0.0	resp	3	28376	n/a
-29.025	0.0	video on	5	29025	v_Playing blackjack_id_wVzSyHielaE_start_48.5_label_1
+29.025	0.0	video on	5	29025	n/a
 31.037	0.0	video off	4	31037	n/a
 31.344	0.0	resp	3	31344	n/a
 32.026	0.0	video on	5	32026	v_Shot put_id_qk2jzL8EvEE_start_8.0_label_1
@@ -76,7 +76,7 @@ onset	duration	trial_type	value	sample	stim_id
 95.027	0.0	video on	5	95027	v_Fixing the roof_id_gWdjKnaS8sY_start_22.5_label_1
 97.037	0.0	video off	4	97037	n/a
 97.913	0.0	resp	3	97913	n/a
-98.058	0.0	video on	5	98058	v_Fun sliding down_id_CUT1K-DIbSc_start_1.5_label_1
+98.058	0.0	video on	5	98058	n/a
 100.067	0.0	video off	4	100067	n/a
 100.425	0.0	resp	3	100425	n/a
 101.026	0.0	video on	5	101026	v_BMX_id_AkUdgzvCcRM_start_52.0_label_1

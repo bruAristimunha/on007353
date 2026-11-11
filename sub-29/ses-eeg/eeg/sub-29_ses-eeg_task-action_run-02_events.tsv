@@ -101,10 +101,10 @@ onset	duration	trial_type	value	sample	stim_id
 122.029	0.0	video on	5	122029	v_Hurling_id_aE83fKtAm5Q_start_10.5_label_1
 124.034	0.0	video off	4	124034	n/a
 124.417	0.0	resp	3	124417	n/a
-125.03	0.0	video on	5	125030	v_Waxing skis_id_H6ZSCvu4_Hk_start_89.0_label_1
+125.03	0.0	video on	5	125030	n/a
 127.039	0.0	video off	4	127039	n/a
 127.57	0.0	resp	3	127570	n/a
-131.028	0.0	video on	5	131028	v_Polishing shoes_id_S7QpPbYFvJw_start_5.5_label_1
+131.028	0.0	video on	5	131028	n/a
 133.034	0.0	video off	4	133034	n/a
 133.922	0.0	resp	3	133922	n/a
 134.13	0.0	video on	5	134130	v_Rock climbing_id_wkaoXIOWTsA_start_7.5_label_1
@@ -153,13 +153,13 @@ onset	duration	trial_type	value	sample	stim_id
 188.031	0.0	video on	5	188031	v_Volleyball_id_RZ8r5B69CLY_start_36.0_label_1
 190.04	0.0	video off	4	190040	n/a
 190.571	0.0	resp	3	190571	n/a
-191.03	0.0	video on	5	191030	v_Bathing dog_id_HE0EZhtaoGw_start_16.5_label_1
+191.03	0.0	video on	5	191030	n/a
 193.039	0.0	video off	4	193039	n/a
 193.754	0.0	resp	3	193754	n/a
 194.029	0.0	video on	5	194029	v_Playing guitarra_id_28VmUxTDU5Q_start_65.0_label_1
 196.037	0.0	video off	4	196037	n/a
 196.722	0.0	resp	3	196722	n/a
-197.029	0.0	video on	5	197029	v_Playing water polo_id_vajtNYawgc4_start_3.0_label_1
+197.029	0.0	video on	5	197029	n/a
 199.04	0.0	video off	4	199040	n/a
 199.17	0.0	resp	3	199170	n/a
 203.029	0.0	video on	5	203029	v_Putting on shoes_id_3ur8dz0i184_start_29.0_label_1
@@ -223,7 +223,7 @@ onset	duration	trial_type	value	sample	stim_id
 275.03	0.0	video on	5	275030	v_Scuba diving_id_lL4UdTmQ_U4_start_18.5_label_1
 277.075	0.0	video off	4	277075	n/a
 277.483	0.0	resp	3	277483	n/a
-278.03	0.0	video on	5	278030	v_Playing kickball_id_vWWzgNkxffc_start_20.0_label_1
+278.03	0.0	video on	5	278030	n/a
 280.04	0.0	video off	4	280040	n/a
 280.957	0.0	resp	3	280957	n/a
 281.101	0.0	video on	5	281101	v_Carving jack-o-lanterns_id_LvIrrYg7PD0_start_93.0_label_1
@@ -237,7 +237,7 @@ onset	duration	trial_type	value	sample	stim_id
 289.123	0.0	resp	3	289123	n/a
 293.032	0.0	video on	5	293032	v_Discus throw_id_9gPwJuXB1Wc_start_64.0_label_1
 295.075	0.0	video off	4	295075	n/a
-296.031	0.0	video on	5	296031	v_Painting furniture_id_l9AksDDtREE_start_110.5_label_1
+296.031	0.0	video on	5	296031	n/a
 298.043	0.0	video off	4	298043	n/a
 298.835	0.0	resp	3	298835	n/a
 299.029	0.0	video on	5	299029	v_Hula hoop_id_tUHvNgokUys_start_29.0_label_1

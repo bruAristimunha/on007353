@@ -81,7 +81,7 @@ onset	duration	trial_type	value	sample	stim_id
 118.41666666666669	0.0	resp	3	142100	n/a
 119.03083333333332	0.0	video on	5	142837	v_Shuffleboard_id_0hFTi2N1GXE_start_19.5_label_1
 121.03083333333332	0.0	video off	4	145237	n/a
-122.03083333333332	0.0	video on	5	146437	v_Using the monkey bar_id_vDe0fJ_tlKQ_start_1.5_label_1
+122.03083333333332	0.0	video on	5	146437	n/a
 124.03083333333332	0.0	video off	4	148837	n/a
 125.04666666666668	0.0	video on	5	150056	v_Washing dishes_id_KsBQ0j7oCiE_start_38.5_label_1
 127.0475	0.0	video off	4	152457	n/a

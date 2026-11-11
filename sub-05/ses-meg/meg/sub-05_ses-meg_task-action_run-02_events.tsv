@@ -212,7 +212,7 @@ onset	duration	trial_type	value	sample	stim_id
 258.3558333333333	0.0	resp	3	310027	n/a
 261.5416666666667	0.0	video on	5	313850	v_Kneeling_id_tZbg_hDx5nY_start_3.5_label_1
 263.5416666666667	0.0	video off	4	316250	n/a
-264.5416666666667	0.0	video on	5	317450	v_Putting on shoes_id_hf3DDs4-ZSw_start_0.5_label_1
+264.5416666666667	0.0	video on	5	317450	n/a
 266.5416666666667	0.0	video off	4	319850	n/a
 266.9716666666667	0.0	resp	3	320366	n/a
 267.5416666666667	0.0	video on	5	321050	v_Grooming horse_id_2BwYGffERBg_start_3.0_label_1
@@ -233,7 +233,7 @@ onset	duration	trial_type	value	sample	stim_id
 285.5408333333333	0.0	video on	5	342649	v_Baking cookies_id_jUTzQlbtafs_start_79.0_label_1
 287.5408333333333	0.0	video off	4	345049	n/a
 287.96416666666664	0.0	resp	3	345557	n/a
-288.5408333333333	0.0	video on	5	346249	v_Hanging wallpaper_id_hsD-5OnFv0g_start_129.0_label_1
+288.5408333333333	0.0	video on	5	346249	n/a
 290.5408333333333	0.0	video off	4	348649	n/a
 290.99583333333334	0.0	resp	3	349195	n/a
 291.5408333333333	0.0	video on	5	349849	v_Playing violin_id_tKewBvEbM8o_start_51.0_label_1

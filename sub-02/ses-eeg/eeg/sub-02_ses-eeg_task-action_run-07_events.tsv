@@ -21,7 +21,7 @@ onset	duration	trial_type	value	sample	stim_id
 80.452	0.0	video on	5	80452	v_Tumbling_id_2azUO2ZGqf0_start_111.0_label_1
 82.464	0.0	video off	4	82464	n/a
 83.057	0.0	resp	3	83057	n/a
-83.452	0.0	video on	5	83452	v_Using the monkey bar_id_4M0qz51BIT0_start_122.5_label_1
+83.452	0.0	video on	5	83452	n/a
 85.457	0.0	video off	4	85457	n/a
 86.185	0.0	resp	3	86185	n/a
 86.453	0.0	video on	5	86453	v_Grooming dog_id_5rN1fvl7IwA_start_59.0_label_1
@@ -130,7 +130,7 @@ onset	duration	trial_type	value	sample	stim_id
 212.453	0.0	video on	5	212453	v_Polishing shoes_id_1cT5VJmmgVM_start_91.5_label_1
 214.497	0.0	video off	4	214497	n/a
 215.034	0.0	resp	3	215034	n/a
-215.454	0.0	video on	5	215454	v_Rock-paper-scissors_id_rxKxvQITFHI_start_1.5_label_1
+215.454	0.0	video on	5	215454	n/a
 217.457	0.0	video off	4	217457	n/a
 218.139	0.0	resp	3	218139	n/a
 221.454	0.0	video on	5	221454	v_Javelin throw_id_DP3OBzkCzwg_start_7.5_label_1
@@ -156,7 +156,7 @@ onset	duration	trial_type	value	sample	stim_id
 245.454	0.0	video on	5	245454	v_Decorating the Christmas tree_id_UBXBHf_F04E_start_89.0_label_1
 247.497	0.0	video off	4	247497	n/a
 247.85	0.0	resp	3	247850	n/a
-248.454	0.0	video on	5	248454	v_Using the rowing machine_id_dsqdy3IsrAw_start_114.0_label_1
+248.454	0.0	video on	5	248454	n/a
 250.463	0.0	video off	4	250463	n/a
 250.955	0.0	resp	3	250955	n/a
 251.454	0.0	video on	5	251454	v_Rollerblading_id_BXIOgzh6V5Y_start_105.0_label_1
@@ -224,7 +224,7 @@ onset	duration	trial_type	value	sample	stim_id
 332.455	0.0	video on	5	332455	v_Doing step aerobics_id_i2uNc6lYPW0_start_7.0_label_1
 334.462	0.0	video off	4	334462	n/a
 334.803	0.0	resp	3	334803	n/a
-335.456	0.0	video on	5	335456	v_Croquet_id_J0PaSAcml90_start_8.0_label_1
+335.456	0.0	video on	5	335456	n/a
 337.461	0.0	video off	4	337461	n/a
 337.811	0.0	resp	3	337811	n/a
 338.454	0.0	video on	5	338454	v_Scuba diving_id_H4l7Tjp7ATA_start_6.0_label_1

@@ -135,7 +135,7 @@ onset	duration	trial_type	value	sample	stim_id
 165.935	0.0	video on	5	199122	v_Carving jack-o-lanterns_id_p8DodrQZDR8_start_19.0_label_1
 167.935	0.0	video off	4	201522	n/a
 168.30333333333334	0.0	resp	3	201964	n/a
-171.95166666666665	0.0	video on	5	206342	v_Cleaning shoes_id_LQ_PZgDVk3g_start_54.0_label_1
+171.95166666666665	0.0	video on	5	206342	n/a
 173.935	0.0	video off	4	208722	n/a
 174.3275	0.0	resp	3	209193	n/a
 174.95166666666665	0.0	video on	5	209942	v_Shoveling snow_id_sf0yZLyGejw_start_87.5_label_1
@@ -200,7 +200,7 @@ onset	duration	trial_type	value	sample	stim_id
 246.94916666666663	0.0	video on	5	296339	v_Building sandcastles_id_WD9Zb3jPG18_start_91.5_label_1
 248.94916666666663	0.0	video off	4	298739	n/a
 249.30416666666667	0.0	resp	3	299165	n/a
-249.94916666666663	0.0	video on	5	299939	v_Polishing shoes_id_HSmYvybv0Xk_start_114.0_label_1
+249.94916666666663	0.0	video on	5	299939	n/a
 251.94916666666663	0.0	video off	4	302339	n/a
 252.39166666666668	0.0	resp	3	302870	n/a
 252.94916666666663	0.0	video on	5	303539	v_Plastering_id_3BStobq2xk4_start_86.5_label_1

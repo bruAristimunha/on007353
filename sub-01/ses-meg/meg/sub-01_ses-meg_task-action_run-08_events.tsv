@@ -88,7 +88,7 @@ onset	duration	trial_type	value	sample	stim_id
 110.29166666666669	0.0	video on	5	132350	v_Playing congas_id_-ATGh1Enljg_start_17.0_label_1
 112.30833333333334	0.0	video off	4	134770	n/a
 112.57416666666668	0.0	resp	3	135089	n/a
-116.29166666666669	0.0	video on	5	139550	v_Playing polo_id_vR1xwnQXvpc_start_34.0_label_1
+116.29166666666669	0.0	video on	5	139550	n/a
 118.29166666666669	0.0	video off	4	141950	n/a
 118.52666666666669	0.0	resp	3	142232	n/a
 119.29166666666669	0.0	video on	5	143150	v_Tug of war_id_Z-tfEjUtsP0_start_25.0_label_1
@@ -130,7 +130,7 @@ onset	duration	trial_type	value	sample	stim_id
 161.29	0.0	video on	5	193548	v_Shoveling snow_id_XvmuA2oNfOE_start_27.5_label_1
 163.29	0.0	video off	4	195948	n/a
 163.575	0.0	resp	3	196290	n/a
-164.29	0.0	video on	5	197148	v_Using the balance beam_id_Ok-eOfF66-g_start_4.5_label_1
+164.29	0.0	video on	5	197148	n/a
 166.29	0.0	video off	4	199548	n/a
 166.50333333333333	0.0	resp	3	199804	n/a
 170.30666666666667	0.0	video on	5	204368	v_Having an ice cream_id_Ci044Lgo7gM_start_12.0_label_1
@@ -208,7 +208,7 @@ onset	duration	trial_type	value	sample	stim_id
 254.3033333333333	0.0	video on	5	305164	v_Baton twirling_id_q_uvVO6Fb-w_start_130.0_label_1
 256.3041666666667	0.0	video off	4	307565	n/a
 256.4316666666667	0.0	resp	3	307718	n/a
-260.30333333333334	0.0	video on	5	312364	v_Playing kickball_id_Ic-zqwW8ncY_start_69.5_label_1
+260.30333333333334	0.0	video on	5	312364	n/a
 262.30333333333334	0.0	video off	4	314764	n/a
 262.5758333333333	0.0	resp	3	315091	n/a
 263.30333333333334	0.0	video on	5	315964	v_Decorating the Christmas tree_id_bp0ZMb0ooKs_start_141.0_label_1
@@ -246,7 +246,7 @@ onset	duration	trial_type	value	sample	stim_id
 302.3016666666667	0.0	video on	5	362762	v_Doing kickboxing_id_jS7WTcykc0c_start_46.5_label_1
 304.3016666666667	0.0	video off	4	365162	n/a
 304.58416666666665	0.0	resp	3	365501	n/a
-305.3016666666667	0.0	video on	5	366362	v_Preparing pasta_id_O76A1jnX37A_start_76.5_label_1
+305.3016666666667	0.0	video on	5	366362	n/a
 307.3016666666667	0.0	video off	4	368762	n/a
 307.60083333333336	0.0	resp	3	369121	n/a
 308.3016666666667	0.0	video on	5	369962	v_Playing squash_id_6omSQrof5vc_start_11.5_label_1

@@ -21,7 +21,7 @@ onset	duration	trial_type	value	sample	stim_id
 28.48	0.0	resp	3	28480	n/a
 29.025	0.0	video on	5	29025	v_Playing field hockey_id_CmhLj1kvDHA_start_4.5_label_1
 31.034	0.0	video off	4	31034	n/a
-32.026	0.0	video on	5	32026	v_Polishing forniture_id_v-htpxiPlwU_start_22.5_label_1
+32.026	0.0	video on	5	32026	n/a
 34.065	0.0	video off	4	34065	n/a
 35.025	0.0	video on	5	35025	v_Bathing dog_id_J-Jn93tkxrU_start_11.0_label_1
 37.022	0.0	video off	4	37022	n/a
@@ -44,7 +44,7 @@ onset	duration	trial_type	value	sample	stim_id
 59.026	0.0	video on	5	59026	v_Cheerleading_id_O4P07fipvIA_start_79.5_label_1
 61.032	0.0	video off	4	61032	n/a
 61.697	0.0	resp	3	61697	n/a
-62.026	0.0	video on	5	62026	v_Using uneven bars_id_OPt2FyDfIXA_start_16.5_label_1
+62.026	0.0	video on	5	62026	n/a
 64.029	0.0	video off	4	64029	n/a
 64.568	0.0	resp	3	64568	n/a
 65.026	0.0	video on	5	65026	v_Archery_id_U-54CoSkRxQ_start_39.0_label_1
@@ -68,7 +68,7 @@ onset	duration	trial_type	value	sample	stim_id
 86.026	0.0	video on	5	86026	v_Playing squash_id_YICE0h81oW4_start_40.5_label_1
 88.03	0.0	video off	4	88030	n/a
 88.4	0.0	resp	3	88400	n/a
-89.027	0.0	video on	5	89027	v_Cleaning sink_id_lBF3cNWJUNE_start_33.0_label_1
+89.027	0.0	video on	5	89027	n/a
 91.025	0.0	video off	4	91025	n/a
 91.456	0.0	resp	3	91456	n/a
 95.026	0.0	video on	5	95026	v_Washing hands_id_3993S6I1A6A_start_96.0_label_1
@@ -80,7 +80,7 @@ onset	duration	trial_type	value	sample	stim_id
 101.027	0.0	video on	5	101027	v_Using the pommel horse_id_SHXP36BB8ZM_start_3.5_label_1
 103.031	0.0	video off	4	103031	n/a
 103.704	0.0	resp	3	103704	n/a
-104.026	0.0	video on	5	104026	v_Swimming_id_VfamutjiSwA_start_29.5_label_1
+104.026	0.0	video on	5	104026	n/a
 106.027	0.0	video off	4	106027	n/a
 106.432	0.0	resp	3	106432	n/a
 107.027	0.0	video on	5	107027	v_Throwing darts_id_xMRPvAURiSU_start_2.5_label_1
@@ -157,7 +157,7 @@ onset	duration	trial_type	value	sample	stim_id
 197.028	0.0	video on	5	197028	v_Cleaning windows_id_vS2pstKRY7I_start_70.0_label_1
 199.031	0.0	video off	4	199031	n/a
 199.401	0.0	resp	3	199401	n/a
-203.027	0.0	video on	5	203027	v_Hand washing clothes_id_olk76pEIzaA_start_10.5_label_1
+203.027	0.0	video on	5	203027	n/a
 205.028	0.0	video off	4	205028	n/a
 205.441	0.0	resp	3	205441	n/a
 206.028	0.0	video on	5	206028	v_Grooming dog_id_Jc3kVUsi4_A_start_20.0_label_1
@@ -168,7 +168,7 @@ onset	duration	trial_type	value	sample	stim_id
 211.961	0.0	resp	3	211961	n/a
 212.185	0.0	video on	5	212185	v_Hopscotch_id_EY22ccCAGUw_start_47.5_label_1
 214.191	0.0	video off	4	214191	n/a
-215.028	0.0	video on	5	215028	v_Playing blackjack_id_Hf-hGGFnp18_start_127.0_label_1
+215.028	0.0	video on	5	215028	n/a
 217.023	0.0	video off	4	217023	n/a
 221.028	0.0	video on	5	221028	v_Futsal_id_Vk59t5KZ2Q0_start_3.5_label_1
 223.031	0.0	video off	4	223031	n/a

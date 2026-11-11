@@ -215,7 +215,7 @@ onset	duration	trial_type	value	sample	stim_id
 265.825	0.0	video on	5	318990	v_Having an ice cream_id_qpGXCHxhlPw_start_24.5_label_1
 267.84166666666664	0.0	video off	4	321410	n/a
 268.2158333333333	0.0	resp	3	321859	n/a
-268.825	0.0	video on	5	322590	v_Painting fence_id_We9RTOY5BTI_start_48.5_label_1
+268.825	0.0	video on	5	322590	n/a
 270.84166666666664	0.0	video off	4	325010	n/a
 271.17583333333334	0.0	resp	3	325411	n/a
 271.825	0.0	video on	5	326190	v_Slacklining_id_sFS2DcT94rE_start_13.0_label_1

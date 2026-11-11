@@ -18,7 +18,7 @@ onset	duration	trial_type	value	sample	stim_id
 25.929166666666667	0.0	video on	5	31115	v_Bathing dog_id_ENtvBlzCbNg_start_3.0_label_1
 27.929166666666667	0.0	video off	4	33515	n/a
 28.2975	0.0	resp	3	33957	n/a
-28.929166666666667	0.0	video on	5	34715	v_Playing kickball_id_OWkkMyfL_vs_start_83.0_label_1
+28.929166666666667	0.0	video on	5	34715	n/a
 30.9625	0.0	video off	4	37155	n/a
 31.53	0.0	resp	3	37836	n/a
 31.929166666666667	0.0	video on	5	38315	v_Assembling bicycle_id_wvJEHlJTBcE_start_133.5_label_1
@@ -155,7 +155,7 @@ onset	duration	trial_type	value	sample	stim_id
 190.94083333333333	0.0	video on	5	229129	v_Doing crunches_id_0oyQtSwsLIQ_start_43.5_label_1
 192.94083333333333	0.0	video off	4	231529	n/a
 193.4675	0.0	resp	3	232161	n/a
-193.94083333333333	0.0	video on	5	232729	v_Polishing forniture_id_Naw6emhHaSM_start_18.5_label_1
+193.94083333333333	0.0	video on	5	232729	n/a
 195.94	0.0	video off	4	235128	n/a
 196.7475	0.0	resp	3	236097	n/a
 196.94	0.0	video on	5	236328	v_Playing flauta_id_YoxAhkAjv3w_start_47.0_label_1

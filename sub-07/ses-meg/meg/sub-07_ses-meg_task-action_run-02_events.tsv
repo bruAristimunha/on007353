@@ -96,7 +96,7 @@ onset	duration	trial_type	value	sample	stim_id
 118.62833333333332	0.0	video on	5	142354	v_Hitting a pinata_id_vrb2Uk08No8_start_29.0_label_1
 120.6275	0.0	video off	4	144753	n/a
 120.935	0.0	resp	3	145122	n/a
-121.6275	0.0	video on	5	145953	v_Playing water polo_id_DP4cJ4z9F6A_start_134.0_label_1
+121.6275	0.0	video on	5	145953	n/a
 123.6275	0.0	video off	4	148353	n/a
 123.895	0.0	resp	3	148674	n/a
 124.64416666666666	0.0	video on	5	149573	v_Skateboarding_id_0POn5jrzotE_start_90.5_label_1
@@ -162,7 +162,7 @@ onset	duration	trial_type	value	sample	stim_id
 196.64166666666668	0.0	video on	5	235970	v_High jump_id_InbREOALfgc_start_38.0_label_1
 198.64166666666668	0.0	video off	4	238370	n/a
 198.91916666666663	0.0	resp	3	238703	n/a
-199.64166666666668	0.0	video on	5	239570	v_Hurling_id_7hJAtqKMHHk_start_12.0_label_1
+199.64166666666668	0.0	video on	5	239570	n/a
 201.625	0.0	video off	4	241950	n/a
 205.64166666666668	0.0	video on	5	246770	v_Playing beach volleyball_id_MUF6G7ezCn8_start_7.0_label_1
 207.675	0.0	video off	4	249210	n/a
@@ -196,7 +196,7 @@ onset	duration	trial_type	value	sample	stim_id
 237.9358333333333	0.0	resp	3	285523	n/a
 241.64083333333332	0.0	video on	5	289969	v_Trimming branches or hedges_id_pioyJ94EUz4_start_88.5_label_1
 243.64	0.0	video off	4	292368	n/a
-244.64	0.0	video on	5	293568	v_Waxing skis_id_JuQi-uMVas4_start_20.5_label_1
+244.64	0.0	video on	5	293568	n/a
 246.67333333333332	0.0	video off	4	296008	n/a
 247.64	0.0	video on	5	297168	v_Shot put_id_mguvaCMtTVk_start_13.0_label_1
 249.64	0.0	video off	4	299568	n/a

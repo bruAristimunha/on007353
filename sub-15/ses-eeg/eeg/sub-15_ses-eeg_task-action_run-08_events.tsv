@@ -165,7 +165,7 @@ onset	duration	trial_type	value	sample	stim_id
 197.031	0.0	video on	5	197031	v_Belly dance_id_mpIbX0ibops_start_104.0_label_1
 199.039	0.0	video off	4	199039	n/a
 199.531	0.0	resp	3	199531	n/a
-203.03	0.0	video on	5	203030	v_Painting fence_id_0_3hR3YjQT8_start_17.0_label_1
+203.03	0.0	video on	5	203030	n/a
 205.071	0.0	video off	4	205071	n/a
 206.031	0.0	video on	5	206031	v_Having an ice cream_id_FO-rzNb9k24_start_4.5_label_1
 208.038	0.0	video off	4	208038	n/a

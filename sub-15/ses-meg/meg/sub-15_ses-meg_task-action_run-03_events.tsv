@@ -44,7 +44,7 @@ onset	duration	trial_type	value	sample	stim_id
 56.285833333333336	0.0	video on	5	67543	v_Using the monkey bar_id_ZxWOHccbikE_start_12.5_label_1
 58.285833333333336	0.0	video off	4	69943	n/a
 58.57416666666666	0.0	resp	3	70289	n/a
-62.285	0.0	video on	5	74742	v_Painting fence_id_w5ibAWsfEkE_start_6.0_label_1
+62.285	0.0	video on	5	74742	n/a
 64.285	0.0	video off	4	77142	n/a
 64.67833333333333	0.0	resp	3	77614	n/a
 65.285	0.0	video on	5	78342	v_Polishing shoes_id_JD8sAbRporE_start_32.5_label_1

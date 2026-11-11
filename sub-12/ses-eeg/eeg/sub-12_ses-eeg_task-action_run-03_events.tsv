@@ -6,7 +6,7 @@ onset	duration	trial_type	value	sample	stim_id
 8.026	0.0	video on	5	8026	v_Rock-paper-scissors_id_Vf1uE7haYd8_start_34.0_label_1
 10.078	0.0	video off	4	10078	n/a
 10.464	0.0	resp	3	10464	n/a
-11.027	0.0	video on	5	11027	v_Sumo_id_XKUZ-wYrLxM_start_94.0_label_1
+11.027	0.0	video on	5	11027	n/a
 13.032	0.0	video off	4	13032	n/a
 13.393	0.0	resp	3	13393	n/a
 14.027	0.0	video on	5	14027	v_Playing badminton_id_rpNFb6-tqDo_start_32.0_label_1
@@ -200,7 +200,7 @@ onset	duration	trial_type	value	sample	stim_id
 242.029	0.0	video on	5	242029	v_Paintball_id_661GWKCoteM_start_34.5_label_1
 244.037	0.0	video off	4	244037	n/a
 244.306	0.0	resp	3	244306	n/a
-245.028	0.0	video on	5	245028	v_Preparing pasta_id_9gCLVQaxvzU_start_57.5_label_1
+245.028	0.0	video on	5	245028	n/a
 247.078	0.0	video off	4	247078	n/a
 247.498	0.0	resp	3	247498	n/a
 248.028	0.0	video on	5	248028	v_Drum corps_id_Tm3dquc9SNs_start_41.0_label_1
@@ -242,7 +242,7 @@ onset	duration	trial_type	value	sample	stim_id
 293.03	0.0	video on	5	293030	v_Playing squash_id_12qKcakc03Y_start_47.5_label_1
 295.037	0.0	video off	4	295037	n/a
 295.435	0.0	resp	3	295435	n/a
-296.03	0.0	video on	5	296030	v_Using the rowing machine_id_W4CGORYiU4Q_start_32.5_label_1
+296.03	0.0	video on	5	296030	n/a
 298.07	0.0	video off	4	298070	n/a
 298.411	0.0	resp	3	298411	n/a
 299.03	0.0	video on	5	299030	v_Sharpening knives_id_sFgcAyiPLQs_start_65.5_label_1
@@ -266,6 +266,6 @@ onset	duration	trial_type	value	sample	stim_id
 320.03	0.0	video on	5	320030	v_Ice fishing_id_gD3HzCgUvH8_start_21.0_label_1
 322.072	0.0	video off	4	322072	n/a
 322.499	0.0	resp	3	322499	n/a
-323.029	0.0	video on	5	323029	v_Fixing the roof_id_fAYDYqnA-e0_start_50.0_label_1
+323.029	0.0	video on	5	323029	n/a
 325.032	0.0	video off	4	325032	n/a
 330.124	0.0	end	2	330124	n/a

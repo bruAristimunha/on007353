@@ -108,7 +108,7 @@ onset	duration	trial_type	value	sample	stim_id
 176.501	0.0	video off	4	176501	n/a
 180.5	0.0	video on	5	180500	v_Powerbocking_id_0y6tcGoM9iI_start_9.0_label_1
 182.506	0.0	video off	4	182506	n/a
-183.499	0.0	video on	5	183499	v_Playing water polo_id_vd8uZw70Xo0_start_39.0_label_1
+183.499	0.0	video on	5	183499	n/a
 185.508	0.0	video off	4	185508	n/a
 186.499	0.0	video on	5	186499	v_Disc dog_id_xaM8gBZTv34_start_100.5_label_1
 188.507	0.0	video off	4	188507	n/a
@@ -168,7 +168,7 @@ onset	duration	trial_type	value	sample	stim_id
 278.506	0.0	resp	3	278506	n/a
 279.501	0.0	video on	5	279501	v_Throwing darts_id_ngJSTp5W2Fs_start_47.0_label_1
 281.507	0.0	video off	4	281507	n/a
-282.499	0.0	video on	5	282499	v_Using the rowing machine_id_vz65uoW1j2k_start_127.5_label_1
+282.499	0.0	video on	5	282499	n/a
 284.545	0.0	video off	4	284545	n/a
 288.501	0.0	video on	5	288501	v_Skiing_id_CC7-t9tS2hs_start_44.5_label_1
 290.51	0.0	video off	4	290510	n/a
@@ -188,6 +188,6 @@ onset	duration	trial_type	value	sample	stim_id
 314.505	0.0	video off	4	314505	n/a
 315.499	0.0	video on	5	315499	v_Getting a haircut_id_2nYXexzRwpA_start_68.5_label_1
 317.506	0.0	video off	4	317506	n/a
-318.5	0.0	video on	5	318500	v_Bathing dog_id_A4tBWMfgQcM_start_106.0_label_1
+318.5	0.0	video on	5	318500	n/a
 320.507	0.0	video off	4	320507	n/a
 325.564	0.0	end	2	325564	n/a

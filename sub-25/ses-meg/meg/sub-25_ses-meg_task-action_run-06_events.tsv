@@ -27,7 +27,7 @@ onset	duration	trial_type	value	sample	stim_id
 35.0775	0.0	video on	5	42093	v_Playing squash_id_Vi5SRXc4uOc_start_4.0_label_1
 37.0775	0.0	video off	4	44493	n/a
 37.95	0.0	resp	3	45540	n/a
-38.0775	0.0	video on	5	45693	v_Rock-paper-scissors_id_NmO2IVqmk_4_start_49.5_label_1
+38.0775	0.0	video on	5	45693	n/a
 40.0775	0.0	video off	4	48093	n/a
 40.48583333333333	0.0	resp	3	48583	n/a
 44.0775	0.0	video on	5	52893	v_Sumo_id_LIrKCOkAqWw_start_59.5_label_1

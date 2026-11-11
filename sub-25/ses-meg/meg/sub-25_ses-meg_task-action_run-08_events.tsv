@@ -9,7 +9,7 @@ onset	duration	trial_type	value	sample	stim_id
 13.738333333333332	0.0	video on	5	16486	v_Surfing_id_6-lRymQ9ptc_start_39.0_label_1
 15.738333333333332	0.0	video off	4	18886	n/a
 16.4175	0.0	resp	3	19701	n/a
-16.738333333333333	0.0	video on	5	20086	v_Bathing dog_id_nLKKbdiWC_w_start_98.5_label_1
+16.738333333333333	0.0	video on	5	20086	n/a
 18.7375	0.0	video off	4	22485	n/a
 19.2975	0.0	resp	3	23157	n/a
 19.7375	0.0	video on	5	23685	v_Smoking hookah_id_6vYQuG0KR20_start_23.5_label_1
@@ -27,7 +27,7 @@ onset	duration	trial_type	value	sample	stim_id
 34.7375	0.0	video on	5	41685	v_Cheerleading_id_4V7wb01Je8s_start_81.5_label_1
 36.75416666666667	0.0	video off	4	44105	n/a
 37.23416666666667	0.0	resp	3	44681	n/a
-37.7375	0.0	video on	5	45285	v_Fixing the roof_id_xwNFCwLt3pQ_start_104.0_label_1
+37.7375	0.0	video on	5	45285	n/a
 39.75416666666667	0.0	video off	4	47705	n/a
 40.20166666666667	0.0	resp	3	48242	n/a
 43.736666666666665	0.0	video on	5	52484	v_Baton twirling_id_ev6hdfuICzk_start_123.0_label_1
@@ -162,7 +162,7 @@ onset	duration	trial_type	value	sample	stim_id
 208.7483333333333	0.0	video on	5	250498	v_Putting in contact lenses_id_-kH8-SiuBvo_start_11.0_label_1
 210.7483333333333	0.0	video off	4	252898	n/a
 211.37166666666667	0.0	resp	3	253646	n/a
-211.7483333333333	0.0	video on	5	254098	v_Using the balance beam_id_Ok-eOfF66-g_start_56.5_label_1
+211.7483333333333	0.0	video on	5	254098	n/a
 213.73166666666663	0.0	video off	4	256478	n/a
 214.72333333333333	0.0	resp	3	257668	n/a
 214.78166666666667	0.0	video on	5	257738	v_Tango_id_Sq3v4fJ2r8w_start_87.5_label_1

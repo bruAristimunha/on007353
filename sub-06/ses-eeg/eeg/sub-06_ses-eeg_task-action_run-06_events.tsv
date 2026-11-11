@@ -128,7 +128,7 @@ onset	duration	trial_type	value	sample	stim_id
 180.827	0.0	video off	4	180827	n/a
 181.83	0.0	video on	5	181830	v_Mooping floor_id_E9tQoFR8DGc_start_49.5_label_1
 183.835	0.0	video off	4	183835	n/a
-184.83	0.0	video on	5	184830	v_Painting furniture_id_keE8_yKuVW0_start_31.0_label_1
+184.83	0.0	video on	5	184830	n/a
 186.833	0.0	video off	4	186833	n/a
 187.564	0.0	resp	3	187564	n/a
 190.831	0.0	video on	5	190831	v_Drinking coffee_id_lE8FibUYhpI_start_7.5_label_1
@@ -231,7 +231,7 @@ onset	duration	trial_type	value	sample	stim_id
 322.832	0.0	video on	5	322832	v_Doing motocross_id_dYzyNgQWJb4_start_2.0_label_1
 324.827	0.0	video off	4	324827	n/a
 325.629	0.0	resp	3	325629	n/a
-325.832	0.0	video on	5	325832	v_Hanging wallpaper_id_NWJHd684s64_start_8.5_label_1
+325.832	0.0	video on	5	325832	n/a
 327.839	0.0	video off	4	327839	n/a
 328.833	0.0	video on	5	328833	v_Grooming dog_id_qC8cYXPNC54_start_36.0_label_1
 330.831	0.0	video off	4	330831	n/a

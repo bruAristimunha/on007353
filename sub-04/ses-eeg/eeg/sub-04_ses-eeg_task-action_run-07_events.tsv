@@ -30,7 +30,7 @@ onset	duration	trial_type	value	sample	stim_id
 35.027	0.0	video on	5	35027	v_Laying tile_id_reHdXv4oMOk_start_43.5_label_1
 37.038	0.0	video off	4	37038	n/a
 37.384	0.0	resp	3	37384	n/a
-41.028	0.0	video on	5	41028	v_Playing water polo_id_qUufu5TGbZk_start_24.5_label_1
+41.028	0.0	video on	5	41028	n/a
 43.033	0.0	video off	4	43033	n/a
 43.44	0.0	resp	3	43440	n/a
 44.027	0.0	video on	5	44027	v_Playing beach volleyball_id_C55mrTLdmnA_start_14.0_label_1
@@ -39,7 +39,7 @@ onset	duration	trial_type	value	sample	stim_id
 47.028	0.0	video on	5	47028	v_Fixing bicycle_id_00VyhCiE8k4_start_51.0_label_1
 49.04	0.0	video off	4	49040	n/a
 49.448	0.0	resp	3	49448	n/a
-50.028	0.0	video on	5	50028	v_Hanging wallpaper_id_0bPaM2R8SUA_start_76.5_label_1
+50.028	0.0	video on	5	50028	n/a
 52.037	0.0	video off	4	52037	n/a
 52.457	0.0	resp	3	52457	n/a
 53.028	0.0	video on	5	53028	v_Painting_id_a1jGV8fPz5Y_start_14.0_label_1
@@ -203,7 +203,7 @@ onset	duration	trial_type	value	sample	stim_id
 245.029	0.0	video on	5	245029	v_Doing fencing_id_17YUhbE4sEM_start_16.0_label_1
 247.021	0.0	video off	4	247021	n/a
 247.41	0.0	resp	3	247410	n/a
-248.03	0.0	video on	5	248030	v_Spread mulch_id_bXBCK3dRDs8_start_97.5_label_1
+248.03	0.0	video on	5	248030	n/a
 250.072	0.0	video off	4	250072	n/a
 250.418	0.0	resp	3	250418	n/a
 251.029	0.0	video on	5	251029	v_Baton twirling_id_Q5WC-dv7Des_start_78.0_label_1
@@ -254,7 +254,7 @@ onset	duration	trial_type	value	sample	stim_id
 305.03	0.0	video on	5	305030	v_Doing kickboxing_id_tFQ60GLnkXo_start_15.5_label_1
 307.037	0.0	video off	4	307037	n/a
 307.474	0.0	resp	3	307474	n/a
-311.031	0.0	video on	5	311031	v_Fun sliding down_id_uT60Rtrw4fA_start_3.5_label_1
+311.031	0.0	video on	5	311031	n/a
 313.034	0.0	video off	4	313034	n/a
 313.971	0.0	resp	3	313971	n/a
 314.195	0.0	video on	5	314195	v_Playing rubik cube_id_JDQGVA3FWSI_start_61.0_label_1

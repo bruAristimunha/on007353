@@ -120,7 +120,7 @@ onset	duration	trial_type	value	sample	stim_id
 146.7925	0.0	video on	5	176151	v_Making a cake_id_MiaWlMHVghk_start_19.0_label_1
 148.80916666666667	0.0	video off	4	178571	n/a
 149.14	0.0	resp	3	178968	n/a
-152.7925	0.0	video on	5	183351	v_Hanging wallpaper_id_YJibk_bG8Y4_start_61.5_label_1
+152.7925	0.0	video on	5	183351	n/a
 154.7925	0.0	video off	4	185751	n/a
 155.1	0.0	resp	3	186120	n/a
 155.7925	0.0	video on	5	186951	v_Preparing salad_id_3YCuyDweO3s_start_130.0_label_1
@@ -233,7 +233,7 @@ onset	duration	trial_type	value	sample	stim_id
 284.8041666666667	0.0	video on	5	341765	v_Elliptical trainer_id_hDTpgnkCA1w_start_3.5_label_1
 286.8041666666667	0.0	video off	4	344165	n/a
 287.1091666666667	0.0	resp	3	344531	n/a
-287.8041666666667	0.0	video on	5	345365	v_Spread mulch_id_gv4yUAjPLSM_start_191.5_label_1
+287.8041666666667	0.0	video on	5	345365	n/a
 289.8375	0.0	video off	4	347805	n/a
 290.5575	0.0	resp	3	348669	n/a
 290.8041666666667	0.0	video on	5	348965	v_Skiing_id_FeXpDh99lSI_start_15.0_label_1
@@ -242,7 +242,7 @@ onset	duration	trial_type	value	sample	stim_id
 296.8041666666667	0.0	video on	5	356165	v_Grooming dog_id_w82bR6s5DvE_start_13.0_label_1
 298.8041666666667	0.0	video off	4	358565	n/a
 299.1016666666667	0.0	resp	3	358922	n/a
-299.8041666666667	0.0	video on	5	359765	v_Drinking coffee_id_-RhHIfIjo-k_start_60.0_label_1
+299.8041666666667	0.0	video on	5	359765	n/a
 301.8375	0.0	video off	4	362205	n/a
 302.14916666666664	0.0	resp	3	362579	n/a
 302.8041666666667	0.0	video on	5	363365	v_Longboarding_id_V8tD8L8WPC0_start_154.0_label_1

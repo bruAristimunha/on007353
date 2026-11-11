@@ -130,7 +130,7 @@ onset	duration	trial_type	value	sample	stim_id
 153.495	0.0	video on	5	153495	v_Playing guitarra_id_wWcB84Gn1lU_start_66.0_label_1
 155.497	0.0	video off	4	155497	n/a
 156.024	0.0	resp	3	156024	n/a
-156.495	0.0	video on	5	156495	v_Painting furniture_id__wJ6Dd1Xpr0_start_26.0_label_1
+156.495	0.0	video on	5	156495	n/a
 158.496	0.0	video off	4	158496	n/a
 159.008	0.0	resp	3	159008	n/a
 162.495	0.0	video on	5	162495	v_Using uneven bars_id_vS9WL2xJYTI_start_22.0_label_1
@@ -163,7 +163,7 @@ onset	duration	trial_type	value	sample	stim_id
 192.496	0.0	video on	5	192496	v_Playing squash_id_vlwOSDuiKQA_start_195.0_label_1
 194.505	0.0	video off	4	194505	n/a
 194.872	0.0	resp	3	194872	n/a
-198.496	0.0	video on	5	198496	v_Playing kickball_id_1kMSBLLHhUc_start_112.0_label_1
+198.496	0.0	video on	5	198496	n/a
 200.502	0.0	video off	4	200502	n/a
 201.232	0.0	resp	3	201232	n/a
 201.496	0.0	video on	5	201496	v_Making a cake_id_j4I5yO-kw38_start_47.0_label_1

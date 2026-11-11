@@ -3,7 +3,7 @@ onset	duration	trial_type	value	sample	stim_id
 7.920833333333333	0.0	video on	5	9505	v_Surfing_id_3MtashftJV0_start_102.0_label_1
 9.92	0.0	video off	4	11904	n/a
 10.169166666666667	0.0	resp	3	12203	n/a
-10.903333333333334	0.0	video on	5	13084	v_Using parallel bars_id_Zmv4mToIs7Y_start_25.5_label_1
+10.903333333333334	0.0	video on	5	13084	n/a
 12.903333333333334	0.0	video off	4	15484	n/a
 13.280833333333334	0.0	resp	3	15937	n/a
 13.903333333333334	0.0	video on	5	16684	v_Laying tile_id_-ahINPQF8yE_start_90.5_label_1
@@ -132,7 +132,7 @@ onset	duration	trial_type	value	sample	stim_id
 163.915	0.0	video on	5	196698	v_Sharpening knives_id_OjLhDZBzdvI_start_95.0_label_1
 165.89833333333334	0.0	video off	4	199078	n/a
 166.33083333333337	0.0	resp	3	199597	n/a
-169.915	0.0	video on	5	203898	v_Using the balance beam_id_Vkdz8O2pnF8_start_4.5_label_1
+169.915	0.0	video on	5	203898	n/a
 171.89833333333334	0.0	video off	4	206278	n/a
 172.25083333333333	0.0	resp	3	206701	n/a
 172.915	0.0	video on	5	207498	v_Cricket_id_Pf-e670Y4b8_start_95.5_label_1
@@ -196,7 +196,7 @@ onset	duration	trial_type	value	sample	stim_id
 244.9125	0.0	video on	5	293895	v_Table soccer_id_37Bushd9GSQ_start_38.5_label_1
 246.9125	0.0	video off	4	296295	n/a
 247.33166666666668	0.0	resp	3	296798	n/a
-247.9125	0.0	video on	5	297495	v_Hanging wallpaper_id_YJibk_bG8Y4_start_64.5_label_1
+247.9125	0.0	video on	5	297495	n/a
 249.9125	0.0	video off	4	299895	n/a
 250.29916666666668	0.0	resp	3	300359	n/a
 250.9125	0.0	video on	5	301095	v_Playing rubik cube_id_-YqV7saRgfI_start_19.0_label_1
@@ -217,7 +217,7 @@ onset	duration	trial_type	value	sample	stim_id
 268.9116666666667	0.0	video on	5	322694	v_Dodgeball_id_uMDfe-5tZ0Y_start_81.5_label_1
 270.92833333333334	0.0	video off	4	325114	n/a
 271.2916666666667	0.0	resp	3	325550	n/a
-271.9116666666667	0.0	video on	5	326294	v_Using the monkey bar_id_0a7TwMdzXFI_start_19.5_label_1
+271.9116666666667	0.0	video on	5	326294	n/a
 273.9116666666667	0.0	video off	4	328694	n/a
 274.33166666666665	0.0	resp	3	329198	n/a
 277.91083333333336	0.0	video on	5	333493	v_Carving jack-o-lanterns_id_kU2v1NbcqH4_start_47.5_label_1
@@ -262,6 +262,6 @@ onset	duration	trial_type	value	sample	stim_id
 322.91	0.0	video on	5	387492	v_Getting a tattoo_id_hhRdz-6JaXs_start_69.0_label_1
 324.9266666666667	0.0	video off	4	389912	n/a
 325.3883333333333	0.0	resp	3	390466	n/a
-325.91	0.0	video on	5	391092	v_Fixing the roof_id_xZyUaRr_wi8_start_52.0_label_1
+325.91	0.0	video on	5	391092	n/a
 327.9425	0.0	video off	4	393531	n/a
 332.9608333333333	0.0	end	2	399553	n/a

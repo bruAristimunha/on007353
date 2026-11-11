@@ -32,16 +32,16 @@ onset	duration	trial_type	value	sample	stim_id
 44.8325	0.0	video on	5	53799	v_Table soccer_id_1MYdnPa-Bxs_start_7.5_label_1
 46.8325	0.0	video off	4	56199	n/a
 47.72083333333333	0.0	resp	3	57265	n/a
-47.83166666666666	0.0	video on	5	57398	v_Fun sliding down_id_RokAPWBWcN0_start_40.5_label_1
+47.83166666666666	0.0	video on	5	57398	n/a
 49.83166666666666	0.0	video off	4	59798	n/a
 50.59333333333333	0.0	resp	3	60712	n/a
 50.83166666666666	0.0	video on	5	60998	v_Playing violin_id_yzOW5flFG7c_start_89.5_label_1
 52.865	0.0	video off	4	63438	n/a
 53.2575	0.0	resp	3	63909	n/a
-53.848333333333336	0.0	video on	5	64618	v_Smoking hookah_id_fiRaTxWdZOQ_start_30.0_label_1
+53.848333333333336	0.0	video on	5	64618	n/a
 55.848333333333336	0.0	video off	4	67018	n/a
 56.16166666666667	0.0	resp	3	67394	n/a
-56.83166666666666	0.0	video on	5	68198	v_Running a marathon_id_lMUKK9C-h_0_start_21.0_label_1
+56.83166666666666	0.0	video on	5	68198	n/a
 58.83166666666666	0.0	video off	4	70598	n/a
 62.83166666666666	0.0	video on	5	75398	v_Rock-paper-scissors_id_i6H_Rb318Pw_start_90.5_label_1
 64.83166666666666	0.0	video off	4	77798	n/a
@@ -129,7 +129,7 @@ onset	duration	trial_type	value	sample	stim_id
 176.84416666666667	0.0	video on	5	212213	v_Rock climbing_id_c6S0aOVfeA4_start_12.5_label_1
 178.84416666666667	0.0	video off	4	214613	n/a
 179.59416666666667	0.0	resp	3	215513	n/a
-179.84416666666667	0.0	video on	5	215813	v_Playing water polo_id_LDdrqLdXnnc_start_19.0_label_1
+179.84416666666667	0.0	video on	5	215813	n/a
 181.84416666666667	0.0	video off	4	218213	n/a
 182.30666666666667	0.0	resp	3	218768	n/a
 182.84416666666667	0.0	video on	5	219413	v_Grooming dog_id_2UHYrLbL2s8_start_37.5_label_1

@@ -27,7 +27,7 @@ onset	duration	trial_type	value	sample	stim_id
 35.280833333333334	0.0	video on	5	42337	v_Zumba_id_L6SN3I8kTn0_start_153.0_label_1
 37.28083333333333	0.0	video off	4	44737	n/a
 37.5925	0.0	resp	3	45111	n/a
-38.28	0.0	video on	5	45936	v_Playing pool_id_fi9Z6RVTXSs_start_35.5_label_1
+38.28	0.0	video on	5	45936	n/a
 40.28	0.0	video off	4	48336	n/a
 40.61666666666667	0.0	resp	3	48740	n/a
 44.28	0.0	video on	5	53136	v_Ballet_id_cCWPyqDMpxU_start_85.5_label_1
@@ -243,13 +243,13 @@ onset	duration	trial_type	value	sample	stim_id
 299.28833333333336	0.0	video on	5	359146	v_Brushing teeth_id_l0lVHN3uJcU_start_1.5_label_1
 301.28833333333336	0.0	video off	4	361546	n/a
 301.635	0.0	resp	3	361962	n/a
-302.28833333333336	0.0	video on	5	362746	v_Putting on shoes_id_Bu_sDScQpTU_start_136.0_label_1
+302.28833333333336	0.0	video on	5	362746	n/a
 304.27166666666665	0.0	video off	4	365126	n/a
 304.5475	0.0	resp	3	365457	n/a
 305.28833333333336	0.0	video on	5	366346	v_Washing hands_id_f9j3rHm--k8_start_113.5_label_1
 307.28833333333336	0.0	video off	4	368746	n/a
 307.6033333333333	0.0	resp	3	369124	n/a
-308.28833333333336	0.0	video on	5	369946	v_Hanging wallpaper_id_NH7BPL5loEI_start_34.5_label_1
+308.28833333333336	0.0	video on	5	369946	n/a
 310.28833333333336	0.0	video off	4	372346	n/a
 310.7075	0.0	resp	3	372849	n/a
 314.2875	0.0	video on	5	377145	v_Drinking coffee_id_4vCKFtJIjUs_start_2.5_label_1
@@ -257,7 +257,7 @@ onset	duration	trial_type	value	sample	stim_id
 317.2875	0.0	video on	5	380745	v_Volleyball_id__YPWstwyjxE_start_23.5_label_1
 319.3208333333333	0.0	video off	4	383185	n/a
 319.595	0.0	resp	3	383514	n/a
-320.2875	0.0	video on	5	384345	v_Using uneven bars_id_faq02vuLxKE_start_49.5_label_1
+320.2875	0.0	video on	5	384345	n/a
 322.2875	0.0	video off	4	386745	n/a
 322.56333333333333	0.0	resp	3	387076	n/a
 323.2875	0.0	video on	5	387945	v_Snow tubing_id_XunsgW1Xh3s_start_18.5_label_1

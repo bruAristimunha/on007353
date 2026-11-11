@@ -1,6 +1,6 @@
 onset	duration	trial_type	value	sample	stim_id
 2.2741666666666664	0.0	begin	1	2729	n/a
-7.324166666666667	0.0	video on	5	8789	v_Hand washing clothes_id_olk76pEIzaA_start_16.5_label_1
+7.324166666666667	0.0	video on	5	8789	n/a
 9.3075	0.0	video off	4	11169	n/a
 9.729166666666666	0.0	resp	3	11675	n/a
 10.3075	0.0	video on	5	12369	v_Smoking a cigarette_id_TQp7LXOaX_Y_start_158.0_label_1
@@ -139,7 +139,7 @@ onset	duration	trial_type	value	sample	stim_id
 172.31833333333333	0.0	video on	5	206782	v_Hula hoop_id_qxER8s67W8o_start_6.0_label_1
 174.31833333333333	0.0	video off	4	209182	n/a
 175.09833333333333	0.0	resp	3	210118	n/a
-175.31833333333333	0.0	video on	5	210382	v_Spread mulch_id_N9j1j7ioUvE_start_19.0_label_1
+175.31833333333333	0.0	video on	5	210382	n/a
 177.30166666666668	0.0	video off	4	212762	n/a
 178.31833333333333	0.0	video on	5	213982	v_Braiding hair_id_9iQAebdh8mo_start_41.5_label_1
 180.31833333333333	0.0	video off	4	216382	n/a

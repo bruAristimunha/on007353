@@ -3,7 +3,7 @@ onset	duration	trial_type	value	sample	stim_id
 9.2275	0.0	video on	5	11073	v_Washing dishes_id_G-_VzCN8IbY_start_31.5_label_1
 11.211666666666666	0.0	video off	4	13454	n/a
 11.574166666666668	0.0	resp	3	13889	n/a
-12.210833333333332	0.0	video on	5	14653	v_Using the rowing machine_id_0c3sivWZg9Y_start_14.5_label_1
+12.210833333333332	0.0	video on	5	14653	n/a
 14.210833333333332	0.0	video off	4	17053	n/a
 14.661666666666669	0.0	resp	3	17594	n/a
 15.210833333333332	0.0	video on	5	18253	v_Making a cake_id_UOjfCLUmyEY_start_86.5_label_1
@@ -74,7 +74,7 @@ onset	duration	trial_type	value	sample	stim_id
 92.6625	0.0	resp	3	111195	n/a
 93.225	0.0	video on	5	111870	v_Making a lemonade_id_pe3_OHrwE-4_start_34.0_label_1
 95.225	0.0	video off	4	114270	n/a
-99.20833333333331	0.0	video on	5	119050	v_Using uneven bars_id_faq02vuLxKE_start_44.5_label_1
+99.20833333333331	0.0	video on	5	119050	n/a
 101.20833333333331	0.0	video off	4	121450	n/a
 101.7025	0.0	resp	3	122043	n/a
 102.20833333333331	0.0	video on	5	122650	v_Playing harmonica_id_yit8IgwR9wc_start_72.5_label_1
@@ -214,7 +214,7 @@ onset	duration	trial_type	value	sample	stim_id
 267.2191666666667	0.0	video on	5	320663	v_Mixing drinks_id_-A_BbyTmpx8_start_101.5_label_1
 269.2191666666667	0.0	video off	4	323063	n/a
 269.6166666666667	0.0	resp	3	323540	n/a
-270.2191666666667	0.0	video on	5	324263	v_Bathing dog_id_Vpb89P9VgV0_start_16.5_label_1
+270.2191666666667	0.0	video on	5	324263	n/a
 272.2191666666667	0.0	video off	4	326663	n/a
 272.58416666666665	0.0	resp	3	327101	n/a
 273.2191666666667	0.0	video on	5	327863	v_Longboarding_id_3nWv9lX79Yw_start_48.5_label_1
@@ -236,7 +236,7 @@ onset	duration	trial_type	value	sample	stim_id
 297.2183333333333	0.0	video on	5	356662	v_Playing piano_id_eIalAG-1PzQ_start_99.0_label_1
 299.2183333333333	0.0	video off	4	359062	n/a
 299.56916666666666	0.0	resp	3	359483	n/a
-300.2183333333333	0.0	video on	5	360262	v_Preparing pasta_id_NUHJ60V_N-U_start_131.5_label_1
+300.2183333333333	0.0	video on	5	360262	n/a
 302.25166666666667	0.0	video off	4	362702	n/a
 302.9125	0.0	resp	3	363495	n/a
 303.2183333333333	0.0	video on	5	363862	v_Grooming dog_id_dFprge-qhU0_start_57.5_label_1

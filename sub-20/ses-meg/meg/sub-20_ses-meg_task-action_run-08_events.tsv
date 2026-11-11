@@ -3,7 +3,7 @@ onset	duration	trial_type	value	sample	stim_id
 8.3825	0.0	video on	5	10059	v_Ice fishing_id_N27RSCBzZ_0_start_76.0_label_1
 10.399166666666666	0.0	video off	4	12479	n/a
 10.824166666666668	0.0	resp	3	12989	n/a
-11.3825	0.0	video on	5	13659	v_Spread mulch_id_KLoTfEHWr2E_start_21.5_label_1
+11.3825	0.0	video on	5	13659	n/a
 13.383333333333333	0.0	video off	4	16060	n/a
 13.751666666666669	0.0	resp	3	16502	n/a
 14.3825	0.0	video on	5	17259	v_Snow tubing_id_qEjI38XMTzE_start_19.5_label_1
@@ -28,7 +28,7 @@ onset	duration	trial_type	value	sample	stim_id
 37.38166666666667	0.0	video off	4	44858	n/a
 38.38166666666667	0.0	video on	5	46058	v_Spinning_id_6i9jwX9NNkA_start_32.5_label_1
 40.3825	0.0	video off	4	48459	n/a
-44.38166666666667	0.0	video on	5	53258	v_Drinking coffee_id_NGkJhX-To44_start_12.5_label_1
+44.38166666666667	0.0	video on	5	53258	n/a
 46.38166666666667	0.0	video off	4	55658	n/a
 46.81583333333333	0.0	resp	3	56179	n/a
 47.38166666666667	0.0	video on	5	56858	v_Smoking a cigarette_id_PdegJRlGT-E_start_82.0_label_1
@@ -40,9 +40,9 @@ onset	duration	trial_type	value	sample	stim_id
 53.39833333333333	0.0	video on	5	64078	v_Chopping wood_id_cf8TfHtgLLc_start_17.5_label_1
 55.431666666666665	0.0	video off	4	66518	n/a
 55.848333333333336	0.0	resp	3	67018	n/a
-56.38166666666667	0.0	video on	5	67658	v_Hanging wallpaper_id_XGr79kwFhQc_start_93.5_label_1
+56.38166666666667	0.0	video on	5	67658	n/a
 58.380833333333335	0.0	video off	4	70057	n/a
-62.380833333333335	0.0	video on	5	74857	v_Playing water polo_id_vajtNYawgc4_start_10.0_label_1
+62.380833333333335	0.0	video on	5	74857	n/a
 64.39833333333333	0.0	video off	4	77278	n/a
 64.88833333333334	0.0	resp	3	77866	n/a
 65.38083333333333	0.0	video on	5	78457	v_Washing hands_id_cZmD0YUgJhs_start_15.0_label_1
@@ -105,7 +105,7 @@ onset	duration	trial_type	value	sample	stim_id
 140.37833333333333	0.0	video on	5	168454	v_Table soccer_id_5-Gq7LURNvg_start_144.0_label_1
 142.395	0.0	video off	4	170874	n/a
 142.8733333333333	0.0	resp	3	171448	n/a
-143.37833333333333	0.0	video on	5	172054	v_Bathing dog_id_nLKKbdiWC_w_start_64.0_label_1
+143.37833333333333	0.0	video on	5	172054	n/a
 145.37833333333333	0.0	video off	4	174454	n/a
 145.80083333333334	0.0	resp	3	174961	n/a
 146.37833333333333	0.0	video on	5	175654	v_Starting a campfire_id_Qlv6iDZxPS4_start_141.5_label_1

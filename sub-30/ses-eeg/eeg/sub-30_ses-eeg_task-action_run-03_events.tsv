@@ -6,7 +6,7 @@ onset	duration	trial_type	value	sample	stim_id
 8.027	0.0	video on	5	8027	v_Painting_id_XNr4v-qdlhk_start_49.5_label_1
 10.036	0.0	video off	4	10036	n/a
 10.529	0.0	resp	3	10529	n/a
-11.027	0.0	video on	5	11027	v_Putting in contact lenses_id_1XmRy05YFuU_start_34.0_label_1
+11.027	0.0	video on	5	11027	n/a
 13.032	0.0	video off	4	13032	n/a
 13.632	0.0	resp	3	13632	n/a
 14.026	0.0	video on	5	14026	v_Kite flying_id_MW7KcmTojdY_start_38.5_label_1
@@ -108,7 +108,7 @@ onset	duration	trial_type	value	sample	stim_id
 131.028	0.0	video on	5	131028	v_Playing lacrosse_id_bAD_-DEgubk_start_30.5_label_1
 133.031	0.0	video off	4	133031	n/a
 133.57	0.0	resp	3	133570	n/a
-134.029	0.0	video on	5	134029	v_Preparing pasta_id_hXzO6O5a3O8_start_194.0_label_1
+134.029	0.0	video on	5	134029	n/a
 136.03	0.0	video off	4	136030	n/a
 136.498	0.0	resp	3	136498	n/a
 137.03	0.0	video on	5	137030	v_Ballet_id_Y-Ps_XVPfTM_start_36.0_label_1
@@ -159,7 +159,7 @@ onset	duration	trial_type	value	sample	stim_id
 191.03	0.0	video on	5	191030	v_Baton twirling_id_MoNekP_fhqM_start_126.0_label_1
 193.023	0.0	video off	4	193023	n/a
 193.498	0.0	resp	3	193498	n/a
-194.029	0.0	video on	5	194029	v_Croquet_id_f7IJmeIq-Ng_start_35.0_label_1
+194.029	0.0	video on	5	194029	n/a
 196.034	0.0	video off	4	196034	n/a
 196.61	0.0	resp	3	196610	n/a
 197.029	0.0	video on	5	197029	v_Mowing the lawn_id_IuVe6UXUZHU_start_10.0_label_1
@@ -183,7 +183,7 @@ onset	duration	trial_type	value	sample	stim_id
 221.03	0.0	video on	5	221030	v_Drum corps_id_e3arbzeKprU_start_37.0_label_1
 223.0	0.0	video off	4	223000	n/a
 223.37	0.0	resp	3	223370	n/a
-224.029	0.0	video on	5	224029	v_Painting fence_id_LBOU8PzuJwQ_start_39.0_label_1
+224.029	0.0	video on	5	224029	n/a
 226.035	0.0	video off	4	226035	n/a
 226.586	0.0	resp	3	226586	n/a
 227.03	0.0	video on	5	227030	v_Running a marathon_id_bRrL8tNkf8c_start_31.5_label_1

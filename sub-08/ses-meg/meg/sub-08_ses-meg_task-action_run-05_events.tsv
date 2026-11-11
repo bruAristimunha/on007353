@@ -46,7 +46,7 @@ onset	duration	trial_type	value	sample	stim_id
 63.35416666666666	0.0	video off	4	76025	n/a
 64.32083333333334	0.0	video on	5	77185	v_Smoking a cigarette_id_IDHiJV9jRCU_start_210.5_label_1
 66.3375	0.0	video off	4	79605	n/a
-67.32083333333334	0.0	video on	5	80785	v_Spread mulch_id_9b-3OQ4SEts_start_45.5_label_1
+67.32083333333334	0.0	video on	5	80785	n/a
 69.32083333333334	0.0	video off	4	83185	n/a
 69.62	0.0	resp	3	83544	n/a
 70.32083333333334	0.0	video on	5	84385	v_Skateboarding_id_qINuAz1puD0_start_56.0_label_1
@@ -103,7 +103,7 @@ onset	duration	trial_type	value	sample	stim_id
 144.31833333333333	0.0	video off	4	173182	n/a
 145.3175	0.0	video on	5	174381	v_Waterskiing_id_yFS0uQmZ1Ik_start_62.5_label_1
 147.31833333333333	0.0	video off	4	176782	n/a
-151.3175	0.0	video on	5	181581	v_Polishing forniture_id_2dxxCHuwiN8_start_17.0_label_1
+151.3175	0.0	video on	5	181581	n/a
 153.3675	0.0	video off	4	184041	n/a
 154.33416666666668	0.0	video on	5	185201	v_Trimming branches or hedges_id_BH6nDeaA8zk_start_38.0_label_1
 156.33416666666668	0.0	video off	4	187601	n/a
@@ -143,7 +143,7 @@ onset	duration	trial_type	value	sample	stim_id
 196.3325	0.0	video on	5	235599	v_Mowing the lawn_id_VF53ULYpVJQ_start_18.0_label_1
 198.3325	0.0	video off	4	237999	n/a
 198.79	0.0	resp	3	238548	n/a
-199.3325	0.0	video on	5	239199	v_Playing blackjack_id_iYsDsxX1gfk_start_150.5_label_1
+199.3325	0.0	video on	5	239199	n/a
 201.36666666666667	0.0	video off	4	241640	n/a
 201.7175	0.0	resp	3	242061	n/a
 205.3325	0.0	video on	5	246399	v_Blow-drying hair_id_7jZgpT5ZKes_start_12.0_label_1
@@ -229,7 +229,7 @@ onset	duration	trial_type	value	sample	stim_id
 316.32916666666665	0.0	video on	5	379595	v_Skiing_id_oUR1MXquAMk_start_110.5_label_1
 318.34583333333336	0.0	video off	4	382015	n/a
 318.76666666666665	0.0	resp	3	382520	n/a
-319.32916666666665	0.0	video on	5	383195	v_Croquet_id_x09nVNm-XEo_start_145.0_label_1
+319.32916666666665	0.0	video on	5	383195	n/a
 321.32916666666665	0.0	video off	4	385595	n/a
 321.9433333333333	0.0	resp	3	386332	n/a
 322.3283333333333	0.0	video on	5	386794	v_Brushing hair_id_wuUdTxP9iFA_start_9.0_label_1

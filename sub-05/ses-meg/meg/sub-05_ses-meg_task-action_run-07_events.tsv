@@ -209,7 +209,7 @@ onset	duration	trial_type	value	sample	stim_id
 253.58666666666667	0.0	video on	5	304304	v_Windsurfing_id_Iuy1a0pI9as_start_48.5_label_1
 255.58666666666667	0.0	video off	4	306704	n/a
 255.91416666666663	0.0	resp	3	307097	n/a
-259.5858333333333	0.0	video on	5	311503	v_Spread mulch_id_5_OSmkFpgRo_start_34.5_label_1
+259.5858333333333	0.0	video on	5	311503	n/a
 261.5858333333333	0.0	video off	4	313903	n/a
 261.995	0.0	resp	3	314394	n/a
 262.5858333333333	0.0	video on	5	315103	v_Hand washing clothes_id_tIyLtQK8qew_start_5.5_label_1

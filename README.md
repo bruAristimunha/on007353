@@ -15,18 +15,13 @@ Added 2026-10-08 (metadata only, no media added):
   `stimuli/stimuli.tsv`. (BIDS `stim_file` is not used because bids-validator rejects the spaces in this dataset's class
   folder names inside `stim_file` paths.)
 
-How the event-to-clip mapping was obtained: the released events carry no clip identity, and
-`derivatives/detailed_events` gives the class and YouTube id per trial but not the start second; 665 of the 20,160 EEG
-trials (3.3 %) were therefore ambiguous (one YouTube video cut at two or three starts). The sibling dataset HAD-fMRI
-(OpenNeuro ds004488 2.0.1, same stimuli) has a `stim_file` column in its events. Every HAD-MEEG session (28 EEG, 30 MEG)
-presented exactly one HAD-fMRI participant's 720-clip list in the same order (58/58 sessions; 720/720 YouTube ids equal
-position by position; e.g. EEG sub-01 = fMRI sub-22, MEG sub-01 = fMRI sub-01). Each `video on` event therefore maps to its
-clip by position: 20,160/20,160 EEG and 21,600/21,600 MEG trials, all files present under `stimuli/`; the 19,495 EEG trials
-that were unambiguous before agree 19,495/19,495. Naming note: HAD-fMRI writes class folders with `_`
-(`Drum_corps/`), this dataset with spaces (`Drum corps/`).
+How the event-to-clip mapping was obtained: the released events carry no clip identity. `derivatives/detailed_events`
+(written by the dataset authors) gives the class and YouTube id of every trial, in the order of the events files, but not the
+start second. Each `video on` row is paired with the `video_on` trial of the same session and run, in order. Where exactly one
+clip in `stimuli/` has that class and YouTube id, `stim_id` names it: 40,388 of the 41,760 `video on` rows (EEG and MEG).
+In the other 1,372 rows the same YouTube video was cut at two or three start times, the event table does not say which cut
+was shown, and `stim_id` is n/a. Only files of this dataset are used; no other dataset is linked.
 
-To check the mapping yourself: `python code/check_stim_id.py <ds004488>` (a clone of OpenNeuro ds004488 2.0.1; its events
-are plain git files). For every session it finds the one HAD-fMRI list with the same order, then checks each `video on`
-row against that list position by position and against the class and YouTube id in `derivatives/detailed_events`. On
-this version: 58/58 sessions match exactly one list, 41,760/41,760 rows pass (40,388 also unique from detailed_events
-alone, 1,372 resolved only by the order), 0 fail.
+To check the mapping yourself: `python code/check_stim_id.py` from the root of this dataset (plain git files only). It
+recomputes every `stim_id` from `derivatives/detailed_events` and `stimuli/stimuli.tsv` and reports any difference. On this
+version: 464 events files, 41,760 `video on` rows, 40,388 identified, 1,372 n/a, 0 differences.

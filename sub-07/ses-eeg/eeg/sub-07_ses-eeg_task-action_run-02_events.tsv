@@ -75,7 +75,7 @@ onset	duration	trial_type	value	sample	stim_id
 89.069	0.0	video on	5	89069	v_Hand car wash_id_G64dkn3Ac7M_start_49.0_label_1
 91.083	0.0	video off	4	91083	n/a
 91.464	0.0	resp	3	91464	n/a
-95.069	0.0	video on	5	95069	v_Polishing forniture_id_i5a6yR2Ng6I_start_3.0_label_1
+95.069	0.0	video on	5	95069	n/a
 97.084	0.0	video off	4	97084	n/a
 97.521	0.0	resp	3	97521	n/a
 98.069	0.0	video on	5	98069	v_Bungee jumping_id_2aBfRGuyYNM_start_35.0_label_1
@@ -120,7 +120,7 @@ onset	duration	trial_type	value	sample	stim_id
 143.07	0.0	video on	5	143070	v_Playing squash_id_UkAD50FvB0g_start_47.0_label_1
 145.075	0.0	video off	4	145075	n/a
 145.409	0.0	resp	3	145409	n/a
-149.071	0.0	video on	5	149071	v_Cleaning sink_id_oXZbVBa1Ojg_start_40.5_label_1
+149.071	0.0	video on	5	149071	n/a
 151.079	0.0	video off	4	151079	n/a
 151.449	0.0	resp	3	151449	n/a
 152.07	0.0	video on	5	152070	v_Playing bagpipes_id_QqEwVgH-TK4_start_49.0_label_1
@@ -198,19 +198,19 @@ onset	duration	trial_type	value	sample	stim_id
 239.071	0.0	video on	5	239071	v_Tug of war_id_VTvhiROgJ-M_start_13.0_label_1
 241.078	0.0	video off	4	241078	n/a
 241.65	0.0	resp	3	241650	n/a
-242.072	0.0	video on	5	242072	v_Waxing skis_id_E_fHmOjCeB8_start_115.0_label_1
+242.072	0.0	video on	5	242072	n/a
 244.082	0.0	video off	4	244082	n/a
 244.602	0.0	resp	3	244602	n/a
 245.071	0.0	video on	5	245071	v_Shuffleboard_id_ijIOxeDi6xE_start_12.5_label_1
 247.084	0.0	video off	4	247084	n/a
 247.666	0.0	resp	3	247666	n/a
-248.072	0.0	video on	5	248072	v_Plataform diving_id_3pYXOYmDrJc_start_74.5_label_1
+248.072	0.0	video on	5	248072	n/a
 250.078	0.0	video off	4	250078	n/a
 250.426	0.0	resp	3	250426	n/a
 251.072	0.0	video on	5	251072	v_Playing flauta_id_zeNCrPxqAPY_start_45.0_label_1
 253.076	0.0	video off	4	253076	n/a
 253.658	0.0	resp	3	253658	n/a
-257.071	0.0	video on	5	257071	v_Cleaning shoes_id_MO1gm3Yxewk_start_67.0_label_1
+257.071	0.0	video on	5	257071	n/a
 259.081	0.0	video off	4	259081	n/a
 259.482	0.0	resp	3	259482	n/a
 260.072	0.0	video on	5	260072	v_Making a lemonade_id_8sdDpqF276w_start_70.5_label_1

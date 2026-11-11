@@ -13,7 +13,7 @@ onset	duration	trial_type	value	sample	stim_id
 19.895	0.0	video on	5	23874	v_Preparing salad_id_7WHIUp9-FOg_start_42.0_label_1
 21.895	0.0	video off	4	26274	n/a
 22.795	0.0	resp	3	27354	n/a
-25.895	0.0	video on	5	31074	v_Disc dog_id_b5I4owqphMU_start_1.0_label_1
+25.895	0.0	video on	5	31074	n/a
 27.895	0.0	video off	4	33474	n/a
 28.0425	0.0	resp	3	33651	n/a
 28.895	0.0	video on	5	34674	v_Laying tile_id_qU-r686R4iQ_start_64.5_label_1
@@ -30,7 +30,7 @@ onset	duration	trial_type	value	sample	stim_id
 45.89416666666666	0.0	video off	4	55073	n/a
 46.89416666666666	0.0	video on	5	56273	v_Hurling_id_1pqpItpCKLQ_start_24.0_label_1
 48.9275	0.0	video off	4	58713	n/a
-49.89416666666666	0.0	video on	5	59873	v_Spread mulch_id_N9j1j7ioUvE_start_32.0_label_1
+49.89416666666666	0.0	video on	5	59873	n/a
 51.89416666666666	0.0	video off	4	62273	n/a
 52.48333333333333	0.0	resp	3	62980	n/a
 52.910833333333336	0.0	video on	5	63493	v_Futsal_id_i4TZaQ7YGFI_start_7.0_label_1
@@ -91,7 +91,7 @@ onset	duration	trial_type	value	sample	stim_id
 144.9075	0.0	video off	4	173889	n/a
 145.89083333333335	0.0	video on	5	175069	v_Playing flauta_id_4WIp6klzeDQ_start_14.0_label_1
 147.9075	0.0	video off	4	177489	n/a
-151.9075	0.0	video on	5	182289	v_Waxing skis_id_2jjMVAGUo38_start_133.0_label_1
+151.9075	0.0	video on	5	182289	n/a
 153.92416666666668	0.0	video off	4	184709	n/a
 154.89083333333335	0.0	video on	5	185869	v_Elliptical trainer_id_0sKnHQ2OW7o_start_158.0_label_1
 156.89083333333335	0.0	video off	4	188269	n/a
@@ -104,7 +104,7 @@ onset	duration	trial_type	value	sample	stim_id
 166.3725	0.0	resp	3	199647	n/a
 169.90666666666667	0.0	video on	5	203888	v_Blow-drying hair_id_4ic7lM-GDXA_start_26.5_label_1
 171.89	0.0	video off	4	206268	n/a
-172.90666666666667	0.0	video on	5	207488	v_Rock-paper-scissors_id_qTH4qYhe7GA_start_104.5_label_1
+172.90666666666667	0.0	video on	5	207488	n/a
 174.90666666666667	0.0	video off	4	209888	n/a
 175.0525	0.0	resp	3	210063	n/a
 175.90666666666667	0.0	video on	5	211088	v_Fun sliding down_id_mRBT2JvbGE8_start_20.0_label_1
@@ -163,7 +163,7 @@ onset	duration	trial_type	value	sample	stim_id
 267.90416666666664	0.0	video off	4	321485	n/a
 268.9033333333333	0.0	video on	5	322684	v_Rope skipping_id_Gh4U0IJgjRY_start_7.0_label_1
 270.88666666666666	0.0	video off	4	325064	n/a
-271.9033333333333	0.0	video on	5	326284	v_Playing kickball_id_7YLD7zsu9pk_start_8.0_label_1
+271.9033333333333	0.0	video on	5	326284	n/a
 273.9033333333333	0.0	video off	4	328684	n/a
 277.9033333333333	0.0	video on	5	333484	v_Playing blackjack_id__oGmXL3IwOs_start_175.0_label_1
 279.9033333333333	0.0	video off	4	335884	n/a

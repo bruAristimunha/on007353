@@ -15,7 +15,7 @@ onset	duration	trial_type	value	sample	stim_id
 19.251666666666665	0.0	video on	5	23102	v_Playing badminton_id_Vf8dNgx70Pw_start_3.5_label_1
 21.251666666666665	0.0	video off	4	25502	n/a
 21.4975	0.0	resp	3	25797	n/a
-25.250833333333333	0.0	video on	5	30301	v_Cleaning windows_id_9kNSlxENI2k_start_76.0_label_1
+25.250833333333333	0.0	video on	5	30301	n/a
 27.250833333333333	0.0	video off	4	32701	n/a
 27.5775	0.0	resp	3	33093	n/a
 28.250833333333333	0.0	video on	5	33901	v_Playing ice hockey_id_I8wSPaiFgII_start_17.0_label_1
@@ -60,7 +60,7 @@ onset	duration	trial_type	value	sample	stim_id
 73.25	0.0	video on	5	87900	v_Riding bumper cars_id_lm1R156bMJs_start_31.0_label_1
 75.26666666666667	0.0	video off	4	90320	n/a
 75.57833333333333	0.0	resp	3	90694	n/a
-79.24916666666667	0.0	video on	5	95099	v_Using the rowing machine_id_0c3sivWZg9Y_start_19.0_label_1
+79.24916666666667	0.0	video on	5	95099	n/a
 81.29916666666666	0.0	video off	4	97559	n/a
 82.01	0.0	resp	3	98412	n/a
 82.24916666666667	0.0	video on	5	98699	v_Snow tubing_id_eRV2vqUP7sI_start_25.5_label_1
@@ -123,7 +123,7 @@ onset	duration	trial_type	value	sample	stim_id
 154.26333333333332	0.0	video on	5	185116	v_Doing kickboxing_id_bx_fYQ294DU_start_7.0_label_1
 156.26333333333332	0.0	video off	4	187516	n/a
 156.46666666666667	0.0	resp	3	187760	n/a
-157.26333333333332	0.0	video on	5	188716	v_Sumo_id_LIi6pQ4WQgQ_start_34.0_label_1
+157.26333333333332	0.0	video on	5	188716	n/a
 159.26333333333332	0.0	video off	4	191116	n/a
 160.26333333333332	0.0	video on	5	192316	v_Futsal_id_RZ9M2ts7PY4_start_6.0_label_1
 162.26333333333332	0.0	video off	4	194716	n/a
@@ -148,7 +148,7 @@ onset	duration	trial_type	value	sample	stim_id
 190.2625	0.0	video on	5	228315	v_Triple jump_id_P2MtyFoJyxM_start_13.0_label_1
 192.2625	0.0	video off	4	230715	n/a
 192.65916666666664	0.0	resp	3	231191	n/a
-193.2625	0.0	video on	5	231915	v_Fixing the roof_id_YgF4tgg7pT0_start_128.0_label_1
+193.2625	0.0	video on	5	231915	n/a
 195.2625	0.0	video off	4	234315	n/a
 196.2625	0.0	video on	5	235515	v_Swimming_id_Gg5jm1JEuxQ_start_102.5_label_1
 198.2625	0.0	video off	4	237915	n/a
@@ -240,6 +240,6 @@ onset	duration	trial_type	value	sample	stim_id
 321.275	0.0	video off	4	385530	n/a
 322.2583333333333	0.0	video on	5	386710	v_Doing karate_id_v4uT3tkhQKs_start_15.0_label_1
 324.2583333333333	0.0	video off	4	389110	n/a
-325.2583333333333	0.0	video on	5	390310	v_Preparing pasta_id_kVUEB1_3cak_start_87.0_label_1
+325.2583333333333	0.0	video on	5	390310	n/a
 327.2916666666667	0.0	video off	4	392750	n/a
 332.32666666666665	0.0	end	2	398792	n/a

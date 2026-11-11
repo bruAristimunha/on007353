@@ -9,7 +9,7 @@ onset	duration	trial_type	value	sample	stim_id
 6.495	0.0	video on	5	6495	v_Futsal_id_fu-oTo0QsE0_start_15.0_label_1
 8.493	0.0	video off	4	8493	n/a
 9.134	0.0	resp	3	9134	n/a
-9.496	0.0	video on	5	9496	v_Waxing skis_id_tQ0Pz9axN4U_start_86.5_label_1
+9.496	0.0	video on	5	9496	n/a
 11.501	0.0	video off	4	11501	n/a
 12.07	0.0	resp	3	12070	n/a
 12.495	0.0	video on	5	12495	v_Laying tile_id_awaPQyRmCjw_start_28.5_label_1
@@ -75,7 +75,7 @@ onset	duration	trial_type	value	sample	stim_id
 84.499	0.0	video on	5	84499	v_Sailing_id_kRlYSEhkf8E_start_93.5_label_1
 86.511	0.0	video off	4	86511	n/a
 87.071	0.0	resp	3	87071	n/a
-90.5	0.0	video on	5	90500	v_Using the balance beam_id_7lXHwrIz3gI_start_45.0_label_1
+90.5	0.0	video on	5	90500	n/a
 92.506	0.0	video off	4	92506	n/a
 93.103	0.0	resp	3	93103	n/a
 93.498	0.0	video on	5	93498	v_Playing flauta_id_WXzH8VeYj7g_start_1.0_label_1
@@ -90,7 +90,7 @@ onset	duration	trial_type	value	sample	stim_id
 102.499	0.0	video on	5	102499	v_Assembling bicycle_id_uZve5JOpx6o_start_61.0_label_1
 104.511	0.0	video off	4	104511	n/a
 105.055	0.0	resp	3	105055	n/a
-108.498	0.0	video on	5	108498	v_Playing polo_id_vR1xwnQXvpc_start_36.5_label_1
+108.498	0.0	video on	5	108498	n/a
 110.505	0.0	video off	4	110505	n/a
 111.127	0.0	resp	3	111127	n/a
 111.497	0.0	video on	5	111497	v_Washing dishes_id_iUeUU5IUaGA_start_27.0_label_1
@@ -151,7 +151,7 @@ onset	duration	trial_type	value	sample	stim_id
 180.498	0.0	video on	5	180498	v_Braiding hair_id_2EtE2ANRiBw_start_86.0_label_1
 182.502	0.0	video off	4	182502	n/a
 182.904	0.0	resp	3	182904	n/a
-183.5	0.0	video on	5	183500	v_Spread mulch_id__w9ThbrQCb4_start_155.0_label_1
+183.5	0.0	video on	5	183500	n/a
 185.5	0.0	video off	4	185500	n/a
 185.96	0.0	resp	3	185960	n/a
 186.499	0.0	video on	5	186499	v_Doing kickboxing_id_7q4HriBZlKI_start_36.5_label_1
@@ -187,13 +187,13 @@ onset	duration	trial_type	value	sample	stim_id
 222.504	0.0	video on	5	222504	v_Powerbocking_id_lVGY6PMTfU0_start_13.5_label_1
 224.509	0.0	video off	4	224509	n/a
 225.2	0.0	resp	3	225200	n/a
-225.499	0.0	video on	5	225499	v_Doing fencing_id_A_srIUlUH-w_start_23.5_label_1
+225.499	0.0	video on	5	225499	n/a
 227.506	0.0	video off	4	227506	n/a
 228.088	0.0	resp	3	228088	n/a
 228.499	0.0	video on	5	228499	v_Clean and jerk_id_X8kV5pv0TCA_start_11.0_label_1
 230.518	0.0	video off	4	230518	n/a
 231.208	0.0	resp	3	231208	n/a
-234.5	0.0	video on	5	234500	v_Drinking coffee_id_DlC4AdXDMy0_start_3.0_label_1
+234.5	0.0	video on	5	234500	n/a
 236.5	0.0	video off	4	236500	n/a
 236.976	0.0	resp	3	236976	n/a
 237.499	0.0	video on	5	237499	v_Cleaning sink_id_LTqxVQ9y31Y_start_112.0_label_1

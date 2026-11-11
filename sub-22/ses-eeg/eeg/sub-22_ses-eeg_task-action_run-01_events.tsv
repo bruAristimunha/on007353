@@ -24,7 +24,7 @@ onset	duration	trial_type	value	sample	stim_id
 38.508	0.0	video off	4	38508	n/a
 39.494	0.0	video on	5	39494	v_Rock climbing_id_UWvbQ9jySY8_start_72.0_label_1
 41.507	0.0	video off	4	41507	n/a
-42.495	0.0	video on	5	42495	v_Putting on shoes_id_6GStLF21lfY_start_34.0_label_1
+42.495	0.0	video on	5	42495	n/a
 44.497	0.0	video off	4	44497	n/a
 45.495	0.0	video on	5	45495	v_Brushing hair_id_v9PrlohKeek_start_3.5_label_1
 47.507	0.0	video off	4	47507	n/a
@@ -92,7 +92,7 @@ onset	duration	trial_type	value	sample	stim_id
 149.504	0.0	video off	4	149504	n/a
 150.497	0.0	video on	5	150497	v_Surfing_id_MyBfiAOfECM_start_36.5_label_1
 152.5	0.0	video off	4	152500	n/a
-153.496	0.0	video on	5	153496	v_Painting fence_id_8ZVkZK_rFtk_start_71.5_label_1
+153.496	0.0	video on	5	153496	n/a
 155.501	0.0	video off	4	155501	n/a
 156.495	0.0	video on	5	156495	v_Breakdancing_id_lNTJHIR5YpI_start_8.5_label_1
 158.499	0.0	video off	4	158499	n/a
@@ -163,7 +163,7 @@ onset	duration	trial_type	value	sample	stim_id
 275.504	0.0	video off	4	275504	n/a
 276.497	0.0	video on	5	276497	v_Elliptical trainer_id_lVbyNQVE-4k_start_14.0_label_1
 278.496	0.0	video off	4	278496	n/a
-279.497	0.0	video on	5	279497	v_Using the balance beam_id_bOt8SABR43w_start_113.5_label_1
+279.497	0.0	video on	5	279497	n/a
 281.505	0.0	video off	4	281505	n/a
 282.497	0.0	video on	5	282497	v_Rollerblading_id_QaW1Aw2uMW4_start_47.5_label_1
 284.506	0.0	video off	4	284506	n/a

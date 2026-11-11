@@ -27,7 +27,7 @@ onset	duration	trial_type	value	sample	stim_id
 37.6475	0.0	video on	5	45177	v_BMX_id_T5Kh51t-WOg_start_0.5_label_1
 39.66416666666667	0.0	video off	4	47597	n/a
 40.05166666666667	0.0	resp	3	48062	n/a
-43.6475	0.0	video on	5	52377	v_Sumo_id_CxNfe_viz9Y_start_19.5_label_1
+43.6475	0.0	video on	5	52377	n/a
 45.696666666666665	0.0	video off	4	54836	n/a
 46.20333333333333	0.0	resp	3	55444	n/a
 46.64666666666667	0.0	video on	5	55976	v_Spinning_id_EBM8FuuETSg_start_16.0_label_1
@@ -51,7 +51,7 @@ onset	duration	trial_type	value	sample	stim_id
 67.64666666666666	0.0	video on	5	81176	v_Playing violin_id_W6nLAaVeRjQ_start_50.0_label_1
 69.64666666666666	0.0	video off	4	83576	n/a
 70.00333333333333	0.0	resp	3	84004	n/a
-70.64583333333333	0.0	video on	5	84775	v_Hand car wash_id_e7ifzjZGMH4_start_20.0_label_1
+70.64583333333333	0.0	video on	5	84775	n/a
 72.64666666666666	0.0	video off	4	87176	n/a
 73.02	0.0	resp	3	87624	n/a
 73.64583333333333	0.0	video on	5	88375	v_Hopscotch_id_fZzswQaICfM_start_92.5_label_1
@@ -130,7 +130,7 @@ onset	duration	trial_type	value	sample	stim_id
 163.66	0.0	video on	5	196392	v_Drinking coffee_id_1tNSfXVpeZo_start_81.5_label_1
 165.66	0.0	video off	4	198792	n/a
 166.02083333333334	0.0	resp	3	199225	n/a
-169.66	0.0	video on	5	203592	v_Croquet_id_g9ZnILprR_I_start_69.0_label_1
+169.66	0.0	video on	5	203592	n/a
 171.65916666666666	0.0	video off	4	205991	n/a
 171.965	0.0	resp	3	206358	n/a
 172.65916666666666	0.0	video on	5	207191	v_Smoking a cigarette_id_zbdiEKQoOUY_start_43.0_label_1
@@ -197,7 +197,7 @@ onset	duration	trial_type	value	sample	stim_id
 247.65666666666667	0.0	video on	5	297188	v_Raking leaves_id_svXz2uvZEA0_start_5.0_label_1
 249.6575	0.0	video off	4	299589	n/a
 250.2133333333333	0.0	resp	3	300256	n/a
-250.65666666666667	0.0	video on	5	300788	v_Hanging wallpaper_id_zWoDOUE2X58_start_58.5_label_1
+250.65666666666667	0.0	video on	5	300788	n/a
 252.6575	0.0	video off	4	303189	n/a
 253.2458333333333	0.0	resp	3	303895	n/a
 253.65666666666667	0.0	video on	5	304388	v_Tango_id_NPpmZuIn1ec_start_50.0_label_1

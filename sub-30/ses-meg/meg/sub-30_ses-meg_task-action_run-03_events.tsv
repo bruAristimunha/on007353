@@ -196,7 +196,7 @@ onset	duration	trial_type	value	sample	stim_id
 244.15833333333333	0.0	video on	5	292990	v_Playing polo_id_eDa0ZKREGms_start_68.5_label_1
 246.15833333333333	0.0	video off	4	295390	n/a
 246.51416666666665	0.0	resp	3	295817	n/a
-247.15833333333333	0.0	video on	5	296590	v_Playing blackjack_id_Yyc_4qHVoEI_start_15.5_label_1
+247.15833333333333	0.0	video on	5	296590	n/a
 249.15833333333333	0.0	video off	4	298990	n/a
 249.58666666666667	0.0	resp	3	299504	n/a
 250.15833333333333	0.0	video on	5	300190	v_Rafting_id_N5KYSVqkuqA_start_23.0_label_1
@@ -232,7 +232,7 @@ onset	duration	trial_type	value	sample	stim_id
 286.1566666666667	0.0	video on	5	343388	v_Kite flying_id_LPADDZHEbBo_start_56.5_label_1
 288.19	0.0	video off	4	345828	n/a
 288.50666666666666	0.0	resp	3	346208	n/a
-289.1566666666667	0.0	video on	5	346988	v_Bathing dog_id_dYQpPQFnheE_start_185.5_label_1
+289.1566666666667	0.0	video on	5	346988	n/a
 291.19	0.0	video off	4	349428	n/a
 291.5708333333333	0.0	resp	3	349885	n/a
 295.1566666666667	0.0	video on	5	354188	v_Sailing_id_U39WHrdoRHQ_start_45.0_label_1

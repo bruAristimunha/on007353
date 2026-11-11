@@ -196,7 +196,7 @@ onset	duration	trial_type	value	sample	stim_id
 247.91333333333333	0.0	video on	5	297496	v_Smoking hookah_id_y0pcHGJdOQE_start_20.0_label_1
 249.91333333333333	0.0	video off	4	299896	n/a
 250.275	0.0	resp	3	300330	n/a
-250.91333333333333	0.0	video on	5	301096	v_Preparing pasta_id_LwhUi21kb1Q_start_72.0_label_1
+250.91333333333333	0.0	video on	5	301096	n/a
 252.91333333333333	0.0	video off	4	303496	n/a
 253.515	0.0	resp	3	304218	n/a
 253.91333333333333	0.0	video on	5	304696	v_Cricket_id_JAguWJTQgJU_start_56.0_label_1
@@ -205,7 +205,7 @@ onset	duration	trial_type	value	sample	stim_id
 259.91333333333336	0.0	video on	5	311896	v_Rollerblading_id_aRM5BjhUD1U_start_1.0_label_1
 261.91333333333336	0.0	video off	4	314296	n/a
 262.6358333333333	0.0	resp	3	315163	n/a
-262.9125	0.0	video on	5	315495	v_Hanging wallpaper_id_N48Z7Xn7stY_start_143.5_label_1
+262.9125	0.0	video on	5	315495	n/a
 264.9125	0.0	video off	4	317895	n/a
 265.3475	0.0	resp	3	318417	n/a
 265.9125	0.0	video on	5	319095	v_Baking cookies_id_vOWHY4vI3t8_start_138.0_label_1
@@ -249,7 +249,7 @@ onset	duration	trial_type	value	sample	stim_id
 313.91083333333336	0.0	video on	5	376693	v_Doing step aerobics_id_GbJE8eQ2w8w_start_14.5_label_1
 315.91083333333336	0.0	video off	4	379093	n/a
 316.3	0.0	resp	3	379560	n/a
-316.91083333333336	0.0	video on	5	380293	v_Fun sliding down_id_CUT1K-DIbSc_start_3.0_label_1
+316.91083333333336	0.0	video on	5	380293	n/a
 318.9116666666667	0.0	video off	4	382694	n/a
 319.56416666666667	0.0	resp	3	383477	n/a
 319.91083333333336	0.0	video on	5	383893	v_Hula hoop_id_sDJiOQy4OKE_start_107.0_label_1

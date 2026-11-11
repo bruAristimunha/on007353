@@ -70,7 +70,7 @@ onset	duration	trial_type	value	sample	stim_id
 89.028	0.0	video on	5	89028	v_Painting_id_4Ruzhi_2K54_start_57.5_label_1
 91.038	0.0	video off	4	91038	n/a
 91.089	0.0	resp	3	91089	n/a
-95.028	0.0	video on	5	95028	v_Playing water polo_id_i5kuZ8zlhMg_start_36.5_label_1
+95.028	0.0	video on	5	95028	n/a
 97.039	0.0	video off	4	97039	n/a
 98.027	0.0	video on	5	98027	v_Getting a haircut_id_-fr5650cEdc_start_57.5_label_1
 100.034	0.0	video off	4	100034	n/a
@@ -119,7 +119,7 @@ onset	duration	trial_type	value	sample	stim_id
 152.028	0.0	video on	5	152028	v_Shaving_id_Ej5TGaCzqfY_start_88.5_label_1
 154.074	0.0	video off	4	154074	n/a
 154.401	0.0	resp	3	154401	n/a
-155.028	0.0	video on	5	155028	v_Spread mulch_id_9-LNTYSlLmw_start_40.5_label_1
+155.028	0.0	video on	5	155028	n/a
 157.034	0.0	video off	4	157034	n/a
 157.401	0.0	resp	3	157401	n/a
 158.028	0.0	video on	5	158028	v_Baking cookies_id_AdR80IgvmDM_start_49.0_label_1
@@ -137,7 +137,7 @@ onset	duration	trial_type	value	sample	stim_id
 173.029	0.0	video on	5	173029	v_Welding_id_z58texOgKdQ_start_2.0_label_1
 175.038	0.0	video off	4	175038	n/a
 175.345	0.0	resp	3	175345	n/a
-176.029	0.0	video on	5	176029	v_Using uneven bars_id_8iUUI_jtL1o_start_24.0_label_1
+176.029	0.0	video on	5	176029	n/a
 178.073	0.0	video off	4	178073	n/a
 179.028	0.0	video on	5	179028	v_Bungee jumping_id_TzhB_31vm08_start_83.5_label_1
 181.036	0.0	video off	4	181036	n/a
@@ -215,7 +215,7 @@ onset	duration	trial_type	value	sample	stim_id
 269.03	0.0	video on	5	269030	v_Hopscotch_id_F_aimUu5PaI_start_33.5_label_1
 271.036	0.0	video off	4	271036	n/a
 271.378	0.0	resp	3	271378	n/a
-275.03	0.0	video on	5	275030	v_Putting on shoes_id_qORcut5n5jM_start_31.5_label_1
+275.03	0.0	video on	5	275030	n/a
 277.04	0.0	video off	4	277040	n/a
 278.03	0.0	video on	5	278030	v_Bullfighting_id_mIg1WL955iU_start_12.0_label_1
 280.07	0.0	video off	4	280070	n/a
@@ -253,7 +253,7 @@ onset	duration	trial_type	value	sample	stim_id
 317.031	0.0	video on	5	317031	v_Rope skipping_id_iP0BdJOncb8_start_33.0_label_1
 319.074	0.0	video off	4	319074	n/a
 319.079	0.0	resp	3	319079	n/a
-320.031	0.0	video on	5	320031	v_Playing kickball_id_9dxhd_SnCyU_start_17.0_label_1
+320.031	0.0	video on	5	320031	n/a
 322.048	0.0	video off	4	322048	n/a
 322.458	0.0	resp	3	322458	n/a
 323.031	0.0	video on	5	323031	v_Trimming branches or hedges_id_hjZpVGJVQWs_start_106.0_label_1

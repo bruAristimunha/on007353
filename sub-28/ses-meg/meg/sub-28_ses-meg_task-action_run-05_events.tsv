@@ -24,7 +24,7 @@ onset	duration	trial_type	value	sample	stim_id
 46.65916666666666	0.0	video off	3	55991	n/a
 47.65916666666666	0.0	video on	4	57191	v_Sumo_id_bbu3wvJ5-cU_start_25.5_label_1
 49.65916666666666	0.0	video off	3	59591	n/a
-50.65833333333333	0.0	video on	4	60790	v_Rock-paper-scissors_id__dsjR9HNxaU_start_90.5_label_1
+50.65833333333333	0.0	video on	4	60790	n/a
 52.65833333333333	0.0	video off	3	63190	n/a
 53.675	0.0	video on	4	64410	v_Fun sliding down_id_Dc2jKnc9YHM_start_74.0_label_1
 55.69166666666667	0.0	video off	3	66830	n/a
@@ -50,7 +50,7 @@ onset	duration	trial_type	value	sample	stim_id
 91.6575	0.0	video off	3	109989	n/a
 92.6575	0.0	video on	4	111189	v_Playing ice hockey_id_kF_BBNo9GKY_start_4.0_label_1
 94.6575	0.0	video off	3	113589	n/a
-98.6575	0.0	video on	4	118389	v_Polishing shoes_id_ICBzTH0OQtM_start_62.5_label_1
+98.6575	0.0	video on	4	118389	n/a
 100.6575	0.0	video off	3	120789	n/a
 101.65666666666668	0.0	video on	4	121988	v_Rollerblading_id_9ENDj70-UlM_start_35.0_label_1
 103.6575	0.0	video off	3	124389	n/a
@@ -66,13 +66,13 @@ onset	duration	trial_type	value	sample	stim_id
 121.65666666666668	0.0	video off	3	145988	n/a
 122.65666666666668	0.0	video on	4	147188	v_Using the rowing machine_id_-_48mvFuRKE_start_2.0_label_1
 124.67333333333332	0.0	video off	3	149608	n/a
-125.65583333333332	0.0	video on	4	150787	v_Using uneven bars_id_spAlIMm8jSg_start_14.5_label_1
+125.65583333333332	0.0	video on	4	150787	n/a
 127.6725	0.0	video off	3	153207	n/a
 128.6725	0.0	video on	4	154407	v_Archery_id_-Pi3uPQ3mzE_start_54.0_label_1
 130.7225	0.0	video off	3	156867	n/a
 134.65583333333333	0.0	video on	4	161587	v_Kayaking_id_plB7H9e_078_start_7.5_label_1
 136.6725	0.0	video off	3	164007	n/a
-137.65583333333333	0.0	video on	4	165187	v_Putting on shoes_id_Bu_sDScQpTU_start_72.0_label_1
+137.65583333333333	0.0	video on	4	165187	n/a
 139.65583333333333	0.0	video off	3	167587	n/a
 140.65583333333333	0.0	video on	4	168787	v_Wakeboarding_id_MFPcTPooNU4_start_98.5_label_1
 142.65583333333333	0.0	video off	3	171187	n/a

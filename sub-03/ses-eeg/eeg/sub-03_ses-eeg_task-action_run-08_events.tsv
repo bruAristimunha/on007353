@@ -27,7 +27,7 @@ onset	duration	trial_type	value	sample	stim_id
 32.025	0.0	video on	5	32025	v_Scuba diving_id_nNBpqAQaJfU_start_44.0_label_1
 34.038	0.0	video off	4	34038	n/a
 34.632	0.0	resp	3	34632	n/a
-35.024	0.0	video on	5	35024	v_Waxing skis_id_HTWi3kiCLwM_start_177.0_label_1
+35.024	0.0	video on	5	35024	n/a
 37.039	0.0	video off	4	37039	n/a
 37.792	0.0	resp	3	37792	n/a
 41.025	0.0	video on	5	41025	v_Ice fishing_id_tcJzzCa4Cug_start_83.5_label_1
@@ -60,7 +60,7 @@ onset	duration	trial_type	value	sample	stim_id
 79.569	0.0	resp	3	79569	n/a
 80.025	0.0	video on	5	80025	v_Washing hands_id_PvBBSknD3js_start_112.5_label_1
 82.04	0.0	video off	4	82040	n/a
-83.026	0.0	video on	5	83026	v_Playing polo_id_yEDUSkKxFJE_start_71.0_label_1
+83.026	0.0	video on	5	83026	n/a
 85.036	0.0	video off	4	85036	n/a
 86.027	0.0	video on	5	86027	v_Mowing the lawn_id_AANJr-zg2fY_start_37.0_label_1
 88.044	0.0	video off	4	88044	n/a
@@ -184,7 +184,7 @@ onset	duration	trial_type	value	sample	stim_id
 239.026	0.0	video on	5	239026	v_Playing field hockey_id_8KV_IKq5zOg_start_5.0_label_1
 241.063	0.0	video off	4	241063	n/a
 241.538	0.0	resp	3	241538	n/a
-242.029	0.0	video on	5	242029	v_Fun sliding down_id_oA4-RtveN_A_start_88.0_label_1
+242.029	0.0	video on	5	242029	n/a
 244.076	0.0	video off	4	244076	n/a
 244.778	0.0	resp	3	244778	n/a
 245.026	0.0	video on	5	245026	v_Putting on makeup_id_p9gTj-1AQYs_start_61.0_label_1
@@ -217,7 +217,7 @@ onset	duration	trial_type	value	sample	stim_id
 281.028	0.0	video on	5	281028	v_Hammer throw_id_gwA8wJokvaU_start_11.5_label_1
 283.04	0.0	video off	4	283040	n/a
 283.563	0.0	resp	3	283563	n/a
-284.027	0.0	video on	5	284027	v_Putting in contact lenses_id_1w6q_aQmWd4_start_8.0_label_1
+284.027	0.0	video on	5	284027	n/a
 286.037	0.0	video off	4	286037	n/a
 286.467	0.0	resp	3	286467	n/a
 287.028	0.0	video on	5	287028	v_Windsurfing_id_anrSC16aGK8_start_140.5_label_1

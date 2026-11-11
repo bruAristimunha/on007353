@@ -55,7 +55,7 @@ onset	duration	trial_type	value	sample	stim_id
 69.93	0.0	video on	5	83916	v_Spinning_id_aM2tICg3yxY_start_65.0_label_1
 71.93	0.0	video off	4	86316	n/a
 72.35583333333334	0.0	resp	3	86827	n/a
-72.93	0.0	video on	5	87516	v_Painting furniture_id_0DLfq_YtcMw_start_151.0_label_1
+72.93	0.0	video on	5	87516	n/a
 74.93	0.0	video off	4	89916	n/a
 75.28416666666666	0.0	resp	3	90341	n/a
 78.93	0.0	video on	5	94716	v_Cleaning windows_id_NleLgKghGIk_start_150.5_label_1
@@ -94,7 +94,7 @@ onset	duration	trial_type	value	sample	stim_id
 117.92833333333331	0.0	video on	5	141514	v_Arm wrestling_id_jXpeyrqoiyE_start_49.0_label_1
 119.945	0.0	video off	4	143934	n/a
 120.3725	0.0	resp	3	144447	n/a
-120.92833333333331	0.0	video on	5	145114	v_Using uneven bars_id_oDyKqL-bnVw_start_45.5_label_1
+120.92833333333331	0.0	video on	5	145114	n/a
 122.945	0.0	video off	4	147534	n/a
 123.22833333333334	0.0	resp	3	147874	n/a
 123.92833333333331	0.0	video on	5	148714	v_Putting on shoes_id_-W4M5RKB4Zk_start_3.5_label_1
@@ -132,7 +132,7 @@ onset	duration	trial_type	value	sample	stim_id
 162.94333333333333	0.0	video on	5	195532	v_Mixing drinks_id_A36p0vPxh4o_start_79.0_label_1
 164.92666666666668	0.0	video off	4	197912	n/a
 165.54083333333332	0.0	resp	3	198649	n/a
-168.94333333333333	0.0	video on	5	202732	v_Bathing dog_id_8ClpQ4q6NmM_start_16.0_label_1
+168.94333333333333	0.0	video on	5	202732	n/a
 170.92666666666668	0.0	video off	4	205112	n/a
 171.22083333333333	0.0	resp	3	205465	n/a
 171.94333333333333	0.0	video on	5	206332	v_Making a sandwich_id_YC6DyVGoP1A_start_89.5_label_1
@@ -180,7 +180,7 @@ onset	duration	trial_type	value	sample	stim_id
 222.94166666666663	0.0	video on	5	267530	v_Sailing_id_ip-6KwEGzog_start_161.0_label_1
 224.94166666666663	0.0	video off	4	269930	n/a
 225.3258333333333	0.0	resp	3	270391	n/a
-225.94166666666663	0.0	video on	5	271130	v_Fixing the roof_id_F-RUDwUqI_s_start_78.0_label_1
+225.94166666666663	0.0	video on	5	271130	n/a
 227.94166666666663	0.0	video off	4	273530	n/a
 228.26166666666663	0.0	resp	3	273914	n/a
 228.94083333333333	0.0	video on	5	274729	v_Chopping wood_id_LtWC9RtHteA_start_104.5_label_1
@@ -216,7 +216,7 @@ onset	duration	trial_type	value	sample	stim_id
 264.94	0.0	video on	5	317928	v_Grooming horse_id_6nnTSbvoCtk_start_34.5_label_1
 266.94	0.0	video off	4	320328	n/a
 267.23	0.0	resp	3	320676	n/a
-267.94	0.0	video on	5	321528	v_Brushing hair_id_nVEiGHlWNHw_start_2.5_label_1
+267.94	0.0	video on	5	321528	n/a
 269.94	0.0	video off	4	323928	n/a
 270.27	0.0	resp	3	324324	n/a
 270.94	0.0	video on	5	325128	v_Rock climbing_id_Vp6X0NSbh8Y_start_29.0_label_1

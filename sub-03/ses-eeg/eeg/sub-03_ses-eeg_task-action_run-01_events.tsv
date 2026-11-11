@@ -110,7 +110,7 @@ onset	duration	trial_type	value	sample	stim_id
 144.498	0.0	video on	5	144498	v_Doing step aerobics_id_gPgzpqeA_O4_start_125.0_label_1
 146.498	0.0	video off	4	146498	n/a
 147.18	0.0	resp	3	147180	n/a
-147.497	0.0	video on	5	147497	v_Putting in contact lenses_id_Ek3EC9lA6X0_start_50.5_label_1
+147.497	0.0	video on	5	147497	n/a
 149.539	0.0	video off	4	149539	n/a
 150.133	0.0	resp	3	150133	n/a
 150.498	0.0	video on	5	150498	v_Playing pool_id_JRPnyfx4Olg_start_29.5_label_1
@@ -136,7 +136,7 @@ onset	duration	trial_type	value	sample	stim_id
 180.498	0.0	video on	5	180498	v_Springboard diving_id_xk60W8-ukFQ_start_32.5_label_1
 182.501	0.0	video off	4	182501	n/a
 183.236	0.0	resp	3	183236	n/a
-183.498	0.0	video on	5	183498	v_Playing polo_id_yEDUSkKxFJE_start_8.5_label_1
+183.498	0.0	video on	5	183498	n/a
 185.501	0.0	video off	4	185501	n/a
 186.276	0.0	resp	3	186276	n/a
 186.501	0.0	video on	5	186501	v_Scuba diving_id_dlBuUxhk3Jk_start_82.0_label_1
@@ -170,7 +170,7 @@ onset	duration	trial_type	value	sample	stim_id
 224.504	0.0	video off	4	224504	n/a
 225.499	0.0	video on	5	225499	v_Walking the dog_id_IdK3oTsYaHw_start_2.0_label_1
 227.505	0.0	video off	4	227505	n/a
-228.498	0.0	video on	5	228498	v_Hanging wallpaper_id_zWoDOUE2X58_start_65.0_label_1
+228.498	0.0	video on	5	228498	n/a
 230.501	0.0	video off	4	230501	n/a
 231.253	0.0	resp	3	231253	n/a
 234.498	0.0	video on	5	234498	v_Archery_id_Sb7xdDg0_Uc_start_104.0_label_1
@@ -211,7 +211,7 @@ onset	duration	trial_type	value	sample	stim_id
 276.485	0.0	resp	3	276485	n/a
 276.719	0.0	video on	5	276719	v_Playing bagpipes_id_Y64zB0duM1c_start_24.5_label_1
 278.737	0.0	video off	4	278737	n/a
-279.498	0.0	video on	5	279498	v_Using the rowing machine_id_wozM9Es0st8_start_93.0_label_1
+279.498	0.0	video on	5	279498	n/a
 281.504	0.0	video off	4	281504	n/a
 282.502	0.0	video on	5	282502	v_Playing harmonica_id_eeS_Q93T7GU_start_23.0_label_1
 284.5	0.0	video off	4	284500	n/a

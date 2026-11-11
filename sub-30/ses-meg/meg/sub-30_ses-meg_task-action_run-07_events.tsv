@@ -30,7 +30,7 @@ onset	duration	trial_type	value	sample	stim_id
 38.4975	0.0	video on	5	46197	v_Laying tile_id_reHdXv4oMOk_start_43.5_label_1
 40.4975	0.0	video off	4	48597	n/a
 40.84666666666666	0.0	resp	3	49016	n/a
-44.4975	0.0	video on	5	53397	v_Playing water polo_id_qUufu5TGbZk_start_24.5_label_1
+44.4975	0.0	video on	5	53397	n/a
 46.4975	0.0	video off	4	55797	n/a
 46.83083333333333	0.0	resp	3	56197	n/a
 47.4975	0.0	video on	5	56997	v_Playing beach volleyball_id_C55mrTLdmnA_start_14.0_label_1
@@ -39,7 +39,7 @@ onset	duration	trial_type	value	sample	stim_id
 50.4975	0.0	video on	5	60597	v_Fixing bicycle_id_00VyhCiE8k4_start_51.0_label_1
 52.4975	0.0	video off	4	62997	n/a
 52.86333333333334	0.0	resp	3	63436	n/a
-53.51416666666667	0.0	video on	5	64217	v_Hanging wallpaper_id_0bPaM2R8SUA_start_76.5_label_1
+53.51416666666667	0.0	video on	5	64217	n/a
 55.513333333333335	0.0	video off	4	66616	n/a
 55.759166666666665	0.0	resp	3	66911	n/a
 56.49666666666667	0.0	video on	5	67796	v_Painting_id_a1jGV8fPz5Y_start_14.0_label_1
@@ -202,7 +202,7 @@ onset	duration	trial_type	value	sample	stim_id
 248.5075	0.0	video on	5	298209	v_Doing fencing_id_17YUhbE4sEM_start_16.0_label_1
 250.4908333333333	0.0	video off	4	300589	n/a
 250.745	0.0	resp	3	300894	n/a
-251.50666666666663	0.0	video on	5	301808	v_Spread mulch_id_bXBCK3dRDs8_start_97.5_label_1
+251.50666666666663	0.0	video on	5	301808	n/a
 253.54083333333327	0.0	video off	4	304249	n/a
 253.8575	0.0	resp	3	304629	n/a
 254.50666666666663	0.0	video on	5	305408	v_Baton twirling_id_Q5WC-dv7Des_start_78.0_label_1
@@ -252,7 +252,7 @@ onset	duration	trial_type	value	sample	stim_id
 307.91333333333336	0.0	resp	3	369496	n/a
 308.505	0.0	video on	5	370206	v_Doing kickboxing_id_tFQ60GLnkXo_start_15.5_label_1
 310.52166666666665	0.0	video off	4	372626	n/a
-314.505	0.0	video on	5	377406	v_Fun sliding down_id_uT60Rtrw4fA_start_3.5_label_1
+314.505	0.0	video on	5	377406	n/a
 316.505	0.0	video off	4	379806	n/a
 316.83416666666665	0.0	resp	3	380201	n/a
 317.505	0.0	video on	5	381006	v_Playing rubik cube_id_JDQGVA3FWSI_start_61.0_label_1

@@ -160,7 +160,7 @@ onset	duration	trial_type	value	sample	stim_id
 194.029	0.0	video on	5	194029	v_Putting in contact lenses_id_HgucdcLkJ94_start_78.0_label_1
 196.036	0.0	video off	4	196036	n/a
 196.618	0.0	resp	3	196618	n/a
-197.029	0.0	video on	5	197029	v_Using the monkey bar_id_5ht4nJiSvcE_start_72.0_label_1
+197.029	0.0	video on	5	197029	n/a
 199.035	0.0	video off	4	199035	n/a
 199.482	0.0	resp	3	199482	n/a
 203.028	0.0	video on	5	203028	v_Ironing clothes_id_utPy52jKmh4_start_20.5_label_1
@@ -201,7 +201,7 @@ onset	duration	trial_type	value	sample	stim_id
 245.028	0.0	video on	5	245028	v_Using the pommel horse_id_mxBMnmfMZKU_start_10.5_label_1
 247.037	0.0	video off	4	247037	n/a
 247.394	0.0	resp	3	247394	n/a
-248.03	0.0	video on	5	248030	v_Spread mulch_id_gqIAorY_hFk_start_37.5_label_1
+248.03	0.0	video on	5	248030	n/a
 250.036	0.0	video off	4	250036	n/a
 250.426	0.0	resp	3	250426	n/a
 251.028	0.0	video on	5	251028	v_Mowing the lawn_id_jh_DVSxZxOY_start_8.0_label_1

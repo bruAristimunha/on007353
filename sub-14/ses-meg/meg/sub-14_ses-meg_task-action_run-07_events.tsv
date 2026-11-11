@@ -220,7 +220,7 @@ onset	duration	trial_type	value	sample	stim_id
 271.37916666666666	0.0	video on	5	325655	v_Sharpening knives_id_llgVZvoOLD0_start_92.0_label_1
 273.37833333333333	0.0	video off	4	328054	n/a
 273.74083333333334	0.0	resp	3	328489	n/a
-274.37833333333333	0.0	video on	5	329254	v_Rock-paper-scissors_id_0FfmAmyeZGQ_start_61.0_label_1
+274.37833333333333	0.0	video on	5	329254	n/a
 276.395	0.0	video off	4	331674	n/a
 276.83666666666664	0.0	resp	3	332204	n/a
 280.37833333333333	0.0	video on	5	336454	v_Putting on shoes_id_NFWtuXdTOeU_start_87.5_label_1
@@ -249,7 +249,7 @@ onset	duration	trial_type	value	sample	stim_id
 307.3775	0.0	video on	5	368853	v_Making a sandwich_id_vzwNrtSbuAk_start_14.0_label_1
 309.3775	0.0	video off	4	371253	n/a
 309.7175	0.0	resp	3	371661	n/a
-310.3775	0.0	video on	5	372453	v_Playing pool_id_JHOJVGLRStQ_start_17.0_label_1
+310.3775	0.0	video on	5	372453	n/a
 312.3775	0.0	video off	4	374853	n/a
 312.7733333333333	0.0	resp	3	375328	n/a
 316.3775	0.0	video on	5	379653	v_Rope skipping_id_8jcZv_qRYZo_start_101.5_label_1

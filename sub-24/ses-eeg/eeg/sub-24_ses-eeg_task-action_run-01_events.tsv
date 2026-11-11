@@ -32,7 +32,7 @@ onset	duration	trial_type	value	sample	stim_id
 44.502	0.0	video off	4	44502	n/a
 45.498	0.0	video on	5	45498	v_Cricket_id_Co-XVipcYTs_start_83.0_label_1
 47.502	0.0	video off	4	47502	n/a
-48.499	0.0	video on	5	48499	v_Shaving_id_GuLHBDoa284_start_48.0_label_1
+48.499	0.0	video on	5	48499	n/a
 50.506	0.0	video off	4	50506	n/a
 50.513	0.0	resp	3	50513	n/a
 54.499	0.0	video on	5	54499	v_Raking leaves_id_1vp0Qk960JI_start_18.5_label_1
@@ -67,9 +67,9 @@ onset	duration	trial_type	value	sample	stim_id
 101.508	0.0	video off	4	101508	n/a
 102.5	0.0	video on	5	102500	v_Trimming branches or hedges_id_wmZr5am879U_start_124.5_label_1
 104.496	0.0	video off	4	104496	n/a
-108.499	0.0	video on	5	108499	v_Putting in contact lenses_id_Ek3EC9lA6X0_start_22.5_label_1
+108.499	0.0	video on	5	108499	n/a
 110.542	0.0	video off	4	110542	n/a
-111.499	0.0	video on	5	111499	v_Using the rowing machine_id_VE_Am9eJkL8_start_38.5_label_1
+111.499	0.0	video on	5	111499	n/a
 113.508	0.0	video off	4	113508	n/a
 114.499	0.0	video on	5	114499	v_Playing racquetball_id_wZLAPUQBudg_start_13.5_label_1
 116.508	0.0	video off	4	116508	n/a
@@ -109,7 +109,7 @@ onset	duration	trial_type	value	sample	stim_id
 176.498	0.0	video off	4	176498	n/a
 180.5	0.0	video on	5	180500	v_Fun sliding down_id_YK_wVglpeAE_start_13.5_label_1
 182.503	0.0	video off	4	182503	n/a
-183.499	0.0	video on	5	183499	v_Playing kickball_id_evdVFg8IktQ_start_53.5_label_1
+183.499	0.0	video on	5	183499	n/a
 185.502	0.0	video off	4	185502	n/a
 186.5	0.0	video on	5	186500	v_Using parallel bars_id_mx80tIYxw34_start_24.0_label_1
 188.506	0.0	video off	4	188506	n/a
@@ -123,7 +123,7 @@ onset	duration	trial_type	value	sample	stim_id
 203.498	0.0	video off	4	203498	n/a
 204.5	0.0	video on	5	204500	v_Hula hoop_id_8Z-XaVqU3CI_start_31.0_label_1
 206.501	0.0	video off	4	206501	n/a
-207.501	0.0	video on	5	207501	v_Putting on shoes_id_kDZnUjXMr4A_start_26.5_label_1
+207.501	0.0	video on	5	207501	n/a
 209.497	0.0	video off	4	209497	n/a
 210.5	0.0	video on	5	210500	v_Sailing_id_liBTJfie3Rk_start_47.0_label_1
 212.504	0.0	video off	4	212504	n/a
@@ -135,7 +135,7 @@ onset	duration	trial_type	value	sample	stim_id
 224.502	0.0	video off	4	224502	n/a
 225.5	0.0	video on	5	225500	v_Waxing skis_id_EXJlj-Fo7-M_start_13.0_label_1
 227.5	0.0	video off	4	227500	n/a
-228.502	0.0	video on	5	228502	v_Painting furniture_id_DI4EaIb8a1U_start_16.5_label_1
+228.502	0.0	video on	5	228502	n/a
 230.505	0.0	video off	4	230505	n/a
 234.501	0.0	video on	5	234501	v_Playing ice hockey_id_-nM24d0xciA_start_4.5_label_1
 236.507	0.0	video off	4	236507	n/a

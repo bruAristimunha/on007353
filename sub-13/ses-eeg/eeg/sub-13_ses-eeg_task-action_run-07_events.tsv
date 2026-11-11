@@ -106,7 +106,7 @@ onset	duration	trial_type	value	sample	stim_id
 131.027	0.0	video on	5	131027	v_Wrapping presents_id_wpt6FhjD8Ao_start_25.0_label_1
 133.041	0.0	video off	4	133041	n/a
 133.464	0.0	resp	3	133464	n/a
-134.027	0.0	video on	5	134027	v_Painting furniture_id_BHAhMfAsUuI_start_105.5_label_1
+134.027	0.0	video on	5	134027	n/a
 136.04	0.0	video off	4	136040	n/a
 136.48	0.0	resp	3	136480	n/a
 137.027	0.0	video on	5	137027	v_Bullfighting_id_kqgtx6PcwiM_start_5.5_label_1
@@ -169,7 +169,7 @@ onset	duration	trial_type	value	sample	stim_id
 206.027	0.0	video on	5	206027	v_Knitting_id_2ajVExM5Wqc_start_34.0_label_1
 208.04	0.0	video off	4	208040	n/a
 208.553	0.0	resp	3	208553	n/a
-209.026	0.0	video on	5	209026	v_Bathing dog_id_ZrtUHx_ghJY_start_11.5_label_1
+209.026	0.0	video on	5	209026	n/a
 211.029	0.0	video off	4	211029	n/a
 211.449	0.0	resp	3	211449	n/a
 212.026	0.0	video on	5	212026	v_Rollerblading_id_PdQ8g5jv9Eg_start_43.0_label_1
@@ -178,7 +178,7 @@ onset	duration	trial_type	value	sample	stim_id
 215.027	0.0	video on	5	215027	v_Playing squash_id_-zT3f4QkiAU_start_34.5_label_1
 217.041	0.0	video off	4	217041	n/a
 217.297	0.0	resp	3	217297	n/a
-221.028	0.0	video on	5	221028	v_Playing polo_id_m0K3Nsjluxc_start_12.0_label_1
+221.028	0.0	video on	5	221028	n/a
 223.044	0.0	video off	4	223044	n/a
 223.457	0.0	resp	3	223457	n/a
 224.028	0.0	video on	5	224028	v_Spread mulch_id_r7EpQxIaedY_start_65.5_label_1
@@ -241,7 +241,7 @@ onset	duration	trial_type	value	sample	stim_id
 293.027	0.0	video on	5	293027	v_Snatch_id_vfFANxMwMh8_start_6.0_label_1
 295.038	0.0	video off	4	295038	n/a
 295.458	0.0	resp	3	295458	n/a
-296.028	0.0	video on	5	296028	v_Using the balance beam_id_gZclL45Ww-Y_start_7.0_label_1
+296.028	0.0	video on	5	296028	n/a
 298.037	0.0	video off	4	298037	n/a
 298.578	0.0	resp	3	298578	n/a
 299.027	0.0	video on	5	299027	v_Cleaning windows_id_Vu_a5om1yVw_start_21.0_label_1

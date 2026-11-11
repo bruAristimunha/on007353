@@ -108,7 +108,7 @@ onset	duration	trial_type	value	sample	stim_id
 132.31	0.0	video on	5	158772	v_Playing pool_id_v1UIOvyhGps_start_17.5_label_1
 134.34333333333333	0.0	video off	4	161212	n/a
 134.64833333333334	0.0	resp	3	161578	n/a
-135.31	0.0	video on	5	162372	v_Spread mulch_id_5_OSmkFpgRo_start_30.5_label_1
+135.31	0.0	video on	5	162372	n/a
 137.31	0.0	video off	4	164772	n/a
 137.72833333333332	0.0	resp	3	165274	n/a
 138.31	0.0	video on	5	165972	v_Mowing the lawn_id_HGINhkdp7hY_start_7.0_label_1
@@ -177,7 +177,7 @@ onset	duration	trial_type	value	sample	stim_id
 213.32416666666663	0.0	video on	5	255989	v_Grooming horse_id_SexDyV_iVu8_start_25.5_label_1
 215.3408333333333	0.0	video off	4	258409	n/a
 215.80083333333332	0.0	resp	3	258961	n/a
-216.32333333333327	0.0	video on	5	259588	v_Fun sliding down_id_76xTdNvYZ0g_start_93.0_label_1
+216.32333333333327	0.0	video on	5	259588	n/a
 218.32416666666663	0.0	video off	4	261989	n/a
 218.9608333333333	0.0	resp	3	262753	n/a
 222.32333333333327	0.0	video on	5	266788	v_Ping-pong_id_MRH1SjB0Wcw_start_87.5_label_1
@@ -198,7 +198,7 @@ onset	duration	trial_type	value	sample	stim_id
 240.32333333333327	0.0	video on	5	288388	v_Playing racquetball_id_1Y5N5gFfpmM_start_11.0_label_1
 242.32333333333327	0.0	video off	4	290788	n/a
 242.625	0.0	resp	3	291150	n/a
-243.3225	0.0	video on	5	291987	v_Painting fence_id_LBOU8PzuJwQ_start_36.5_label_1
+243.3225	0.0	video on	5	291987	n/a
 245.3225	0.0	video off	4	294387	n/a
 245.83333333333331	0.0	resp	3	295000	n/a
 246.3225	0.0	video on	5	295587	v_Belly dance_id_hkzSg0sH8lM_start_149.5_label_1

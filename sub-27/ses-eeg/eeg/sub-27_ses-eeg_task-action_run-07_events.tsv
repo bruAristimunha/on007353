@@ -13,7 +13,7 @@ onset	duration	trial_type	value	sample	stim_id
 17.027	0.0	video on	5	17027	v_Preparing salad_id_7WHIUp9-FOg_start_42.0_label_1
 19.024	0.0	video off	4	19024	n/a
 19.432	0.0	resp	3	19432	n/a
-23.023	0.0	video on	5	23023	v_Disc dog_id_b5I4owqphMU_start_1.0_label_1
+23.023	0.0	video on	5	23023	n/a
 25.025	0.0	video off	4	25025	n/a
 26.024	0.0	video on	5	26024	v_Laying tile_id_qU-r686R4iQ_start_64.5_label_1
 28.067	0.0	video off	4	28067	n/a
@@ -29,7 +29,7 @@ onset	duration	trial_type	value	sample	stim_id
 43.032	0.0	video off	4	43032	n/a
 44.026	0.0	video on	5	44026	v_Hurling_id_1pqpItpCKLQ_start_24.0_label_1
 46.067	0.0	video off	4	46067	n/a
-47.027	0.0	video on	5	47027	v_Spread mulch_id_N9j1j7ioUvE_start_32.0_label_1
+47.027	0.0	video on	5	47027	n/a
 49.025	0.0	video off	4	49025	n/a
 50.026	0.0	video on	5	50026	v_Futsal_id_i4TZaQ7YGFI_start_7.0_label_1
 52.031	0.0	video off	4	52031	n/a
@@ -103,7 +103,7 @@ onset	duration	trial_type	value	sample	stim_id
 142.152	0.0	video off	4	142152	n/a
 143.027	0.0	video on	5	143027	v_Playing flauta_id_4WIp6klzeDQ_start_14.0_label_1
 145.032	0.0	video off	4	145032	n/a
-149.028	0.0	video on	5	149028	v_Waxing skis_id_2jjMVAGUo38_start_133.0_label_1
+149.028	0.0	video on	5	149028	n/a
 151.067	0.0	video off	4	151067	n/a
 151.072	0.0	resp	3	151072	n/a
 152.029	0.0	video on	5	152029	v_Elliptical trainer_id_0sKnHQ2OW7o_start_158.0_label_1
@@ -119,7 +119,7 @@ onset	duration	trial_type	value	sample	stim_id
 167.028	0.0	video on	5	167028	v_Blow-drying hair_id_4ic7lM-GDXA_start_26.5_label_1
 169.025	0.0	video off	4	169025	n/a
 169.53	0.0	resp	3	169530	n/a
-170.03	0.0	video on	5	170030	v_Rock-paper-scissors_id_qTH4qYhe7GA_start_104.5_label_1
+170.03	0.0	video on	5	170030	n/a
 172.032	0.0	video off	4	172032	n/a
 172.409	0.0	resp	3	172409	n/a
 173.031	0.0	video on	5	173031	v_Fun sliding down_id_mRBT2JvbGE8_start_20.0_label_1
@@ -194,7 +194,7 @@ onset	duration	trial_type	value	sample	stim_id
 266.03	0.0	video on	5	266030	v_Rope skipping_id_Gh4U0IJgjRY_start_7.0_label_1
 268.041	0.0	video off	4	268041	n/a
 268.826	0.0	resp	3	268826	n/a
-269.031	0.0	video on	5	269031	v_Playing kickball_id_7YLD7zsu9pk_start_8.0_label_1
+269.031	0.0	video on	5	269031	n/a
 271.044	0.0	video off	4	271044	n/a
 271.914	0.0	resp	3	271914	n/a
 275.029	0.0	video on	5	275029	v_Playing blackjack_id__oGmXL3IwOs_start_175.0_label_1

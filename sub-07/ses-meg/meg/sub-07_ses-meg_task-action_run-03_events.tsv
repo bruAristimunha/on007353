@@ -87,7 +87,7 @@ onset	duration	trial_type	value	sample	stim_id
 106.43416666666668	0.0	video on	5	127721	v_Walking the dog_id_ygQh7t6Ssh0_start_7.5_label_1
 108.43416666666668	0.0	video off	4	130121	n/a
 108.66916666666668	0.0	resp	3	130403	n/a
-109.43416666666668	0.0	video on	5	131321	v_Using the rowing machine_id_7F2VX6N23IM_start_15.5_label_1
+109.43416666666668	0.0	video on	5	131321	n/a
 111.45083333333334	0.0	video off	4	133741	n/a
 111.82166666666669	0.0	resp	3	134186	n/a
 115.43416666666668	0.0	video on	5	138521	v_Playing field hockey_id_1JUwPzr0C4A_start_91.5_label_1
@@ -205,7 +205,7 @@ onset	duration	trial_type	value	sample	stim_id
 250.44583333333333	0.0	video on	5	300535	v_Assembling bicycle_id_iBu-yY6BWUc_start_175.5_label_1
 252.44583333333333	0.0	video off	4	302935	n/a
 252.7425	0.0	resp	3	303291	n/a
-253.44583333333333	0.0	video on	5	304135	v_Fixing the roof_id_C0BxGqbaQVE_start_41.5_label_1
+253.44583333333333	0.0	video on	5	304135	n/a
 255.47916666666663	0.0	video off	4	306575	n/a
 255.8225	0.0	resp	3	306987	n/a
 259.4458333333333	0.0	video on	5	311335	v_Fun sliding down_id_WMPMzhglGoo_start_110.0_label_1
@@ -223,7 +223,7 @@ onset	duration	trial_type	value	sample	stim_id
 271.445	0.0	video on	5	325734	v_Plataform diving_id_V0dIowFzrAk_start_157.0_label_1
 273.445	0.0	video off	4	328134	n/a
 273.76666666666665	0.0	resp	3	328520	n/a
-277.445	0.0	video on	5	332934	v_Painting fence_id_We9RTOY5BTI_start_57.0_label_1
+277.445	0.0	video on	5	332934	n/a
 279.4783333333333	0.0	video off	4	335374	n/a
 279.8233333333333	0.0	resp	3	335788	n/a
 280.445	0.0	video on	5	336534	v_Playing bagpipes_id_Vql-UaPXAxM_start_49.0_label_1
@@ -244,7 +244,7 @@ onset	duration	trial_type	value	sample	stim_id
 298.44416666666666	0.0	video on	5	358133	v_Raking leaves_id_-7VW04w9baY_start_6.0_label_1
 300.44416666666666	0.0	video off	4	360533	n/a
 300.695	0.0	resp	3	360834	n/a
-301.44416666666666	0.0	video on	5	361733	v_Playing blackjack_id_OxD4UlfVEI0_start_6.5_label_1
+301.44416666666666	0.0	video on	5	361733	n/a
 303.44416666666666	0.0	video off	4	364133	n/a
 303.735	0.0	resp	3	364482	n/a
 304.44416666666666	0.0	video on	5	365333	v_Knitting_id_UUwyhg73P2U_start_83.0_label_1

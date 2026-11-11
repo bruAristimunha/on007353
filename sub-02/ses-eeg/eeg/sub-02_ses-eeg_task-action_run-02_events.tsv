@@ -166,7 +166,7 @@ onset	duration	trial_type	value	sample	stim_id
 223.356	0.0	video on	5	223356	v_Playing violin_id_Rwgmy1FrId8_start_28.5_label_1
 225.398	0.0	video off	4	225398	n/a
 225.745	0.0	resp	3	225745	n/a
-226.356	0.0	video on	5	226356	v_Painting furniture_id_cA1buCeQCpc_start_27.0_label_1
+226.356	0.0	video on	5	226356	n/a
 228.399	0.0	video off	4	228399	n/a
 228.81	0.0	resp	3	228810	n/a
 229.356	0.0	video on	5	229356	v_Horseback riding_id_DEXAtol1IUs_start_77.0_label_1

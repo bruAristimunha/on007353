@@ -54,7 +54,7 @@ onset	duration	trial_type	value	sample	stim_id
 94.00083333333332	0.0	video off	4	112801	n/a
 98.00083333333332	0.0	video on	5	117601	v_Beach soccer_id_dFbpx0phSdw_start_85.0_label_1
 100.00083333333332	0.0	video off	4	120001	n/a
-101.00083333333332	0.0	video on	5	121201	v_Fun sliding down_id_oA4-RtveN_A_start_6.0_label_1
+101.00083333333332	0.0	video on	5	121201	n/a
 103.0175	0.0	video off	4	123621	n/a
 104.00083333333332	0.0	video on	5	124801	v_Getting a tattoo_id_Pa9ceP2Ex0M_start_43.0_label_1
 106.00083333333332	0.0	video off	4	127201	n/a
@@ -125,7 +125,7 @@ onset	duration	trial_type	value	sample	stim_id
 217.01416666666665	0.0	video off	4	260417	n/a
 218.0133333333333	0.0	video on	5	261616	v_Skiing_id_ak9xnZdRUu4_start_1.5_label_1
 220.0133333333333	0.0	video off	4	264016	n/a
-224.0133333333333	0.0	video on	5	268816	v_Drinking coffee_id_f7SctdFUQxs_start_27.0_label_1
+224.0133333333333	0.0	video on	5	268816	n/a
 226.01416666666665	0.0	video off	4	271217	n/a
 227.0133333333333	0.0	video on	5	272416	v_Making a lemonade_id_9VGMxQ-EPw0_start_19.0_label_1
 229.11333333333332	0.0	video off	4	274936	n/a

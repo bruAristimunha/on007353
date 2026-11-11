@@ -27,7 +27,7 @@ onset	duration	trial_type	value	sample	stim_id
 35.725833333333334	0.0	video on	5	42871	v_Having an ice cream_id_Esa-w_jYD4A_start_18.5_label_1
 37.7425	0.0	video off	4	45291	n/a
 38.079166666666666	0.0	resp	3	45695	n/a
-38.72583333333333	0.0	video on	5	46471	v_Putting on shoes_id_75qwD6Am5V8_start_15.0_label_1
+38.72583333333333	0.0	video on	5	46471	n/a
 40.72583333333333	0.0	video off	4	48871	n/a
 41.055	0.0	resp	3	49266	n/a
 44.72583333333333	0.0	video on	5	53671	v_Putting on makeup_id_71OXnLRWRC0_start_4.0_label_1

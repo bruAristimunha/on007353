@@ -12,7 +12,7 @@ onset	duration	trial_type	value	sample	stim_id
 17.5425	0.0	video on	5	21051	v_Paintball_id_LJmXNGCEODI_start_81.5_label_1
 19.5425	0.0	video off	4	23451	n/a
 19.808333333333337	0.0	resp	3	23770	n/a
-20.5425	0.0	video on	5	24651	v_Painting furniture_id__JU69WdbSpE_start_36.5_label_1
+20.5425	0.0	video on	5	24651	n/a
 22.5425	0.0	video off	4	27051	n/a
 22.808333333333337	0.0	resp	3	27370	n/a
 26.5425	0.0	video on	5	31851	v_Riding bumper cars_id_p-jUgRAXPQg_start_84.5_label_1
@@ -127,7 +127,7 @@ onset	duration	trial_type	value	sample	stim_id
 158.555	0.0	video on	5	190266	v_Calf roping_id_SLTkkqJXTY0_start_16.0_label_1
 160.505	0.0	video off	4	192606	n/a
 160.99333333333334	0.0	resp	3	193192	n/a
-161.55416666666667	0.0	video on	5	193865	v_Waxing skis_id_tQ0Pz9axN4U_start_62.5_label_1
+161.55416666666667	0.0	video on	5	193865	n/a
 163.55416666666667	0.0	video off	4	196265	n/a
 164.33	0.0	resp	3	197196	n/a
 164.55416666666667	0.0	video on	5	197465	v_Skiing_id_e-WIeWTMPIk_start_60.0_label_1
@@ -168,7 +168,7 @@ onset	duration	trial_type	value	sample	stim_id
 209.5533333333333	0.0	video on	5	251464	v_Rock-paper-scissors_id_sUMT9xQt5Qk_start_26.5_label_1
 211.5525	0.0	video off	4	253863	n/a
 211.97	0.0	resp	3	254364	n/a
-212.5525	0.0	video on	5	255063	v_Playing water polo_id_ClYWCSbLuN4_start_30.5_label_1
+212.5525	0.0	video on	5	255063	n/a
 214.5525	0.0	video off	4	257463	n/a
 214.8825	0.0	resp	3	257859	n/a
 215.5525	0.0	video on	5	258663	v_Painting fence_id_bXyfGD__nHI_start_156.5_label_1

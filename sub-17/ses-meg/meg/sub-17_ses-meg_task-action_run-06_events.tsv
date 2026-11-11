@@ -10,7 +10,7 @@ onset	duration	trial_type	value	sample	stim_id
 19.40083333333333	0.0	video off	4	23281	n/a
 20.4	0.0	video on	5	24480	v_Making a lemonade_id_XYUhdA0U8C4_start_157.5_label_1
 22.40083333333333	0.0	video off	4	26881	n/a
-26.4	0.0	video on	5	31680	v_Playing kickball_id_OWkkMyfL_vs_start_22.0_label_1
+26.4	0.0	video on	5	31680	n/a
 28.433333333333337	0.0	video off	4	34120	n/a
 29.4	0.0	video on	5	35280	v_Cleaning shoes_id_V6OCIPSOrmc_start_18.5_label_1
 31.433333333333337	0.0	video off	4	37720	n/a
@@ -43,7 +43,7 @@ onset	duration	trial_type	value	sample	stim_id
 76.43166666666667	0.0	video off	4	91718	n/a
 80.39833333333333	0.0	video on	5	96478	v_Springboard diving_id_Np8U_798DaY_start_57.5_label_1
 82.39833333333333	0.0	video off	4	98878	n/a
-83.39833333333333	0.0	video on	5	100078	v_Playing polo_id_o2K9hmeqxAA_start_49.5_label_1
+83.39833333333333	0.0	video on	5	100078	n/a
 85.415	0.0	video off	4	102498	n/a
 86.39833333333333	0.0	video on	5	103678	v_Clean and jerk_id_I2Lxa6snJCo_start_8.0_label_1
 88.39833333333333	0.0	video off	4	106078	n/a
@@ -59,7 +59,7 @@ onset	duration	trial_type	value	sample	stim_id
 106.3975	0.0	video off	4	127677	n/a
 107.3975	0.0	video on	5	128877	v_Longboarding_id_IAbfgGSuasU_start_44.0_label_1
 109.3975	0.0	video off	4	131277	n/a
-110.3975	0.0	video on	5	132477	v_Putting on shoes_id_0nUhy1dV-uA_start_3.0_label_1
+110.3975	0.0	video on	5	132477	n/a
 112.41416666666667	0.0	video off	4	134897	n/a
 116.3975	0.0	video on	5	139677	v_Shoveling snow_id_f7AcIbdEnxY_start_8.0_label_1
 118.3975	0.0	video off	4	142077	n/a
@@ -85,7 +85,7 @@ onset	duration	trial_type	value	sample	stim_id
 154.39583333333334	0.0	video off	4	185275	n/a
 155.39583333333334	0.0	video on	5	186475	v_Mixing drinks_id_rwWaUFd87yU_start_146.0_label_1
 157.39583333333334	0.0	video off	4	188875	n/a
-158.39583333333334	0.0	video on	5	190075	v_Playing water polo_id_vd8uZw70Xo0_start_14.5_label_1
+158.39583333333334	0.0	video on	5	190075	n/a
 160.4125	0.0	video off	4	192495	n/a
 161.39583333333334	0.0	video on	5	193675	v_Cricket_id_7n6NN6MKunQ_start_37.0_label_1
 163.39583333333334	0.0	video off	4	196075	n/a
@@ -111,7 +111,7 @@ onset	duration	trial_type	value	sample	stim_id
 199.41083333333333	0.0	video off	4	239293	n/a
 200.41083333333333	0.0	video on	5	240493	v_Discus throw_id_i5Va9gxyFYQ_start_5.5_label_1
 202.41083333333333	0.0	video off	4	242893	n/a
-206.41083333333333	0.0	video on	5	247693	v_Using the rowing machine_id_7F2VX6N23IM_start_33.5_label_1
+206.41083333333333	0.0	video on	5	247693	n/a
 208.41083333333333	0.0	video off	4	250093	n/a
 209.41083333333333	0.0	video on	5	251293	v_Triple jump_id_4beMtdJKqiI_start_10.0_label_1
 211.41083333333333	0.0	video off	4	253693	n/a
@@ -151,11 +151,11 @@ onset	duration	trial_type	value	sample	stim_id
 271.40833333333336	0.0	video off	4	325690	n/a
 272.40833333333336	0.0	video on	5	326890	v_Snowboarding_id_b8n-GSAw_9o_start_181.0_label_1
 274.425	0.0	video off	4	329310	n/a
-278.40833333333336	0.0	video on	5	334090	v_Hanging wallpaper_id_9YoUdqrWt64_start_55.5_label_1
+278.40833333333336	0.0	video on	5	334090	n/a
 280.40833333333336	0.0	video off	4	336490	n/a
 281.40833333333336	0.0	video on	5	337690	v_Washing hands_id_W-i7ERvSryA_start_76.5_label_1
 283.425	0.0	video off	4	340110	n/a
-284.40833333333336	0.0	video on	5	341290	v_Fun sliding down_id_77tr27PIsEI_start_89.5_label_1
+284.40833333333336	0.0	video on	5	341290	n/a
 286.44166666666666	0.0	video off	4	343730	n/a
 287.40833333333336	0.0	video on	5	344890	v_Hand washing clothes_id_qv3QJu-rFWo_start_110.0_label_1
 289.425	0.0	video off	4	347310	n/a

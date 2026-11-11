@@ -3,7 +3,7 @@ onset	duration	trial_type	value	sample	stim_id
 7.2225	0.0	video on	5	8667	v_Doing fencing_id_jf5yo-rzLqA_start_9.0_label_1
 9.205833333333333	0.0	video off	4	11047	n/a
 9.893333333333333	0.0	resp	3	11872	n/a
-10.205833333333333	0.0	video on	5	12247	v_Playing water polo_id_ulIW5kMy5NQ_start_14.5_label_1
+10.205833333333333	0.0	video on	5	12247	n/a
 12.205833333333333	0.0	video off	4	14647	n/a
 12.829166666666667	0.0	resp	3	15395	n/a
 13.205833333333333	0.0	video on	5	15847	v_Doing motocross_id_x0qQt6yPlTc_start_7.5_label_1
@@ -97,7 +97,7 @@ onset	duration	trial_type	value	sample	stim_id
 129.21833333333333	0.0	video off	4	155062	n/a
 133.20166666666665	0.0	video on	5	159842	v_Carving jack-o-lanterns_id_sX6OIhqFZ8o_start_63.0_label_1
 135.235	0.0	video off	4	162282	n/a
-136.20166666666665	0.0	video on	5	163442	v_Fun sliding down_id_oV27az9VKbk_start_32.0_label_1
+136.20166666666665	0.0	video on	5	163442	n/a
 138.20166666666665	0.0	video off	4	165842	n/a
 138.7025	0.0	resp	3	166443	n/a
 139.20083333333332	0.0	video on	5	167041	v_Laying tile_id_Fhiq2VIzbmI_start_102.0_label_1
@@ -116,7 +116,7 @@ onset	duration	trial_type	value	sample	stim_id
 157.20083333333332	0.0	video on	5	188641	v_Playing polo_id_nyVkn_8Cm5E_start_131.0_label_1
 159.20083333333332	0.0	video off	4	191041	n/a
 159.575	0.0	resp	3	191490	n/a
-160.20083333333332	0.0	video on	5	192241	v_Polishing forniture_id_p6yv-F_HRIA_start_86.5_label_1
+160.20083333333332	0.0	video on	5	192241	n/a
 162.20083333333332	0.0	video off	4	194641	n/a
 162.9825	0.0	resp	3	195579	n/a
 163.20083333333332	0.0	video on	5	195841	v_Capoeira_id_FzOMMRm7MEI_start_46.5_label_1
@@ -169,7 +169,7 @@ onset	duration	trial_type	value	sample	stim_id
 228.215	0.0	video off	4	273858	n/a
 229.215	0.0	video on	5	275058	v_Breakdancing_id_j_Sd7Y6QCHA_start_179.5_label_1
 231.19833333333327	0.0	video off	4	277438	n/a
-232.215	0.0	video on	5	278658	v_Fixing the roof_id_Nw0XD-bdOYM_start_12.0_label_1
+232.215	0.0	video on	5	278658	n/a
 234.215	0.0	video off	4	281058	n/a
 235.215	0.0	video on	5	282258	v_Baton twirling_id_zkQjhDsDMv4_start_5.0_label_1
 237.215	0.0	video off	4	284658	n/a
@@ -179,7 +179,7 @@ onset	duration	trial_type	value	sample	stim_id
 244.21416666666667	0.0	video on	5	293057	v_Blow-drying hair_id_HNS_1GimPE4_start_113.0_label_1
 246.21416666666667	0.0	video off	4	295457	n/a
 246.65583333333333	0.0	resp	3	295987	n/a
-247.21416666666667	0.0	video on	5	296657	v_Waxing skis_id_0hfRWlWOaYw_start_36.5_label_1
+247.21416666666667	0.0	video on	5	296657	n/a
 249.1975	0.0	video off	4	299037	n/a
 249.53583333333333	0.0	resp	3	299443	n/a
 250.21416666666667	0.0	video on	5	300257	v_Hopscotch_id_OTuO0rOnkb4_start_123.0_label_1

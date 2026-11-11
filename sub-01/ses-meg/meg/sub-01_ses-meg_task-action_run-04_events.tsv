@@ -87,7 +87,7 @@ onset	duration	trial_type	value	sample	stim_id
 108.11583333333331	0.0	video on	5	129739	v_Using the balance beam_id__9feFrVs1EQ_start_2.5_label_1
 110.1325	0.0	video off	4	132159	n/a
 110.38	0.0	resp	3	132456	n/a
-111.11583333333331	0.0	video on	5	133339	v_Waxing skis_id_lO4ng8bV3b4_start_29.0_label_1
+111.11583333333331	0.0	video on	5	133339	n/a
 113.14916666666667	0.0	video off	4	135779	n/a
 113.41166666666666	0.0	resp	3	136094	n/a
 117.11583333333331	0.0	video on	5	140539	v_Belly dance_id_6oCNDrLTQjw_start_223.5_label_1
@@ -138,7 +138,7 @@ onset	duration	trial_type	value	sample	stim_id
 171.13083333333333	0.0	video on	5	205357	v_Doing crunches_id_XDXvR_QI72w_start_215.0_label_1
 173.13083333333333	0.0	video off	4	207757	n/a
 173.38083333333333	0.0	resp	3	208057	n/a
-174.13083333333333	0.0	video on	5	208957	v_Cleaning shoes_id_LQ_PZgDVk3g_start_66.0_label_1
+174.13083333333333	0.0	video on	5	208957	n/a
 176.11416666666668	0.0	video off	4	211337	n/a
 176.34833333333333	0.0	resp	3	211618	n/a
 177.13	0.0	video on	5	212556	v_Making a sandwich_id_AfYtP3D68z4_start_121.0_label_1
@@ -170,7 +170,7 @@ onset	duration	trial_type	value	sample	stim_id
 210.12916666666663	0.0	video on	5	252155	v_Tug of war_id_KkB4PLOGvQ0_start_47.5_label_1
 212.12916666666663	0.0	video off	4	254555	n/a
 212.43666666666667	0.0	resp	3	254924	n/a
-213.12916666666663	0.0	video on	5	255755	v_Bathing dog_id_023pYLzNmWA_start_90.0_label_1
+213.12916666666663	0.0	video on	5	255755	n/a
 215.1625	0.0	video off	4	258195	n/a
 215.4933333333333	0.0	resp	3	258592	n/a
 216.12916666666663	0.0	video on	5	259355	v_Shoveling snow_id_2oZvK9-xLdE_start_11.0_label_1
@@ -233,7 +233,7 @@ onset	duration	trial_type	value	sample	stim_id
 285.12666666666667	0.0	video on	5	342152	v_Volleyball_id_NMunT4sG8C0_start_72.0_label_1
 287.12666666666667	0.0	video off	4	344552	n/a
 287.4058333333333	0.0	resp	3	344887	n/a
-288.12666666666667	0.0	video on	5	345752	v_Fun sliding down_id_RokAPWBWcN0_start_21.5_label_1
+288.12666666666667	0.0	video on	5	345752	n/a
 290.12666666666667	0.0	video off	4	348152	n/a
 290.3016666666667	0.0	resp	3	348362	n/a
 291.12666666666667	0.0	video on	5	349352	v_Shot put_id_WnqMF7-MveA_start_5.0_label_1

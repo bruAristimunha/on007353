@@ -75,7 +75,7 @@ onset	duration	trial_type	value	sample	stim_id
 92.81166666666668	0.0	video on	5	111374	v_Mooping floor_id_5p92VD0m0hc_start_24.5_label_1
 94.81166666666668	0.0	video off	4	113774	n/a
 95.14333333333332	0.0	resp	3	114172	n/a
-98.795	0.0	video on	5	118554	v_Fixing the roof_id_F-RUDwUqI_s_start_50.0_label_1
+98.795	0.0	video on	5	118554	n/a
 100.81166666666668	0.0	video off	4	120974	n/a
 101.14333333333332	0.0	resp	3	121372	n/a
 101.795	0.0	video on	5	122154	v_Doing fencing_id_6Qdkb5pHEbk_start_2.5_label_1
@@ -116,7 +116,7 @@ onset	duration	trial_type	value	sample	stim_id
 143.79333333333332	0.0	video on	5	172552	v_Throwing darts_id_gI2qN82cazQ_start_30.5_label_1
 145.79333333333332	0.0	video off	4	174952	n/a
 146.0	0.0	resp	3	175200	n/a
-146.79333333333332	0.0	video on	5	176152	v_Playing blackjack_id_wVzSyHielaE_start_2.5_label_1
+146.79333333333332	0.0	video on	5	176152	n/a
 148.8108333333333	0.0	video off	4	178573	n/a
 149.12	0.0	resp	3	178944	n/a
 152.79333333333332	0.0	video on	5	183352	v_Playing harmonica_id_YYmovYOgbto_start_14.5_label_1
@@ -184,7 +184,7 @@ onset	duration	trial_type	value	sample	stim_id
 227.8075	0.0	video on	5	273369	v_Shuffleboard_id_OOgRRys3Fwk_start_6.0_label_1
 229.8075	0.0	video off	4	275769	n/a
 230.20833333333331	0.0	resp	3	276250	n/a
-230.8075	0.0	video on	5	276969	v_Bathing dog_id_HE0EZhtaoGw_start_2.0_label_1
+230.8075	0.0	video on	5	276969	n/a
 232.79083333333327	0.0	video off	4	279349	n/a
 233.20833333333331	0.0	resp	3	279850	n/a
 233.8075	0.0	video on	5	280569	v_Canoeing_id_XYRVfty5gpc_start_15.5_label_1
@@ -205,7 +205,7 @@ onset	duration	trial_type	value	sample	stim_id
 251.80666666666667	0.0	video on	5	302168	v_Braiding hair_id_stOFU7-UeH8_start_146.0_label_1
 253.80666666666667	0.0	video off	4	304568	n/a
 254.185	0.0	resp	3	305022	n/a
-254.80666666666667	0.0	video on	5	305768	v_Polishing forniture_id_ExNhTXZSvf4_start_34.0_label_1
+254.80666666666667	0.0	video on	5	305768	n/a
 256.79	0.0	video off	4	308148	n/a
 257.12083333333334	0.0	resp	3	308545	n/a
 260.8066666666667	0.0	video on	5	312968	v_Hand washing clothes_id_F15oQMK3zoI_start_43.5_label_1
@@ -223,7 +223,7 @@ onset	duration	trial_type	value	sample	stim_id
 272.80583333333334	0.0	video on	5	327367	v_Playing polo_id_qfUoMcaAxAw_start_4.5_label_1
 274.80583333333334	0.0	video off	4	329767	n/a
 274.99333333333334	0.0	resp	3	329992	n/a
-278.80583333333334	0.0	video on	5	334567	v_Using the rowing machine_id_zJKedNWsZKY_start_49.0_label_1
+278.80583333333334	0.0	video on	5	334567	n/a
 280.80583333333334	0.0	video off	4	336967	n/a
 281.105	0.0	resp	3	337326	n/a
 281.80583333333334	0.0	video on	5	338167	v_Javelin throw_id_juH8YUlOMTg_start_15.0_label_1

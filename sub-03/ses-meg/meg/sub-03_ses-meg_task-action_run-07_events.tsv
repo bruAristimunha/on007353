@@ -147,7 +147,7 @@ onset	duration	trial_type	value	sample	stim_id
 187.86	0.0	video on	5	225432	v_Pole vault_id_fSZJOTzlpYY_start_5.0_label_1
 189.86	0.0	video off	4	227832	n/a
 190.27083333333331	0.0	resp	3	228325	n/a
-190.85916666666665	0.0	video on	5	229031	v_Putting on shoes_id_rQ1zi9VSkYE_start_18.5_label_1
+190.85916666666665	0.0	video on	5	229031	n/a
 192.86	0.0	video off	4	231432	n/a
 193.2225	0.0	resp	3	231867	n/a
 193.85916666666665	0.0	video on	5	232631	v_Long jump_id_R4CXnw-3VMM_start_3.5_label_1
@@ -177,13 +177,13 @@ onset	duration	trial_type	value	sample	stim_id
 226.8583333333333	0.0	video on	5	272230	v_Grooming dog_id_rM5IfORb_1M_start_8.0_label_1
 228.8583333333333	0.0	video off	4	274630	n/a
 229.24666666666667	0.0	resp	3	275096	n/a
-229.8583333333333	0.0	video on	5	275830	v_Scuba diving_id_gCFTDvb3QEE_start_48.5_label_1
+229.8583333333333	0.0	video on	5	275830	n/a
 231.8583333333333	0.0	video off	4	278230	n/a
 232.19083333333333	0.0	resp	3	278629	n/a
 232.8583333333333	0.0	video on	5	279430	v_Doing karate_id_39FIjDeot-s_start_2.5_label_1
 234.8583333333333	0.0	video off	4	281830	n/a
 235.6233333333333	0.0	resp	3	282748	n/a
-235.8583333333333	0.0	video on	5	283030	v_Smoking a cigarette_id_-ZoPxprgiIE_start_25.5_label_1
+235.8583333333333	0.0	video on	5	283030	n/a
 237.8583333333333	0.0	video off	4	285430	n/a
 238.15916666666664	0.0	resp	3	285791	n/a
 241.8575	0.0	video on	5	290229	v_Ping-pong_id_sBG7wzokMdQ_start_13.0_label_1
@@ -229,7 +229,7 @@ onset	duration	trial_type	value	sample	stim_id
 295.8558333333333	0.0	video on	5	355027	v_Discus throw_id_TZJ3KwYU2uM_start_3.0_label_1
 297.87333333333333	0.0	video off	4	357448	n/a
 298.19916666666666	0.0	resp	3	357839	n/a
-298.8558333333333	0.0	video on	5	358627	v_Rock-paper-scissors_id_qTH4qYhe7GA_start_71.5_label_1
+298.8558333333333	0.0	video on	5	358627	n/a
 300.8725	0.0	video off	4	361047	n/a
 301.3591666666667	0.0	resp	3	361631	n/a
 301.8558333333333	0.0	video on	5	362227	v_Doing step aerobics_id_I6qGycuDFaI_start_40.0_label_1
@@ -250,6 +250,6 @@ onset	duration	trial_type	value	sample	stim_id
 322.32	0.0	resp	3	386784	n/a
 322.855	0.0	video on	5	387426	v_Running a marathon_id_ENKDeinDgn0_start_14.0_label_1
 324.87166666666667	0.0	video off	4	389846	n/a
-325.855	0.0	video on	5	391026	v_Playing water polo_id_qUufu5TGbZk_start_40.0_label_1
+325.855	0.0	video on	5	391026	n/a
 327.855	0.0	video off	4	393426	n/a
 332.89	0.0	end	2	399468	n/a

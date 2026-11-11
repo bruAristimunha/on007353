@@ -3,7 +3,7 @@ onset	duration	trial_type	value	sample	stim_id
 8.35	0.0	video on	5	10020	v_Arm wrestling_id_G0d_dkZ6A3g_start_37.5_label_1
 10.35	0.0	video off	4	12420	n/a
 10.6325	0.0	resp	3	12759	n/a
-11.35	0.0	video on	5	13620	v_Playing kickball_id_HfBrshUjmyY_start_13.0_label_1
+11.35	0.0	video on	5	13620	n/a
 13.35	0.0	video off	4	16020	n/a
 13.6325	0.0	resp	3	16359	n/a
 14.35	0.0	video on	5	17220	v_Plastering_id_JvbnGVZN3cw_start_29.5_label_1
@@ -30,7 +30,7 @@ onset	duration	trial_type	value	sample	stim_id
 38.34916666666667	0.0	video on	5	46019	v_Using the pommel horse_id_wAAbDCFHkFc_start_15.0_label_1
 40.34916666666667	0.0	video off	4	48419	n/a
 40.689166666666665	0.0	resp	3	48827	n/a
-44.34916666666667	0.0	video on	5	53219	v_Preparing pasta_id_MRDtXukiBAU_start_64.0_label_1
+44.34916666666667	0.0	video on	5	53219	n/a
 46.34916666666667	0.0	video off	4	55619	n/a
 46.63333333333333	0.0	resp	3	55960	n/a
 47.34916666666667	0.0	video on	5	56819	v_Polishing forniture_id_Jp6-Y3es4Ys_start_164.5_label_1
@@ -81,7 +81,7 @@ onset	duration	trial_type	value	sample	stim_id
 101.34666666666666	0.0	video on	5	121616	v_Shuffleboard_id_IeS16wZmGgA_start_125.0_label_1
 103.38	0.0	video off	4	124056	n/a
 103.83333333333331	0.0	resp	3	124600	n/a
-104.34666666666666	0.0	video on	5	125216	v_Playing water polo_id_ClYWCSbLuN4_start_75.0_label_1
+104.34666666666666	0.0	video on	5	125216	n/a
 106.3475	0.0	video off	4	127617	n/a
 106.60166666666667	0.0	resp	3	127922	n/a
 107.34666666666666	0.0	video on	5	128816	v_Hopscotch_id_7cbCZpycFyA_start_16.0_label_1

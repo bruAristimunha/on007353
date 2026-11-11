@@ -57,7 +57,7 @@ onset	duration	trial_type	value	sample	stim_id
 68.178	0.0	video on	5	68178	v_Spinning_id_aM2tICg3yxY_start_65.0_label_1
 70.177	0.0	video off	4	70177	n/a
 70.721	0.0	resp	3	70721	n/a
-71.043	0.0	video on	5	71043	v_Painting furniture_id_0DLfq_YtcMw_start_151.0_label_1
+71.043	0.0	video on	5	71043	n/a
 73.049	0.0	video off	4	73049	n/a
 73.417	0.0	resp	3	73417	n/a
 77.027	0.0	video on	5	77027	v_Cleaning windows_id_NleLgKghGIk_start_150.5_label_1
@@ -90,7 +90,7 @@ onset	duration	trial_type	value	sample	stim_id
 116.027	0.0	video on	5	116027	v_Arm wrestling_id_jXpeyrqoiyE_start_49.0_label_1
 118.037	0.0	video off	4	118037	n/a
 118.594	0.0	resp	3	118594	n/a
-119.028	0.0	video on	5	119028	v_Using uneven bars_id_oDyKqL-bnVw_start_45.5_label_1
+119.028	0.0	video on	5	119028	n/a
 121.035	0.0	video off	4	121035	n/a
 121.593	0.0	resp	3	121593	n/a
 122.027	0.0	video on	5	122027	v_Putting on shoes_id_-W4M5RKB4Zk_start_3.5_label_1
@@ -123,7 +123,7 @@ onset	duration	trial_type	value	sample	stim_id
 161.027	0.0	video on	5	161027	v_Mixing drinks_id_A36p0vPxh4o_start_79.0_label_1
 163.028	0.0	video off	4	163028	n/a
 163.61	0.0	resp	3	163610	n/a
-167.029	0.0	video on	5	167029	v_Bathing dog_id_8ClpQ4q6NmM_start_16.0_label_1
+167.029	0.0	video on	5	167029	n/a
 169.03	0.0	video off	4	169030	n/a
 169.474	0.0	resp	3	169474	n/a
 170.028	0.0	video on	5	170028	v_Making a sandwich_id_YC6DyVGoP1A_start_89.5_label_1
@@ -166,7 +166,7 @@ onset	duration	trial_type	value	sample	stim_id
 221.029	0.0	video on	5	221029	v_Sailing_id_ip-6KwEGzog_start_161.0_label_1
 223.029	0.0	video off	4	223029	n/a
 223.474	0.0	resp	3	223474	n/a
-224.028	0.0	video on	5	224028	v_Fixing the roof_id_F-RUDwUqI_s_start_78.0_label_1
+224.028	0.0	video on	5	224028	n/a
 226.033	0.0	video off	4	226033	n/a
 226.458	0.0	resp	3	226458	n/a
 227.03	0.0	video on	5	227030	v_Chopping wood_id_LtWC9RtHteA_start_104.5_label_1
@@ -200,7 +200,7 @@ onset	duration	trial_type	value	sample	stim_id
 263.029	0.0	video on	5	263029	v_Grooming horse_id_6nnTSbvoCtk_start_34.5_label_1
 265.034	0.0	video off	4	265034	n/a
 265.603	0.0	resp	3	265603	n/a
-266.029	0.0	video on	5	266029	v_Brushing hair_id_nVEiGHlWNHw_start_2.5_label_1
+266.029	0.0	video on	5	266029	n/a
 268.031	0.0	video off	4	268031	n/a
 268.507	0.0	resp	3	268507	n/a
 269.035	0.0	video on	5	269035	v_Rock climbing_id_Vp6X0NSbh8Y_start_29.0_label_1

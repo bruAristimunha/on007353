@@ -66,7 +66,7 @@ onset	duration	trial_type	value	sample	stim_id
 80.027	0.0	video on	5	80027	v_Playing field hockey_id_dhhPMZgUC2E_start_49.5_label_1
 82.04	0.0	video off	4	82040	n/a
 82.473	0.0	resp	3	82473	n/a
-83.026	0.0	video on	5	83026	v_Hurling_id_7hJAtqKMHHk_start_3.5_label_1
+83.026	0.0	video on	5	83026	n/a
 85.035	0.0	video off	4	85035	n/a
 85.608	0.0	resp	3	85608	n/a
 86.026	0.0	video on	5	86026	v_Belly dance_id_mOFRMgABM3k_start_119.5_label_1

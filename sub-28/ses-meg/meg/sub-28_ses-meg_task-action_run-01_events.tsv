@@ -44,7 +44,7 @@ onset	duration	trial_type	value	sample	stim_id
 82.71333333333334	0.0	video off	3	99256	n/a
 83.66333333333333	0.0	video on	4	100396	v_Volleyball_id_9jwnKa6jt0Q_start_69.5_label_1
 85.68	0.0	video off	3	102816	n/a
-86.66333333333333	0.0	video on	4	103996	v_Playing blackjack_id_tgR7V-UpdxA_start_76.5_label_1
+86.66333333333333	0.0	video on	4	103996	n/a
 88.66333333333333	0.0	video off	3	106396	n/a
 89.66333333333333	0.0	video on	4	107596	v_Mowing the lawn_id_FTqU-DYJ5hU_start_53.0_label_1
 91.66333333333333	0.0	video off	3	109996	n/a
@@ -66,7 +66,7 @@ onset	duration	trial_type	value	sample	stim_id
 121.66166666666666	0.0	video off	3	145994	n/a
 122.66166666666666	0.0	video on	4	147194	v_Horseback riding_id_4uMiRD4UzFE_start_75.0_label_1
 124.67833333333331	0.0	video off	3	149614	n/a
-125.66166666666666	0.0	video on	4	150794	v_Painting furniture_id__wJ6Dd1Xpr0_start_4.0_label_1
+125.66166666666666	0.0	video on	4	150794	n/a
 127.67833333333331	0.0	video off	3	153214	n/a
 128.67833333333334	0.0	video on	4	154414	v_Decorating the Christmas tree_id_jAXFc6BFcsw_start_136.5_label_1
 130.695	0.0	video off	3	156834	n/a
@@ -100,7 +100,7 @@ onset	duration	trial_type	value	sample	stim_id
 181.67666666666668	0.0	video off	3	218012	n/a
 182.67666666666668	0.0	video on	4	219212	v_Playing harmonica_id_Xx6Q8ZWEvjs_start_119.0_label_1
 184.71	0.0	video off	3	221652	n/a
-188.67666666666668	0.0	video on	4	226412	v_Fun sliding down_id_uT60Rtrw4fA_start_114.0_label_1
+188.67666666666668	0.0	video on	4	226412	n/a
 190.67666666666668	0.0	video off	3	228812	n/a
 191.67666666666668	0.0	video on	4	230012	v_Pole vault_id_nu1eyL9tOdY_start_35.5_label_1
 193.67666666666668	0.0	video off	3	232412	n/a

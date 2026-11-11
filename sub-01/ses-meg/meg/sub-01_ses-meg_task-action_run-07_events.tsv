@@ -48,10 +48,10 @@ onset	duration	trial_type	value	sample	stim_id
 63.119166666666665	0.0	video on	5	75743	v_Putting on makeup_id_e6pBKf6g0RI_start_48.0_label_1
 65.11916666666667	0.0	video off	4	78143	n/a
 65.42583333333333	0.0	resp	3	78511	n/a
-66.11916666666667	0.0	video on	5	79343	v_Waxing skis_id_E_fHmOjCeB8_start_76.5_label_1
+66.11916666666667	0.0	video on	5	79343	n/a
 68.11916666666667	0.0	video off	4	81743	n/a
 68.36166666666666	0.0	resp	3	82034	n/a
-69.11916666666667	0.0	video on	5	82943	v_Polishing forniture_id_ExNhTXZSvf4_start_19.5_label_1
+69.11916666666667	0.0	video on	5	82943	n/a
 71.11916666666667	0.0	video off	4	85343	n/a
 71.40166666666667	0.0	resp	3	85682	n/a
 72.11916666666667	0.0	video on	5	86543	v_Blow-drying hair_id_sb4Aqm1k-jI_start_164.0_label_1
@@ -81,7 +81,7 @@ onset	duration	trial_type	value	sample	stim_id
 102.11833333333334	0.0	video on	5	122542	v_Snatch_id_Xsx5yBVKPMo_start_5.0_label_1
 104.135	0.0	video off	4	124962	n/a
 104.4825	0.0	resp	3	125379	n/a
-105.11833333333334	0.0	video on	5	126142	v_Drinking coffee_id_9lsaMAwKdCw_start_44.0_label_1
+105.11833333333334	0.0	video on	5	126142	n/a
 107.135	0.0	video off	4	128562	n/a
 107.41833333333334	0.0	resp	3	128902	n/a
 108.11833333333334	0.0	video on	5	129742	v_Kayaking_id_Kk8DcSm_tD4_start_23.0_label_1

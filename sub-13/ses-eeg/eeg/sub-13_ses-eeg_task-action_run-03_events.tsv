@@ -3,7 +3,7 @@ onset	duration	trial_type	value	sample	stim_id
 5.029	0.0	video on	5	5029	v_Surfing_id_3MtashftJV0_start_102.0_label_1
 7.034	0.0	video off	4	7034	n/a
 7.36	0.0	resp	3	7360	n/a
-8.026	0.0	video on	5	8026	v_Using parallel bars_id_Zmv4mToIs7Y_start_25.5_label_1
+8.026	0.0	video on	5	8026	n/a
 10.029	0.0	video off	4	10029	n/a
 10.537	0.0	resp	3	10537	n/a
 11.026	0.0	video on	5	11026	v_Laying tile_id_-ahINPQF8yE_start_90.5_label_1
@@ -135,7 +135,7 @@ onset	duration	trial_type	value	sample	stim_id
 161.027	0.0	video on	5	161027	v_Sharpening knives_id_OjLhDZBzdvI_start_95.0_label_1
 163.028	0.0	video off	4	163028	n/a
 163.602	0.0	resp	3	163602	n/a
-167.028	0.0	video on	5	167028	v_Using the balance beam_id_Vkdz8O2pnF8_start_4.5_label_1
+167.028	0.0	video on	5	167028	n/a
 169.031	0.0	video off	4	169031	n/a
 169.458	0.0	resp	3	169458	n/a
 170.028	0.0	video on	5	170028	v_Cricket_id_Pf-e670Y4b8_start_95.5_label_1
@@ -201,7 +201,7 @@ onset	duration	trial_type	value	sample	stim_id
 242.028	0.0	video on	5	242028	v_Table soccer_id_37Bushd9GSQ_start_38.5_label_1
 244.032	0.0	video off	4	244032	n/a
 244.562	0.0	resp	3	244562	n/a
-245.029	0.0	video on	5	245029	v_Hanging wallpaper_id_YJibk_bG8Y4_start_64.5_label_1
+245.029	0.0	video on	5	245029	n/a
 247.026	0.0	video off	4	247026	n/a
 247.755	0.0	resp	3	247755	n/a
 248.028	0.0	video on	5	248028	v_Playing rubik cube_id_-YqV7saRgfI_start_19.0_label_1
@@ -222,7 +222,7 @@ onset	duration	trial_type	value	sample	stim_id
 266.029	0.0	video on	5	266029	v_Dodgeball_id_uMDfe-5tZ0Y_start_81.5_label_1
 268.037	0.0	video off	4	268037	n/a
 268.715	0.0	resp	3	268715	n/a
-269.03	0.0	video on	5	269030	v_Using the monkey bar_id_0a7TwMdzXFI_start_19.5_label_1
+269.03	0.0	video on	5	269030	n/a
 271.032	0.0	video off	4	271032	n/a
 271.475	0.0	resp	3	271475	n/a
 275.03	0.0	video on	5	275030	v_Carving jack-o-lanterns_id_kU2v1NbcqH4_start_47.5_label_1
@@ -267,6 +267,6 @@ onset	duration	trial_type	value	sample	stim_id
 320.029	0.0	video on	5	320029	v_Getting a tattoo_id_hhRdz-6JaXs_start_69.0_label_1
 322.033	0.0	video off	4	322033	n/a
 322.619	0.0	resp	3	322619	n/a
-323.029	0.0	video on	5	323029	v_Fixing the roof_id_xZyUaRr_wi8_start_52.0_label_1
+323.029	0.0	video on	5	323029	n/a
 325.067	0.0	video off	4	325067	n/a
 330.14	0.0	end	2	330140	n/a

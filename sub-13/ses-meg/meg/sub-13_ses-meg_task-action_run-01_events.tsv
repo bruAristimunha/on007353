@@ -18,7 +18,7 @@ onset	duration	trial_type	value	sample	stim_id
 24.93583333333333	0.0	video on	5	29923	v_Hand car wash_id_8dXAZhphvU8_start_7.5_label_1
 26.953333333333333	0.0	video off	4	32344	n/a
 27.419166666666666	0.0	resp	3	32903	n/a
-27.93583333333333	0.0	video on	5	33523	v_Cleaning shoes_id_mRlBVxeEA0k_start_119.0_label_1
+27.93583333333333	0.0	video on	5	33523	n/a
 29.93583333333333	0.0	video off	4	35923	n/a
 30.299166666666668	0.0	resp	3	36359	n/a
 30.93583333333333	0.0	video on	5	37123	v_Snatch_id_xPHeG6STEi4_start_76.5_label_1
@@ -90,7 +90,7 @@ onset	duration	trial_type	value	sample	stim_id
 108.93333333333334	0.0	video on	5	130720	v_Scuba diving_id_Zh3UB3ni5lg_start_46.0_label_1
 110.95	0.0	video off	4	133140	n/a
 111.40416666666668	0.0	resp	3	133685	n/a
-114.93333333333334	0.0	video on	5	137920	v_Bathing dog_id_dYQpPQFnheE_start_208.0_label_1
+114.93333333333334	0.0	video on	5	137920	n/a
 116.95	0.0	video off	4	140340	n/a
 117.43583333333332	0.0	resp	3	140923	n/a
 117.95	0.0	video on	5	141540	v_Belly dance_id_AJJbqoTehws_start_1.5_label_1
@@ -126,7 +126,7 @@ onset	duration	trial_type	value	sample	stim_id
 153.94833333333332	0.0	video on	5	184738	v_Fixing bicycle_id__CI78nblMQ0_start_103.5_label_1
 155.93166666666667	0.0	video off	4	187118	n/a
 156.39583333333334	0.0	resp	3	187675	n/a
-156.94833333333332	0.0	video on	5	188338	v_Preparing pasta_id_V7OBpCQ0vRc_start_23.5_label_1
+156.94833333333332	0.0	video on	5	188338	n/a
 158.93166666666667	0.0	video off	4	190718	n/a
 159.31583333333333	0.0	resp	3	191179	n/a
 159.94833333333332	0.0	video on	5	191938	v_Carving jack-o-lanterns_id_-ADCa23iYPg_start_4.0_label_1
@@ -240,7 +240,7 @@ onset	duration	trial_type	value	sample	stim_id
 288.94416666666666	0.0	video on	5	346733	v_Hitting a pinata_id_XDlnDpggckY_start_3.0_label_1
 290.9608333333333	0.0	video off	4	349153	n/a
 291.5575	0.0	resp	3	349869	n/a
-294.94416666666666	0.0	video on	5	353933	v_Playing polo_id_m0K3Nsjluxc_start_28.5_label_1
+294.94416666666666	0.0	video on	5	353933	n/a
 296.9941666666667	0.0	video off	4	356393	n/a
 297.49333333333334	0.0	resp	3	356992	n/a
 297.94416666666666	0.0	video on	5	357533	v_Getting a piercing_id_z96ASFyRxnM_start_50.0_label_1
@@ -256,7 +256,7 @@ onset	duration	trial_type	value	sample	stim_id
 312.9433333333333	0.0	video on	5	375532	v_Rollerblading_id_Um6ZZmrCZ-A_start_76.5_label_1
 314.9433333333333	0.0	video off	4	377932	n/a
 315.6616666666667	0.0	resp	3	378794	n/a
-315.9433333333333	0.0	video on	5	379132	v_Hanging wallpaper_id_N48Z7Xn7stY_start_128.0_label_1
+315.9433333333333	0.0	video on	5	379132	n/a
 317.99333333333334	0.0	video off	4	381592	n/a
 318.7416666666667	0.0	resp	3	382490	n/a
 318.9433333333333	0.0	video on	5	382732	v_Vacuuming floor_id_4mRmg5CHv8I_start_43.0_label_1

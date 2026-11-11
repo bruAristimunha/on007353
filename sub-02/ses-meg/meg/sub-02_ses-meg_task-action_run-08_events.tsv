@@ -27,7 +27,7 @@ onset	duration	trial_type	value	sample	stim_id
 34.64416666666666	0.0	video on	5	41573	v_Scuba diving_id_nNBpqAQaJfU_start_44.0_label_1
 36.64416666666666	0.0	video off	4	43973	n/a
 37.07333333333333	0.0	resp	3	44488	n/a
-37.64416666666666	0.0	video on	5	45173	v_Waxing skis_id_HTWi3kiCLwM_start_177.0_label_1
+37.64416666666666	0.0	video on	5	45173	n/a
 39.64416666666666	0.0	video off	4	47573	n/a
 40.16166666666667	0.0	resp	3	48194	n/a
 43.64333333333333	0.0	video on	5	52372	v_Ice fishing_id_tcJzzCa4Cug_start_83.5_label_1
@@ -66,7 +66,7 @@ onset	duration	trial_type	value	sample	stim_id
 82.6425	0.0	video on	5	99171	v_Washing hands_id_PvBBSknD3js_start_112.5_label_1
 84.6425	0.0	video off	4	101571	n/a
 84.91416666666667	0.0	resp	3	101897	n/a
-85.6425	0.0	video on	5	102771	v_Playing polo_id_yEDUSkKxFJE_start_71.0_label_1
+85.6425	0.0	video on	5	102771	n/a
 87.6425	0.0	video off	4	105171	n/a
 87.6975	0.0	resp	3	105237	n/a
 88.6425	0.0	video on	5	106371	v_Mowing the lawn_id_AANJr-zg2fY_start_37.0_label_1
@@ -195,7 +195,7 @@ onset	duration	trial_type	value	sample	stim_id
 241.6533333333333	0.0	video on	5	289984	v_Playing field hockey_id_8KV_IKq5zOg_start_5.0_label_1
 243.6875	0.0	video off	4	292425	n/a
 244.0433333333333	0.0	resp	3	292852	n/a
-244.6533333333333	0.0	video on	5	293584	v_Fun sliding down_id_oA4-RtveN_A_start_88.0_label_1
+244.6533333333333	0.0	video on	5	293584	n/a
 246.68666666666667	0.0	video off	4	296024	n/a
 247.05916666666667	0.0	resp	3	296471	n/a
 247.6533333333333	0.0	video on	5	297184	v_Putting on makeup_id_p9gTj-1AQYs_start_61.0_label_1
@@ -228,7 +228,7 @@ onset	duration	trial_type	value	sample	stim_id
 283.6525	0.0	video on	5	340383	v_Hammer throw_id_gwA8wJokvaU_start_11.5_label_1
 285.6691666666667	0.0	video off	4	342803	n/a
 286.12416666666667	0.0	resp	3	343349	n/a
-286.6525	0.0	video on	5	343983	v_Putting in contact lenses_id_1w6q_aQmWd4_start_8.0_label_1
+286.6525	0.0	video on	5	343983	n/a
 288.6525	0.0	video off	4	346383	n/a
 289.0758333333333	0.0	resp	3	346891	n/a
 289.65166666666664	0.0	video on	5	347582	v_Windsurfing_id_anrSC16aGK8_start_140.5_label_1

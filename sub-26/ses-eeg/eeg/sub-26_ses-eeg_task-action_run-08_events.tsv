@@ -6,7 +6,7 @@ onset	duration	trial_type	value	sample	stim_id
 8.024	0.0	video on	5	8024	v_Washing hands_id_sNoY24MSlkw_start_20.0_label_1
 10.027	0.0	video off	4	10027	n/a
 10.424	0.0	resp	3	10424	n/a
-11.025	0.0	video on	5	11025	v_Spread mulch_id__9uSnARV-So_start_35.5_label_1
+11.025	0.0	video on	5	11025	n/a
 13.031	0.0	video off	4	13031	n/a
 13.361	0.0	resp	3	13361	n/a
 14.025	0.0	video on	5	14025	v_Throwing darts_id_nSupAUbV6xw_start_7.0_label_1
@@ -28,7 +28,7 @@ onset	duration	trial_type	value	sample	stim_id
 35.025	0.0	video on	5	35025	v_Kayaking_id_iT0_wwcRMQg_start_147.0_label_1
 37.025	0.0	video off	4	37025	n/a
 37.352	0.0	resp	3	37352	n/a
-41.025	0.0	video on	5	41025	v_Putting in contact lenses_id_typjqwjZsoo_start_22.0_label_1
+41.025	0.0	video on	5	41025	n/a
 43.08	0.0	video off	4	43080	n/a
 43.488	0.0	resp	3	43488	n/a
 44.025	0.0	video on	5	44025	v_Playing squash_id_uShgxT068Qg_start_46.5_label_1
@@ -191,7 +191,7 @@ onset	duration	trial_type	value	sample	stim_id
 239.028	0.0	video on	5	239028	v_Shaving_id_1CyR8pC_6h4_start_19.0_label_1
 241.07	0.0	video off	4	241070	n/a
 241.362	0.0	resp	3	241362	n/a
-242.027	0.0	video on	5	242027	v_Fun sliding down_id_7zY0l9kZjtw_start_18.5_label_1
+242.027	0.0	video on	5	242027	n/a
 244.028	0.0	video off	4	244028	n/a
 244.362	0.0	resp	3	244362	n/a
 245.028	0.0	video on	5	245028	v_Bathing dog_id_BQGsOANPe8w_start_58.5_label_1

@@ -43,7 +43,7 @@ onset	duration	trial_type	value	sample	stim_id
 48.498	0.0	video on	5	48498	v_Bullfighting_id_wXlbmVZWzPE_start_36.0_label_1
 50.499	0.0	video off	4	50499	n/a
 51.048	0.0	resp	3	51048	n/a
-54.498	0.0	video on	5	54498	v_Polishing forniture_id_2dxxCHuwiN8_start_22.0_label_1
+54.498	0.0	video on	5	54498	n/a
 56.54	0.0	video off	4	56540	n/a
 56.888	0.0	resp	3	56888	n/a
 57.498	0.0	video on	5	57498	v_Beer pong_id_QvRP8BToES4_start_33.0_label_1
@@ -83,7 +83,7 @@ onset	duration	trial_type	value	sample	stim_id
 99.499	0.0	video on	5	99499	v_Discus throw_id_e6ldOwQ3kZc_start_3.0_label_1
 101.502	0.0	video off	4	101502	n/a
 102.088	0.0	resp	3	102088	n/a
-102.499	0.0	video on	5	102499	v_Putting on shoes_id_mvT4j4KLv6g_start_26.5_label_1
+102.499	0.0	video on	5	102499	n/a
 104.538	0.0	video off	4	104538	n/a
 105.232	0.0	resp	3	105232	n/a
 108.499	0.0	video on	5	108499	v_Playing blackjack_id_AOrk7xf6HM8_start_168.5_label_1
@@ -140,7 +140,7 @@ onset	duration	trial_type	value	sample	stim_id
 171.5	0.0	video on	5	171500	v_Horseback riding_id_DVRf3ECLYtg_start_16.0_label_1
 173.502	0.0	video off	4	173502	n/a
 173.913	0.0	resp	3	173913	n/a
-174.5	0.0	video on	5	174500	v_Fun sliding down_id_oV27az9VKbk_start_8.5_label_1
+174.5	0.0	video on	5	174500	n/a
 176.5	0.0	video off	4	176500	n/a
 177.401	0.0	resp	3	177401	n/a
 180.499	0.0	video on	5	180499	v_Trimming branches or hedges_id_Rq4dvtrTZ0A_start_22.5_label_1
@@ -226,7 +226,7 @@ onset	duration	trial_type	value	sample	stim_id
 276.501	0.0	video on	5	276501	v_Drum corps_id_napxAANOqZ8_start_18.0_label_1
 278.504	0.0	video off	4	278504	n/a
 278.897	0.0	resp	3	278897	n/a
-279.501	0.0	video on	5	279501	v_Fixing the roof_id__qTeGISQuzY_start_8.0_label_1
+279.501	0.0	video on	5	279501	n/a
 281.504	0.0	video off	4	281504	n/a
 282.29	0.0	resp	3	282290	n/a
 282.5	0.0	video on	5	282500	v_Dodgeball_id_L3X9FYu-MEQ_start_46.0_label_1

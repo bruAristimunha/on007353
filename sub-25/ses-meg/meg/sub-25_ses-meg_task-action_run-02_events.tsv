@@ -139,7 +139,7 @@ onset	duration	trial_type	value	sample	stim_id
 175.85	0.0	video on	5	211020	v_Making a sandwich_id_oU8dro7b97Y_start_68.0_label_1
 177.85	0.0	video off	4	213420	n/a
 178.32	0.0	resp	3	213984	n/a
-178.85	0.0	video on	5	214620	v_Rock-paper-scissors_id_NmO2IVqmk_4_start_54.5_label_1
+178.85	0.0	video on	5	214620	n/a
 180.85	0.0	video off	4	217020	n/a
 181.42416666666668	0.0	resp	3	217709	n/a
 181.85	0.0	video on	5	218220	v_Snowboarding_id_g_x_nT6VSpc_start_11.0_label_1
@@ -151,7 +151,7 @@ onset	duration	trial_type	value	sample	stim_id
 190.84916666666663	0.0	video on	5	229019	v_Croquet_id_Vl7yVQWOGbY_start_27.0_label_1
 192.84916666666663	0.0	video off	4	231419	n/a
 193.46416666666667	0.0	resp	3	232157	n/a
-193.84916666666663	0.0	video on	5	232619	v_Playing kickball_id_vkLlIPydOK0_start_78.0_label_1
+193.84916666666663	0.0	video on	5	232619	n/a
 195.84916666666663	0.0	video off	4	235019	n/a
 196.24	0.0	resp	3	235488	n/a
 196.84916666666663	0.0	video on	5	236219	v_Table soccer_id_CN6PCG-dAtw_start_41.0_label_1
@@ -168,7 +168,7 @@ onset	duration	trial_type	value	sample	stim_id
 211.84916666666663	0.0	video on	5	254219	v_Getting a haircut_id_wosGTizJ1Z8_start_26.0_label_1
 213.84916666666663	0.0	video off	4	256619	n/a
 214.64	0.0	resp	3	257568	n/a
-214.84833333333333	0.0	video on	5	257818	v_Using the monkey bar_id_l5uaH-Qydxk_start_12.5_label_1
+214.84833333333333	0.0	video on	5	257818	n/a
 216.84833333333333	0.0	video off	4	260218	n/a
 217.41666666666663	0.0	resp	3	260900	n/a
 217.84833333333333	0.0	video on	5	261418	v_Sailing_id_b9EhQpD-KOI_start_10.0_label_1

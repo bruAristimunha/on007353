@@ -102,7 +102,7 @@ onset	duration	trial_type	value	sample	stim_id
 127.16583333333334	0.0	video on	5	152599	v_Mooping floor_id_nqmw4BCi6io_start_103.0_label_1
 129.165	0.0	video off	4	154998	n/a
 129.4358333333333	0.0	resp	3	155323	n/a
-133.165	0.0	video on	5	159798	v_Playing kickball_id_Ic-zqwW8ncY_start_80.0_label_1
+133.165	0.0	video on	5	159798	n/a
 135.18166666666667	0.0	video off	4	162218	n/a
 135.4675	0.0	resp	3	162561	n/a
 136.165	0.0	video on	5	163398	v_Bullfighting_id_tEs40jQfSdo_start_9.5_label_1
@@ -138,7 +138,7 @@ onset	duration	trial_type	value	sample	stim_id
 172.18083333333334	0.0	video on	5	206617	v_Shaving_id_srR56T9-j5M_start_110.0_label_1
 174.18083333333334	0.0	video off	4	209017	n/a
 174.42	0.0	resp	3	209304	n/a
-175.18083333333334	0.0	video on	5	210217	v_Cleaning shoes_id_MO1gm3Yxewk_start_14.0_label_1
+175.18083333333334	0.0	video on	5	210217	n/a
 177.18083333333334	0.0	video off	4	212617	n/a
 177.42833333333334	0.0	resp	3	212914	n/a
 178.18	0.0	video on	5	213816	v_Wakeboarding_id_tFIoWfn2x4w_start_15.0_label_1
@@ -150,7 +150,7 @@ onset	duration	trial_type	value	sample	stim_id
 187.18	0.0	video on	5	224616	v_Ping-pong_id_1GTxuHnBHTc_start_11.5_label_1
 189.18	0.0	video off	4	227016	n/a
 189.5325	0.0	resp	3	227439	n/a
-190.18	0.0	video on	5	228216	v_Polishing forniture_id_AA6nXQMyfhU_start_93.0_label_1
+190.18	0.0	video on	5	228216	n/a
 192.2133333333333	0.0	video off	4	230656	n/a
 192.5	0.0	resp	3	231000	n/a
 193.18	0.0	video on	5	231816	v_Tango_id_jADU5kwXBwQ_start_100.0_label_1

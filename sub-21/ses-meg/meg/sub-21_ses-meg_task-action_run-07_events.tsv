@@ -90,7 +90,7 @@ onset	duration	trial_type	value	sample	stim_id
 108.73833333333332	0.0	video on	5	130486	v_Using the balance beam_id_tBlOuiyWH5o_start_55.0_label_1
 110.75583333333331	0.0	video off	4	132907	n/a
 111.11166666666666	0.0	resp	3	133334	n/a
-114.73833333333332	0.0	video on	5	137686	v_Using the rowing machine_id_vz65uoW1j2k_start_92.5_label_1
+114.73833333333332	0.0	video on	5	137686	n/a
 116.78833333333333	0.0	video off	4	140146	n/a
 117.11166666666666	0.0	resp	3	140534	n/a
 117.73833333333332	0.0	video on	5	141286	v_Belly dance_id_A172MDkHiZU_start_183.5_label_1
@@ -180,7 +180,7 @@ onset	duration	trial_type	value	sample	stim_id
 216.7516666666667	0.0	video on	5	260102	v_Preparing salad_id_O85ad4UU5q8_start_56.0_label_1
 218.7516666666667	0.0	video off	4	262502	n/a
 219.03333333333333	0.0	resp	3	262840	n/a
-222.7516666666667	0.0	video on	5	267302	v_Playing lacrosse_id_dhnHCmmvNA8_start_11.0_label_1
+222.7516666666667	0.0	video on	5	267302	n/a
 224.7516666666667	0.0	video off	4	269702	n/a
 225.03333333333333	0.0	resp	3	270040	n/a
 225.7516666666667	0.0	video on	5	270902	v_Hanging wallpaper_id_FgA2Ulxp8PU_start_96.0_label_1

@@ -24,7 +24,7 @@ onset	duration	trial_type	value	sample	stim_id
 29.026	0.0	video on	5	29026	v_Plataform diving_id_gmVqX-hbSwo_start_55.0_label_1
 31.023	0.0	video off	4	31023	n/a
 31.496	0.0	resp	3	31496	n/a
-32.027	0.0	video on	5	32027	v_Playing kickball_id_xrzz2qD8hv0_start_9.5_label_1
+32.027	0.0	video on	5	32027	n/a
 34.043	0.0	video off	4	34043	n/a
 35.0	0.0	resp	3	35000	n/a
 35.122	0.0	video on	5	35122	v_Using parallel bars_id_u_QQ4K_fx_k_start_3.5_label_1
@@ -110,7 +110,7 @@ onset	duration	trial_type	value	sample	stim_id
 133.761	0.0	resp	3	133761	n/a
 134.028	0.0	video on	5	134028	v_Braiding hair_id_cPDdqow4558_start_70.0_label_1
 136.041	0.0	video off	4	136041	n/a
-137.027	0.0	video on	5	137027	v_Sumo_id_XKUZ-wYrLxM_start_46.5_label_1
+137.027	0.0	video on	5	137027	n/a
 139.032	0.0	video off	4	139032	n/a
 140.027	0.0	video on	5	140027	v_Vacuuming floor_id_ZuM_kdFmosw_start_5.5_label_1
 142.037	0.0	video off	4	142037	n/a
@@ -148,7 +148,7 @@ onset	duration	trial_type	value	sample	stim_id
 188.028	0.0	video on	5	188028	v_Bullfighting_id_YVdQfSWvFqs_start_142.0_label_1
 190.04	0.0	video off	4	190040	n/a
 190.698	0.0	resp	3	190698	n/a
-191.03	0.0	video on	5	191030	v_Bathing dog_id_i7CdocUo3EI_start_87.5_label_1
+191.03	0.0	video on	5	191030	n/a
 193.04	0.0	video off	4	193040	n/a
 194.029	0.0	video on	5	194029	v_Hopscotch_id_ECDEOXrsPxs_start_64.0_label_1
 196.033	0.0	video off	4	196033	n/a
@@ -203,7 +203,7 @@ onset	duration	trial_type	value	sample	stim_id
 260.029	0.0	video on	5	260029	v_Shuffleboard_id_H65l8dbKbUo_start_13.5_label_1
 262.036	0.0	video off	4	262036	n/a
 262.595	0.0	resp	3	262595	n/a
-263.034	0.0	video on	5	263034	v_Running a marathon_id_lMUKK9C-h_0_start_16.5_label_1
+263.034	0.0	video on	5	263034	n/a
 265.033	0.0	video off	4	265033	n/a
 265.539	0.0	resp	3	265539	n/a
 266.03	0.0	video on	5	266030	v_Swimming_id_jd_QfhTSFAU_start_65.0_label_1
@@ -220,7 +220,7 @@ onset	duration	trial_type	value	sample	stim_id
 280.731	0.0	resp	3	280731	n/a
 281.029	0.0	video on	5	281029	v_Doing motocross_id_X30qy7iTJC0_start_36.0_label_1
 283.032	0.0	video off	4	283032	n/a
-284.03	0.0	video on	5	284030	v_Spread mulch_id_9-LNTYSlLmw_start_45.0_label_1
+284.03	0.0	video on	5	284030	n/a
 286.037	0.0	video off	4	286037	n/a
 287.03	0.0	video on	5	287030	v_Getting a piercing_id_W78jcaYspig_start_90.0_label_1
 289.044	0.0	video off	4	289044	n/a

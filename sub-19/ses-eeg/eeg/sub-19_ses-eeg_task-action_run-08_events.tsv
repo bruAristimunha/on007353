@@ -224,7 +224,7 @@ onset	duration	trial_type	value	sample	stim_id
 275.031	0.0	video on	5	275031	v_Cleaning shoes_id_xwRmVKBppB0_start_108.5_label_1
 277.035	0.0	video off	4	277035	n/a
 277.587	0.0	resp	3	277587	n/a
-278.028	0.0	video on	5	278028	v_Painting furniture_id_l9AksDDtREE_start_124.0_label_1
+278.028	0.0	video on	5	278028	n/a
 280.043	0.0	video off	4	280043	n/a
 280.667	0.0	resp	3	280667	n/a
 281.028	0.0	video on	5	281028	v_Baking cookies_id_nLwUw7NjOTc_start_79.0_label_1
@@ -245,12 +245,12 @@ onset	duration	trial_type	value	sample	stim_id
 299.028	0.0	video on	5	299028	v_Ballet_id_FbwYARgdD3Y_start_4.0_label_1
 301.036	0.0	video off	4	301036	n/a
 301.499	0.0	resp	3	301499	n/a
-302.03	0.0	video on	5	302030	v_Hanging wallpaper_id_0bPaM2R8SUA_start_46.5_label_1
+302.03	0.0	video on	5	302030	n/a
 304.04	0.0	video off	4	304040	n/a
 304.819	0.0	resp	3	304819	n/a
 305.035	0.0	video on	5	305035	v_Spread mulch_id_irjwX3qgtTg_start_83.5_label_1
 307.039	0.0	video off	4	307039	n/a
-311.029	0.0	video on	5	311029	v_Throwing darts_id_adetk0QtmKY_start_5.5_label_1
+311.029	0.0	video on	5	311029	n/a
 313.035	0.0	video off	4	313035	n/a
 313.555	0.0	resp	3	313555	n/a
 314.029	0.0	video on	5	314029	v_Raking leaves_id_1YD5roUPp54_start_113.5_label_1

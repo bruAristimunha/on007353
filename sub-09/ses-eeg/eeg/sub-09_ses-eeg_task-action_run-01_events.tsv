@@ -9,7 +9,7 @@ onset	duration	trial_type	value	sample	stim_id
 6.497	0.0	video on	5	6497	v_Laying tile_id_XZah4Ac0W8A_start_77.0_label_1
 8.502	0.0	video off	4	8502	n/a
 9.088	0.0	resp	3	9088	n/a
-9.498	0.0	video on	5	9498	v_Playing water polo_id_DP4cJ4z9F6A_start_63.5_label_1
+9.498	0.0	video on	5	9498	n/a
 11.497	0.0	video off	4	11497	n/a
 11.92	0.0	resp	3	11920	n/a
 12.498	0.0	video on	5	12498	v_Hitting a pinata_id_Inr7H3Uw6JU_start_70.0_label_1
@@ -30,7 +30,7 @@ onset	duration	trial_type	value	sample	stim_id
 30.498	0.0	video on	5	30498	v_Hand washing clothes_id_vQ2unJ-4CZQ_start_9.0_label_1
 32.503	0.0	video off	4	32503	n/a
 33.056	0.0	resp	3	33056	n/a
-36.498	0.0	video on	5	36498	v_Scuba diving_id_gCFTDvb3QEE_start_8.0_label_1
+36.498	0.0	video on	5	36498	n/a
 38.501	0.0	video off	4	38501	n/a
 38.896	0.0	resp	3	38896	n/a
 39.497	0.0	video on	5	39497	v_Raking leaves_id_fIG7aXzSyMU_start_2.0_label_1
@@ -194,7 +194,7 @@ onset	duration	trial_type	value	sample	stim_id
 228.5	0.0	video on	5	228500	v_Decorating the Christmas tree_id_MxYa4WTV8Zs_start_47.0_label_1
 230.495	0.0	video off	4	230495	n/a
 231.018	0.0	resp	3	231018	n/a
-234.5	0.0	video on	5	234500	v_Fun sliding down_id_L452nvTyLcM_start_85.0_label_1
+234.5	0.0	video on	5	234500	n/a
 236.538	0.0	video off	4	236538	n/a
 237.042	0.0	resp	3	237042	n/a
 237.5	0.0	video on	5	237500	v_Doing karate_id_2oY4gN78e0I_start_27.5_label_1
@@ -209,7 +209,7 @@ onset	duration	trial_type	value	sample	stim_id
 246.5	0.0	video on	5	246500	v_Polishing forniture_id_ED6ll2g6evY_start_104.0_label_1
 248.502	0.0	video off	4	248502	n/a
 249.17	0.0	resp	3	249170	n/a
-252.5	0.0	video on	5	252500	v_Putting in contact lenses_id_RVhjgt4HcIM_start_35.5_label_1
+252.5	0.0	video on	5	252500	n/a
 254.504	0.0	video off	4	254504	n/a
 255.106	0.0	resp	3	255106	n/a
 255.5	0.0	video on	5	255500	v_Using the pommel horse_id_Uu463_AtFWM_start_30.0_label_1

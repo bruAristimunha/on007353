@@ -76,7 +76,7 @@ onset	duration	trial_type	value	sample	stim_id
 96.345	0.0	resp	3	96345	n/a
 96.562	0.0	video on	5	96562	v_Doing crunches_id_uX-UwKfRvJY_start_68.5_label_1
 98.571	0.0	video off	4	98571	n/a
-99.493	0.0	video on	5	99493	v_Putting on shoes_id_F2Igw6lvqwk_start_19.5_label_1
+99.493	0.0	video on	5	99493	n/a
 101.503	0.0	video off	4	101503	n/a
 102.5	0.0	video on	5	102500	v_Snatch_id_1mxcyByOfIY_start_13.0_label_1
 104.504	0.0	video off	4	104504	n/a

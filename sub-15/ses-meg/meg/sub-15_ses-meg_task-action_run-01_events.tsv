@@ -1,6 +1,6 @@
 onset	duration	trial_type	value	sample	stim_id
 3.236666666666667	0.0	begin	1	3884	n/a
-8.278333333333334	0.0	video on	5	9934	v_Putting on shoes_id_kDZnUjXMr4A_start_42.5_label_1
+8.278333333333334	0.0	video on	5	9934	n/a
 10.278333333333334	0.0	video off	4	12334	n/a
 10.819166666666666	0.0	resp	3	12983	n/a
 11.261666666666668	0.0	video on	5	13514	v_Playing accordion_id_GiuQqZUvDRs_start_0.5_label_1
@@ -108,7 +108,7 @@ onset	duration	trial_type	value	sample	stim_id
 134.2575	0.0	video on	5	161109	v_Cleaning windows_id_dk6mEZuYd_0_start_28.5_label_1
 136.2575	0.0	video off	4	163509	n/a
 136.6525	0.0	resp	3	163983	n/a
-137.2575	0.0	video on	5	164709	v_Preparing pasta_id_VGXNuaYloPw_start_70.0_label_1
+137.2575	0.0	video on	5	164709	n/a
 139.27416666666667	0.0	video off	4	167129	n/a
 139.83666666666667	0.0	resp	3	167804	n/a
 140.2575	0.0	video on	5	168309	v_Walking the dog_id_-p288FKdSlg_start_85.0_label_1
@@ -168,7 +168,7 @@ onset	duration	trial_type	value	sample	stim_id
 206.27166666666668	0.0	video on	5	247526	v_Shot put_id_Cy2lgwuOHNo_start_68.5_label_1
 208.27166666666668	0.0	video off	4	249926	n/a
 208.81333333333333	0.0	resp	3	250576	n/a
-209.27166666666668	0.0	video on	5	251126	v_Using the monkey bar_id_aAGlEZYWm8M_start_24.5_label_1
+209.27166666666668	0.0	video on	5	251126	n/a
 211.27166666666668	0.0	video off	4	253526	n/a
 211.6533333333333	0.0	resp	3	253984	n/a
 212.27166666666668	0.0	video on	5	254726	v_Bathing dog_id_FVXeoNIJyRI_start_44.5_label_1
@@ -186,7 +186,7 @@ onset	duration	trial_type	value	sample	stim_id
 227.27083333333331	0.0	video on	5	272725	v_Making a lemonade_id_KfQBtytzQws_start_136.0_label_1
 229.27083333333331	0.0	video off	4	275125	n/a
 229.82166666666663	0.0	resp	3	275786	n/a
-230.27083333333331	0.0	video on	5	276325	v_Playing kickball_id_Po5Vchcx7BQ_start_61.5_label_1
+230.27083333333331	0.0	video on	5	276325	n/a
 232.25416666666663	0.0	video off	4	278705	n/a
 232.90166666666667	0.0	resp	3	279482	n/a
 233.27083333333331	0.0	video on	5	279925	v_Kneeling_id_lXTIgmTUXio_start_14.5_label_1
@@ -210,10 +210,10 @@ onset	duration	trial_type	value	sample	stim_id
 254.27	0.0	video on	5	305124	v_Painting_id_xMEI6wR7_UQ_start_109.5_label_1
 256.27	0.0	video off	4	307524	n/a
 256.63	0.0	resp	3	307956	n/a
-260.27	0.0	video on	5	312324	v_Cleaning shoes_id_mRlBVxeEA0k_start_35.5_label_1
+260.27	0.0	video on	5	312324	n/a
 262.27	0.0	video off	4	314724	n/a
 262.7341666666667	0.0	resp	3	315281	n/a
-263.27	0.0	video on	5	315924	v_Spread mulch_id__w9ThbrQCb4_start_138.0_label_1
+263.27	0.0	video on	5	315924	n/a
 265.27	0.0	video off	4	318324	n/a
 266.24583333333334	0.0	resp	3	319495	n/a
 266.30333333333334	0.0	video on	5	319564	v_Using the pommel horse_id_oNRacs6vv-w_start_17.0_label_1

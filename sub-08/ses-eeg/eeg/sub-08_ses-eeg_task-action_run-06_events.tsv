@@ -156,7 +156,7 @@ onset	duration	trial_type	value	sample	stim_id
 188.027	0.0	video on	5	188027	v_Doing karate_id_W93w6aw26Ls_start_111.5_label_1
 190.03	0.0	video off	4	190030	n/a
 190.521	0.0	resp	3	190521	n/a
-191.027	0.0	video on	5	191027	v_Putting in contact lenses_id_RVhjgt4HcIM_start_37.5_label_1
+191.027	0.0	video on	5	191027	n/a
 193.036	0.0	video off	4	193036	n/a
 193.474	0.0	resp	3	193474	n/a
 194.028	0.0	video on	5	194028	v_Playing rubik cube_id_vGHVt6jeSMU_start_11.0_label_1
@@ -207,7 +207,7 @@ onset	duration	trial_type	value	sample	stim_id
 248.028	0.0	video on	5	248028	v_Disc dog_id_PqK5x7sq8oQ_start_143.5_label_1
 250.041	0.0	video off	4	250041	n/a
 250.618	0.0	resp	3	250618	n/a
-251.028	0.0	video on	5	251028	v_Using parallel bars_id_Zmv4mToIs7Y_start_38.0_label_1
+251.028	0.0	video on	5	251028	n/a
 253.031	0.0	video off	4	253031	n/a
 253.506	0.0	resp	3	253506	n/a
 257.028	0.0	video on	5	257028	v_Sumo_id_1iQtYSS8fP0_start_10.5_label_1
@@ -236,7 +236,7 @@ onset	duration	trial_type	value	sample	stim_id
 284.029	0.0	video on	5	284029	v_Ping-pong_id_g6HNL5kYTzg_start_169.5_label_1
 286.029	0.0	video off	4	286029	n/a
 286.627	0.0	resp	3	286627	n/a
-287.028	0.0	video on	5	287028	v_Using the monkey bar_id_Fnz1P56mAI0_start_35.5_label_1
+287.028	0.0	video on	5	287028	n/a
 289.031	0.0	video off	4	289031	n/a
 289.618	0.0	resp	3	289618	n/a
 293.028	0.0	video on	5	293028	v_Polishing shoes_id_UeSwTJXWOQI_start_20.5_label_1
@@ -257,7 +257,7 @@ onset	duration	trial_type	value	sample	stim_id
 311.028	0.0	video on	5	311028	v_Kneeling_id_DCYz8p4zH6o_start_12.0_label_1
 313.035	0.0	video off	4	313035	n/a
 313.747	0.0	resp	3	313747	n/a
-314.027	0.0	video on	5	314027	v_Polishing forniture_id_NOrZMyIwcno_start_25.0_label_1
+314.027	0.0	video on	5	314027	n/a
 316.027	0.0	video off	4	316027	n/a
 316.658	0.0	resp	3	316658	n/a
 317.029	0.0	video on	5	317029	v_Smoking a cigarette_id_k9r3eRTh3C4_start_81.0_label_1

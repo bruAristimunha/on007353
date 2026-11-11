@@ -209,7 +209,7 @@ onset	duration	trial_type	value	sample	stim_id
 260.029	0.0	video on	5	260029	v_Assembling bicycle_id_h-YIf9tZGp8_start_69.0_label_1
 262.026	0.0	video off	4	262026	n/a
 262.49	0.0	resp	3	262490	n/a
-263.028	0.0	video on	5	263028	v_Building sandcastles_id_FdDXu-93w1Q_start_8.0_label_1
+263.028	0.0	video on	5	263028	n/a
 265.028	0.0	video off	4	265028	n/a
 265.45	0.0	resp	3	265450	n/a
 266.027	0.0	video on	5	266027	v_Hula hoop_id_nlaQl2agdNE_start_19.5_label_1

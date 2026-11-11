@@ -54,7 +54,7 @@ onset	duration	trial_type	value	sample	stim_id
 68.535	0.0	video on	5	82242	v_Grooming dog_id_klwbYpTx_uE_start_151.5_label_1
 70.585	0.0	video off	4	84702	n/a
 70.95416666666667	0.0	resp	3	85145	n/a
-71.535	0.0	video on	5	85842	v_Preparing pasta_id_NUHJ60V_N-U_start_181.0_label_1
+71.535	0.0	video on	5	85842	n/a
 73.55166666666666	0.0	video off	4	88262	n/a
 73.8425	0.0	resp	3	88611	n/a
 74.535	0.0	video on	5	89442	v_Hurling_id_mIyvH9eqjeU_start_45.0_label_1
@@ -63,7 +63,7 @@ onset	duration	trial_type	value	sample	stim_id
 80.53416666666666	0.0	video on	5	96641	v_Sumo_id_YmIAfFBLvGQ_start_14.5_label_1
 82.58416666666666	0.0	video off	4	99101	n/a
 82.93833333333333	0.0	resp	3	99526	n/a
-83.53416666666666	0.0	video on	5	100241	v_Putting on shoes_id_21JNfqA9jI8_start_17.0_label_1
+83.53416666666666	0.0	video on	5	100241	n/a
 85.55166666666666	0.0	video off	4	102662	n/a
 85.98583333333333	0.0	resp	3	103183	n/a
 86.53416666666666	0.0	video on	5	103841	v_Windsurfing_id_xC9m0YQm8Oo_start_2.0_label_1
@@ -207,7 +207,7 @@ onset	duration	trial_type	value	sample	stim_id
 251.545	0.0	video on	5	301854	v_Snowboarding_id_q7lBKcTltZg_start_2.0_label_1
 253.545	0.0	video off	4	304254	n/a
 254.0275	0.0	resp	3	304833	n/a
-254.545	0.0	video on	5	305454	v_Polishing forniture_id_i5a6yR2Ng6I_start_46.5_label_1
+254.545	0.0	video on	5	305454	n/a
 256.5458333333333	0.0	video off	4	307855	n/a
 257.03583333333336	0.0	resp	3	308443	n/a
 260.545	0.0	video on	5	312654	v_Beach soccer_id_uXQ1UCzxot4_start_24.0_label_1

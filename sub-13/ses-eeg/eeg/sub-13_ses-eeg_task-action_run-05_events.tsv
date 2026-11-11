@@ -9,7 +9,7 @@ onset	duration	trial_type	value	sample	stim_id
 11.028	0.0	video on	5	11028	v_Doing crunches_id__sfq6ptdJqk_start_91.5_label_1
 13.036	0.0	video off	4	13036	n/a
 13.536	0.0	resp	3	13536	n/a
-14.027	0.0	video on	5	14027	v_Bathing dog_id_fdqEc7SwUh0_start_159.0_label_1
+14.027	0.0	video on	5	14027	n/a
 16.031	0.0	video off	4	16031	n/a
 16.496	0.0	resp	3	16496	n/a
 17.027	0.0	video on	5	17027	v_Beer pong_id_PhCZViAcY5o_start_135.5_label_1
@@ -18,7 +18,7 @@ onset	duration	trial_type	value	sample	stim_id
 23.029	0.0	video on	5	23029	v_Swinging at the playground_id_LAJDGv_ZNvs_start_1.5_label_1
 25.037	0.0	video off	4	25037	n/a
 25.576	0.0	resp	3	25576	n/a
-26.028	0.0	video on	5	26028	v_Spread mulch_id_gqIAorY_hFk_start_30.5_label_1
+26.028	0.0	video on	5	26028	n/a
 28.037	0.0	video off	4	28037	n/a
 28.632	0.0	resp	3	28632	n/a
 29.027	0.0	video on	5	29027	v_Walking the dog_id_teRdd8D9F0A_start_9.0_label_1
@@ -150,7 +150,7 @@ onset	duration	trial_type	value	sample	stim_id
 179.029	0.0	video on	5	179029	v_Painting fence_id_EZsumzBA68I_start_35.5_label_1
 181.032	0.0	video off	4	181032	n/a
 181.569	0.0	resp	3	181569	n/a
-185.029	0.0	video on	5	185029	v_Putting in contact lenses_id_RVhjgt4HcIM_start_17.5_label_1
+185.029	0.0	video on	5	185029	n/a
 187.069	0.0	video off	4	187069	n/a
 187.553	0.0	resp	3	187553	n/a
 188.029	0.0	video on	5	188029	v_Using the pommel horse_id_Wlp_NSS4GsQ_start_6.5_label_1
@@ -258,7 +258,7 @@ onset	duration	trial_type	value	sample	stim_id
 314.03	0.0	video on	5	314030	v_Rope skipping_id_pLo8dI3zW9U_start_56.5_label_1
 316.037	0.0	video off	4	316037	n/a
 316.53	0.0	resp	3	316530	n/a
-317.031	0.0	video on	5	317031	v_Polishing shoes_id_ICBzTH0OQtM_start_76.5_label_1
+317.031	0.0	video on	5	317031	n/a
 319.027	0.0	video off	4	319027	n/a
 319.626	0.0	resp	3	319626	n/a
 320.03	0.0	video on	5	320030	v_Snowboarding_id_HBZu7CPa5WQ_start_57.0_label_1

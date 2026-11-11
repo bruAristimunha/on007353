@@ -3,7 +3,7 @@ onset	duration	trial_type	value	sample	stim_id
 5.028	0.0	video on	5	5028	v_Washing dishes_id_G-_VzCN8IbY_start_31.5_label_1
 7.038	0.0	video off	4	7038	n/a
 7.472	0.0	resp	3	7472	n/a
-8.026	0.0	video on	5	8026	v_Using the rowing machine_id_0c3sivWZg9Y_start_14.5_label_1
+8.026	0.0	video on	5	8026	n/a
 10.035	0.0	video off	4	10035	n/a
 10.576	0.0	resp	3	10576	n/a
 11.027	0.0	video on	5	11027	v_Making a cake_id_UOjfCLUmyEY_start_86.5_label_1
@@ -70,7 +70,7 @@ onset	duration	trial_type	value	sample	stim_id
 89.027	0.0	video on	5	89027	v_Making a lemonade_id_pe3_OHrwE-4_start_34.0_label_1
 91.032	0.0	video off	4	91032	n/a
 91.585	0.0	resp	3	91585	n/a
-95.027	0.0	video on	5	95027	v_Using uneven bars_id_faq02vuLxKE_start_44.5_label_1
+95.027	0.0	video on	5	95027	n/a
 97.025	0.0	video off	4	97025	n/a
 97.753	0.0	resp	3	97753	n/a
 98.027	0.0	video on	5	98027	v_Playing harmonica_id_yit8IgwR9wc_start_72.5_label_1
@@ -212,7 +212,7 @@ onset	duration	trial_type	value	sample	stim_id
 263.028	0.0	video on	5	263028	v_Mixing drinks_id_-A_BbyTmpx8_start_101.5_label_1
 265.033	0.0	video off	4	265033	n/a
 265.459	0.0	resp	3	265459	n/a
-266.029	0.0	video on	5	266029	v_Bathing dog_id_Vpb89P9VgV0_start_16.5_label_1
+266.029	0.0	video on	5	266029	n/a
 268.038	0.0	video off	4	268038	n/a
 268.626	0.0	resp	3	268626	n/a
 269.029	0.0	video on	5	269029	v_Longboarding_id_3nWv9lX79Yw_start_48.5_label_1
@@ -236,7 +236,7 @@ onset	duration	trial_type	value	sample	stim_id
 293.028	0.0	video on	5	293028	v_Playing piano_id_eIalAG-1PzQ_start_99.0_label_1
 295.03	0.0	video off	4	295030	n/a
 295.443	0.0	resp	3	295443	n/a
-296.029	0.0	video on	5	296029	v_Preparing pasta_id_NUHJ60V_N-U_start_131.5_label_1
+296.029	0.0	video on	5	296029	n/a
 298.065	0.0	video off	4	298065	n/a
 298.843	0.0	resp	3	298843	n/a
 299.03	0.0	video on	5	299030	v_Grooming dog_id_dFprge-qhU0_start_57.5_label_1

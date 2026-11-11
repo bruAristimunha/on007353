@@ -18,10 +18,10 @@ onset	duration	trial_type	value	sample	stim_id
 23.025	0.0	video on	5	23025	v_Playing badminton_id_iAiI9suVbGg_start_4.5_label_1
 25.026	0.0	video off	4	25026	n/a
 25.376	0.0	resp	3	25376	n/a
-26.026	0.0	video on	5	26026	v_Bathing dog_id_8ClpQ4q6NmM_start_3.0_label_1
+26.026	0.0	video on	5	26026	n/a
 28.032	0.0	video off	4	28032	n/a
 28.408	0.0	resp	3	28408	n/a
-29.025	0.0	video on	5	29025	v_Drinking coffee_id_2IfW2leGdzQ_start_127.0_label_1
+29.025	0.0	video on	5	29025	n/a
 31.071	0.0	video off	4	31071	n/a
 31.424	0.0	resp	3	31424	n/a
 32.025	0.0	video on	5	32025	v_Putting on makeup_id_SL8Ko7oYXxQ_start_77.5_label_1
@@ -30,13 +30,13 @@ onset	duration	trial_type	value	sample	stim_id
 35.025	0.0	video on	5	35025	v_Powerbocking_id_teDceMxV9PA_start_31.5_label_1
 37.031	0.0	video off	4	37031	n/a
 37.4	0.0	resp	3	37400	n/a
-41.026	0.0	video on	5	41026	v_Painting furniture_id_keE8_yKuVW0_start_27.0_label_1
+41.026	0.0	video on	5	41026	n/a
 43.027	0.0	video off	4	43027	n/a
 43.416	0.0	resp	3	43416	n/a
-44.025	0.0	video on	5	44025	v_Playing water polo_id_bv0XSLgf79Q_start_9.5_label_1
+44.025	0.0	video on	5	44025	n/a
 46.034	0.0	video off	4	46034	n/a
 46.448	0.0	resp	3	46448	n/a
-47.025	0.0	video on	5	47025	v_Using the rowing machine_id_dsqdy3IsrAw_start_106.5_label_1
+47.025	0.0	video on	5	47025	n/a
 49.035	0.0	video off	4	49035	n/a
 49.528	0.0	resp	3	49528	n/a
 50.025	0.0	video on	5	50025	v_Belly dance_id_vd8Fs7ygUgM_start_20.0_label_1
@@ -92,7 +92,7 @@ onset	duration	trial_type	value	sample	stim_id
 109.448	0.0	resp	3	109448	n/a
 113.026	0.0	video on	5	113026	v_Rafting_id_fWhcoQWfzNc_start_10.5_label_1
 115.028	0.0	video off	4	115028	n/a
-116.027	0.0	video on	5	116027	v_Playing kickball_id_DrPEsy2nMuI_start_34.0_label_1
+116.027	0.0	video on	5	116027	n/a
 118.039	0.0	video off	4	118039	n/a
 118.568	0.0	resp	3	118568	n/a
 119.026	0.0	video on	5	119026	v_Waxing skis_id_ZJV8Lw76-jw_start_10.0_label_1
@@ -216,7 +216,7 @@ onset	duration	trial_type	value	sample	stim_id
 263.028	0.0	video on	5	263028	v_Arm wrestling_id_6rlGh1gLzRA_start_0.5_label_1
 265.027	0.0	video off	4	265027	n/a
 265.45	0.0	resp	3	265450	n/a
-266.028	0.0	video on	5	266028	v_Shaving_id_3HZWvvaCBm4_start_47.0_label_1
+266.028	0.0	video on	5	266028	n/a
 268.034	0.0	video off	4	268034	n/a
 268.386	0.0	resp	3	268386	n/a
 269.028	0.0	video on	5	269028	v_Plastering_id_2KYGAq5qQCI_start_52.5_label_1
@@ -237,13 +237,13 @@ onset	duration	trial_type	value	sample	stim_id
 287.028	0.0	video on	5	287028	v_Ice fishing_id_zL7owzAfkrQ_start_60.5_label_1
 289.07	0.0	video off	4	289070	n/a
 289.866	0.0	resp	3	289866	n/a
-293.028	0.0	video on	5	293028	v_Putting on shoes_id_hf3DDs4-ZSw_start_3.5_label_1
+293.028	0.0	video on	5	293028	n/a
 295.031	0.0	video off	4	295031	n/a
 295.426	0.0	resp	3	295426	n/a
 296.028	0.0	video on	5	296028	v_Using the balance beam_id_rUK04hNdEPY_start_0.5_label_1
 298.036	0.0	video off	4	298036	n/a
 298.458	0.0	resp	3	298458	n/a
-299.027	0.0	video on	5	299027	v_Sumo_id_BdMKqLfnZiw_start_17.5_label_1
+299.027	0.0	video on	5	299027	n/a
 301.027	0.0	video off	4	301027	n/a
 301.41	0.0	resp	3	301410	n/a
 302.028	0.0	video on	5	302028	v_Grooming horse_id_IEYazgaOCLE_start_67.5_label_1

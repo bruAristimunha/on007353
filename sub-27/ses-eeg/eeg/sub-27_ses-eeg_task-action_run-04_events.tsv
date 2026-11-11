@@ -147,7 +147,7 @@ onset	duration	trial_type	value	sample	stim_id
 188.028	0.0	video on	5	188028	v_Volleyball_id_nkWgJGfVB1s_start_27.5_label_1
 190.034	0.0	video off	4	190034	n/a
 190.402	0.0	resp	3	190402	n/a
-191.028	0.0	video on	5	191028	v_Bathing dog_id_GpB2N7OI2as_start_16.0_label_1
+191.028	0.0	video on	5	191028	n/a
 193.033	0.0	video off	4	193033	n/a
 193.307	0.0	resp	3	193307	n/a
 194.028	0.0	video on	5	194028	v_Playing harmonica_id_3e7q2Q8jrvM_start_18.0_label_1
@@ -244,7 +244,7 @@ onset	duration	trial_type	value	sample	stim_id
 314.03	0.0	video on	5	314030	v_Playing beach volleyball_id_jRK777XCEc0_start_13.5_label_1
 316.039	0.0	video off	4	316039	n/a
 316.379	0.0	resp	3	316379	n/a
-317.029	0.0	video on	5	317029	v_Painting fence_id_9-xf_gylOR0_start_17.5_label_1
+317.029	0.0	video on	5	317029	n/a
 319.031	0.0	video off	4	319031	n/a
 319.083	0.0	resp	3	319083	n/a
 320.03	0.0	video on	5	320030	v_Sharpening knives_id_Cb2DVOycK1c_start_14.0_label_1

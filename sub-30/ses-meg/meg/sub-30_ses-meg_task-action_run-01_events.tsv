@@ -69,7 +69,7 @@ onset	duration	trial_type	value	sample	stim_id
 87.27	0.0	video on	5	104724	v_Wakeboarding_id_8BMQJxl80AI_start_47.0_label_1
 89.28666666666666	0.0	video off	4	107144	n/a
 89.53416666666666	0.0	resp	3	107441	n/a
-90.27	0.0	video on	5	108324	v_Using the rowing machine_id_ItYhyEMt0qg_start_20.0_label_1
+90.27	0.0	video on	5	108324	n/a
 92.27	0.0	video off	4	110724	n/a
 92.59	0.0	resp	3	111108	n/a
 93.28666666666666	0.0	video on	5	111944	v_Capoeira_id_F4bWTkEMvXY_start_45.0_label_1
@@ -110,7 +110,7 @@ onset	duration	trial_type	value	sample	stim_id
 138.26833333333337	0.0	video on	5	165922	v_Playing field hockey_id_h57ZVfhw2H4_start_41.5_label_1
 140.26833333333337	0.0	video off	4	168322	n/a
 140.6225	0.0	resp	3	168747	n/a
-141.26833333333337	0.0	video on	5	169522	v_Croquet_id_1PeY7u3pB6Y_start_4.5_label_1
+141.26833333333337	0.0	video on	5	169522	n/a
 143.26833333333337	0.0	video off	4	171922	n/a
 143.6225	0.0	resp	3	172347	n/a
 144.26833333333337	0.0	video on	5	173122	v_Playing ice hockey_id_2y_wtGtHFEA_start_104.0_label_1
@@ -137,13 +137,13 @@ onset	duration	trial_type	value	sample	stim_id
 171.28416666666666	0.0	video on	5	205541	v_Painting fence_id_DNWWaGvHOxo_start_154.5_label_1
 173.2675	0.0	video off	4	207921	n/a
 173.335	0.0	resp	3	208002	n/a
-174.28333333333333	0.0	video on	5	209140	v_Spread mulch_id_BkM1hcBgDJk_start_12.0_label_1
+174.28333333333333	0.0	video on	5	209140	n/a
 176.28333333333333	0.0	video off	4	211540	n/a
 176.6625	0.0	resp	3	211995	n/a
 177.28333333333333	0.0	video on	5	212740	v_Breakdancing_id_6J8u4rqKzLY_start_83.0_label_1
 179.28333333333333	0.0	video off	4	215140	n/a
 179.9425	0.0	resp	3	215931	n/a
-180.28333333333333	0.0	video on	5	216340	v_Painting furniture_id_0DLfq_YtcMw_start_96.5_label_1
+180.28333333333333	0.0	video on	5	216340	n/a
 182.26666666666668	0.0	video off	4	218720	n/a
 182.55083333333332	0.0	resp	3	219061	n/a
 183.28333333333333	0.0	video on	5	219940	v_Camel ride_id_qP6DE20-7DM_start_41.5_label_1
@@ -257,7 +257,7 @@ onset	duration	trial_type	value	sample	stim_id
 315.27916666666664	0.0	video on	5	378335	v_Having an ice cream_id_zJ3SPW-tVrQ_start_57.0_label_1
 317.3125	0.0	video off	4	380775	n/a
 317.6641666666667	0.0	resp	3	381197	n/a
-318.27916666666664	0.0	video on	5	381935	v_Polishing forniture_id_xEu0iBOaBFY_start_122.0_label_1
+318.27916666666664	0.0	video on	5	381935	n/a
 320.3125	0.0	video off	4	384375	n/a
 320.76	0.0	resp	3	384912	n/a
 321.27916666666664	0.0	video on	5	385535	v_Doing step aerobics_id_1zFEmL5lKYE_start_150.0_label_1

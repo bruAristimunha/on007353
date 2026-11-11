@@ -46,7 +46,7 @@ onset	duration	trial_type	value	sample	stim_id
 59.028	0.0	video on	5	59028	v_Washing hands_id_jka24ePK8zQ_start_43.5_label_1
 61.035	0.0	video off	4	61035	n/a
 61.785	0.0	resp	3	61785	n/a
-62.027	0.0	video on	5	62027	v_Croquet_id__G1CBu7eaZg_start_3.0_label_1
+62.027	0.0	video on	5	62027	n/a
 64.032	0.0	video off	4	64032	n/a
 64.497	0.0	resp	3	64497	n/a
 65.027	0.0	video on	5	65027	v_Cutting the grass_id_sOpDSuW0Y7o_start_16.5_label_1
@@ -180,7 +180,7 @@ onset	duration	trial_type	value	sample	stim_id
 227.03	0.0	video on	5	227030	v_Fixing bicycle_id_7FVhV6ddvmQ_start_47.5_label_1
 229.042	0.0	video off	4	229042	n/a
 229.915	0.0	resp	3	229915	n/a
-230.124	0.0	video on	5	230124	v_Playing kickball_id_nF8EY7DZuUc_start_27.5_label_1
+230.124	0.0	video on	5	230124	n/a
 232.166	0.0	video off	4	232166	n/a
 232.635	0.0	resp	3	232635	n/a
 233.03	0.0	video on	5	233030	v_BMX_id_EvWdC4d5nHU_start_10.5_label_1
@@ -214,7 +214,7 @@ onset	duration	trial_type	value	sample	stim_id
 269.033	0.0	video on	5	269033	v_Cleaning shoes_id_AN_10TElD88_start_163.0_label_1
 271.042	0.0	video off	4	271042	n/a
 271.787	0.0	resp	3	271787	n/a
-275.03	0.0	video on	5	275030	v_Using the rowing machine_id_9d0J08TK4BU_start_55.5_label_1
+275.03	0.0	video on	5	275030	n/a
 277.076	0.0	video off	4	277076	n/a
 277.587	0.0	resp	3	277587	n/a
 278.03	0.0	video on	5	278030	v_Wakeboarding_id_keSBDdnHyF0_start_142.5_label_1
@@ -234,9 +234,9 @@ onset	duration	trial_type	value	sample	stim_id
 295.603	0.0	resp	3	295603	n/a
 296.031	0.0	video on	5	296031	v_Playing harmonica_id_UdeCYcd9h7A_start_48.0_label_1
 298.032	0.0	video off	4	298032	n/a
-299.029	0.0	video on	5	299029	v_Using the monkey bar_id_vDe0fJ_tlKQ_start_9.5_label_1
+299.029	0.0	video on	5	299029	n/a
 301.037	0.0	video off	4	301037	n/a
-302.03	0.0	video on	5	302030	v_Painting fence_id_lB8n7BzfCzI_start_63.5_label_1
+302.03	0.0	video on	5	302030	n/a
 304.067	0.0	video off	4	304067	n/a
 305.03	0.0	video on	5	305030	v_Beer pong_id_-FsGnYDBAyI_start_1.5_label_1
 307.038	0.0	video off	4	307038	n/a

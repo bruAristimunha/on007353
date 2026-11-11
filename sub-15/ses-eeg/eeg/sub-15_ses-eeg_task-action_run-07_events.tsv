@@ -72,7 +72,7 @@ onset	duration	trial_type	value	sample	stim_id
 88.681	0.0	resp	3	88681	n/a
 89.029	0.0	video on	5	89029	v_Mooping floor_id_5p92VD0m0hc_start_24.5_label_1
 91.027	0.0	video off	4	91027	n/a
-95.029	0.0	video on	5	95029	v_Fixing the roof_id_F-RUDwUqI_s_start_50.0_label_1
+95.029	0.0	video on	5	95029	n/a
 97.038	0.0	video off	4	97038	n/a
 98.03	0.0	video on	5	98030	v_Doing fencing_id_6Qdkb5pHEbk_start_2.5_label_1
 100.036	0.0	video off	4	100036	n/a
@@ -112,7 +112,7 @@ onset	duration	trial_type	value	sample	stim_id
 140.029	0.0	video on	5	140029	v_Throwing darts_id_gI2qN82cazQ_start_30.5_label_1
 142.029	0.0	video off	4	142029	n/a
 142.49	0.0	resp	3	142490	n/a
-143.03	0.0	video on	5	143030	v_Playing blackjack_id_wVzSyHielaE_start_2.5_label_1
+143.03	0.0	video on	5	143030	n/a
 145.038	0.0	video off	4	145038	n/a
 145.682	0.0	resp	3	145682	n/a
 149.03	0.0	video on	5	149030	v_Playing harmonica_id_YYmovYOgbto_start_14.5_label_1
@@ -175,7 +175,7 @@ onset	duration	trial_type	value	sample	stim_id
 224.032	0.0	video on	5	224032	v_Shuffleboard_id_OOgRRys3Fwk_start_6.0_label_1
 226.036	0.0	video off	4	226036	n/a
 226.554	0.0	resp	3	226554	n/a
-227.03	0.0	video on	5	227030	v_Bathing dog_id_HE0EZhtaoGw_start_2.0_label_1
+227.03	0.0	video on	5	227030	n/a
 229.033	0.0	video off	4	229033	n/a
 229.554	0.0	resp	3	229554	n/a
 230.03	0.0	video on	5	230030	v_Canoeing_id_XYRVfty5gpc_start_15.5_label_1
@@ -196,7 +196,7 @@ onset	duration	trial_type	value	sample	stim_id
 248.03	0.0	video on	5	248030	v_Braiding hair_id_stOFU7-UeH8_start_146.0_label_1
 250.037	0.0	video off	4	250037	n/a
 250.658	0.0	resp	3	250658	n/a
-251.032	0.0	video on	5	251032	v_Polishing forniture_id_ExNhTXZSvf4_start_34.0_label_1
+251.032	0.0	video on	5	251032	n/a
 253.029	0.0	video off	4	253029	n/a
 253.555	0.0	resp	3	253555	n/a
 257.03	0.0	video on	5	257030	v_Hand washing clothes_id_F15oQMK3zoI_start_43.5_label_1
@@ -212,7 +212,7 @@ onset	duration	trial_type	value	sample	stim_id
 269.032	0.0	video on	5	269032	v_Playing polo_id_qfUoMcaAxAw_start_4.5_label_1
 271.041	0.0	video off	4	271041	n/a
 271.715	0.0	resp	3	271715	n/a
-275.03	0.0	video on	5	275030	v_Using the rowing machine_id_zJKedNWsZKY_start_49.0_label_1
+275.03	0.0	video on	5	275030	n/a
 277.042	0.0	video off	4	277042	n/a
 277.524	0.0	resp	3	277524	n/a
 278.03	0.0	video on	5	278030	v_Javelin throw_id_juH8YUlOMTg_start_15.0_label_1

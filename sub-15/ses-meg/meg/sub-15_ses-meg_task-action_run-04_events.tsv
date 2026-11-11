@@ -57,7 +57,7 @@ onset	duration	trial_type	value	sample	stim_id
 73.87583333333333	0.0	video on	5	88651	v_Doing karate_id_AVhQWqgCUtI_start_159.0_label_1
 75.92583333333333	0.0	video off	4	91111	n/a
 76.365	0.0	resp	3	91638	n/a
-79.87583333333333	0.0	video on	5	95851	v_Playing polo_id_clJ5YzMi8IA_start_44.5_label_1
+79.87583333333333	0.0	video on	5	95851	n/a
 81.875	0.0	video off	4	98250	n/a
 82.19666666666667	0.0	resp	3	98636	n/a
 82.875	0.0	video on	5	99450	v_Discus throw_id_jmaximHAWv4_start_2.0_label_1
@@ -201,7 +201,7 @@ onset	duration	trial_type	value	sample	stim_id
 250.88666666666663	0.0	video on	5	301064	v_Playing rubik cube_id_8L1_0G8x7kk_start_10.0_label_1
 252.88666666666663	0.0	video off	4	303464	n/a
 253.615	0.0	resp	3	304338	n/a
-253.88666666666663	0.0	video on	5	304664	v_Preparing pasta_id_aoDYMkSTHH8_start_90.5_label_1
+253.88666666666663	0.0	video on	5	304664	n/a
 255.88666666666663	0.0	video off	4	307064	n/a
 256.255	0.0	resp	3	307506	n/a
 259.8858333333333	0.0	video on	5	311863	v_Playing water polo_id_-LgrWthSo1Q_start_5.5_label_1

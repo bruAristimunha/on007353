@@ -114,7 +114,7 @@ onset	duration	trial_type	value	sample	stim_id
 143.026	0.0	video on	5	143026	v_Capoeira_id_sm0GOaixy58_start_5.0_label_1
 145.033	0.0	video off	4	145033	n/a
 145.521	0.0	resp	3	145521	n/a
-149.027	0.0	video on	5	149027	v_Waxing skis_id_yT0ZYOfShrg_start_70.0_label_1
+149.027	0.0	video on	5	149027	n/a
 151.034	0.0	video off	4	151034	n/a
 151.481	0.0	resp	3	151481	n/a
 152.028	0.0	video on	5	152028	v_Clean and jerk_id_XcIasKN-mFE_start_11.0_label_1
@@ -145,7 +145,7 @@ onset	duration	trial_type	value	sample	stim_id
 185.026	0.0	video on	5	185026	v_Walking the dog_id_UDlQbMVz-V8_start_34.5_label_1
 187.031	0.0	video off	4	187031	n/a
 187.681	0.0	resp	3	187681	n/a
-188.027	0.0	video on	5	188027	v_Rock-paper-scissors_id_2B3sP2tyutA_start_93.5_label_1
+188.027	0.0	video on	5	188027	n/a
 190.073	0.0	video off	4	190073	n/a
 190.553	0.0	resp	3	190553	n/a
 191.026	0.0	video on	5	191026	v_Swinging at the playground_id_oCYYxO7HIuk_start_8.0_label_1
@@ -222,7 +222,7 @@ onset	duration	trial_type	value	sample	stim_id
 281.027	0.0	video on	5	281027	v_Doing kickboxing_id_qrs1IsgjzOA_start_37.5_label_1
 283.037	0.0	video off	4	283037	n/a
 283.451	0.0	resp	3	283451	n/a
-284.027	0.0	video on	5	284027	v_Painting furniture_id_P2ZPJHi2NzQ_start_28.5_label_1
+284.027	0.0	video on	5	284027	n/a
 286.029	0.0	video off	4	286029	n/a
 286.362	0.0	resp	3	286362	n/a
 287.029	0.0	video on	5	287029	v_Playing blackjack_id_fpqLJoa0HDk_start_137.0_label_1

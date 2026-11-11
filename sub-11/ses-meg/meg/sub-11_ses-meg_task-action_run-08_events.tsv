@@ -57,7 +57,7 @@ onset	duration	trial_type	value	sample	stim_id
 103.40416666666668	0.0	video off	4	124085	n/a
 104.3875	0.0	video on	5	125265	v_Camel ride_id_lxNV7FI-LQQ_start_54.0_label_1
 106.405	0.0	video off	4	127686	n/a
-107.3875	0.0	video on	5	128865	v_Playing water polo_id_ZnnvDF8QK8I_start_27.0_label_1
+107.3875	0.0	video on	5	128865	n/a
 109.4375	0.0	video off	4	131325	n/a
 109.5175	0.0	resp	3	131421	n/a
 110.3875	0.0	video on	5	132465	v_Breakdancing_id_rDJMOBpvvfo_start_27.0_label_1
@@ -117,7 +117,7 @@ onset	duration	trial_type	value	sample	stim_id
 202.40666666666667	0.0	resp	3	242888	n/a
 206.4008333333333	0.0	video on	5	247681	v_High jump_id_AaLcV5YVHZY_start_139.5_label_1
 208.4008333333333	0.0	video off	4	250081	n/a
-209.4008333333333	0.0	video on	5	251281	v_Putting on shoes_id_00vlI_I7r5o_start_7.0_label_1
+209.4008333333333	0.0	video on	5	251281	n/a
 211.4008333333333	0.0	video off	4	253681	n/a
 212.4008333333333	0.0	video on	5	254881	v_Playing field hockey_id__a1AG6_DJGc_start_45.5_label_1
 214.4008333333333	0.0	video off	4	257281	n/a

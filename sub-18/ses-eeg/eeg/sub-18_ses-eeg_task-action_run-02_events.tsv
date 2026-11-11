@@ -42,7 +42,7 @@ onset	duration	trial_type	value	sample	stim_id
 50.026	0.0	video on	5	50026	v_Cutting the grass_id_Bb7yFiDmGd0_start_6.5_label_1
 52.035	0.0	video off	4	52035	n/a
 52.464	0.0	resp	3	52464	n/a
-53.027	0.0	video on	5	53027	v_Spread mulch_id_BkM1hcBgDJk_start_4.5_label_1
+53.027	0.0	video on	5	53027	n/a
 55.029	0.0	video off	4	55029	n/a
 55.576	0.0	resp	3	55576	n/a
 59.027	0.0	video on	5	59027	v_Playing racquetball_id_PHvnKHJQHjQ_start_13.0_label_1
@@ -66,10 +66,10 @@ onset	duration	trial_type	value	sample	stim_id
 80.033	0.0	video on	5	80033	v_Playing badminton_id_BrWS7hZmpYI_start_65.0_label_1
 82.033	0.0	video off	4	82033	n/a
 82.48	0.0	resp	3	82480	n/a
-83.027	0.0	video on	5	83027	v_Polishing forniture_id_8HxC_gj6F_0_start_21.5_label_1
+83.027	0.0	video on	5	83027	n/a
 85.072	0.0	video off	4	85072	n/a
 85.473	0.0	resp	3	85473	n/a
-86.027	0.0	video on	5	86027	v_Preparing pasta_id_FRn8B0Y3kMA_start_150.0_label_1
+86.027	0.0	video on	5	86027	n/a
 88.031	0.0	video off	4	88031	n/a
 88.472	0.0	resp	3	88472	n/a
 89.027	0.0	video on	5	89027	v_Vacuuming floor_id_5FxjW8WN660_start_16.0_label_1
@@ -150,7 +150,7 @@ onset	duration	trial_type	value	sample	stim_id
 179.028	0.0	video on	5	179028	v_Waterskiing_id_Pl2EsWwOTwU_start_39.5_label_1
 181.038	0.0	video off	4	181038	n/a
 181.801	0.0	resp	3	181801	n/a
-185.028	0.0	video on	5	185028	v_Brushing hair_id_XTLqttlu03g_start_11.5_label_1
+185.028	0.0	video on	5	185028	n/a
 187.034	0.0	video off	4	187034	n/a
 187.433	0.0	resp	3	187433	n/a
 188.028	0.0	video on	5	188028	v_Making a cake_id_b6rxQKDmYqE_start_107.5_label_1

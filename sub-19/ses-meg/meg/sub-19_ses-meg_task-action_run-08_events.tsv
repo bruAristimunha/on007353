@@ -262,6 +262,6 @@ onset	duration	trial_type	value	sample	stim_id
 325.0541666666667	0.0	video on	5	390065	v_Brushing teeth_id_7TOI9aEhGSA_start_17.5_label_1
 327.0708333333333	0.0	video off	4	392485	n/a
 327.4266666666667	0.0	resp	3	392912	n/a
-328.05333333333334	0.0	video on	5	393664	v_Fun sliding down_id_YhDnuOqLftM_start_33.5_label_1
+328.05333333333334	0.0	video on	5	393664	n/a
 330.05333333333334	0.0	video off	4	396064	n/a
 335.0725	0.0	end	2	402087	n/a

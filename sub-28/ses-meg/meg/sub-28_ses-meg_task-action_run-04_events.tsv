@@ -62,11 +62,11 @@ onset	duration	trial_type	value	sample	stim_id
 114.04	0.0	video off	4	136848	n/a
 117.98916666666666	0.0	video on	5	141587	v_Playing water polo_id_pxmQW-FSAeg_start_94.0_label_1
 120.03916666666667	0.0	video off	4	144047	n/a
-120.98916666666666	0.0	video on	5	145187	v_Fun sliding down_id_RUCGVCjoBQw_start_59.5_label_1
+120.98916666666666	0.0	video on	5	145187	n/a
 123.03916666666667	0.0	video off	4	147647	n/a
 123.98916666666666	0.0	video on	5	148787	v_Baking cookies_id_aYcPnazlbB0_start_93.5_label_1
 126.00583333333331	0.0	video off	4	151207	n/a
-126.98916666666666	0.0	video on	5	152387	v_Preparing pasta_id_9gCLVQaxvzU_start_52.0_label_1
+126.98916666666666	0.0	video on	5	152387	n/a
 129.03916666666666	0.0	video off	4	154847	n/a
 129.98916666666668	0.0	video on	5	155987	v_Kayaking_id_BPAFdKu_Scs_start_36.0_label_1
 131.98916666666668	0.0	video off	4	158387	n/a
@@ -112,11 +112,11 @@ onset	duration	trial_type	value	sample	stim_id
 204.02	0.0	video off	4	244824	n/a
 208.00333333333333	0.0	video on	5	249604	v_Clean and jerk_id_KcPlBeRmx6Y_start_14.0_label_1
 210.00333333333333	0.0	video off	4	252004	n/a
-211.00333333333333	0.0	video on	5	253204	v_Playing kickball_id_Po5Vchcx7BQ_start_57.5_label_1
+211.00333333333333	0.0	video on	5	253204	n/a
 213.00333333333333	0.0	video off	4	255604	n/a
 214.00333333333333	0.0	video on	5	256804	v_Playing ice hockey_id_5F9Bu4-eYxA_start_68.5_label_1
 216.0025	0.0	video off	4	259203	n/a
-217.0025	0.0	video on	5	260403	v_Putting in contact lenses_id_1w6q_aQmWd4_start_54.5_label_1
+217.0025	0.0	video on	5	260403	n/a
 219.0025	0.0	video off	4	262803	n/a
 220.0025	0.0	video on	5	264003	v_Using the balance beam_id_ic6kT-RxVz8_start_5.5_label_1
 222.01916666666668	0.0	video off	4	266423	n/a
@@ -130,7 +130,7 @@ onset	duration	trial_type	value	sample	stim_id
 237.0025	0.0	video off	4	284403	n/a
 238.0025	0.0	video on	5	285603	v_Painting furniture_id_zgXya-aa5xM_start_27.0_label_1
 240.0025	0.0	video off	4	288003	n/a
-244.0016666666667	0.0	video on	5	292802	v_Throwing darts_id_gu5uWRaQx1Q_start_37.0_label_1
+244.0016666666667	0.0	video on	5	292802	n/a
 246.0016666666667	0.0	video off	4	295202	n/a
 247.0016666666667	0.0	video on	5	296402	v_Shaving_id_Eam5SmSg6eg_start_62.0_label_1
 249.035	0.0	video off	4	298842	n/a

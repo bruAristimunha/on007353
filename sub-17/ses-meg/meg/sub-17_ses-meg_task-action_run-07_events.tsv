@@ -177,7 +177,7 @@ onset	duration	trial_type	value	sample	stim_id
 318.64	0.0	video off	4	382368	n/a
 319.64	0.0	video on	5	383568	v_Pole vault_id_2CLC8FYJ7Rk_start_1.5_label_1
 321.64	0.0	video off	4	385968	n/a
-322.64	0.0	video on	5	387168	v_Playing polo_id_yLicyrxAZFU_start_89.0_label_1
+322.64	0.0	video on	5	387168	n/a
 324.64	0.0	video off	4	389568	n/a
 325.64	0.0	video on	5	390768	v_Kneeling_id__y9k_TGyd9M_start_6.5_label_1
 327.6566666666667	0.0	video off	4	393188	n/a

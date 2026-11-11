@@ -71,7 +71,7 @@ onset	duration	trial_type	value	sample	stim_id
 90.1125	0.0	video on	5	108135	v_Using the monkey bar_id_u4g_Mpj0LyQ_start_52.5_label_1
 92.1625	0.0	video off	4	110595	n/a
 92.6025	0.0	resp	3	111123	n/a
-93.1125	0.0	video on	5	111735	v_Rock-paper-scissors_id_SwkNlnu7-hc_start_45.5_label_1
+93.1125	0.0	video on	5	111735	n/a
 95.12916666666666	0.0	video off	4	114155	n/a
 96.035	0.0	resp	3	115242	n/a
 99.1125	0.0	video on	5	118935	v_Croquet_id_36ZYktlSZLM_start_50.0_label_1
@@ -89,7 +89,7 @@ onset	duration	trial_type	value	sample	stim_id
 111.11166666666666	0.0	video on	5	133334	v_Playing bagpipes_id_SYbv3Xa4Ij0_start_11.0_label_1
 113.12833333333332	0.0	video off	4	135754	n/a
 113.49916666666668	0.0	resp	3	136199	n/a
-117.11166666666666	0.0	video on	5	140534	v_Waxing skis_id_SN_x9F0pk0c_start_88.0_label_1
+117.11166666666666	0.0	video on	5	140534	n/a
 119.145	0.0	video off	4	142974	n/a
 119.81916666666666	0.0	resp	3	143783	n/a
 120.1125	0.0	video on	5	144135	v_Smoking hookah_id_qlH2bcnVdVI_start_1.5_label_1

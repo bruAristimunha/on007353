@@ -76,7 +76,7 @@ onset	duration	trial_type	value	sample	stim_id
 98.44333333333331	0.0	video on	5	118132	v_Kayaking_id_Thcii5gf-II_start_115.5_label_1
 100.44333333333331	0.0	video off	4	120532	n/a
 100.8125	0.0	resp	3	120975	n/a
-101.44333333333331	0.0	video on	5	121732	v_Bathing dog_id_i7CdocUo3EI_start_45.0_label_1
+101.44333333333331	0.0	video on	5	121732	n/a
 103.4425	0.0	video off	4	124131	n/a
 103.71583333333334	0.0	resp	3	124459	n/a
 104.4425	0.0	video on	5	125331	v_Tai chi_id_KWQXlGHpzn4_start_49.5_label_1

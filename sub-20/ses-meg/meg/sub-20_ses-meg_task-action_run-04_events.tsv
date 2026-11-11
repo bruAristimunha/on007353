@@ -53,7 +53,7 @@ onset	duration	trial_type	value	sample	stim_id
 74.75833333333334	0.0	video on	5	89710	v_Throwing darts_id_Lj1Mj6cUR64_start_6.0_label_1
 76.75833333333334	0.0	video off	4	92110	n/a
 77.6975	0.0	resp	3	93237	n/a
-80.75833333333334	0.0	video on	5	96910	v_Putting on shoes_id_groAnepbJBA_start_14.5_label_1
+80.75833333333334	0.0	video on	5	96910	n/a
 82.75833333333334	0.0	video off	4	99310	n/a
 83.75833333333334	0.0	video on	5	100510	v_Elliptical trainer_id_DYPCBtRBVBo_start_15.5_label_1
 85.75833333333334	0.0	video off	4	102910	n/a
@@ -203,7 +203,7 @@ onset	duration	trial_type	value	sample	stim_id
 284.5883333333333	0.0	resp	3	341506	n/a
 284.7683333333333	0.0	video on	5	341722	v_Baking cookies_id_Ut_6dD2KmB0_start_80.5_label_1
 286.7683333333333	0.0	video off	4	344122	n/a
-287.7683333333333	0.0	video on	5	345322	v_Painting furniture_id_cA1buCeQCpc_start_11.5_label_1
+287.7683333333333	0.0	video on	5	345322	n/a
 289.7683333333333	0.0	video off	4	347722	n/a
 290.7675	0.0	video on	5	348921	v_Playing congas_id_zJpXA5QXqP4_start_21.0_label_1
 292.7683333333333	0.0	video off	4	351322	n/a

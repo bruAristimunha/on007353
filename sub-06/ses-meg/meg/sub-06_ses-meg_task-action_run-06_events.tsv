@@ -68,7 +68,7 @@ onset	duration	trial_type	value	sample	stim_id
 86.2525	0.0	video on	5	103503	v_Building sandcastles_id_WbgUBIr69ak_start_5.5_label_1
 88.2525	0.0	video off	4	105903	n/a
 88.72	0.0	resp	3	106464	n/a
-89.2525	0.0	video on	5	107103	v_Playing polo_id_VQhqrWglDuY_start_20.0_label_1
+89.2525	0.0	video on	5	107103	n/a
 91.28583333333331	0.0	video off	4	109543	n/a
 91.60833333333332	0.0	resp	3	109930	n/a
 92.2525	0.0	video on	5	110703	v_Cheerleading_id_2K2Y9W1c8Gg_start_62.0_label_1
@@ -189,7 +189,7 @@ onset	duration	trial_type	value	sample	stim_id
 233.26416666666665	0.0	video on	5	279917	v_Vacuuming floor_id_U_epnGDWlIQ_start_55.0_label_1
 235.29833333333332	0.0	video off	4	282358	n/a
 235.76916666666668	0.0	resp	3	282923	n/a
-236.26416666666665	0.0	video on	5	283517	v_Fixing the roof_id_fAYDYqnA-e0_start_73.5_label_1
+236.26416666666665	0.0	video on	5	283517	n/a
 238.265	0.0	video off	4	285918	n/a
 238.68166666666667	0.0	resp	3	286418	n/a
 242.26416666666665	0.0	video on	5	290717	v_Scuba diving_id_J30qeo-HYkw_start_37.5_label_1

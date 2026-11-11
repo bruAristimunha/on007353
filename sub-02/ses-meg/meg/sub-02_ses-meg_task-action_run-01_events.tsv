@@ -121,7 +121,7 @@ onset	duration	trial_type	value	sample	stim_id
 151.99083333333334	0.0	video on	5	182389	v_Doing step aerobics_id_gPgzpqeA_O4_start_125.0_label_1
 153.99083333333334	0.0	video off	4	184789	n/a
 154.7075	0.0	resp	3	185649	n/a
-154.99083333333334	0.0	video on	5	185989	v_Putting in contact lenses_id_Ek3EC9lA6X0_start_50.5_label_1
+154.99083333333334	0.0	video on	5	185989	n/a
 157.02416666666667	0.0	video off	4	188429	n/a
 157.81166666666667	0.0	resp	3	189374	n/a
 157.99083333333334	0.0	video on	5	189589	v_Playing pool_id_JRPnyfx4Olg_start_29.5_label_1
@@ -150,7 +150,7 @@ onset	duration	trial_type	value	sample	stim_id
 187.99	0.0	video on	5	225588	v_Springboard diving_id_xk60W8-ukFQ_start_32.5_label_1
 189.99	0.0	video off	4	227988	n/a
 190.63583333333327	0.0	resp	3	228763	n/a
-190.99	0.0	video on	5	229188	v_Playing polo_id_yEDUSkKxFJE_start_8.5_label_1
+190.99	0.0	video on	5	229188	n/a
 192.99	0.0	video off	4	231588	n/a
 193.5641666666667	0.0	resp	3	232277	n/a
 193.99	0.0	video on	5	232788	v_Scuba diving_id_dlBuUxhk3Jk_start_82.0_label_1
@@ -189,7 +189,7 @@ onset	duration	trial_type	value	sample	stim_id
 232.98833333333332	0.0	video on	5	279586	v_Walking the dog_id_IdK3oTsYaHw_start_2.0_label_1
 234.98833333333332	0.0	video off	4	281986	n/a
 235.55666666666667	0.0	resp	3	282668	n/a
-235.98833333333332	0.0	video on	5	283186	v_Hanging wallpaper_id_zWoDOUE2X58_start_65.0_label_1
+235.98833333333332	0.0	video on	5	283186	n/a
 237.98833333333332	0.0	video off	4	285586	n/a
 238.4208333333333	0.0	resp	3	286105	n/a
 241.98833333333332	0.0	video on	5	290386	v_Archery_id_Sb7xdDg0_Uc_start_104.0_label_1
@@ -227,7 +227,7 @@ onset	duration	trial_type	value	sample	stim_id
 283.6766666666667	0.0	resp	3	340412	n/a
 283.9866666666667	0.0	video on	5	340784	v_Playing bagpipes_id_Y64zB0duM1c_start_24.5_label_1
 286.00333333333333	0.0	video off	4	343204	n/a
-286.9866666666667	0.0	video on	5	344384	v_Using the rowing machine_id_wozM9Es0st8_start_93.0_label_1
+286.9866666666667	0.0	video on	5	344384	n/a
 288.9866666666667	0.0	video off	4	346784	n/a
 289.9866666666667	0.0	video on	5	347984	v_Playing harmonica_id_eeS_Q93T7GU_start_23.0_label_1
 291.9866666666667	0.0	video off	4	350384	n/a

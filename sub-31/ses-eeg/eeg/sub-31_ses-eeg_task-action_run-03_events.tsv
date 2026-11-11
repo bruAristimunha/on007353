@@ -28,7 +28,7 @@ onset	duration	trial_type	value	sample	stim_id
 34.03	0.0	video off	4	34030	n/a
 35.027	0.0	video on	5	35027	v_Polishing shoes_id_F4kQYHqwNDE_start_12.0_label_1
 37.035	0.0	video off	4	37035	n/a
-41.027	0.0	video on	5	41027	v_Using the rowing machine_id_VE_Am9eJkL8_start_13.5_label_1
+41.027	0.0	video on	5	41027	n/a
 43.036	0.0	video off	4	43036	n/a
 43.688	0.0	resp	3	43688	n/a
 44.026	0.0	video on	5	44026	v_Sailing_id_u-wd4zky0BU_start_9.5_label_1
@@ -88,7 +88,7 @@ onset	duration	trial_type	value	sample	stim_id
 107.027	0.0	video on	5	107027	v_High jump_id_UZCqWrtuRXI_start_7.0_label_1
 109.034	0.0	video off	4	109034	n/a
 109.408	0.0	resp	3	109408	n/a
-113.028	0.0	video on	5	113028	v_Spread mulch_id_5_OSmkFpgRo_start_87.5_label_1
+113.028	0.0	video on	5	113028	n/a
 115.028	0.0	video off	4	115028	n/a
 115.449	0.0	resp	3	115449	n/a
 116.027	0.0	video on	5	116027	v_Shuffleboard_id_owfQESeSzKg_start_141.0_label_1
@@ -181,7 +181,7 @@ onset	duration	trial_type	value	sample	stim_id
 224.029	0.0	video on	5	224029	v_Longboarding_id_wLYKVKPaNz0_start_3.0_label_1
 226.025	0.0	video off	4	226025	n/a
 226.482	0.0	resp	3	226482	n/a
-227.028	0.0	video on	5	227028	v_Putting on shoes_id_rQ1zi9VSkYE_start_1.0_label_1
+227.028	0.0	video on	5	227028	n/a
 229.033	0.0	video off	4	229033	n/a
 229.61	0.0	resp	3	229610	n/a
 230.027	0.0	video on	5	230027	v_Slacklining_id_KCEJG2ZythA_start_88.5_label_1

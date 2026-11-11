@@ -6,7 +6,7 @@ onset	duration	trial_type	value	sample	stim_id
 10.143333333333333	0.0	video on	5	12172	v_Rock-paper-scissors_id_Vf1uE7haYd8_start_34.0_label_1
 12.193333333333332	0.0	video off	4	14632	n/a
 12.510833333333334	0.0	resp	3	15013	n/a
-13.1425	0.0	video on	5	15771	v_Sumo_id_XKUZ-wYrLxM_start_94.0_label_1
+13.1425	0.0	video on	5	15771	n/a
 15.1425	0.0	video off	4	18171	n/a
 15.463333333333331	0.0	resp	3	18556	n/a
 16.1425	0.0	video on	5	19371	v_Playing badminton_id_rpNFb6-tqDo_start_32.0_label_1
@@ -198,7 +198,7 @@ onset	duration	trial_type	value	sample	stim_id
 244.15166666666667	0.0	video on	5	292982	v_Paintball_id_661GWKCoteM_start_34.5_label_1
 246.1525	0.0	video off	4	295383	n/a
 246.47333333333333	0.0	resp	3	295768	n/a
-247.15166666666667	0.0	video on	5	296582	v_Preparing pasta_id_9gCLVQaxvzU_start_57.5_label_1
+247.15166666666667	0.0	video on	5	296582	n/a
 249.185	0.0	video off	4	299022	n/a
 249.5375	0.0	resp	3	299445	n/a
 250.15166666666667	0.0	video on	5	300182	v_Drum corps_id_Tm3dquc9SNs_start_41.0_label_1
@@ -240,7 +240,7 @@ onset	duration	trial_type	value	sample	stim_id
 295.15	0.0	video on	5	354180	v_Playing squash_id_12qKcakc03Y_start_47.5_label_1
 297.1666666666667	0.0	video off	4	356600	n/a
 297.42583333333334	0.0	resp	3	356911	n/a
-298.15	0.0	video on	5	357780	v_Using the rowing machine_id_W4CGORYiU4Q_start_32.5_label_1
+298.15	0.0	video on	5	357780	n/a
 300.18333333333334	0.0	video off	4	360220	n/a
 300.43416666666667	0.0	resp	3	360521	n/a
 301.15	0.0	video on	5	361380	v_Sharpening knives_id_sFgcAyiPLQs_start_65.5_label_1
@@ -264,6 +264,6 @@ onset	duration	trial_type	value	sample	stim_id
 322.14916666666664	0.0	video on	5	386579	v_Ice fishing_id_gD3HzCgUvH8_start_21.0_label_1
 324.19916666666666	0.0	video off	4	389039	n/a
 324.3541666666667	0.0	resp	3	389225	n/a
-325.14916666666664	0.0	video on	5	390179	v_Fixing the roof_id_fAYDYqnA-e0_start_50.0_label_1
+325.14916666666664	0.0	video on	5	390179	n/a
 327.14916666666664	0.0	video off	4	392579	n/a
 332.18416666666667	0.0	end	2	398621	n/a

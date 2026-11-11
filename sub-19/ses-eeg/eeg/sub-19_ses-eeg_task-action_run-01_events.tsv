@@ -29,7 +29,7 @@ onset	duration	trial_type	value	sample	stim_id
 30.492	0.0	video on	5	30492	v_BMX_id_T5Kh51t-WOg_start_0.5_label_1
 32.507	0.0	video off	4	32507	n/a
 33.125	0.0	resp	3	33125	n/a
-36.493	0.0	video on	5	36493	v_Sumo_id_CxNfe_viz9Y_start_19.5_label_1
+36.493	0.0	video on	5	36493	n/a
 38.543	0.0	video off	4	38543	n/a
 39.55	0.0	video on	5	39550	v_Spinning_id_EBM8FuuETSg_start_16.0_label_1
 41.555	0.0	video off	4	41555	n/a
@@ -50,7 +50,7 @@ onset	duration	trial_type	value	sample	stim_id
 60.492	0.0	video on	5	60492	v_Playing violin_id_W6nLAaVeRjQ_start_50.0_label_1
 62.498	0.0	video off	4	62498	n/a
 62.901	0.0	resp	3	62901	n/a
-63.493	0.0	video on	5	63493	v_Hand car wash_id_e7ifzjZGMH4_start_20.0_label_1
+63.493	0.0	video on	5	63493	n/a
 65.494	0.0	video off	4	65494	n/a
 66.189	0.0	resp	3	66189	n/a
 66.543	0.0	video on	5	66543	v_Hopscotch_id_fZzswQaICfM_start_92.5_label_1
@@ -122,7 +122,7 @@ onset	duration	trial_type	value	sample	stim_id
 156.494	0.0	video on	5	156494	v_Drinking coffee_id_1tNSfXVpeZo_start_81.5_label_1
 158.501	0.0	video off	4	158501	n/a
 158.974	0.0	resp	3	158974	n/a
-162.493	0.0	video on	5	162493	v_Croquet_id_g9ZnILprR_I_start_69.0_label_1
+162.493	0.0	video on	5	162493	n/a
 164.493	0.0	video off	4	164493	n/a
 165.102	0.0	resp	3	165102	n/a
 165.493	0.0	video on	5	165493	v_Smoking a cigarette_id_zbdiEKQoOUY_start_43.0_label_1
@@ -188,7 +188,7 @@ onset	duration	trial_type	value	sample	stim_id
 240.495	0.0	video on	5	240495	v_Raking leaves_id_svXz2uvZEA0_start_5.0_label_1
 242.488	0.0	video off	4	242488	n/a
 243.375	0.0	resp	3	243375	n/a
-243.583	0.0	video on	5	243583	v_Hanging wallpaper_id_zWoDOUE2X58_start_58.5_label_1
+243.583	0.0	video on	5	243583	n/a
 245.579	0.0	video off	4	245579	n/a
 246.055	0.0	resp	3	246055	n/a
 246.494	0.0	video on	5	246494	v_Tango_id_NPpmZuIn1ec_start_50.0_label_1

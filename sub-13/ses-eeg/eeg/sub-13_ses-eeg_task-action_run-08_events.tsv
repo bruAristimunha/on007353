@@ -170,14 +170,14 @@ onset	duration	trial_type	value	sample	stim_id
 206.028	0.0	video on	5	206028	v_Hitting a pinata_id_hOlmh0m3PM8_start_8.5_label_1
 208.032	0.0	video off	4	208032	n/a
 208.466	0.0	resp	3	208466	n/a
-209.027	0.0	video on	5	209027	v_Cleaning sink_id_lBF3cNWJUNE_start_53.5_label_1
+209.027	0.0	video on	5	209027	n/a
 211.025	0.0	video off	4	211025	n/a
 212.027	0.0	video on	5	212027	v_Doing nails_id_cncjxvJcCWM_start_73.5_label_1
 214.034	0.0	video off	4	214034	n/a
 215.027	0.0	video on	5	215027	v_Ballet_id_eSYHULfpiiY_start_15.5_label_1
 217.034	0.0	video off	4	217034	n/a
 217.57	0.0	resp	3	217570	n/a
-221.027	0.0	video on	5	221027	v_Polishing shoes_id_uepeMZQ7fe4_start_9.5_label_1
+221.027	0.0	video on	5	221027	n/a
 223.026	0.0	video off	4	223026	n/a
 223.37	0.0	resp	3	223370	n/a
 224.027	0.0	video on	5	224027	v_Scuba diving_id_qmR8mRmWX3U_start_81.0_label_1

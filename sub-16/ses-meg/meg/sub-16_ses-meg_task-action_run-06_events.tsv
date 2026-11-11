@@ -1,6 +1,6 @@
 onset	duration	trial_type	value	sample	stim_id
 3.754166666666667	0.0	begin	1	4505	n/a
-8.7825	0.0	video on	5	10539	v_Fixing the roof_id_YgF4tgg7pT0_start_167.0_label_1
+8.7825	0.0	video on	5	10539	n/a
 10.799166666666666	0.0	video off	4	12959	n/a
 11.136666666666668	0.0	resp	3	13364	n/a
 11.7825	0.0	video on	5	14139	v_Waterskiing_id_G9WSyMU8MCo_start_71.0_label_1
@@ -45,7 +45,7 @@ onset	duration	trial_type	value	sample	stim_id
 56.78083333333333	0.0	video on	5	68137	v_Getting a piercing_id_0WSD1gixH1A_start_64.5_label_1
 58.814166666666665	0.0	video off	4	70577	n/a
 59.10583333333334	0.0	resp	3	70927	n/a
-62.78	0.0	video on	5	75336	v_Throwing darts_id_adetk0QtmKY_start_21.0_label_1
+62.78	0.0	video on	5	75336	n/a
 64.78	0.0	video off	4	77736	n/a
 65.12166666666667	0.0	resp	3	78146	n/a
 65.78	0.0	video on	5	78936	v_Bungee jumping_id_pueN-bjLdbI_start_100.5_label_1
@@ -66,7 +66,7 @@ onset	duration	trial_type	value	sample	stim_id
 83.78	0.0	video on	5	100536	v_Grooming horse_id_R8Tb24LxU-c_start_104.0_label_1
 85.79666666666667	0.0	video off	4	102956	n/a
 86.1775	0.0	resp	3	103413	n/a
-86.77916666666667	0.0	video on	5	104135	v_Playing polo_id_VQhqrWglDuY_start_26.5_label_1
+86.77916666666667	0.0	video on	5	104135	n/a
 88.8125	0.0	video off	4	106575	n/a
 89.10583333333334	0.0	resp	3	106927	n/a
 89.77916666666667	0.0	video on	5	107735	v_Playing water polo_id_xHh_XsqLWNA_start_99.0_label_1
@@ -181,10 +181,10 @@ onset	duration	trial_type	value	sample	stim_id
 224.79166666666663	0.0	video on	5	269750	v_Shaving_id_1jboCMBB6tM_start_125.5_label_1
 226.825	0.0	video off	4	272190	n/a
 227.16333333333333	0.0	resp	3	272596	n/a
-227.79166666666663	0.0	video on	5	273350	v_Sumo_id_CxNfe_viz9Y_start_8.5_label_1
+227.79166666666663	0.0	video on	5	273350	n/a
 229.84166666666667	0.0	video off	4	275810	n/a
 230.16333333333333	0.0	resp	3	276196	n/a
-230.79166666666663	0.0	video on	5	276950	v_Fun sliding down_id_7zY0l9kZjtw_start_4.0_label_1
+230.79166666666663	0.0	video on	5	276950	n/a
 232.79166666666663	0.0	video off	4	279350	n/a
 233.2516666666667	0.0	resp	3	279902	n/a
 233.79166666666663	0.0	video on	5	280550	v_Camel ride_id_4O8kswqcwAM_start_6.5_label_1
@@ -226,7 +226,7 @@ onset	duration	trial_type	value	sample	stim_id
 278.79	0.0	video on	5	334548	v_Getting a haircut_id_17xQGmzGEFA_start_19.5_label_1
 280.79	0.0	video off	4	336948	n/a
 281.18	0.0	resp	3	337416	n/a
-281.79	0.0	video on	5	338148	v_Building sandcastles_id_FdDXu-93w1Q_start_23.0_label_1
+281.79	0.0	video on	5	338148	n/a
 283.79	0.0	video off	4	340548	n/a
 284.23583333333335	0.0	resp	3	341083	n/a
 284.79	0.0	video on	5	341748	v_Chopping wood_id_FhakU3OgHCs_start_96.5_label_1

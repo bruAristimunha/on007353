@@ -11,7 +11,7 @@ onset	duration	trial_type	value	sample	stim_id
 16.6825	0.0	video on	5	20019	v_Hurling_id_o2n__lsbCs0_start_10.0_label_1
 18.6825	0.0	video off	4	22419	n/a
 19.10083333333333	0.0	resp	3	22921	n/a
-19.68166666666667	0.0	video on	5	23618	v_Using uneven bars_id_KhiX3ttPFR8_start_14.5_label_1
+19.68166666666667	0.0	video on	5	23618	n/a
 21.68166666666667	0.0	video off	4	26018	n/a
 21.7725	0.0	resp	3	26127	n/a
 25.68166666666667	0.0	video on	5	30818	v_Mixing drinks_id_sxSuzkwiRmU_start_47.0_label_1
@@ -70,7 +70,7 @@ onset	duration	trial_type	value	sample	stim_id
 91.68	0.0	video on	5	110016	v_Pole vault_id_Q7Bi2FGdcow_start_4.5_label_1
 93.67916666666666	0.0	video off	4	112415	n/a
 93.94916666666668	0.0	resp	3	112739	n/a
-97.67916666666666	0.0	video on	5	117215	v_Waxing skis_id_2jjMVAGUo38_start_143.0_label_1
+97.67916666666666	0.0	video on	5	117215	n/a
 99.69583333333334	0.0	video off	4	119635	n/a
 100.34166666666668	0.0	resp	3	120410	n/a
 100.67916666666666	0.0	video on	5	120815	v_Triple jump_id_ZgIVUhnLDPE_start_4.5_label_1
@@ -93,7 +93,7 @@ onset	duration	trial_type	value	sample	stim_id
 124.695	0.0	video on	5	149634	v_Laying tile_id_B5V1rD0eFPg_start_18.0_label_1
 126.695	0.0	video off	4	152034	n/a
 127.37333333333332	0.0	resp	3	152848	n/a
-127.67833333333331	0.0	video on	5	153214	v_Polishing shoes_id_LFCVMnDwmcI_start_144.0_label_1
+127.67833333333331	0.0	video on	5	153214	n/a
 129.695	0.0	video off	4	155634	n/a
 133.67833333333334	0.0	video on	5	160414	v_BMX_id_FeG7bj3qZOA_start_27.0_label_1
 135.695	0.0	video off	4	162834	n/a

@@ -46,7 +46,7 @@ onset	duration	trial_type	value	sample	stim_id
 62.1375	0.0	video on	5	74565	v_Playing beach volleyball_id_SqJOVi4kIRc_start_46.0_label_1
 64.1375	0.0	video off	4	76965	n/a
 64.51333333333334	0.0	resp	3	77416	n/a
-65.1375	0.0	video on	5	78165	v_Waxing skis_id_SN_x9F0pk0c_start_39.5_label_1
+65.1375	0.0	video on	5	78165	n/a
 67.1375	0.0	video off	4	80565	n/a
 67.45666666666666	0.0	resp	3	80948	n/a
 68.1375	0.0	video on	5	81765	v_Raking leaves_id_kznjBjoxr2E_start_52.5_label_1
@@ -149,7 +149,7 @@ onset	duration	trial_type	value	sample	stim_id
 188.15	0.0	video on	5	225780	v_Playing badminton_id_pAceF96zGlM_start_36.0_label_1
 190.15	0.0	video off	4	228180	n/a
 190.50666666666663	0.0	resp	3	228608	n/a
-191.15	0.0	video on	5	229380	v_Drinking coffee_id_DlC4AdXDMy0_start_34.5_label_1
+191.15	0.0	video on	5	229380	n/a
 193.15	0.0	video off	4	231780	n/a
 193.8825	0.0	resp	3	232659	n/a
 194.14916666666667	0.0	video on	5	232979	v_Brushing hair_id_E4UbDaPFRjw_start_23.5_label_1
@@ -240,10 +240,10 @@ onset	duration	trial_type	value	sample	stim_id
 302.1458333333333	0.0	video on	5	362575	v_Zumba_id_cwMfFPOZS2I_start_169.0_label_1
 304.1625	0.0	video off	4	364995	n/a
 304.5875	0.0	resp	3	365505	n/a
-305.1458333333333	0.0	video on	5	366175	v_Using the monkey bar_id_-zizrGh7p-o_start_62.5_label_1
+305.1458333333333	0.0	video on	5	366175	n/a
 307.1458333333333	0.0	video off	4	368575	n/a
 307.5233333333333	0.0	resp	3	369028	n/a
-308.1458333333333	0.0	video on	5	369775	v_Putting on shoes_id_qORcut5n5jM_start_62.0_label_1
+308.1458333333333	0.0	video on	5	369775	n/a
 310.1625	0.0	video off	4	372195	n/a
 310.6116666666667	0.0	resp	3	372734	n/a
 314.1458333333333	0.0	video on	5	376975	v_Playing water polo_id_XnXdkVyJDIA_start_29.0_label_1

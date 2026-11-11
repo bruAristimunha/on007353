@@ -170,7 +170,7 @@ onset	duration	trial_type	value	sample	stim_id
 209.51583333333332	0.0	video on	5	251419	v_Hand car wash_id_Oq6kHwv096s_start_100.0_label_1
 211.51583333333332	0.0	video off	4	253819	n/a
 211.86416666666668	0.0	resp	3	254237	n/a
-212.51583333333332	0.0	video on	5	255019	v_Rock-paper-scissors_id_SwkNlnu7-hc_start_51.0_label_1
+212.51583333333332	0.0	video on	5	255019	n/a
 214.54916666666668	0.0	video off	4	257459	n/a
 215.04833333333332	0.0	resp	3	258058	n/a
 215.51583333333332	0.0	video on	5	258619	v_Building sandcastles_id_ymj_XO6msy4_start_39.0_label_1

@@ -223,7 +223,7 @@ onset	duration	trial_type	value	sample	stim_id
 269.03	0.0	video on	5	269030	v_Elliptical trainer_id_eka3Wgzi4Gk_start_4.5_label_1
 271.025	0.0	video off	4	271025	n/a
 271.61	0.0	resp	3	271610	n/a
-275.029	0.0	video on	5	275029	v_Playing water polo_id_ZnnvDF8QK8I_start_18.5_label_1
+275.029	0.0	video on	5	275029	n/a
 277.071	0.0	video off	4	277071	n/a
 277.538	0.0	resp	3	277538	n/a
 278.035	0.0	video on	5	278035	v_Grooming dog_id_nMpY1uGEbvI_start_16.0_label_1

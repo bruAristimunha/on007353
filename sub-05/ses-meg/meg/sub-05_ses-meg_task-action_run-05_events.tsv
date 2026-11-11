@@ -69,7 +69,7 @@ onset	duration	trial_type	value	sample	stim_id
 86.9175	0.0	video on	5	104301	v_Croquet_id_t_qv0jC_ktk_start_2.0_label_1
 88.91833333333334	0.0	video off	4	106702	n/a
 89.37916666666666	0.0	resp	3	107255	n/a
-89.9175	0.0	video on	5	107901	v_Using the balance beam_id_orKT0cWtKUs_start_5.0_label_1
+89.9175	0.0	video on	5	107901	n/a
 91.935	0.0	video off	4	110322	n/a
 92.41083333333331	0.0	resp	3	110893	n/a
 92.93416666666668	0.0	video on	5	111521	v_Kayaking_id_OmpfUKsl2NQ_start_22.5_label_1
@@ -207,7 +207,7 @@ onset	duration	trial_type	value	sample	stim_id
 251.92916666666667	0.0	video on	5	302315	v_Starting a campfire_id_EeTjSCDZsEs_start_23.5_label_1
 253.92916666666667	0.0	video off	4	304715	n/a
 254.2933333333333	0.0	resp	3	305152	n/a
-254.92916666666667	0.0	video on	5	305915	v_Polishing forniture_id_ifQsNcA4ST8_start_52.0_label_1
+254.92916666666667	0.0	video on	5	305915	n/a
 256.9291666666667	0.0	video off	4	308315	n/a
 257.25333333333333	0.0	resp	3	308704	n/a
 260.9291666666667	0.0	video on	5	313115	v_Blow-drying hair_id_fihEotM3XGE_start_49.0_label_1

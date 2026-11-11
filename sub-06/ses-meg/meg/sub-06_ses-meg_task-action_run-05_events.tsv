@@ -1,6 +1,6 @@
 onset	duration	trial_type	value	sample	stim_id
 2.806666666666666	0.0	begin	1	3368	n/a
-7.861666666666666	0.0	video on	5	9434	v_Plataform diving_id_3pYXOYmDrJc_start_81.0_label_1
+7.861666666666666	0.0	video on	5	9434	n/a
 9.845	0.0	video off	4	11814	n/a
 10.245833333333334	0.0	resp	3	12295	n/a
 10.845	0.0	video on	5	13014	v_Croquet_id_lSWbBzw3aNk_start_5.5_label_1
@@ -73,7 +73,7 @@ onset	duration	trial_type	value	sample	stim_id
 91.8425	0.0	video on	5	110211	v_Playing pool_id_bnYN4VSZYNE_start_31.5_label_1
 93.8425	0.0	video off	4	112611	n/a
 94.53416666666666	0.0	resp	3	113441	n/a
-97.8425	0.0	video on	5	117411	v_Bathing dog_id_A4tBWMfgQcM_start_19.0_label_1
+97.8425	0.0	video on	5	117411	n/a
 99.8425	0.0	video off	4	119811	n/a
 100.11833333333334	0.0	resp	3	120142	n/a
 100.8425	0.0	video on	5	121011	v_Tai chi_id_4nx4QY5g-aU_start_37.5_label_1
@@ -133,7 +133,7 @@ onset	duration	trial_type	value	sample	stim_id
 163.84	0.0	video on	5	196608	v_Assembling bicycle_id_KvHPGzeazOc_start_178.0_label_1
 165.85666666666663	0.0	video off	4	199028	n/a
 166.215	0.0	resp	3	199458	n/a
-169.84	0.0	video on	5	203808	v_Polishing forniture_id_Naw6emhHaSM_start_11.5_label_1
+169.84	0.0	video on	5	203808	n/a
 171.85666666666663	0.0	video off	4	206228	n/a
 172.3275	0.0	resp	3	206793	n/a
 172.85666666666663	0.0	video on	5	207428	v_Carving jack-o-lanterns_id_9ZXsbPVlxK4_start_98.0_label_1
@@ -166,7 +166,7 @@ onset	duration	trial_type	value	sample	stim_id
 205.8558333333333	0.0	video on	5	247027	v_Playing violin_id_nKSz-bOr8w4_start_180.0_label_1
 207.855	0.0	video off	4	249426	n/a
 208.2633333333333	0.0	resp	3	249916	n/a
-208.855	0.0	video on	5	250626	v_Polishing shoes_id_uepeMZQ7fe4_start_4.5_label_1
+208.855	0.0	video on	5	250626	n/a
 210.855	0.0	video off	4	253026	n/a
 211.37583333333333	0.0	resp	3	253651	n/a
 211.855	0.0	video on	5	254226	v_Tug of war_id_ex-E855oWu0_start_3.0_label_1
@@ -199,7 +199,7 @@ onset	duration	trial_type	value	sample	stim_id
 244.85416666666663	0.0	video on	5	293825	v_Pole vault_id_R0c2pHFGk5s_start_0.5_label_1
 246.85416666666663	0.0	video off	4	296225	n/a
 247.2483333333333	0.0	resp	3	296698	n/a
-247.85416666666663	0.0	video on	5	297425	v_Putting on shoes_id_hf3DDs4-ZSw_start_23.5_label_1
+247.85416666666663	0.0	video on	5	297425	n/a
 249.85416666666663	0.0	video off	4	299825	n/a
 250.1683333333333	0.0	resp	3	300202	n/a
 250.85416666666663	0.0	video on	5	301025	v_Ice fishing_id_zFy3DT1A8Js_start_101.0_label_1

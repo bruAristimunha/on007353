@@ -12,7 +12,7 @@ onset	duration	trial_type	value	sample	stim_id
 16.6625	0.0	video on	5	19995	v_Getting a piercing_id_ze96ISMA2Sg_start_7.5_label_1
 18.6625	0.0	video off	4	22395	n/a
 18.975	0.0	resp	3	22770	n/a
-19.6625	0.0	video on	5	23595	v_Using the rowing machine_id_W4CGORYiU4Q_start_29.5_label_1
+19.6625	0.0	video on	5	23595	n/a
 21.7125	0.0	video off	4	26055	n/a
 21.775	0.0	resp	3	26130	n/a
 25.661666666666665	0.0	video on	5	30794	v_Scuba diving_id_Ok1GR8lXjkk_start_105.0_label_1
@@ -192,7 +192,7 @@ onset	duration	trial_type	value	sample	stim_id
 235.67166666666665	0.0	video on	5	282806	v_Cleaning sink_id_VmPsAmWvwD8_start_38.5_label_1
 237.68833333333333	0.0	video off	4	285226	n/a
 238.04916666666668	0.0	resp	3	285659	n/a
-241.67166666666665	0.0	video on	5	290006	v_Rock-paper-scissors_id__dsjR9HNxaU_start_52.5_label_1
+241.67166666666665	0.0	video on	5	290006	n/a
 243.67166666666665	0.0	video off	4	292406	n/a
 243.95333333333332	0.0	resp	3	292744	n/a
 244.67166666666665	0.0	video on	5	293606	v_Playing harmonica_id_GsljJM7Ie0s_start_13.0_label_1

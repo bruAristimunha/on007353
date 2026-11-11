@@ -9,7 +9,7 @@ onset	duration	trial_type	value	sample	stim_id
 15.7925	0.0	video on	5	18951	v_Laying tile_id_XZah4Ac0W8A_start_77.0_label_1
 17.7925	0.0	video off	4	21351	n/a
 18.134166666666665	0.0	resp	3	21761	n/a
-18.7925	0.0	video on	5	22551	v_Playing water polo_id_DP4cJ4z9F6A_start_63.5_label_1
+18.7925	0.0	video on	5	22551	n/a
 20.7925	0.0	video off	4	24951	n/a
 21.054166666666667	0.0	resp	3	25265	n/a
 21.7925	0.0	video on	5	26151	v_Hitting a pinata_id_Inr7H3Uw6JU_start_70.0_label_1
@@ -30,7 +30,7 @@ onset	duration	trial_type	value	sample	stim_id
 39.79166666666666	0.0	video on	5	47750	v_Hand washing clothes_id_vQ2unJ-4CZQ_start_9.0_label_1
 41.80833333333333	0.0	video off	4	50170	n/a
 42.15	0.0	resp	3	50580	n/a
-45.79083333333333	0.0	video on	5	54949	v_Scuba diving_id_gCFTDvb3QEE_start_8.0_label_1
+45.79083333333333	0.0	video on	5	54949	n/a
 47.79166666666666	0.0	video off	4	57350	n/a
 48.0625	0.0	resp	3	57675	n/a
 48.79083333333333	0.0	video on	5	58549	v_Raking leaves_id_fIG7aXzSyMU_start_2.0_label_1
@@ -195,7 +195,7 @@ onset	duration	trial_type	value	sample	stim_id
 237.80166666666668	0.0	video on	5	285362	v_Decorating the Christmas tree_id_MxYa4WTV8Zs_start_47.0_label_1
 239.80166666666668	0.0	video off	4	287762	n/a
 240.24	0.0	resp	3	288288	n/a
-243.80166666666668	0.0	video on	5	292562	v_Fun sliding down_id_L452nvTyLcM_start_85.0_label_1
+243.80166666666668	0.0	video on	5	292562	n/a
 245.83416666666668	0.0	video off	4	295001	n/a
 246.4325	0.0	resp	3	295719	n/a
 246.80083333333332	0.0	video on	5	296161	v_Doing karate_id_2oY4gN78e0I_start_27.5_label_1
@@ -210,7 +210,7 @@ onset	duration	trial_type	value	sample	stim_id
 255.80083333333332	0.0	video on	5	306961	v_Polishing forniture_id_ED6ll2g6evY_start_104.0_label_1
 257.80083333333334	0.0	video off	4	309361	n/a
 258.0966666666667	0.0	resp	3	309716	n/a
-261.80083333333334	0.0	video on	5	314161	v_Putting in contact lenses_id_RVhjgt4HcIM_start_35.5_label_1
+261.80083333333334	0.0	video on	5	314161	n/a
 263.80083333333334	0.0	video off	4	316561	n/a
 264.0966666666667	0.0	resp	3	316916	n/a
 264.80083333333334	0.0	video on	5	317761	v_Using the pommel horse_id_Uu463_AtFWM_start_30.0_label_1

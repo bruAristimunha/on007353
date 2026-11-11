@@ -42,7 +42,7 @@ onset	duration	trial_type	value	sample	stim_id
 52.6375	0.0	video on	5	63165	v_Wrapping presents_id_KkScbq6wdpo_start_167.5_label_1
 54.6375	0.0	video off	4	65565	n/a
 55.098333333333336	0.0	resp	3	66118	n/a
-55.62	0.0	video on	5	66744	v_Playing kickball_id_Ac7aN4CgQPY_start_7.5_label_1
+55.62	0.0	video on	5	66744	n/a
 57.62083333333333	0.0	video off	4	69145	n/a
 58.22583333333333	0.0	resp	3	69871	n/a
 61.62	0.0	video on	5	73944	v_Windsurfing_id_IfcIoLTGauQ_start_0.5_label_1
@@ -60,7 +60,7 @@ onset	duration	trial_type	value	sample	stim_id
 73.62	0.0	video on	5	88344	v_High jump_id_ow7h20Hj2DQ_start_2.0_label_1
 75.62	0.0	video off	4	90744	n/a
 76.15416666666667	0.0	resp	3	91385	n/a
-79.62	0.0	video on	5	95544	v_Spread mulch_id_JOUW7CUuohM_start_35.0_label_1
+79.62	0.0	video on	5	95544	n/a
 81.61916666666667	0.0	video off	4	97943	n/a
 82.02583333333334	0.0	resp	3	98431	n/a
 82.61916666666667	0.0	video on	5	99143	v_Paintball_id_mLmfNAkr0UQ_start_37.5_label_1
